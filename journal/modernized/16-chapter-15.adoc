@@ -427,7 +427,6 @@ John Barclay
 [.letter-heading]
 To an Unknown Recipient
 
-
 [.signed-section-context-open]
 Tunbridge Wells, 16th of Ninth month, 1837.
 

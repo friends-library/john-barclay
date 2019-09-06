@@ -5,6 +5,9 @@
 which he had diligently taken in hand as a duty ever since the year 1817,
 also collecting and copying letters of Friends,--he says:]
 
+[.embedded-content-document.letter]
+--
+
 If these labours of love for the cause`' sake should ever come to much,
 or be made of extended utility,--if they be rightly carried forward
 and introduced to public view,--I trust I shall rejoice,
@@ -17,7 +20,13 @@ who knows the several abilities of his workmen,
 and portions out their duty according to their day and strength:--He knows how
 comparatively short and small mine are;--yet He with holds not the penny.
 
+--
+
+[.offset]
 +++[+++And in another letter on the same subject, he says:]
+
+[.embedded-content-document.letter]
+--
 
 My powers are very weak and small, I think,
 in comparison to those of almost any one else, also shattered,
@@ -28,6 +37,8 @@ I have had nothing in view in this work but the great cause, and have sometimes 
 I should leave it as a legacy among Friends; but it is as my Master wills to this day,
 as it was when I set a hand to it.
 If He please to take me from it, or it from me, it is well.
+
+--
 
 1820, First Month 19th.--I have had from one season to another, up to the present time,
 many teaching intimations and timely warnings, from within and from without,
@@ -108,8 +119,13 @@ which our blessed Saviour, thy beloved Son,
 promised he would give unto those who come unto Him and keep with Him.
 Amen.
 
+[.offset]
 +++[+++In a letter to a Friend, dated from Pool, 3rd of Sixth Month, 1820, he writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend
 
 I may say that I have never considered it my place to maintain that station in the world,
@@ -146,12 +162,21 @@ and a long course of humbling exercises,
 and such as some of my sympathizing friends have
 been remarkably made sensible of from time to time.
 
+[.signed-section-closing]
 With much affection, I am thy Friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Poole, 24th of Sixth Month, 1820.
 
 O! it is a sweet thing to get into calmness,--to that spot where all our cares, fears,
@@ -191,6 +216,9 @@ and as faithfulness is abode in and watch fulness with patience,
 who can doubt that the issue of all our movements will through holy help,
 be for the honour, and tend to the promotion of the great cause?
 
+--
+
+[.offset]
 +++[+++In the Tenth Month of this year, he was married to Georgina Hill,
 daughter of Major Hill, of Kingsbridge,
 Devonshire:--she had joined the Society by convincement.]
@@ -229,11 +257,16 @@ and oftener than the day lifting up the heart to Him.
 Earthly blessings should not so occupy the mind,
 as to draw from the due attention to higher duties and more lasting pleasures.
 
+[.offset]
 +++[+++To a much valued friend, he wrote]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Penzance, 13th of Third Month, 1821.
 
---Often have I thought on thee and thy endearing friendship,
+&hellip;Often have I thought on thee and thy endearing friendship,
 as commenced in days that are past, and strengthened in hours that are over and gone,
 though not soon to be erased;
 for to those winter-evening opportunities of comfort
@@ -272,9 +305,13 @@ to cheer and to animate to constancy and endurance.
 O! the extent of that labour and daily exercise,
 which I feel needful for myself to be found in, lest my soul lose its hold!
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1821, Fourth Month 20th.--Quarterly Meeting at Exeter.
 O! that my soul may be moved effectually and permanently,
@@ -312,8 +349,13 @@ past all mention!
 The Lord will yet help and redeem my poor spirit, if I earnestly look unto Him always.
 I was dealt with in mercy this day, both publicly and privately.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Samuel Alexander, of Needham.
 
+[.signed-section-context-open]
 Cheltenham, 1Sth Seventh Month, 1822.
 
 We have had an account of the decease of our beloved and valued Friend,
@@ -345,8 +387,15 @@ which is not enough (I fear) regarded and remembered.
 Watchfulness unto that which is good, seems to me the great thing in the work:
 I am sensible we can thus only walk worthy of our vocation, and privileges.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Penzance, Ninth Month, 1822.
 
 My beloved partner`'s present state is comparatively very free from suffering,
@@ -363,6 +412,8 @@ and partaking at times of the brook by the way,--blessed be the great Name,
 the Giver of life, and of all our many blessings!
 We seem remarkably resigned and prepared for whatever may be meted out;
 though we have our trials, and besetments, and infirmities.
+
+--
 
 On the 23rd of Sixth Month, 1823,
 my dearly beloved partner passed away to her blessed
@@ -434,10 +485,16 @@ O! that all may be faithful to him!
 He is wonderful in his dealings to the children of men,
 not only by what are called his providences, but also by his grace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. J.
 
+[.signed-section-context-open]
 Marazion, 15th of Eighth Month, 1823.
 
+[.salutation]
 My Dear Friend,
 
 As a proof that I think of thee, as of many, other beloved Friends often,
@@ -512,6 +569,8 @@ strengthening to our day`'s work both of duty and of trial;
 O! I would not give up the sense I sometimes have of this, for any thing on earth;
 this is that which makes life and all things therein sweet to me, at a time,
 when otherwise all is indeed but vanity.
+
+--
 
 1823, Ninth Month 18th.--The sweet incomes of Divine love tome this day,
 were such as made me very contemplative, so as unusually to absorb my mind,
@@ -632,10 +691,16 @@ Blessed be the Lord, who can raise out of the dust!
 that our Society, in some respects, has attained a standing beyond most:
 obedience is indeed, a striking feature in the Christian dispensation.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Marazion, 11th of Second Month, 1824.
 
+[.salutation]
 Dear +++_______+++,
 
 I have heard scarce a word respecting thee for a long time,
@@ -699,11 +764,13 @@ or only admonitory, they have the effect`' of quickening me in the duties of lif
 and of increasing my true enjoyment therein.--"`Work,
 while it is day;`" for "`this is not your rest.`"
 
-Believe me, with warmth of affection,
+[.signed-section-closing]
+Believe me, with warmth of affection, thy friend,
 
-Thy friend,
-
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1824, Third Month 22nd.--I desire, when the hour of my departure draws nigh,
 to be clothed with faith towards God,
@@ -750,10 +817,16 @@ and those that come after me will find, to their unspeakable support and consola
 that the same Divine Being is rich toward all that call upon him: if faithful,
 "`this God will be their God forever and ever; he will be their guide even unto death.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Russell Square, 21st of Sixth Month, 1824.
 
+[.salutation]
 My dear Friend,
 
 It is pleasant to salute thee thus, and to remember thee from time to time,
@@ -770,6 +843,8 @@ and although in this visit to London,
 I may have been deprived of many seasons and showers of Divine good,
 there has been no want of the care and safe guidance of that invisible hand of Him,
 whose visitations uphold or preserve the spirit, and whose comforts delight the soul.
+
+--
 
 1824,
 Seventh Month 16th.--So far recovered (from illness in London)

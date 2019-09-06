@@ -5,6 +5,9 @@
 which he had diligently taken in hand as a duty ever since the year 1817,
 also collecting and copying letters of Friends,--he says:]
 
+[.embedded-content-document.letter]
+--
+
 If these labours of love for the cause`' sake should ever come to much,
 or be made of extended utility,--if they be rightly carried forward
 and introduced to public view,--I trust I shall rejoice,
@@ -17,7 +20,13 @@ who knows the several abilities of his workmen,
 and portions out their duty according to their day and strength:--He knows how
 comparatively short and small mine are;--yet He with holds not the penny.
 
+--
+
+[.offset]
 +++[+++And in another letter on the same subject, he says:]
+
+[.embedded-content-document.letter]
+--
 
 My powers are very weak and small, I think, in comparison to those of almost anyone else,
 also shattered, and partaking of my feeble frame of body:
@@ -27,6 +36,8 @@ I have had nothing in view in this work but the great cause, and have sometimes 
 I should leave it as a legacy among Friends; but it is as my Master wills to this day,
 as it was when I set a hand to it.
 If He please to take me from it, or it from me, it is well.
+
+--
 
 1820, First Month 19th.--I have had from one season to another, up to the present time,
 many teaching intimations and timely warnings, from within and from without,
@@ -62,10 +73,10 @@ of my time in true filial fear and faithfulness.
 Fourth Month 15th.--Surely my soul can praise and bless your holy name at this time,
 O Lord Almighty! who are just and faithful,
 and true to one of the least of the poor of your flock;
-O! you are the compassionate Friend of those who
+Oh, you are the compassionate Friend of those who
 are prevailed upon to surrender up all unto you,
 to commit all into your care and keeping.
-O! Shepherd of Israel, what can I render unto you for all your benefits and sure mercies,
+Oh, Shepherd of Israel, what can I render unto you for all your benefits and sure mercies,
 which are new every morning?
 How shall I exalt and extol your goodness, your tenderness,
 your long-suffering compassion, manifested renewedly towards your unworthy servant?
@@ -73,11 +84,11 @@ Words cannot celebrate your wonderful bounty;
 but the hearts of those that are concerned to yield themselves unto you,
 can sing unto you of mercy, and of judgment, and of truth, eternal,
 glorious and unspeakable.
-O! all-wise and Almighty one, bring to pass whatever is for your glory, your honour,
+Oh, all-wise and Almighty one, bring to pass whatever is for your glory, your honour,
 your majesty; and overrule the rest.
 Limit the rage and roaring of the enemy, who still seeks to devour your seed,
 and to cut up your people.
-O! preserve your poor dependent ones,
+Oh, preserve your poor dependent ones,
 wherever or however gathered or scattered all the world over,
 within the holy and sure enclosure of the hollow of your hand, from this time forth,
 even to the end of all things here below:--still stretch out the arm of
@@ -107,8 +118,13 @@ which our blessed Saviour, your beloved Son,
 promised he would give unto those who come unto Him and keep with Him.
 Amen.
 
+[.offset]
 +++[+++In a letter to a Friend, dated from Pool, 3rd of Sixth Month, 1820, he writes:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend
 
 I may say that I have never considered it my place to maintain that station in the world,
@@ -145,15 +161,24 @@ and a long course of humbling exercises,
 and such as some of my sympathizing friends have
 been remarkably made sensible of from time to time.
 
+[.signed-section-closing]
 With much affection, I am your Friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Poole, 24th of Sixth Month, 1820.
 
-O! it is a sweet thing to get into calmness,--to that spot where all our cares, fears,
+Oh, it is a sweet thing to get into calmness,--to that spot where all our cares, fears,
 and doubts are swallowed up.--It is that which our sickened souls often need as a cordial,
 to revive and to recover us from the nausea of this world`'s joys and cares.
 I often feel full`" occasion to press after a further purification,
@@ -180,7 +205,7 @@ especially as to the propriety of my not entering into business,
 a subject which used to harass me much; fearing sometimes, that by this conclusion,
 I had given occasion for the cause to be evil spoken of,
 and the testimony of Truth to be let down.
-O! the path is very narrow in many respects, which I have to tread in,
+Oh, the path is very narrow in many respects, which I have to tread in,
 I have had glimpses of it for several years; "`the pride of life`" must be laid low,
 however mortifying to the poor creature, as well as to those, whose eyes are outward.
 You see how much occasion there is for the help, the secret help,
@@ -190,6 +215,9 @@ and as faithfulness is abode in and watch fulness with patience,
 who can doubt that the issue of all our movements will through holy help,
 be for the honour, and tend to the promotion of the great cause?
 
+--
+
+[.offset]
 +++[+++In the Tenth Month of this year, he was married to Georgina Hill,
 daughter of Major Hill, of Kingsbridge,
 Devonshire:--she had joined the Society by convincement.]
@@ -201,7 +229,7 @@ I longed exceedingly to become more fit to enter the celestial country:
 but seemed to myself to have come short of such a state.
 I have of late seen myself to have been very unwatchful;
 my zeal for God and devotedness to His cause, very greatly decayed.
-O! how often have my prayers been put up in sincerity to the Father of mercies,
+Oh, how often have my prayers been put up in sincerity to the Father of mercies,
 for His continued goodness to such an unworthy creature,
 and for His help against my potent enemy.
 But it seems as though all was to little or no purpose,
@@ -210,7 +238,7 @@ This is surely for lack of more steady adherence
 to what is from time to time seen to be right,
 and required of me.
 Thus has weakness crept over me, and great declensions in several respects.
-O! how have my idol and my earthly outward delights run away with my heart and affection,
+Oh, how have my idol and my earthly outward delights run away with my heart and affection,
 so that I forget or omit to lift up my soul as I ought to do,
 with fervency and frequency of application to the Lord, my Redeemer,
 who daily loads me with benefits.
@@ -228,11 +256,16 @@ and oftener than the day lifting up the heart to Him.
 Earthly blessings should not so occupy the mind,
 as to draw from the due attention to higher duties and more lasting pleasures.
 
+[.offset]
 +++[+++To a much valued friend, he wrote]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Penzance, 13th of Third Month, 1821.
 
---Often have I thought on you and your endearing friendship,
+&hellip;Often have I thought on you and your endearing friendship,
 as commenced in days that are past, and strengthened in hours that are over and gone,
 though not soon to be erased;
 for to those winter-evening opportunities of comfort
@@ -263,24 +296,28 @@ is my earnest desire, amidst a deep consciousness of much to deplore,
 as regards need of more steady adherence thereto.
 
 I hear you are richly visited in the ministerial capacity.
-O! it is easy work to love them and their testimony from the very heart,
+Oh, it is easy work to love them and their testimony from the very heart,
 and to be attracted by the sweet influence of that which they live in;
 but it is hard to labour in the desert for food and raiment,
 and to have no intermediate helping-hand,
 to cheer and to animate to constancy and endurance.
-O! the extent of that labour and daily exercise,
+Oh, the extent of that labour and daily exercise,
 which I feel needful for myself to be found in, lest my soul lose its hold!
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
 1821, Fourth Month 20th.--Quarterly Meeting at Exeter.
-O! that my soul may be moved effectually and permanently,
+Oh, that my soul may be moved effectually and permanently,
 to strive for further liberation from the borders and boundaries of sin;
 when shall I have a conscience void of offence toward my good Lord,
 who daily heaps favours upon me!
-Paid a sweet and solemn visit at J. D.`'s. O! that I may
+Paid a sweet and solemn visit at J. D.`'s. Oh, that I may
 walk worthy of these renewed seasons of mercy and favour;
 may I double my diligence, fight the good fight of faith,
 and strive earnestly for the hope of the Gospel,
@@ -290,7 +327,7 @@ while it is held out in unmerited goodness to me, a poor backslider.
 Blessed be the Lord who has preserved my soul and body through
 many tribulations and temptations and dangers,
 since I was last here.
-O! my hardness of heart, not to be overcome by his abundant long-suffering and kindness,
+Oh, my hardness of heart, not to be overcome by his abundant long-suffering and kindness,
 and constrained to fall in with his designs respecting me,
 which most assuredly are full of tenderness.
 
@@ -301,7 +338,7 @@ At one time she seemed brought near to the gates of death; but she was not taken
 though I fear, I deserved it.
 The Lord omnipotent preserve us in faith and patience,
 and content under all the provings He is pleased to permit.
-O! how much have we to be thankful for!
+Oh, how much have we to be thankful for!
 What great cause to live unto Him, who has thus spared the rod in pity, and heard our cry.
 Many vicissitudes my poor soul has had; His dispensations towards me have been wonderful,
 past all mention!
@@ -310,8 +347,13 @@ past all mention!
 The Lord will yet help and redeem my poor spirit, if I earnestly look unto Him always.
 I was dealt with in mercy this day, both publicly and privately.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Samuel Alexander, of Needham.
 
+[.signed-section-context-open]
 Cheltenham, 1Sth Seventh Month, 1822.
 
 We have had an account of the decease of our beloved and valued Friend,
@@ -331,7 +373,7 @@ and that may be the best use of my writing to you, my dear, valued,
 and now ancient friend and brother, who have so often helped me to think of these things;
 and who, I fully trust and believe, are looking for,
 and desiring at times the winding up of all things, that are transitory and perishable.
-O! that we who are young, may so tread in the footsteps of the path of the just,
+Oh, that we who are young, may so tread in the footsteps of the path of the just,
 that we may be prepared to fill up the vacated seats in the militant church,
 of those who are gone before, and who have filled up their measure of enduring.
 
@@ -343,8 +385,15 @@ which is not enough (I fear) regarded and remembered.
 Watchfulness unto that which is good, seems to me the great thing in the work:
 I am sensible we can thus only walk worthy of our vocation, and privileges.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Penzance, Ninth Month, 1822.
 
 My beloved partner`'s present state is comparatively very free from suffering,
@@ -362,6 +411,8 @@ the Giver of life, and of all our many blessings!
 We seem remarkably resigned and prepared for whatever may be meted out;
 though we have our trials, and besetments, and infirmities.
 
+--
+
 On the 23rd of Sixth Month, 1823,
 my dearly beloved partner passed away to her blessed
 eternal rest in the Lord Jesus Christ,
@@ -371,8 +422,8 @@ On the 29th, the poor body was committed to the earth, to return to the dust as 
 and her remains were interred in Friends`' burying ground,
 at that place.) At the grave`'s mouth, I was strengthened to utter these words in public,
 on bended knees:--"`Blessing, glory, honour, thanksgiving, and praise, be given unto you,
-O! Father of mercies, and God of all consolation! both for that you have given,
-and for that you have taken into your resting place; Amen, O! Father,
+Oh, Father of mercies, and God of all consolation! both for that you have given,
+and for that you have taken into your resting place; Amen, Oh, Father,
 for so it seemed good in your sight:--your holy will be done!`"
 The Lord did marvellously regard and strengthen me: He will be my guide and refuge,
 even to the end; surely he will, says my soul.
@@ -382,7 +433,7 @@ He is my portion, even forever!
 
 16th of Eighth Month, 1823.--I resume this little book after a long interval,
 and one marked, as perhaps no other part of my life has hitherto been.
-O! mighty is the Lord,
+Oh, mighty is the Lord,
 and able to sustain;--able also to finish his own glorious work in us,
 either by allowing us a longer continuance here, or by taking us away to himself.
 The Lord be praised for all!--even in that dispensation
@@ -393,14 +444,14 @@ and this world or earth is his footstool,--a place He has
 glorified by his presence from age to age,--a place where,
 at all times, and in all the parts of it, we may see traces of his goodness to poor man,
 and tokens of what he will do in a better place for those that love and serve him.
-Come then, O! my soul, take your blessed privilege on this earth,
+Come then, Oh, my soul, take your blessed privilege on this earth,
 and serve him with a joyful cheerful heart; for He reigns over all,
 and nothing happens but by his gracious providence.
 
 All is limited, even the evil one;
 and all trials and troubles are restrained by his permission,
 and converted to the good of his chosen ones, his children.
-O! He has taken my dear companion into the rest he had prepared for her;
+Oh, He has taken my dear companion into the rest he had prepared for her;
 I can bless his name, for I believe he will never leave me,
 until he has consummated his glorious purpose and promise,
 in my heavenly translation to eternal joy and peace unspeakable.
@@ -427,14 +478,20 @@ had effected a willingness to go or to stay,
 as He wills, who is the God of my life, and who can and does make life sweet;
 and who will also take away the bitterness of death itself,
 and no doubt will make up all, to those that remain, as he has done to me.
-O! that all may be faithful to him!
+Oh, that all may be faithful to him!
 He is wonderful in his dealings to the children of men,
 not only by what are called his providences, but also by his grace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. J.
 
+[.signed-section-context-open]
 Marazion, 15th of Eighth Month, 1823.
 
+[.salutation]
 My Dear Friend,
 
 As a proof that I think of you, as of many, other beloved Friends often,
@@ -444,7 +501,7 @@ and wonderfully encouraged and confirmed as to the ground of it;
 also fully believing that our progress in the heavenly way,
 will not be allowed to be much impeded by any of those things
 which are permitted to try and discourage us.
-O! the ancient, mighty Hand of goodness is not shortened, is not withheld,
+Oh, the ancient, mighty Hand of goodness is not shortened, is not withheld,
 in its gracious dealings and dispensations towards us;
 but is able to lift us above all the obstructions which may dismay,--is
 able to save to the uttermost,--can give the oil of joy for mourning,
@@ -485,11 +542,11 @@ a letter seems to afford but little space for it.
 It is not however best for me to go into any of the circumstances of the closing scene,
 except to say, that I know not any thing that then transpired,
 but what seemed in my view, evidently ordered for good.
-O! I felt that which I never could have supposed myself capable of feeling,
+Oh, I felt that which I never could have supposed myself capable of feeling,
 or fit to partake of,--so helped outwardly and inwardly,
 so equal to all emergencies and all duties,--directed in everything,
 as if no further token of Divine regard could be lacking.
-And O! how peaceful was the close, how clear and sensible was she to the last; though,
+And Oh, how peaceful was the close, how clear and sensible was she to the last; though,
 dear soul, she had not many hours`' notice of her release,
 nor had she any thing to spare in the awful time,
 yet her expressions were all that could be wished.
@@ -506,9 +563,11 @@ and I fear my broken way of expression is almost unintelligible.
 
 How precious a thing it is, to feel the blessing of Divine regard extended towards us,
 strengthening to our day`'s work both of duty and of trial;
-O! I would not give up the sense I sometimes have of this, for any thing on earth;
+Oh, I would not give up the sense I sometimes have of this, for any thing on earth;
 this is that which makes life and all things therein sweet to me, at a time,
 when otherwise all is indeed but vanity.
+
+--
 
 1823, Ninth Month 18th.--The sweet incomes of Divine love tome this day,
 were such as made me very contemplative, so as unusually to absorb my mind,
@@ -517,7 +576,7 @@ I betook myself to a retired walk on the sea-shore,
 to enjoy the goodness of the Lord more quietly: the outward beauty of the creation,
 and the calmness and harmony of all things around,
 seemed in sweet unison with the state of my soul.
-O! how I longed to be fully prepared for,
+Oh, how I longed to be fully prepared for,
 and wholly made partaker of the joys of the blessed,--of them who live to the Lord,
 and die in the Lord!
 I have a hope that I am journeying forward to this state.
@@ -564,12 +623,12 @@ I was sensible of the evident call and requiring of the Lord to utter a few word
 in addition to what dropped from others, to the young people present,
 on this wise;--and then you will find fulfilled in your own experience this language,
 as it has abundantly been in mine;--"`Though I walk in the midst of trouble,
-you will revive me; though I walk in darkness, You, O! Lord,
+you will revive me; though I walk in darkness, You, Oh, Lord,
 will be a light unto me;--though I pass through the valley of the shadow of death,
 I will fear no evil.`"
 The weight and sweetness that dwelt on my mind, after this surrender,
-cannot be set forth: O! how it rested on my spirit all the day, in an unutterable manner;
-I felt so comfortable, and at ease in my mind; O! it was a heavenly feeling,
+cannot be set forth: Oh, how it rested on my spirit all the day, in an unutterable manner;
+I felt so comfortable, and at ease in my mind; Oh, it was a heavenly feeling,
 and nothing short of Him who is in heaven, could give it!
 At Wadebridge, in the public meeting, I had to speak to the people,
 and in a way remarkable to myself, for I felt at home in it, if I may so express myself.
@@ -610,7 +669,7 @@ and the evidence and motions will often increase after the will is resigned.
 Wonderful is the Lord`'s goodness to me from time to time, beyond words!
 He fills me "`with the finest of the wheat;`" and
 he reveals unto me "`the abundance of peace and truth.`"
-O! how precious a season was our Quarterly Meeting (14th of First Month,
+Oh, how precious a season was our Quarterly Meeting (14th of First Month,
 1824,) held at Austle.
 Is there any thing too hard for the Lord?
 "`Call unto me, and I will answer you, and show you great and mighty things,
@@ -629,10 +688,16 @@ Blessed be the Lord, who can raise out of the dust!
 that our Society, in some respects, has attained a standing beyond most:
 obedience is indeed, a striking feature in the Christian dispensation.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Marazion, 11th of Second Month, 1824.
 
+[.salutation]
 Dear +++_______+++,
 
 I have heard scarce a word respecting you for a long time,
@@ -694,11 +759,13 @@ or only admonitory, they have the effect`' of quickening me in the duties of lif
 and of increasing my true enjoyment therein.--"`Work,
 while it is day;`" for "`this is not your rest.`"
 
-Believe me, with warmth of affection,
+[.signed-section-closing]
+Believe me, with warmth of affection, your friend,
 
-Your friend,
-
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1824, Third Month 22nd.--I desire, when the hour of my departure draws nigh,
 to be clothed with faith towards God,
@@ -718,7 +785,7 @@ to show me how to pass through the dark valley,
 she fulfilled the Divine will in a wonderful degree, as I believe,
 by setting me an excellent example through Him who strengthened her,
 and who bore up her afflicted spirit through all that was permitted to assail.
-O! it is often wonderful to me, to think how suddenly at the last,
+Oh, it is often wonderful to me, to think how suddenly at the last,
 she was summoned to take her leave of all that was near and dear in this life,
 and how this was accomplished; so that there seemed no agitation or disquietude,
 but a holy magnanimity, a deep and solemn reflecting on her condition,
@@ -745,10 +812,16 @@ and those that come after me will find, to their unspeakable support and consola
 that the same Divine Being is rich toward all that call upon him: if faithful,
 "`this God will be their God forever and ever; he will be their guide even unto death.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Russell Square, 21st of Sixth Month, 1824.
 
+[.salutation]
 My dear Friend,
 
 It is pleasant to salute you thus, and to remember you from time to time,
@@ -766,6 +839,8 @@ I may have been deprived of many seasons and showers of Divine good,
 there has been no lack of the care and safe guidance of that invisible hand of Him,
 whose visitations uphold or preserve the spirit, and whose comforts delight the soul.
 
+--
+
 1824,
 Seventh Month 16th.--So far recovered (from illness in London)
 as to go to C+++______+++. The Lord Almighty was eminently near me,
@@ -779,7 +854,7 @@ Much have I thought in my distresses of that sweet answer of my dear partner,
 which she quickly and smilingly gave me, when in great depression,
 observing a sparrow on the house-top, opposite to her window, I said,
 "`Like a sparrow alone on the house-top;`" she replied,--"`Not one of them forgotten
-before God:`" O! I find it so to my unspeakable consolation in low seasons.
+before God:`" Oh, I find it so to my unspeakable consolation in low seasons.
 And I think, since my trials and bereavement,
 that more of the consolations of Christ are poured into my soul,
 than used to be the case.
@@ -791,9 +866,9 @@ May the Lord have the honour and praise, not only now, but forevermore!
 What a change from my sick room and sofa and the smoky city,
 to the extensive prospects on the Downs, and the richness of nature`'s verdure.
 Was engaged in conversation with +++_______+++: I feel an interest in young invalids.
-O! that the ends of providence may be answered in them, and in me also;
+Oh, that the ends of providence may be answered in them, and in me also;
 then all will be well.
-O! these light afflictions;--what; a moment do they last,
+Oh, these light afflictions;--what; a moment do they last,
 when compared with the rich eternal recompense,
 reserved for those that commit the keeping of their
 souls in patient well-doing unto a faithful Creator.
@@ -810,7 +885,7 @@ as he had been to my beloved partner.
 
 1824, Seventh Month 25th.--First day.
 Went to Gracechurch Street meeting, and had my mouth opened by the Lord.
-O! the peace--the rich flow of it in my bosom, at dear P. B.`'s, after dinner;
+Oh, the peace--the rich flow of it in my bosom, at dear P. B.`'s, after dinner;
 the Lord was with me:
 melting sweetness came over me in again giving up to express these and other words,
 "`This God is our God forever and ever; he will be our guide even unto death.`"

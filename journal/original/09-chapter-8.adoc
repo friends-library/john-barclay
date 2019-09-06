@@ -9,10 +9,16 @@ might not take the place of a true spiritual nurture in the Lord,
 and an inward growth in grace.
 On this subject he expressed himself as follows, in a letter to a Friend:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to R. B.
 
+[.signed-section-context-open]
 Fifth Month 1st, 1818.
 
+[.salutation]
 Dear R.,
 
 Bear with me, who am but a younger brother, if in a little of that love,
@@ -153,11 +159,19 @@ as since I have been under this discipline of the cross to all selfish wisdom.
 O! the sweetness of being under the tuition of Him,
 who verily teacheth as never man taught.
 
+[.signed-section-closing]
 I am, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to another Friend upon the same subject, he writes:]
+
+[.embedded-content-document.letter]
+--
 
 As to religious instruction, it consists, if I mistake not,
 in bringing up children in that nurture and admonition which is of the Lord,
@@ -223,9 +237,13 @@ all are to be taught of Him,--all are to know him from the least to the greatest
 and here is a building up in the true faith, of which the Lord, not man,
 is the author and the finisher.
 
+[.signed-section-closing]
 Thy affectionate Friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1818, Tenth Month 11th.--I have of late put but little to paper by way of remark,
 as to the state of my mind, not having felt much freedom this way;
@@ -297,8 +315,13 @@ power being about me for my preservation on every hand,
 I may boldly say with the Psalmist,--"`Though an host should encamp against me,
 mine heart shall not fear,`" the Lord being "`my light and my salvation.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Twelfth Month 21st, 1818.
 
 I have often thought +++_______+++ to be,
@@ -376,6 +399,8 @@ guide and go before, in this gospel day, and that is to lead;
 and when it stops we are to stop and stand still, and when it goes forward,
 we are to move with it and in it, as Israelites indeed.
 
+--
+
 1818, Twelfth Month 27th.--At this time it lay upon me to set up my Ebenezer,
 as decidedly as this perishable method with paper and ink,
 and this feeble representation by words,
@@ -452,8 +477,13 @@ as long as they were humble?
 Why did Paul come among those of Corinth "`not with excellency of speech or of wisdom?
 "`surely on this ground, would he have gained more converts to the Truth in that place?
 
-+++[+++To a person under convincement of our religious principles.]
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To a person under convincement of our religious principles.
+
+[.signed-section-context-open]
 25th First Month, 1819.
 
 When the Master sent forth his chosen ones to do
@@ -666,7 +696,10 @@ Farewell; keep to the Truth, and it will keep thee.
 Remember, "`He that dwelleth in the secret place of the Most High,
 shall abide under the shadow of the Almighty.`"
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1819, First Month 29th.--This may I say, and leave upon record,
 that though many almost indescribable temptations and presentations

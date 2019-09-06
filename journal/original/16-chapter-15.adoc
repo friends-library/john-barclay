@@ -5,10 +5,16 @@ with benefit to his general health.
 Whilst at Brighton in the Eleventh Month, under an apprehension of religious duty,
 he addressed his Monthly Meeting as follows:]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Gracechurch Street Monthly Meeting of Friends.
 
+[.signed-section-context-open]
 Brighton, 9th of Eleventh Month, 1836.
 
+[.salutation]
 Dear Friends,
 
 In the love of our heavenly Father,
@@ -34,7 +40,10 @@ Desiring we may all be kept patiently and diligently
 attentive to the voice of the true and tender Shepherd,
 I bid you affectionately farewell.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 +++[+++In the Twelfth Month,
 he returned to his Monthly Meeting the certificate granted for the above service;
@@ -46,8 +55,13 @@ calculated to excite much sympathy on the part of his friends of that place;
 he entered house after house, supported by his crutches,
 and it is believed his visits were peculiarly acceptable generally.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 3rd of Twelfth Month, 1836.
 
 Ah! dear +++_______+++, as thou well knowest, home is home,
@@ -67,10 +81,18 @@ loss of wife or children, or dearest friends, or house, or food.
 This is our calling,--this is our privilege;
 and O! that we may hold it up to others as such, both in life and in death!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 24th of Twelfth Month, 1836
 
 Rely upon it, my dear +++_______+++, these associates of thine, whoever they be,
@@ -232,10 +254,18 @@ to deliver us from temptation, to aid our drooping resolutions,
 and quicken our souls to run with patience the race set before us,
 and to hold out to the end in well doing.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 6th of Second Month, 1837.
 
 When the will is slain,--when we can say,
@@ -279,10 +309,18 @@ through all baptisms, to be instrumental in our day, in ever so little a way or 
 to bring about the period, when the salvation of Zion shall go forth,
 as a lamp that burneth!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month, 1837.
 
 Time rolls on, and manifests things and persons apace.
@@ -304,13 +342,21 @@ as we have ever received it from the beginning;
 and may we be perfectly knit and united together in the same mind and in the same judgment;
 even though we be left as a little remnant, and as spectacles to the world.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 31st of Third Month, 1837
 
---How many and awful have been the warnings and the tender chastenings
+&hellip;How many and awful have been the warnings and the tender chastenings
 of the all-wise hand of Divine Providence of later times;
 all (I sometimes think) concurring with, and bearing upon,
 and bespeaking somewhat in relation to the spiritual
@@ -362,10 +408,18 @@ at the tribulated state of the church,
 stripped of many a son and daughter--promising and once thriving branches,
 but now withering and corrupt, more or less dying and dead, yea, twice dead!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Tunbridge Wells, 16th of Ninth Month, 1837.
 
 May you be strengthened and animated from time to time,
@@ -400,12 +454,21 @@ that they might keep a conscience void of offence, and be clear of the blood of 
 I hope (if life be spared, and strength given,) to handsome, yea,
 many of these for the perusal of such as can receive and profit by them.
 
+[.signed-section-signature]
 J+++.+++ B.
 
-From John Barclay to John Wilbur
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+John Barclay to John Wilbur
+
+[.signed-section-context-open]
 Hastings, in Sussex, 8th mo., 1837.
 
+[.salutation]
 My very near, though far distant friend, John Wilbur,
 
 Thou hast been often, yea, very often, brought into sweet and precious remembrance;
@@ -467,12 +530,12 @@ I undertook it because it seemed as if he could trust but few if any;
 but it is a great job, and, in my feeble state, Friends must still have patience with me,
 for it is not yet gone to press.
 My line is more in reviving the ancient writings of early Friends.
-Thou hast doubtless seen Dewsbury`'s Life;
-I am now nearly ready with Joseph Pike`'s Journal, an elder of Cork,
+Thou hast doubtless seen [.book-title]#Dewsbury`'s Life#;
+I am now nearly ready with [.book-title]#Joseph Pike`'s Journal#, an elder of Cork,
 who was contemporary with William Edmundson,--also Joseph Oxley`'s Journal,
 who travelled to your land about 1770.
 I intend producing, if my life be spared and ability extended,
-"`Letters of early Friends,`" having had access to large collections.
+[.book-title]#Letters of early Friends#, having had access to large collections.
 It will develope, in plain, strong colors,
 the standing and movements of our worthy predecessors, and what spirit they were of.
 So that, though often laid by, and much prevented from travelling or exposure,
@@ -543,12 +606,21 @@ Fare thee well,
 beloved friend I and may the Lord Jesus stand by thee in all thy exercises,
 and bring thee through them, to his own praise and thy rejoicing.
 
+[.signed-section-signature]
 John Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 27th of Eleventh Month, 1837.
 
+[.salutation]
 My beloved Friend,
 
 My poor and often tribulated spirit does salute thine, even as deep answers to deep;
@@ -583,13 +655,21 @@ and find out all his enemies,
 and pursue and overtake them in all their retreats
 in the precincts of and back ways to Babylon.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 29th of Eleventh Month, 1837.
 
---I may truly and sincerely say, that we participated in a sense of the loss,
+&hellip;I may truly and sincerely say, that we participated in a sense of the loss,
 which many (doubtless) even among the more distant connections and friends of the deceased,
 feel they have sustained.
 Do I say loss, do I speak of deprivation,
@@ -611,12 +691,21 @@ we may be assured of the fulfilment of his gracious
 promise of the hundredfold even in this life,
 besides the heavenly inheritance.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of Another Profession and a Zealous Minister.
 
+[.signed-section-context-open]
 26th of First Month, 1838.
 
+[.salutation]
 My dear Friend,
 
 It is time I acknowledged thy favour of the 21st ult., which has not been lost upon me.
@@ -698,6 +787,10 @@ has free course.
 Farewell! the Lord be between us, and with us, henceforth and forever.
 With Christian love to thee and thy wife, and sister.
 
+[.signed-section-closing]
 I remain thy friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--

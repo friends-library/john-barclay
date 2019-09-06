@@ -1,9 +1,15 @@
 == Chapter XIV.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to C. P. A.
 
+[.signed-section-context-open]
 Croydon, Tenth Month, 1834.
 
+[.salutation]
 My beloved Friends,
 
 I am ready to believe you would not attribute my silence to neglect or want of feeling,
@@ -40,10 +46,17 @@ or as regards our precious fellowship and unity in that which is unchangeable,
 or as to the state of the church or the world;
 but may we continue in faith and patience to the end.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to another friend about the same date, alluding to his late journey,
 he says;]
+
+[.embedded-content-document.letter]
+--
 
 Though the humiliations have been frequent and great,
 a sense of preserving help has never been withheld in the needful measure,
@@ -57,11 +70,18 @@ amidst all exercises and tribulations, such will grow.
 May we ever be counted worthy of taking our lot among this number,
 drinking into one Spirit.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 16th of Twelfth Month, 1834.
 
---Unless we have forfeited our privileges as Christians,
+&hellip;Unless we have forfeited our privileges as Christians,
 and are utterly lost to all right feeling of Divine help, is it not natural and likely,
 and consistent with the provisions of Divine wisdom, that as our day is,
 so should our strength be.
@@ -89,8 +109,15 @@ And in the present low and trying state of things, it is not to be wondered at,
 that oppression and obstruction are permitted to be felt,
 to the bowing down of the very souls of some!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Croydon, 5th of First Month, 1835.
 
 Thy communication of the 6th ult.
@@ -176,13 +203,21 @@ or by love of other things: but these are concerned to lie low before the Lord,
 and to be crucified with Christ; that so they may say in truth, "`I live, yet not I,
 but Christ liveth "`and moveth and reigneth "`in me.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 12th of First Month, 1835.
 
---I understood +++_______+++ to say, that she believed,
+&hellip;I understood +++_______+++ to say, that she believed,
 from the extensive opportunities she had had of judging
 among all kinds of churches and professions,
 that the enemy was busily at work to scatter and divide; and that, therefore,
@@ -221,10 +256,18 @@ whereas the way of the Truth is a plain way, so that the wayfaring man, though a
 is not to err therein; that is, as he looks to the Lord alone,
 and does not lean to his own understanding.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 8th of Second Month, 1835.
 
 May the blessing of heaven above and of the earth beneath attend
@@ -251,10 +294,18 @@ which our dear Lord and Saviour purchased for us by his coming and by his death;
 then shall we be Christians indeed; and when our little moment of probation is over,
 then the eternal weight of unmingled joy and glory shall follow!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Thomas E+++_______+++.
 
+[.signed-section-context-open]
 Croydon, Sixth Month, 1835.
 
 No sooner was my eye opened to see the excellency there is in the Truth,
@@ -332,9 +383,13 @@ whenever thou hast occasion or liberty to address me: and sometimes, at least,
 think of me as one that longs to endure to the end, to hold fast faith and patience,
 till the Lord say, it is enough.
 
+[.signed-section-closing]
 I remain a poor and weak brother,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 +++[+++In the Third Month of this year he became very ill with a severe attack of influenza,
 and was reduced to such a feeble state of health,
@@ -353,6 +408,9 @@ that he could be removed home.
 During this afflicting dispensation, whilst laid up at the house of a Friend at Melksham,
 who with his wife, were very kind and most attentive to him, he wrote thus:]
 
+[.embedded-content-document.letter]
+--
+
 I hope there is no cause for discouragement on my account up to this time:
 O! I trust I have some sense of the tender mercies of Him, who deals gently with me!
 But I think, there is no need to express much to thee,
@@ -367,10 +425,18 @@ and as those that are liable to be cut off from any of these enjoyments at a mom
 May we be strengthened to take every cup as at the Lord`'s hand,
 and he will not fail to sweeten it.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 26th of Eleventh Month, 1835.
 
 "`Day unto day uttereth speech;`" and while every
@@ -404,10 +470,18 @@ that Christ and his thorough work may be exalted over all,
 in and by us,--come life or death,--come wintry storms
 or genial sunshine across our path.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 13th of Twelfth Month, 1835
 
 I hope you both live in a thorough willingness to come up to the help of the good cause.
@@ -423,12 +497,21 @@ to break down the altars of Baal,--to warn, to rebuke sharply,
 to cut down deceit?--O! that I may be found, during my few remaining days,
 fulfilling this course; and through all, dying daily!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Thomas E+++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, First Month, 1836.
 
+[.salutation]
 My dear Friend,
 
 I have delayed, longer than I wished,
@@ -477,10 +560,18 @@ were greatly diminished or even swept away.
 O! the Lord can turn the fruitful field into barrenness,
 and make the desert to blossom as the rose.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 2nd of Second Month, 1836.
 
 I can truly say, that with me often there has been no want of feeling and sympathy,
@@ -525,10 +616,18 @@ if aught be taken from us, with which we might have injured ourselves.
 Ah! like as a father or a mother pitieth her babe, so doth He,
 who watcheth over us for good!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 8th of Second Month, 1836.
 
 --"`I will show him how great things he must suffer for my name`'s
@@ -595,12 +694,21 @@ as the prophet says:--"`therefore,`" adds he,
 "`love the Truth and peace;`"--so will I save you, and ye shall be a blessing:
 "`fear not, but let your hands be strong.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 19th of Second Month, 1836.
 
+[.salutation]
 My dear Friend,
 
 It is a pleasure to greet such as thyself and dear husband, with others in your parts,
@@ -637,10 +745,18 @@ O! that nothing may turn these aside from following
 on to know the Lord in the way that he leads,
 the good old way, in the footsteps of the flock; whose faith they may safely follow.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 19th of Third Month, 1836
 
 Thy last called forth many a fervent aspiration for our mutual preservation, support,
@@ -713,10 +829,18 @@ or to let in discouragement and doubts.
 However, though we may be permitted to be trampled upon and broken to pieces,
 yet the blessed Truth will outlive it all.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. B+++______+++, Cornwall.
 
+[.signed-section-context-open]
 Stoke Newington, 29th of Third Month, 1836.
 
+[.salutation]
 My beloved Friend,
 
 It is a blessed privilege to be given to drink into one Spirit,
@@ -787,7 +911,7 @@ Ah!
 I can not easily forget how my poor,
 dull heart was made to yearn towards your dear family, from one end to the other.
 
---Parents peculiarly have to plough and sow with tears,
+&hellip;Parents peculiarly have to plough and sow with tears,
 often feeling their own infirmities, and how little they can do:
 but the Lord often interferes for their help; and perhaps,
 when they are laid in the dust, brings about and fulfils all their petitions,
@@ -795,12 +919,21 @@ even to the letter.
 My love to Friends, and to the poor of the flock, who wait upon the Lord for mercy;
 grace and peace be renewed unto them at all times.
 
+[.signed-section-closing]
 Farewell: thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B:
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 22nd of Eighth Month, 1836.
 
 Thy last seemed to convey a low account.
@@ -879,3 +1012,5 @@ men shall not love their lives unto death; but lay down their lives for the bret
 forego their ceiled houses, their "`pleasant bread,`" and their couches of ivory,
 their boats and their nets, and their father, to become fishers of men;
 and count all things but loss.
+
+--

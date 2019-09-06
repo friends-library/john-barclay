@@ -1,10 +1,18 @@
 == Chapter III.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to W. F.
 
+[.signed-section-context-open]
 London, October 10th, 1816.
 
-Dear Friend,--While taking up my pen to address you,
+[.salutation]
+Dear Friend,
+
+While taking up my pen to address you,
 I feel very desirous not to incur the sentence denounced in Scripture,
 against him that "`trusted in man, and made flesh his arm,
 and whose heart departed from the Lord:`" for there is a
@@ -96,28 +104,31 @@ through sufferings, conflicts,
 and probation,--what a blessing will it be if we "`are kept
 by the power of God through faith unto salvation.`"
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
-1816, October 22nd.
+--
 
---The farther I advance in my course along this valley of mist and obscurity,
+1816, October 22nd.--The farther I advance in my course
+along this valley of mist and obscurity,
 the more evidently am I permitted to discover--the
 more frequently am I constrained to admire,
 the infinite condescension of the Lord.
-O! how sincerely can I exclaim with the Psalmist, "`What is man,
+Oh, how sincerely can I exclaim with the Psalmist, "`What is man,
 that you are mindful of him, or the son of man that you visit him.`"
 Fervent indeed have been my desires, and still more and more so,
 as the visitations of condescending mercy have been renewedly
 extended--that my whole heart may be prepared for the reception
 and further manifestations of this great and gracious Guest.
-O! may there be in my inmost thoughts and imaginations,
+Oh, may there be in my inmost thoughts and imaginations,
 as well as over my words and outward demeanour, such a constant watchfulness,
 as may evidence a holy awe and fear of giving Him offence,
 or occasioning a separation between Him and my soul.
 
-O! you who see in secret, and to whom my most secret petitions are thoroughly known,
+Oh, you who see in secret, and to whom my most secret petitions are thoroughly known,
 and known to ascend even daily and hourly,--be pleased,
 in your exceeding great compassion and wonted mercy, to hand me a little help.
 Grant that I may be made willing to follow you whithersoever you lead,
@@ -132,7 +143,7 @@ and Life, even as it were unto the Jews, the dark and outside professors;
 and having consented, or been prevailed upon to join hands with those betrayers,
 have fallen away from, and become opposers of the very Truth,
 both in themselves and others.
-O! that we may ever bear in mind the excellency and preciousness of the Truth;
+Oh, that we may ever bear in mind the excellency and preciousness of the Truth;
 and thus be made willing to encounter any thing that is, in the smallest degree,
 an obstruction to our reception and acknowledgment of it.
 
@@ -154,7 +165,7 @@ I think it was William Penn who said,
 "`it is not the sacrifice (however great) that recommends the heart,
 but the heart that gives the sacrifice (however mean) acceptance.`"
 
-1816, November 9th.--O! what shall I say, or what words shall I make use of,
+1816, November 9th.--Oh, what shall I say, or what words shall I make use of,
 to declare fully the Lord`'s goodness and compassion to this poor frame of mine!
 Day by day, yes, all the day long, is his hand renewedly and refreshingly turned upon me,
 for my present and everlasting welfare.
@@ -171,7 +182,7 @@ until he has made me all that he would have me to be.
 What a multitude of obstructions as well as snares and difficulties encompass me:
 how shall I put one foot forward in the right way,
 except the Lord himself condescend continually to "`direct my steps.`"
-And O! then, what a constant need there is of acknowledging Him in all my ways;
+And Oh, then, what a constant need there is of acknowledging Him in all my ways;
 that so this promise of safe and sure direction may
 happily be fulfilled in my experience;--"`The Lord,
 he it is that does go before you; he will be with you; he will not fail you,
@@ -181,7 +192,7 @@ neither forsake you.`"
 November 12th.--O Lord God Almighty! it is of your exceeding mercy that I am raised up,
 and enabled thus fervently thus solemnly to address you,
 as the God which have led me unto this day.
-O! how clearly and comfortably have you, during this time of need,
+Oh, how clearly and comfortably have you, during this time of need,
 revived the remembrance of what you have done for
 them that have sought or desired to seek you.
 Where is not your "`mighty hand,`" and your "`outstretched arm,`" to be discovered?
@@ -191,16 +202,16 @@ every discouraging fear,
 by that feeling and forcible interrogation,--"`Did ever any trust in the Lord,
 and was confounded; did any abide in his fear, and was forsaken;
 or whom did he ever despise, that called upon him?`"
-Well might your servant say, "`The earth, O! Lord,
+Well might your servant say, "`The earth, Oh, Lord,
 is full of your mercy;`" and your prophet exclaim--"`The
 whole earth is full of his glory.`"
 "`And now Lord! what wait I for?
 my hope is in you:`"--in you, in you alone is my joy, my crown, my confidence.
 I dare not ask of you deliverance out of trouble, except in your time;
-but O! my very soul does crave of you,
+but Oh, my very soul does crave of you,
 that I may be kept from everything like evil;--that I may be supported and sustained
 by that "`hidden manna,`" which is promised "`to him that overcomes.`"
-O! grant, Lord, unto him,
+Oh, grant, Lord, unto him,
 who feels himself at this time awfully humbled under your
 mighty hand,--that he may be made still more deeply sensible,
 that "`you are God alone:`" and as often as you are pleased,
@@ -234,12 +245,12 @@ we shall not be governed by worldly maxims or opinions,
 but by the law written in our hearts.
 How far then is this the case with me?
 How far can I assuredly say, that this change of heart is my experience?
-O! I feel indeed that I come short of what ought to be my practice;
+Oh, I feel indeed that I come short of what ought to be my practice;
 that though I have given up my name to serve the living God,
 even Him who has led me unto this day,--though I have withheld not some things
 which were required of me to give up and to forsake,--yet has not my heart fully,
 entirely, and without reserve resigned my all.
-O! there have been those parleys and tamperings with sin, those secret relapses,
+Oh, there have been those parleys and tamperings with sin, those secret relapses,
 those connivances with the enemy, which the Lord abhors.
 What a total surrender of self does our pure and righteous Lord call for;
 what an abandonment of everything evil does He expect from his followers;
@@ -251,7 +262,7 @@ Same date.--How beautiful, how glorious a sight is it,
 to behold the sun in the morning when it issues from its bed of crimson hue,
 when it gradually ascends the horizon, dissipating the dusky gloom of fading night,
 and tinging every object in nature with its golden rays.
-And O! may I not say, that through the blessing of a gracious Creator,
+And Oh, may I not say, that through the blessing of a gracious Creator,
 I am enabled almost daily to witness the spiritual arising
 of the "`Sun of righteousness with healing in his wings.`"
 Surely the day-spring from on high, "`through the tender mercy of our God,`" has visited,
@@ -261,7 +272,7 @@ and assuredly the end and purpose of his arising is the same that it was formerl
 to guide their feet into the way of peace.`"
 I think I say not amiss, when I declare my belief,
 that the light within me seems to get brighter, and the fire warmer almost every day.
-O! that I may be content to remain in the refiner`'s fire,
+Oh, that I may be content to remain in the refiner`'s fire,
 that so I may become purified and refined from everything evil.
 
 1816,
@@ -292,9 +303,9 @@ before we can be delivered from the wages of it, which is condemnation;
 for it is aptly expressed,
 "`There is now no condemnation to them that are in Christ Jesus,
 who walk not after the flesh, but after the Spirit.`"
-O! then my soul,
+Oh, then my soul,
 surely there is required of you a clean heart and a right spirit to be renewed within.
-O! how shall I bestow pains and anxiety about cleaning the exterior,
+Oh, how shall I bestow pains and anxiety about cleaning the exterior,
 while there lurks any filth in the interior.
 How shall I garnish the outside with an appearance of the beauty of holiness,
 and polish it after the similitude of a temple dedicated to the Lord,
@@ -322,7 +333,7 @@ I do indubitably believe that the present time is very precious to me,--that the
 the mighty hand of the Lord is upon me for good,--that he is extending
 his gracious visitation to me his poor sinful creature,
 who has been bound by the bond of darkness, by the power of the destroyer.
-O! he is and has been arising for my help, for my deliverance;
+Oh, he is and has been arising for my help, for my deliverance;
 he has assuredly in some measure,
 brought me as it were out of the land of Egyptian and cruel bondage;
 and it appears to me impossible, unless by my own default,
@@ -362,10 +373,16 @@ and to them that were with me.`"
 Thus we shall be enabled more fully to understand, and more freely to accede to the text,
 "`having food and raiment, let us be therewith content.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Clapham, January 29th, 1817.
 
+[.salutation]
 Dear Sister,
 
 I am inclined to believe,
@@ -381,7 +398,7 @@ as if our life while here was somewhat like a summer`'s day;
 others may view this state of being as a vivid and glittering scene of continued enjoyment,
 and like the gay and giddy butterfly,
 no sooner are they in existence than their sport begins.
-But O! the longer I am permitted to remain here,
+But Oh, the longer I am permitted to remain here,
 the truth of that view of life which the Scriptures present,
 appears more and more evident.
 Is it not there said to be a state of trial and of trouble?
@@ -396,7 +413,7 @@ Whatever, you, or I, or any, may think or say, be assured,
 that the Christian`'s path through this state of being to a better,
 is no other than that which it has always been, and will ever be; as it is said,
 "`we must through much tribulation enter into the kingdom.`"
-O! the path for you and me, as well as for all, is not such as the flesh could wish,
+Oh, the path for you and me, as well as for all, is not such as the flesh could wish,
 it is indeed a narrow path, too narrow for sense and self to walk in;
 there is in it but just room and that is all:
 it is not wide enough for us to pass pleasantly along with singing and with mirth;
@@ -431,7 +448,10 @@ whatever may be their condition or situation,
 excepting only such as willfully persist in refusing
 or abusing extended and continual mercy.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, February 8th.--The very important decision,
 as to the line of life which I am to pursue,
@@ -447,7 +467,7 @@ There ought to have been more of that simple reliance and dependence,
 that trust and confidence,
 which is the behaviour and feeling of a babe towards its mother; how quiet,
 how calm it slumbers in her arms,--how safe and happy it is while there.
-O! my soul, take heed,
+Oh, my soul, take heed,
 lest after having experienced marvellous deliverances,--after having been,
 like the Israelites of old, led in the daytime "`with a cloud,
 and all the night with a light of fire,`"--after
@@ -476,7 +496,7 @@ cease not to think of his mercies, his goodness, his tender dealings with you;
 be mindful of these things; hide them not, be not ashamed of them;
 but to show "`to the generation to come, the praises of the Lord, and his strength,
 and his wonderful works that he has done.`"
-Surely, O! my soul, if you do thus,
+Surely, Oh, my soul, if you do thus,
 if you remember that God has been and will be your rock,
 and your redeemer,--if you trust in the Lord,
 and make him your hope,--you shall "`be as a tree planted by the waters,
@@ -491,7 +511,7 @@ O Lord! no one but yourself fully knows,
 how fervently and frequently my soul does crave of you,
 that you would enable your poor longing creature to step
 forward with faith and firmness in the way of your requirings.
-O! be present with me on this troubled ocean;--O! take me, I beseech you, by the hand,
+Oh, be present with me on this troubled ocean;--Oh, take me, I beseech you, by the hand,
 saying, "`fear not:`" and if it be your gracious will,
 be pleased to guard and govern me day by day, and hour by hour;
 that so through your sufficient and availing help,
@@ -552,7 +572,7 @@ and that I shall be constrained to take up my daily cross in a peculiar manner,
 not only as to things which are wrong in themselves,
 but as to those which have a tendency to evil,
 and even in many things which religious people account innocent and allowable.
-O! when I read in the Scriptures the very excellent
+Oh, when I read in the Scriptures the very excellent
 precepts and instructions given for us to follow;
 and when I examine closely the conformity of the
 lives of those by whom the precepts are delivered;
@@ -611,7 +631,7 @@ to heed its reproofs.
 And how are we to become acquainted with--how shall we know its appearance?
 There is nothing of or in man that is good,
 but that which is of and from God,--that which is of and from His grace and Spirit.
-Therefore, O! reader, follow that which inclines to good in you;
+Therefore, Oh, reader, follow that which inclines to good in you;
 and whatever gives you inward pain, and trouble of mind abstain from.
 The more we turn away from and deny sin through Divine grace,
 the more weak is its power in and over us; but the less we mortify our evil inclinations,
@@ -622,7 +642,7 @@ If anyone says how shall I know assuredly the teachings of the
 Holy Spirit from the suggestions of my own mind and reason,
 or from the insinuations of him,
 who sometimes puts on the resemblance of an angel of light?
-O! inquiring reader, know of a truth,
+Oh, inquiring reader, know of a truth,
 that whatever may be the artifices and deceitful appearance of the enemy,
 what ever may be the reasonings, imaginations,
 and mental workings of the natural part in you, however specious,

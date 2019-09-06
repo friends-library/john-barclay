@@ -9,8 +9,13 @@ Under his very infirm bodily condition, he could proceed but slowly in this serv
 In the Second Month following, he believed it right to address his Monthly Meeting:
 a copy of his communication will best explain his views and feelings on this occasion.]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Gracechurch Street Monthly Meeting of Friends.
 
+[.salutation]
 Beloved Friends, Brethren and Sisters,
 
 Having now held a minute, granted me by the Monthly Meeting for above three months,
@@ -77,15 +82,25 @@ and bear fruit upward. Isaiah 37:31.
 Desiring we may truly cease from man, and lean wholly on the Beloved of souls,
 with the salutation of love in our Lord Jesus Christ, I remain your friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+[.signed-section-context-close]
 Second Month 19th, 1838.
 
+[.postscript]
 P.S.--Should this concern return upon me with weight and clearness, Friends may believe,
 I shall not hesitate to cast myself upon them again.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 First or Second Month, 1838.
 
 Ah! it is little we can do for one another;
@@ -101,7 +116,7 @@ imperfect state the present is;--at times favoured with a few drops of comfort,
 of strength,--a little grain of faith, of hope, of qualification to struggle on,
 administered in the hour of need, and in such a way, as utterly to hide pride,
 and take away all occasion of boasting on the one hand, or repining on the other!
-O! if we did enough cultivate our communion with
+Oh, if we did enough cultivate our communion with
 heaven and heavenly ones and heavenly things,
 and avail of our privileges, remember our heirship and calling!
 Why need we tarry here,--why should we grovel below?
@@ -112,12 +127,21 @@ my brother and my sister;--we linger for one another:--let
 us press forward;--and in due season we shall reap,
 if we faint not.
 
+[.signed-section-signature]
 J+++.+++ B.
 
-To J. Jaffray, Scotland.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+John Barclay to J. Jaffray, Scotland.
+
+[.signed-section-context-open]
 1st of Fourth Month, 1838.
 
+[.salutation]
 Dear Friend,
 
 Your letter of the 13th seems, in conjunction with my own feelings in reading it,
@@ -136,7 +160,7 @@ though but forty years old,--a cripple on crutches these three or four years,
 by a disease of the knee joint, and still longer disabled by the same disorder,
 at times threatening amputation,
 and always bearing about a most delicate shattered frame in other respects.
-O! may I not say in every sense,
+Oh, may I not say in every sense,
 "`By You have I been upholden from my birth.`"--"`My times are in Your hand!`"--therefore,
 while I live will I praise the Lord, and by his help keep my heart and order my conduct;
 and all my bones shall say, who is like unto you, who have abundantly,
@@ -168,7 +192,7 @@ and destroyed by historians and the theologians of these degenerate days.
 I have a common place book for my collections,
 but my bodily and mental ability is growing less and less,
 and my opportunities are few indeed.
-O! that Christendom might return to that state she
+Oh, that Christendom might return to that state she
 once knew,--might recur to first principles;
 then would her reformation and salvation go forth with brightness,
 she would be fair as the moon, clear as the sun, and terrible as an army with banners;
@@ -184,14 +208,24 @@ supplying all our needs by Jesus Christ; who is with his faithful followers,
 delighting to reveal unto them the abundance of peace and truth,
 but in his own way and time, and as we bow to his yoke and deny ourselves.
 
+[.signed-section-closing]
 I remain sincerely your friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
-To Peter Bedford.
+--
 
-Stoke Newington, 10M of Fourth Month, 1838.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+John Barclay to Peter Bedford.
+
+[.signed-section-context-open]
+Stoke Newington, 10th of Fourth Month, 1838.
+
+[.salutation]
 My dear Friend,
 
 I am on the eve of leaving home for Brighton, if able; for I am very poorly, "`feeble,
@@ -234,9 +268,13 @@ and weakly compromise the trust devolving on them.
 
 Farewell, my beloved friend; may the Lord preserve us purely to his praise.
 
+[.signed-section-closing]
 With love from your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 [.asterism]
 '''
@@ -258,6 +296,9 @@ Our beloved friend Daniel P. Hack, of that place,
 who evinced to the last the kindest and most tender solicitude and care respecting him,
 thus wrote at a sub sequent period concerning him:
 
+[.embedded-content-document.letter]
+--
+
 When our beloved friend came to Brighton, it was evident to his friends,
 who had not seen him for a considerable time, that his general health was much impaired;
 and it soon became so much so, as to excite apprehensions in their minds,
@@ -274,6 +315,8 @@ that the object nearest to our dear friend`'s heart was,
 the spread of the kingdom of our Lord and Saviour Jesus Christ:--even of that kingdom,
 which is not food and drink, but righteousness, and peace,
 and joy in the Holy Spirit,--and which stands not in word, but in power.--(1839.)
+
+--
 
 He continued to decline,
 and very rapidly so during the latter part of his stay at Brighton;
@@ -297,7 +340,7 @@ the world;`"--"`That was the true light,
 that enlightens every man that comes into the world;`"--and
 then remarked,--"`it does not say,
 that we shall all at once know all things, but as we can bear.
-O! it is because they want to know all at once, not as children learn,
+Oh, it is because they want to know all at once, not as children learn,
 that the light is taken away!`"--And again,--"`They say there is
 no revelation;--but that which is made manifest to us as our duty,
 as the Lord`'s will,
@@ -325,12 +368,12 @@ then we shall find mercy at the hands of the Lord.`"
 "`Let us then look to the Lord for strength at all times, and under all circumstances.`"
 "`The Lord will be your Lord, and a sure refuge and hiding-place.
 Cleave unto the Lord.
-O! cleave unto Him; love Him with all your heart.`"
+Oh, cleave unto Him; love Him with all your heart.`"
 
 To his sister, who was seated beside his couch,
 he remarked,--"`The quiet habitation! dear Lydia,
 you looks as if you loved the quiet habitation:
-O! how desirable!`" with an allusion also to faithfulness and greater dedication.
+Oh, how desirable!`" with an allusion also to faithfulness and greater dedication.
 
 His difficulty of articulation was great:--he often
 spoke of the great thickness he felt upon him,
@@ -360,4 +403,5 @@ about four o`'clock in the afternoon of the 11th of Fifth Month, 1838;
 and we reverently believe, is, through redeeming love and mercy,
 entered into the everlasting joy of his Lord.
 
+[.the-end]
 THE END.

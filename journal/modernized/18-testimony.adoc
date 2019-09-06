@@ -1,9 +1,12 @@
-== A Testimony From Gracechurch Street Monthly Meeting Of Friends,
+== A Testimony from Gracechurch Street Monthly Meeting of Friends,
 
-concerning John Barclay, who died on the 11th of Fifth Month, 1838,
-and his remains were interred at Winchmore Hill, Middlesex, on the 18th of the same.
+[.blurb]
+=== Concerning John Barclay, who died on the 11th of Fifth Month, 1838, and his remains were interred at Winchmore Hill, Middlesex, on the 18th of the same.
 
-Blessed are the pure in heart, for they shall see god.--Matt. 5:8.
+[quote.scripture, , Matt. 5:17]
+____
+Blessed are the pure in heart, for they shall see God.
+____
 
 This, our dear friend, was the son of Robert and Ann Barclay, and was born at Clapham,
 in Surrey, in the year 1797.
@@ -43,7 +46,7 @@ strong and mighty, has been pleased in his abundant compassion, to encamp around
 and to give me songs of deliverance, songs of triumph and of praise.
 In His name will I set up my banner; who is a rock of defence,
 and sure refuge to my poor weary soul.
-O! young man or young woman, to whom this may come,--my friend, my brother,
+Oh, young man or young woman, to whom this may come,--my friend, my brother,
 my sister,--who are seeking the better country,
 and Him who is the way and the guide;--oh! though you are
 weary and heavy laden,--take courage:--there is a staff,
@@ -86,11 +89,11 @@ as that neither in the furniture, food, or clothing used,
 any misapplication of the gifts of Divine Providence be admitted or encouraged.`"
 
 About this time, which was in the twenty-second year of his age, he writes thus:
-O! the love that the Lord has shed abroad in my heart!--O! the divine joy,
+Oh, the love that the Lord has shed abroad in my heart!--Oh, the divine joy,
 the unspeakable peace,
 the blessed presence of the Most High,--how it seems to flow through me,
 making up for all trials,
-and tears of disquietude and distress!--O! may this
+and tears of disquietude and distress!--Oh, may this
 feeble testimony speak out His adorable mercy,
 when this poor frail flesh shall be laid low in the dust;
 may it induce others to fear Him that made the heavens and the earth,
@@ -116,11 +119,11 @@ In allusion to this solemn and important work,
 after describing the fear and caution with which he had entered upon it, he says,
 "`The weight and sweetness that dwelt on my mind after this surrender,
 cannot be set forth.
-O! how it rested on my spirit all the day in an unutterable manner!
+Oh, how it rested on my spirit all the day in an unutterable manner!
 and yet such freedom of spirit,--so that nothing seemed a trial,
 or that to which I was unequal.
 I shall not easily forget how comfortable and at ease in my mind I felt.
-O! it was a heavenly feeling, and nothing short of Him that is in heaven could give it.`"
+Oh, it was a heavenly feeling, and nothing short of Him that is in heaven could give it.`"
 
 He was acknowledged a minister by his Friends in Cornwall in 1825,
 and in the following year was married to Mary Moates, and removed to Alton.
@@ -182,7 +185,7 @@ by medical advice, removed to Tunbridge Wells; after which he survived but a few
 
 On the evening of the 9th, when about to retire to rest, on rising from his chair,
 and leaning on the couch, and on the arm of his beloved wife, he supplicated thus;
-"`O! gracious Father! if it please You, spare us to each other a little longer,
+"`Oh, gracious Father! if it please You, spare us to each other a little longer,
 and make us more entirely devoted to You, and your precious cause of Truth in the earth;
 nevertheless not our will, O Lord! but yours be done.`"
 
@@ -201,7 +204,7 @@ In the latter part of this day, his voice was lifted up in a constant melody,
 and for many hours together, like a song of praise; during which,
 these words were clearly distinguished "`O Lord!--dear Lord!--come.--I
 bless the Lord.--I am the Lord`'s forever.--Cleave to Him,
-O! cleave to Him,--love Him with all your heart.`"
+Oh, cleave to Him,--love Him with all your heart.`"
 The name of Jesus was often to be heard, and the word Hallelujah was frequently repeated.
 
 About four o`'clock in the afternoon of the 11th of Fifth Month, 1838,
@@ -213,9 +216,17 @@ and strength, and honour, and glory, and blessing.`"
 Given forth by our Monthly Meeting, held at White Hart Court, Gracechurch Street,
 the 10th of Tenth Month, 1838, and signed by--
 
+[.offset]
 +++[+++Here follow the signatures of men and women Friends.]
 
 Read and approved in our Quarterly Meeting for London and Middlesex, held in London,
 this 25th day of the Twelfth Month, 1838,
-and in and on behalf thereof signed by George Stacey,
-Clerk Signed in and on behalf of the Women`'s Quarterly Meeting, by Mary Forster, Clerk.
+and in and on behalf thereof signed by
+
+[.signed-section-signature]
+George Stacey, Clerk
+
+Signed in and on behalf of the Women`'s Quarterly Meeting, by
+
+[.signed-section-signature]
+Mary Forster, Clerk.

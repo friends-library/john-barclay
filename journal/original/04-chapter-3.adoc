@@ -1,10 +1,18 @@
 == Chapter III.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to W. F.
 
+[.signed-section-context-open]
 London, October 10th, 1816.
 
-Dear Friend,--Whilst taking up my pen to address you,
+[.salutation]
+Dear Friend,
+
+Whilst taking up my pen to address you,
 I feel very desirous not to incur the sentence denounced in Scripture,
 against him that "`trusted in man, and made flesh his arm,
 and whose heart departed from the Lord:`" for there is a
@@ -96,13 +104,16 @@ through sufferings, conflicts,
 and probation,--what a blessing will it be if we "`are kept
 by the power of God through faith unto salvation.`"
 
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
-1816, October 22nd.
+--
 
---The farther I advance in my course along this valley of mist and obscurity,
+1816, October 22nd.--The farther I advance in my course
+along this valley of mist and obscurity,
 the more evidently am I permitted to discover--the
 more frequently am I constrained to admire,
 the infinite condescension of the Lord.
@@ -361,10 +372,16 @@ and to them that were with me.`"
 Thus we shall be enabled more fully to understand, and more freely to accede to the text,
 "`having food and raiment, let us be therewith content.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Clapham, January 29th, 1817.
 
+[.salutation]
 Dear Sister,
 
 I am inclined to believe,
@@ -430,7 +447,10 @@ whatever may be their condition or situation,
 excepting only such as willfully persist in refusing
 or abusing extended and continual mercy.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, February 8th.--The very important decision,
 as to the line of life which I am to pursue,

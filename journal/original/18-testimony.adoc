@@ -1,9 +1,12 @@
-== A Testimony From Gracechurch Street Monthly Meeting Of Friends,
+== A Testimony from Gracechurch Street Monthly Meeting of Friends,
 
-concerning John Barclay, who died on the 11th of Fifth Month, 1838,
-and his remains were interred at Winchmore Hill, Middlesex, on the 18th of the same.
+[.blurb]
+=== Concerning John Barclay, who died on the 11th of Fifth Month, 1838, and his remains were interred at Winchmore Hill, Middlesex, on the 18th of the same.
 
-Blessed are the pure in heart, for they shall see god.--Matt. 5:8.
+[quote.scripture, , Matt. 5:17]
+____
+Blessed are the pure in heart, for they shall see God.
+____
 
 This, our dear friend, was the son of Robert and Ann Barclay, and was born at Clapham,
 in Surrey, in the year 1797.
@@ -213,9 +216,17 @@ and strength, and honour, and glory, and blessing.`"
 Given forth by our Monthly Meeting, held at White Hart Court, Gracechurch Street,
 the 10th of Tenth Month, 1838, and signed by--
 
+[.offset]
 +++[+++Here follow the signatures of men and women Friends.]
 
 Read and approved in our Quarterly Meeting for London and Middlesex, held in London,
 this 25th day of the Twelfth Month, 1838,
-and in and on behalf thereof signed by George Stacey,
-Clerk Signed in and on behalf of the Women`'s Quarterly Meeting, by Mary Forster, Clerk.
+and in and on behalf thereof signed by
+
+[.signed-section-signature]
+George Stacey, Clerk
+
+Signed in and on behalf of the Women`'s Quarterly Meeting, by
+
+[.signed-section-signature]
+Mary Forster, Clerk.

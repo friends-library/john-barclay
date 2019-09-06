@@ -1,5 +1,6 @@
 == Chapter XI.
 
+[.offset]
 +++[+++In the autumn of this year, 1824, he visited Malvern for the benefit of his health.]
 
 1824, Ninth Month 9th.--At Worcester Meeting.
@@ -38,10 +39,16 @@ and with regard to my poor soul, that the Lord,
 whom I am concerned to serve and trust in, will carry me through, even to the end.
 The Lord be magnified, and He only,--whether by life or death.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. F. M.
 
+[.signed-section-context-open]
 Marazion, 24th of First Month, 1825.
 
+[.salutation]
 My beloved Friend,
 
 The hearing of your late bereavement has affected my heart, but to hear that you are,
@@ -88,7 +95,7 @@ brings with it a sufficient "`evidence of things not seen,`"
 to support and preserve from condemnation and despair.
 
 Many, no doubt, continue to be your discouragements,
-independent of this late source of trial; O! dear brother,
+independent of this late source of trial; Oh, dear brother,
 be animated,--put on strength in the name of the Most High God; who is surely with you,
 and will help you in every hour of need,
 and enable you to rise over all that would keep you down,--over
@@ -102,9 +109,13 @@ and to glorify the great Name in the way of his own leadings;
 on which his blessing abundantly rests as ever!
 Ah! what can we render unto, or do for Him, who has done so much for us!
 
+[.signed-section-closing]
 With my dear love, from your old and true friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1825, First Month 27th.--At Penzance meeting; a very solemn time, as I thought,
 in the silent part of it; I trust also the King Immortal and Almighty,
@@ -113,16 +124,22 @@ Three times the strength of the Most High seemed to rush through me as a mighty 
 and had I more simply given way at the first,
 the incense might have risen up more thickly from the altar.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Marazion, 8th of Second Month, 1825.
 
+[.salutation]
 Dear tried souls,
 
 Cast down, but yet not forsaken, nor for gotten, but rather highly favoured,
 and under the peculiar care and preservation of the
 Shepherd of the flock,--my soul salutes you.
-O! think you in any hour of deep plunging, that a hair of your head,
+Oh, think you in any hour of deep plunging, that a hair of your head,
 (figuratively speaking,) shall be singed in the fiery furnace,--or that they
 are not all numbered,--or that your tears are not treasured up in His bottle--put
 into his book,--that they do not come up continually before Him as a memorial!
@@ -132,7 +149,7 @@ Be then animated afresh to commit all into his hands,
 to resign yourselves again and again most unreservedly;
 retaining nothing but the desire to do and to be, what He would have you,
 and to suffer all that He has or may permit, or purpose for you to pass through.
-O! then, with what invincible meekness and patience and long-suffering,
+Oh, then, with what invincible meekness and patience and long-suffering,
 will you be endued; then nothing will be impossible to you,
 all things will be made sweet; your goings forth be even prepared like the morning,
 and all the way cast up clear before you;
@@ -156,12 +173,21 @@ to be made willing to partake of deaths oft, as a great Apostle;
 and to be conformed to the image of the dear Son--the Lamb that was slain,
 to suffer with him, that we may be clothed and crowned with his glory.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. H.
 
+[.signed-section-context-open]
 Truro, 25th of Second Month, 1825.
 
+[.salutation]
 Dearly beloved Friend,
 
 You have named several precious instruments and vessels,
@@ -172,7 +198,7 @@ and united to those who are endeavouring to walk with their Master, and to serve
 It will then be no surprisal to you to hear,
 that (as I have apprehended) a weighty matter in the shape of a gospel errand,
 has been spread before me, and now seems fast ripening.
-O! the sweetness and even the blessedness,
+Oh, the sweetness and even the blessedness,
 which have from time to time attended my poor mind,
 as there has been an endeavour after pure passiveness under this prospect:
 so that indeed I am ready to say, let come what will,
@@ -222,32 +248,45 @@ I should be ready to take what I have received,
 as an earnest of an early departure for a better country;
 and it may be so notwithstanding.
 Well, whatever may be in store for us,
-O! let us give up fully to honour and magnify the adorable Name, by life or by death,
+Oh, let us give up fully to honour and magnify the adorable Name, by life or by death,
 by suffering or rejoicing; for we know it to be as ointment poured forth,
 and we have been anointed with it,
 and it teaches us of all things,--even the everlasting Truth;
 
+[.signed-section-closing]
 In the love of it, I dearly bid you farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++It was in the Fourth Month of this year 1825,
 that he was acknowledged a Minister by the Monthly Meeting of the West Division of Cornwall,
 and obtained a certificate for visiting the Eastern counties.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Bradpole, 29th of Fourth Month, 1825.
 
-My Dear Lydia,--When we think what unworthy creatures we are, even at the best,
-and how goodness and mercy fol low us, sustaining us under our trials,
+[.salutation]
+My Dear Lydia,
+
+When we think what unworthy creatures we are, even at the best,
+and how goodness and mercy follow us, sustaining us under our trials,
 and turning them all to our good, we have surely great occasion to lay hold of hope,
 to take fresh courage, to put on strength, and be armed with patience,
 cheerful submission, and full assurance of faith for the time to come.
 My mind seems equal to very little beyond my more immediate calling,
 and when not so engaged, it feels as poor, weak, and empty,
 as ever I have known to be the case.
-O! what a comfort from time to time to feel the Lord with me, strengthening me,
+Oh, what a comfort from time to time to feel the Lord with me, strengthening me,
 and prospering his work in my hands, again and again,
 to my humbling admiration at the power of his might,
 the excellency of his lovingkindness and his grace.
@@ -261,11 +300,18 @@ and what they have done in simplicity, on behalf of the poor servant,
 it is esteemed as done to the Master himself; though they may be ready to say,
 "`When saw we you in prison,`" etc.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 2nd of Fifth Month, 1825.
 
---Having been helped to get over another mountain
+&hellip;Having been helped to get over another mountain
 in the attendance of this meeting yesterday,
 and having been favoured to wrestle and struggle with the powers of darkness,
 and to suffer with a suffering seed in this desolate region,
@@ -275,7 +321,7 @@ the good cause has been espoused in some sort, however feebly,
 and the way of life set forth; in abundant condescension,
 I was favoured to get along safely, without, I trust, stumbling;
 though truly it was hard work.
-O! the lethargy, the lifeless, lukewarm condition of many: no hunger or thirst,
+Oh, the lethargy, the lifeless, lukewarm condition of many: no hunger or thirst,
 no sense of eternal things, no relish for heavenly goodness; and such as are otherwise,
 sunk into a low, discouraged, dying state.
 Yet even here, the spark of Divine love is not wholly extinct and taken away;
@@ -304,7 +350,7 @@ who will never try us above our strength, nor afflict us willingly.
 At +++_______+++, I called on a Friend,
 and had a refreshing little opportunity of handing encouragement to himself and wife;
 heavenly goodness seemed near us.
-O! the work is very weighty, and the trials thereof are many; but the Lord is sufficient,
+Oh, the work is very weighty, and the trials thereof are many; but the Lord is sufficient,
 as he is trusted in.
 I have not an anxious thought about you at home; I know who will watch over you,
 and help you every way: only let not the tempter discourage you;
@@ -312,15 +358,24 @@ for it is the Master that says,--"`Fear not little
 flock;`"--"`Be of good cheer;`"--"`Be strong,`" yes,
 be strong.
 
+[.signed-section-closing]
 Your very affectionate brother,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Priscilla Hannah Gurney
 
+[.signed-section-context-open]
 Sixth Month, 1825.
 
---After a considerable space of intervening time, I take my pen to salute you,
+&hellip;After a considerable space of intervening time, I take my pen to salute you,
 though scarce knowing in what circumstances this may find you.
 If the best of us are but in the land of the living,
 partakers of life invisible and divine,
@@ -349,34 +404,41 @@ as I return, after attending the sixth London Monthly Meetings.
 This last is to me in prospect crucifying, beyond what I can express,
 especially as I have believed it best to go single-handed.
 
+--
+
 10th of Sixth Month, 1825.--At night under great anguish of spirit, I wrote as follows,
-my heart being turned towards the Lord: O! God, most holy, and almighty,
+my heart being turned towards the Lord: Oh, God, most holy, and almighty,
 all wise and gracious,--regard me with your pitying eye; spare me, help me,
 save me in this depth of need, which you only know, is beyond words.
-O! deliver and preserve me to the end,
+Oh, deliver and preserve me to the end,
 through all that which may in your wisdom be permitted.
-Haste you to help me, O! my God--my all!
-O! let not my cruel enemy devour me; let not your Truth be dishonoured by me;
-O! conduct me safely, and, if it be best, speedily,
+Haste you to help me, Oh, my God--my all!
+Oh, let not my cruel enemy devour me; let not your Truth be dishonoured by me;
+Oh, conduct me safely, and, if it be best, speedily,
 to my everlasting rest with you and with your Son.
 Amen!
 Amen!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 15th of Sixth Month, 1825.
 
---On the 7th, I attended Devonshire House Monthly Meeting,
+&hellip;On the 7th, I attended Devonshire House Monthly Meeting,
 and on the 8th that of Gracechurch Street;
 in both which I had to declare the excellency of
 that spiritual dispensation committed to us.
-O! what arduous work it is to minister,
+Oh, what arduous work it is to minister,
 where the attention and desire of those present is very outward after words.
 The extent of my wadings and exercises no one knows but the great Master;
 they have been various and abundant indeed, since the Yearly Meeting;
 the discouragements of the day I have never seen so deeply before,
 though I am not blind to the encouraging features:
-O! how short are we of what the Lord would do for us as a people, were we only simple,
+Oh, how short are we of what the Lord would do for us as a people, were we only simple,
 sincere, plain, humble enough!
 If we go on but as we do, I fear, notwithstanding all that is stirring,
 we shall as a Society be weaker than we now are.
@@ -409,11 +471,21 @@ considering my weakly condition.--Give my love to Friends.--I am a poor creature
 but I trust not out of the reach of the infinite compassion of the Shepherd of Israel.
 Farewell!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Carshalton, 20th of Sixth Month, 1825.
 
-My dear +++_______+++,--I may state to you, that on Sixth day and Seventh day week,
+[.salutation]
+My dear +++_______+++,
+
+&hellip;I may state to you, that on Sixth day and Seventh day week,
 my powers of body and mind were so exhausted and enfeebled, as clearly to excuse me,
 in my judgment, from any further proceedings in my engagement for the present.
 I saw I had no hard master,
@@ -428,11 +500,18 @@ since coming to it:--whether I may ever complete what was presented to my mind,
 as a religious obligation, I know not;
 but I am very comfortable in an entire relinquishment of that part which respects London.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Bognor, 24th of Sixth Month, 1825.
 
---I am favoured indeed in being able to say, how greatly the change of air,
+&hellip;I am favoured indeed in being able to say, how greatly the change of air,
 and the suspension of mental exercises have revived me.
 Truly, I felt both in mind and body,
 failing beyond the usual vicissitudes or ups and downs that attend.
@@ -449,7 +528,7 @@ It is an awful thing in this day, as ever it was in any other,
 to take the name of the Most High into our lips, and to declare his commands; but if so,
 how awful is the situation of those who reject these messages,--who do not,
 like "`that great city`" of old, "`cry mightily,`" and turn from their evil ways.
-O! the longer I was in that great city,
+Oh, the longer I was in that great city,
 the more was I baptized (as I thought) into a sense of that which is lacking,
 in an especial manner in our favoured Society;
 until the burden became more than I could sustain: and yet for a time,
@@ -466,16 +545,26 @@ daily partaking of the Divine blessing, and in that,
 moving and acting towards others in our several duties.
 It is wonderful to me, how my constitution seems in so short a time to have rallied.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 Bognor, Sussex, 30th Sixth Month, 1825.
 
-My beloved Friend,--What a wonderful course have believers to tread in;--how led about,
+[.salutation]
+My beloved Friend,
+
+What a wonderful course have believers to tread in;--how led about,
 and in all things instructed,--how wonderfully and wisely dealt with!
 What a process it takes to purify us from self, and completely to redeem.
 Nothing less than an infinite Hand can do it for us,--both as to mercy, wisdom and power,
 and that continually exerted on our behalf.
-O! I feel these things more than ever I did,
+Oh, I feel these things more than ever I did,
 and feel that I am yet but a child in the experience of them;
 because that which is attained,
 is as nothing compared with the fulness that is set before us.
@@ -484,7 +573,7 @@ wherein we are through many tribulations and chastenings
 and even apparent desertion and death,
 taught that we are poor creatures, able of ourselves to do nothing,
 neither to keep ourselves alive in a spiritual sense.
-O! it is hard work to endure patiently all that is needful for this purpose,
+Oh, it is hard work to endure patiently all that is needful for this purpose,
 and to accept all the painful operations of the Holy and High One for our good:
 yet there is no safety for us,
 but in submitting thus to what may be called the death of the cross; and,
@@ -519,6 +608,8 @@ all that can happen to us will only turn to our benefit,
 and not one of our sacrifices but will accomplish that for which it is designed by Him,
 who works in us and for us.
 
+--
+
 1825, Ninth Month 15th.--I got well home, with a peaceful mind, empty and low enough,
 though not so as to be insensible of the powerful hand that had been over me for good,
 and over all things else, to make them good to me.
@@ -544,12 +635,13 @@ who can do all things for me.
 
 New duties, new and arduous paths not cast up, no mark, no trace, no footing,
 but just in His footsteps, who puts forth and goes before.
-O! for a free, simple,
+Oh, for a free, simple,
 entire throwing myself into His care and keeping and disposal in all things,
 now and evermore! for no one else can deliver or preserve, or carry through,
 or enable to glorify Him, or bring about things,
 that so they shall all redound to His praise.
 
+[.offset]
 +++[+++In the Third Month, 1826, he quitted his residence at Marazion,
 and in the Fifth Month following, he again entered into the married state,
 settled at Alton, in Hampshire.]
@@ -566,7 +658,7 @@ Words cannot set forth what He is, and will ever remain to be,
 towards those that trust in Him, and hope in his mercy; and who still endeavour,
 through all that may happen to them,--through all weaknesses, repulses, temptations,
 and exercises, to strive with a true heart to serve the God of their lives.
-O! what has he wrought for me, more than in past times,--if possible,
+Oh, what has he wrought for me, more than in past times,--if possible,
 more than in years that have long passed over!
 My removal out of Cornwall, my settlement in this allotment (Alton,) my many,
 many comforts, a beloved and loving partner given me in the place of her,
@@ -577,14 +669,20 @@ my up-rising and my down-sitting; so that notwithstanding the many haltings, stu
 slippery and exceedingly difficult places,
 the Lord has in good measure been my confidence, and kept my foot from being taken,
 and my life from being smitten to the ground by the enemy.
-O! he has made for me a way, where I could see none;
+Oh, he has made for me a way, where I could see none;
 he has made that to be possible,--yes, brought it to pass, which seemed impossible,--yes,
 brought me safely through; so that I can indeed yet praise him for his goodness.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. S.
 
+[.signed-section-context-open]
 Alton, Fifth Month, 1826.
 
+[.salutation]
 My dear Friend,
 
 To say that my soul does tenderly and deeply sympathize with you under your sore bereavement,
@@ -622,7 +720,7 @@ rather than to dwell too much or unduly on the past,--and lift
 your tried spirit out of the unprofitable depths of sorrow;
 and her little prattle may sound like a call--"`lead me to follow her you mourn.`"
 
-O! what a spur to diligence, to increased care in all the allotment of duty,
+Oh, what a spur to diligence, to increased care in all the allotment of duty,
 does such a loss as you have sustained, if rightly borne, bring with it.
 If thus I have been favoured to see "`the end of the Lord,--that
 he is very pitiful and of tender mercy,`" and that "`blessed
@@ -649,6 +747,10 @@ My dear love attends you.
 May we abound in grace, and every good fruit, even by abiding in the vine,
 being often purged as fruit-bearing branches, and chastened as dear children.
 
+[.signed-section-closing]
 Farewell, I remain your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--

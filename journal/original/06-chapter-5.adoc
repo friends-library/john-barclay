@@ -47,11 +47,17 @@ to be each of us kept in our proper places, and under our own fig tree,
 where none can make us afraid,--each of us abiding under our particular exercises,
 and upon the watch-tower.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A Few Lines Affectionately Offered and Addressed
 to Every Young Person Whom they May Concern.
 
+[.signed-section-context-open]
 1817, Sixth Month 10th.
 
+[.salutation]
 Dear fellow traveller,
 
 In a little of that love which has been extended to me by Him,
@@ -135,10 +141,18 @@ may be of that gloriously happy number,
 who shall inherit an eternity of joy unspeakable in the kingdom of heaven,
 is the earnest desire of one who feels himself thy soul`'s true friend.
 
+[.signed-section-signature]
 John Barclay
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend
 
+[.signed-section-context-open]
 Clapham, 16th of Sixth Month, 1817.
 
 Whilst thinking of writing to thee, a part of a beautiful meditation of the Psalmist,
@@ -192,9 +206,13 @@ in such a prostrated, humbled, reverential frame of spirit,
 as would indubitably evince our belief in the presence, protection, providence,
 and power of Him, whom we profess to serve.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, Sixth Month 24th.--I think I have never felt in so reduced a condition,
 in so pitiable a state of mind, as during some intervals of late:
@@ -257,10 +275,16 @@ footnote:[William Penn`'s Rise and Progress.]
 Thus far William Penn, and oh! that we could say, that anything like all this,
 did really and truly pervade our conduct now, as a religious body.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Thomas Shillitoe.
 
+[.signed-section-context-open]
 Clapham, 30th of Sixth Month, 1817.
 
+[.salutation]
 Respected Friend, Thomas Shillitoe
 
 Having fulfilled the object which induced me to send the preceding lines,
@@ -337,9 +361,13 @@ in which I have felt much sympathy with thee;
 and trusting it may be blessed by the reward of peace to thyself,
 and by the return of many a backslider to the living fountain.
 
+[.signed-section-closing]
 I remain thy sincere friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, Seventh Month 4th.--In reading the 13th chapter of the 1st book of Kings,
 I have at this time been much instructed,
@@ -503,6 +531,4 @@ that through thy abundantly sufficient grace and truth,
 I may be fit for all occasions and trials, to which thou mayst see meet to call me:
 that so, my eye being continually upon thee, thy precious cause may prosper,
 and thy name be exalted by me, in me, and through me,
-both whilst my soul is confined in this frail body, and forever and ever.
-
-Amen.
+both whilst my soul is confined in this frail body, and forever and ever. Amen.

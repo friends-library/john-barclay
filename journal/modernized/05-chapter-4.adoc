@@ -129,6 +129,9 @@ but he that sows to the Spirit, shall of the Spirit reap life ever lasting.`"
 I had also occasion to remember, that he it was, who came to Christ, heard his sayings,
 and did them, that was likened to a man, who built upon a rock.
 
+[.small-break]
+'''
+
 +++[+++It appears, that about this period,
 the author felt it to be his duty to address his late school-master;
 having when under his charge been guilty of much irregular and disreputable conduct:
@@ -136,10 +139,16 @@ the reader may judge of his feelings on this occasion,
 by the following extracts from his letter to this person,
 after having left the school about four years.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to B. H. M.
 
+[.signed-section-context-open]
 10th of Fourth Month, 1817.
 
+[.salutation]
 Esteemed Friend,
 
 While taking up my pen to address you,
@@ -187,14 +196,24 @@ I find myself able to express very little of what I feel, not only towards yours
 but towards all whom I have in any manner injured,
 whether more or less remotely.--With feelings of esteem for yourself and family,
 
+[.signed-section-closing]
 Believe me to be your friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 Clapham, 22nd of Fourth Month, 1817.
 
+[.salutation]
 My dear +++_______+++,
 
 In the season of sore affliction, which has at this time overtaken me,
@@ -223,11 +242,19 @@ I have nothing for which to reprove myself as yet,--nothing that
 I could really and truly wish to be otherwise than it is;
 and that I have abundant cause for thankfulness and encouragement.
 
+[.signed-section-closing]
 Believe me, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to a Friend, dated about this time, he writes:--]
+
+[.embedded-content-document.letter]
+--
 
 We have truly witnessed the "`mighty hand,`" and the "`outstretched
 arm:`" then let neither of us be using in effect any other language,
@@ -256,10 +283,18 @@ No, certainly.
 Obedience is better than sacrifice: and it is not our doing that which is good simply,
 which pleases God, but that good which he wills us to do.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. F. M.
 
+[.signed-section-context-open]
 Clapham, Fifth Month, 1817
 
 I could say much to you at this time,
@@ -282,12 +317,16 @@ May we become more and more learned, more and more deeply taught in that best of
 humility; for without this seasoning virtue,
 the highest attainments in religious knowledge,
 are likely to produce nothing short of additional condemnation.
-O! it is the humbled and contrited spirit that is an acceptable sacrifice,
+Oh, it is the humbled and contrited spirit that is an acceptable sacrifice,
 and said to be "`precious in the sight of Him with whom we have to do.`"
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, Fifth Month.--I think I have heard a remark, made by some among us,
 tending rather to the injury and prejudice of them that give place to the sentiment,--namely,
@@ -336,7 +375,7 @@ From these accounts, we learn the many liabilities which surround us,
 and we may (unless through wilful blindness) unequivocally
 discover where the true rest and peace is to be found;
 and in what consists the only security, strength, and sure standing.
-O! how loudly do the lives and deaths of these worthies preach to us;
+Oh, how loudly do the lives and deaths of these worthies preach to us;
 they being dead do indeed yet speak, exhorting and entreating, that we who still survive,
 may lay hold and keep hold of those things,
 in which alone they could derive any comfort in the end.
@@ -349,7 +388,7 @@ that while she followed the gentle leadings of Israel`'s Shepherd,
 giving up her own to His will,
 she found such peace as encouraged and strengthened her under every distress,
 perplexity and darkness.
-O! it was an unwearied,
+Oh, it was an unwearied,
 unshaken belief in the being of an infinitely great and gracious Master,
 that enabled her, as it ever has, and as it does even now,
 enable all who rightly embrace it, to encounter the buffetings of the enemy,
@@ -367,7 +406,7 @@ while it is day unto you,--while the light,
 which makes manifest what things are reprovable and what commendable,
 shines in your heart,--while the Lord is in exceeding
 mercy condescending to care for you,
-and to plead with you,--O! lay these things to heart.
+and to plead with you,--Oh, lay these things to heart.
 I testify as in the sight of Him who sees in secret,
 who knows your and my inmost thoughts, that there is no other way to real rest,
 amidst the contingencies of time, nor to an unfading reward,
@@ -388,7 +427,7 @@ and obeyed in his manifested requirings.
 
 1817, Fifth Month 16th. --In what words shall I express your tender dealings,
 your lovingkindness, O Lord! to my poor soul?
-How shall I approach you, how shall I speak of you, or speak to you, O! You,
+How shall I approach you, how shall I speak of you, or speak to you, Oh, You,
 the Giver of every good gift?
 You are far more gracious than any language can commemorate,
 or than any tongue can convey an adequate notion of.
@@ -403,8 +442,8 @@ hitherto vouchsafed;--and enable me and all your poor creatures,
 to answer yet more and more your end and purpose in creating
 us,--still more and more to love and adore you,
 who are our all in all.
-O! may your kingdom, your power, and your glory,
+Oh, may your kingdom, your power, and your glory,
 yet more widely and triumphantly extend over everything within
-us and without us;--O! may your blessed will so come over all,
+us and without us;--Oh, may your blessed will so come over all,
 that the period may again be known, when "`the morning stars sing together,
 and all your sons, O God, shout for joy!`"

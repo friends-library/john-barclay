@@ -1,5 +1,6 @@
 == Chapter XI.
 
+[.offset]
 +++[+++In the autumn of this year, 1824, he visited Malvern for the benefit of his health.]
 
 1824, Ninth Month 9th.--At Worcester Meeting.
@@ -38,10 +39,16 @@ and with regard to my poor soul, that the Lord,
 whom I am concerned to serve and trust in, will carry me through, even to the end.
 The Lord be magnified, and He only,--whether by life or death.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. F. M.
 
+[.signed-section-context-open]
 Marazion, 24th of First Month, 1825.
 
+[.salutation]
 My beloved Friend,
 
 The hearing of your late bereavement has affected my heart, but to hear that you are,
@@ -102,9 +109,13 @@ and to glorify the great Name in the way of his own leadings;
 on which his blessing abundantly rests as ever!
 Ah! what can we render unto, or do for Him, who hath done so much for us!
 
+[.signed-section-closing]
 With my dear love, from thy old and true friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1825, First Month 27th.--At Penzance meeting; a very solemn time, as I thought,
 in the silent part of it; I trust also the King Immortal and Almighty,
@@ -113,10 +124,16 @@ Three times the strength of the Most High seemed to rush through me as a mighty 
 and had I more simply given way at the first,
 the incense might have risen up more thickly from the altar.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Marazion, 8th of Second Month, 1825.
 
+[.salutation]
 Dear tried souls,
 
 Cast down, but yet not forsaken, nor for gotten, but rather highly favoured,
@@ -156,12 +173,21 @@ to be made willing to partake of deaths oft, as a great Apostle;
 and to be conformed to the image of the dear Son--the Lamb that was slain,
 to suffer with him, that we may be clothed and crowned with his glory.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. H.
 
+[.signed-section-context-open]
 Truro, 25th of Second Month, 1825.
 
+[.salutation]
 Dearly beloved Friend,
 
 Thou hast named several precious instruments and vessels,
@@ -226,20 +252,33 @@ by suffering or rejoicing; for we know it to be as ointment poured forth,
 and we have been anointed with it,
 and it teacheth us of all things,--even the everlasting Truth;
 
+[.signed-section-closing]
 In the love of it, I dearly bid you farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++It was in the Fourth Month of this year 1825,
 that he was acknowledged a Minister by the Monthly Meeting of the West Division of Cornwall,
 and obtained a certificate for visiting the Eastern counties.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Bradpole, 29th of Fourth Month, 1825.
 
-My Dear Lydia,--When we think what unworthy creatures we are, even at the best,
-and how goodness and mercy fol low us, sustaining us under our trials,
+[.salutation]
+My Dear Lydia,
+
+When we think what unworthy creatures we are, even at the best,
+and how goodness and mercy follow us, sustaining us under our trials,
 and turning them all to our good, we have surely great occasion to lay hold of hope,
 to take fresh courage, to put on strength, and be armed with patience,
 cheerful submission, and full assurance of faith for the time to come.
@@ -260,11 +299,18 @@ and what they have done in simplicity, on behalf of the poor servant,
 it is esteemed as done to the Master himself; though they may be ready to say,
 "`When saw we thee in prison,`" etc.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 2nd of Fifth Month, 1825.
 
---Having been helped to get over another mountain
+&hellip;Having been helped to get over another mountain
 in the attendance of this meeting yesterday,
 and having been favoured to wrestle and struggle with the powers of darkness,
 and to suffer with a suffering seed in this desolate region,
@@ -311,15 +357,24 @@ for it is the Master that says,--"`Fear not little
 flock;`"--"`Be of good cheer;`"--"`Be strong,`" yea,
 be strong.
 
+[.signed-section-closing]
 Thy very affectionate brother,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Priscilla Hannah Gurney
 
+[.signed-section-context-open]
 Sixth Month, 1825.
 
---After a considerable space of intervening time, I take my pen to salute thee,
+&hellip;After a considerable space of intervening time, I take my pen to salute thee,
 though scarce knowing in what circumstances this may find thee.
 If the best of us are but in the land of the living,
 partakers of life invisible and divine,
@@ -348,6 +403,8 @@ as I return, after attending the sixth London Monthly Meetings.
 This last is to me in prospect crucifying, beyond what I can express,
 especially as I have believed it best to go single-handed.
 
+--
+
 10th of Sixth Month, 1825.--At night under great anguish of spirit, I wrote as follows,
 my heart being turned towards the Lord: O! God, most holy, and almighty,
 all wise and gracious,--regard me with thy pitying eye; spare me, help me,
@@ -361,11 +418,16 @@ to my everlasting rest with thee and with thy Son.
 Amen!
 Amen!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 15th of Sixth Month, 1825.
 
---On the 7th, I attended Devonshire House Monthly Meeting,
+&hellip;On the 7th, I attended Devonshire House Monthly Meeting,
 and on the 8th that of Gracechurch Street;
 in both which I had to declare the excellency of
 that spiritual dispensation committed to us.
@@ -408,11 +470,21 @@ considering my weakly condition.--Give my love to Friends.--I am a poor creature
 but I trust not out of the reach of the infinite compassion of the Shepherd of Israel.
 Farewell!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Carshalton, 20th of Sixth Month, 1825.
 
-My dear +++_______+++,--I may state to thee, that on Sixth day and Seventh day week,
+[.salutation]
+My dear +++_______+++,
+
+&hellip;I may state to thee, that on Sixth day and Seventh day week,
 my powers of body and mind were so exhausted and enfeebled, as clearly to excuse me,
 in my judgment, from any further proceedings in my engagement for the present.
 I saw I had no hard master,
@@ -427,11 +499,18 @@ since coming to it:--whether I may ever complete what was presented to my mind,
 as a religious obligation, I know not;
 but I am very comfortable in an entire relinquishment of that part which respects London.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Lydia Ann Barclay
 
+[.signed-section-context-open]
 Bognor, 24th of Sixth Month, 1825.
 
---I am favoured indeed in being able to say, how greatly the change of air,
+&hellip;I am favoured indeed in being able to say, how greatly the change of air,
 and the suspension of mental exercises have revived me.
 Truly, I felt both in mind and body,
 failing beyond the usual vicissitudes or ups and downs that attend.
@@ -465,11 +544,21 @@ daily partaking of the Divine blessing, and in that,
 moving and acting towards others in our several duties.
 It is wonderful to me, how my constitution seems in so short a time to have rallied.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 Bognor, Sussex, 30th Sixth Month, 1825.
 
-My beloved Friend,--What a wonderful course have believers to tread in;--how led about,
+[.salutation]
+My beloved Friend,
+
+What a wonderful course have believers to tread in;--how led about,
 and in all things instructed,--how wonderfully and wisely dealt with!
 What a process it takes to purify us from self, and completely to redeem.
 Nothing less than an infinite Hand can do it for us,--both as to mercy, wisdom and power,
@@ -518,6 +607,8 @@ all that can happen to us will only turn to our benefit,
 and not one of our sacrifices but will accomplish that for which it is designed by Him,
 who worketh in us and for us.
 
+--
+
 1825, Ninth Month 15th.--I got well home, with a peaceful mind, empty and low enough,
 though not so as to be insensible of the powerful hand that had been over me for good,
 and over all things else, to make them good to me.
@@ -549,6 +640,7 @@ now and evermore! for no one else can deliver or preserve, or carry through,
 or enable to glorify Him, or bring about things,
 that so they shall all redound to His praise.
 
+[.offset]
 +++[+++In the Third Month, 1826, he quitted his residence at Marazion,
 and in the Fifth Month following, he again entered into the married state,
 settled at Alton, in Hampshire.]
@@ -581,10 +673,16 @@ he hath made that to be possible,--yea, brought it to pass,
 which seemed impossible,--yea, brought me safely through;
 so that I can indeed yet praise him for his goodness.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. S.
 
+[.signed-section-context-open]
 Alton, Fifth Month, 1826.
 
+[.salutation]
 My dear Friend,
 
 To say that my soul doth tenderly and deeply sympathize with thee under thy sore bereavement,
@@ -649,6 +747,10 @@ My dear love attends thee.
 May we abound in grace, and every good fruit, even by abiding in the vine,
 being often purged as fruit-bearing branches, and chastened as dear children.
 
+[.signed-section-closing]
 Farewell, I remain thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--

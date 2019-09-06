@@ -5,10 +5,16 @@ with benefit to his general health.
 While at Brighton in the Eleventh Month, under an apprehension of religious duty,
 he addressed his Monthly Meeting as follows:]
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Gracechurch Street Monthly Meeting of Friends.
 
+[.signed-section-context-open]
 Brighton, 9th of Eleventh Month, 1836.
 
+[.salutation]
 Dear Friends,
 
 In the love of our heavenly Father,
@@ -34,7 +40,10 @@ Desiring we may all be kept patiently and diligently
 attentive to the voice of the true and tender Shepherd,
 I bid you affectionately farewell.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 +++[+++In the Twelfth Month,
 he returned to his Monthly Meeting the certificate granted for the above service;
@@ -46,8 +55,13 @@ calculated to excite much sympathy on the part of his friends of that place;
 he entered house after house, supported by his crutches,
 and it is believed his visits were peculiarly acceptable generally.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 3rd of Twelfth Month, 1836.
 
 Ah! dear +++_______+++, as you well know, home is home,
@@ -65,12 +79,20 @@ everything is to be received with thanksgiving,
 and used with joyfulness,--come pain of body, or conflict of mind,
 loss of wife or children, or dearest friends, or house, or food.
 This is our calling,--this is our privilege;
-and O! that we may hold it up to others as such, both in life and in death!
+and Oh, that we may hold it up to others as such, both in life and in death!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To a Young Friend.
 
+[.signed-section-context-open]
 24th of Twelfth Month, 1836
 
 Rely upon it, my dear +++_______+++, these associates of yours, whoever they be,
@@ -232,10 +254,18 @@ to deliver us from temptation, to aid our drooping resolutions,
 and quicken our souls to run with patience the race set before us,
 and to hold out to the end in well doing.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 6th of Second Month, 1837.
 
 When the will is slain,--when we can say,
@@ -264,7 +294,7 @@ for though a few leaders of faction and of error have left us,
 and have swept away a number of followers, whom they have deluded,
 and who were not settled in the faith,
 and some of these hardly knowing why they belong to us;--yet of those who remain,
-O! what a remnant really are one with us!
+Oh, what a remnant really are one with us!
 And unless wonderful mercy, wisdom, and strength, be manifested towards the unstable,
 as towards all of us,--what can hinder their being scattered and driven away.
 
@@ -274,15 +304,23 @@ great deal to be worked through and worked out,
 before this once self-denying and redeemed people,
 can be reinstated to their former brightness and ancient purity.
 The Lord waits to be gracious, and I believe will hasten this work in his time.
-And O! that we may be so preserved and strengthened, as to be made willing,
+And Oh, that we may be so preserved and strengthened, as to be made willing,
 through all baptisms, to be instrumental in our day, in ever so little a way or degree,
 to bring about the period, when the salvation of Zion shall go forth,
 as a lamp that burns!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, Third Month, 1837.
 
 Time rolls on, and manifests things and persons quickly.
@@ -294,7 +332,7 @@ The conflict and contest is pretty well over, with what was called Beaconism;
 but there are those still remaining, who occasion the true Friends great exercise;
 being unwilling to go the whole length with our ancient primitive worthies,
 but can readily find them in fault.
-O! I trust this also shall in due season be broken up, and the testimony of Truth,
+Oh, I trust this also shall in due season be broken up, and the testimony of Truth,
 in all its completeness and simplicity, rise and shine over all opposition.
 Modified Quakerism cannot stand the fire.
 
@@ -304,13 +342,21 @@ as we have ever received it from the beginning;
 and may we be perfectly knit and united together in the same mind and in the same judgment;
 even though we be left as a little remnant, and as spectacles to the world.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 31st of Third Month, 1837
 
---How many and awful have been the warnings and the tender chastenings
+&hellip;How many and awful have been the warnings and the tender chastenings
 of the all-wise hand of Divine Providence of later times;
 all (I sometimes think) concurring with, and bearing upon,
 and bespeaking somewhat in relation to the spiritual
@@ -362,10 +408,18 @@ at the tribulated state of the church,
 stripped of many a son and daughter--promising and once thriving branches,
 but now withering and corrupt, more or less dying and dead, yes, twice dead!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Tunbridge Wells, 16th of Ninth Month, 1837.
 
 May you be strengthened and animated from time to time,
@@ -374,12 +428,12 @@ to run with all patience and quiet confidence,
 the wearisome journey that is yet before us.
 In due season our reaping time and shouting time will come,
 for which we have sown in tears; laying down as it were our all,
-(O! that it may be our very all,--) surrendering everything that the
+(Oh, that it may be our very all,--) surrendering everything that the
 Lord calls for at our hands,--casting into the treasury even our mites,
 of our poverty,--being content to see ourselves to be very poor helpless, worthless,
 fit to be pitied, mere pensioners,
 and dependents on the Lord`'s free mercy and renewed blessing.
-O! this is the state that draws down the Divine regard, and, as it were,
+Oh, this is the state that draws down the Divine regard, and, as it were,
 commands the rich out pouring of those good and perfect gifts,
 which dignify and adorn poor fallen human nature;--which
 raise up the brother and the sister of low degree,
@@ -400,12 +454,21 @@ that they might keep a conscience void of offence, and be clear of the blood of 
 I hope (if life be spared, and strength given,) to handsome, yes,
 many of these for the perusal of such as can receive and profit by them.
 
+[.signed-section-signature]
 J+++.+++ B.
 
-From John Barclay to John Wilbur
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+John Barclay to John Wilbur
+
+[.signed-section-context-open]
 Hastings, in Sussex, 8th mo., 1837.
 
+[.salutation]
 My very near, though far distant friend, John Wilbur,
 
 You have been often, yes, very often, brought into sweet and precious remembrance;
@@ -466,12 +529,12 @@ I undertook it because it seemed as if he could trust but few if any;
 but it is a great job, and, in my feeble state, Friends must still have patience with me,
 for it is not yet gone to press.
 My line is more in reviving the ancient writings of early Friends.
-You have doubtless seen Dewsbury`'s Life;
-I am now nearly ready with Joseph Pike`'s Journal, an elder of Cork,
+You have doubtless seen [.book-title]#Dewsbury`'s Life#;
+I am now nearly ready with [.book-title]#Joseph Pike`'s Journal#, an elder of Cork,
 who was contemporary with William Edmundson,--also Joseph Oxley`'s Journal,
 who travelled to your land about 1770.
 I intend producing, if my life be spared and ability extended,
-"`Letters of early Friends,`" having had access to large collections.
+[.book-title]#Letters of early Friends#, having had access to large collections.
 It will develope, in plain, strong colors,
 the standing and movements of our worthy predecessors, and what spirit they were of.
 So that, though often laid by, and much prevented from travelling or exposure,
@@ -542,12 +605,21 @@ Fare you well,
 beloved friend I and may the Lord Jesus stand by you in all your exercises,
 and bring you through them, to his own praise and your rejoicing.
 
+[.signed-section-signature]
 John Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 27th of Eleventh Month, 1837.
 
+[.salutation]
 My beloved Friend,
 
 My poor and often tribulated spirit does salute yours, even as deep answers to deep;
@@ -582,13 +654,21 @@ and find out all his enemies,
 and pursue and overtake them in all their retreats
 in the precincts of and back ways to Babylon.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 29th of Eleventh Month, 1837.
 
---I may truly and sincerely say, that we participated in a sense of the loss,
+&hellip;I may truly and sincerely say, that we participated in a sense of the loss,
 which many (doubtless) even among the more distant connections and friends of the deceased,
 feel they have sustained.
 Do I say loss, do I speak of deprivation,
@@ -610,15 +690,25 @@ we may be assured of the fulfilment of his gracious
 promise of the hundredfold even in this life,
 besides the heavenly inheritance.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To One of Another Profession and a Zealous Minister.
 
+[.signed-section-context-open]
 26th of First Month, 1838.
 
+[.salutation]
 My dear Friend,
 
-It is time I acknowledged your favour of the 21st ult., which has not been lost upon me.
+It is time I acknowledged your favour of the 21st of last month,
+which has not been lost upon me.
 I accept your kind and sincere notice of me, and also of my books, with, I trust,
 the like genuine Christian feeling.
 That we have been made somewhat acquainted one with another has been cheering to me,
@@ -697,6 +787,10 @@ has free course.
 Farewell! the Lord be between us, and with us, henceforth and forever.
 With Christian love to you and your wife, and sister.
 
+[.signed-section-closing]
 I remain your friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--

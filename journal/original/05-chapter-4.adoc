@@ -129,6 +129,9 @@ but he that soweth to the Spirit, shall of the Spirit reap life ever lasting.`"
 I had also occasion to remember, that he it was, who came to Christ, heard his sayings,
 and did them, that was likened to a man, who built upon a rock.
 
+[.small-break]
+'''
+
 +++[+++It appears, that about this period,
 the author felt it to be his duty to address his late school-master;
 having when under his charge been guilty of much irregular and disreputable conduct:
@@ -136,10 +139,16 @@ the reader may judge of his feelings on this occasion,
 by the following extracts from his letter to this person,
 after having left the school about four years.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to B. H. M.
 
+[.signed-section-context-open]
 10th of Fourth Month, 1817.
 
+[.salutation]
 Esteemed Friend,
 
 Whilst taking up my pen to address thee,
@@ -188,14 +197,24 @@ I find myself able to express very little of what I feel, not only towards thyse
 but towards all whom I have in any manner injured,
 whether more or less remotely.--With feelings of esteem for thyself and family,
 
+[.signed-section-closing]
 Believe me to be thy friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 Clapham, 22nd of Fourth Month, 1817.
 
+[.salutation]
 My dear +++_______+++,
 
 In the season of sore affliction, which has at this time overtaken me,
@@ -224,11 +243,19 @@ I have nothing for which to reprove myself as yet,--nothing that
 I could really and truly wish to be otherwise than it is;
 and that I have abundant cause for thankfulness and encouragement.
 
+[.signed-section-closing]
 Believe me, thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to a Friend, dated about this time, he writes:--]
+
+[.embedded-content-document.letter]
+--
 
 We have truly witnessed the "`mighty hand,`" and the "`outstretched
 arm:`" then let neither of us be using in effect any other language,
@@ -257,10 +284,18 @@ Nay, certainly.
 Obedience is better than sacrifice: and it is not our doing that which is good simply,
 which pleaseth God, but that good which he willeth us to do.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. F. M.
 
+[.signed-section-context-open]
 Clapham, Fifth Month, 1817
 
 I could say much to thee at this time,
@@ -286,9 +321,13 @@ are likely to produce nothing short of additional condemnation.
 O! it is the humbled and contrited spirit that is an acceptable sacrifice,
 and said to be "`precious in the sight of Him with whom we have to do.`"
 
+[.signed-section-closing]
 Farewell,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, Fifth Month.--I think I have heard a remark, made by some amongst us,
 tending rather to the injury and prejudice of them that give place to the sentiment,--namely,

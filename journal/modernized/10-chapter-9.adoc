@@ -1,9 +1,15 @@
 == Chapter IX.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++
 
+[.signed-section-context-open]
 3rd of Second Month, 1819.
 
+[.salutation]
 Dear +++_______+++,
 
 I have often believed that the blessing in store for those who
@@ -27,12 +33,21 @@ And I think I may safely say to you dear +++_______+++,
 there has already been received by me an equivalent to the hundred-fold,--houses,
 brethren, sisters, with suffering; though I look for something still better in the end.
 
+[.signed-section-closing]
 From your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++
 
+[.signed-section-context-open]
 1819, Fifth Month 4th.
 
 I have sometimes remembered the language or sentiment of a tried servant,
@@ -87,8 +102,15 @@ as an injudicious engagement therein;
 it unsettles and uncenters the mind from the great first object,
 if much care be not exercised, and diligent watchfulness maintained.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. S.
 
+[.signed-section-context-open]
 1819, Seventh Month 22nd.
 
 The examination of religious tracts proposed to be printed, is a weighty service.
@@ -127,6 +149,8 @@ Those who are admirers of words, whether they be words printed or words preached
 are very unlikely to be benefited really and truly by either,
 having gone from that which is beyond words, and which alone can make words effectual.
 
+--
+
 1819, Sixth Month 5th.--Great have been my temptations:
 yet abundantly manifest through all,
 have been the out-stretchings of the ancient and eternal arm of power:
@@ -141,7 +165,7 @@ or be his dutiful and faithful son and servant.
 1819, Date uncertain.--O holy blessed Father! your love shed abroad in the heart,
 your sweet refreshing influence, can make up for all;--your softening,
 healing balm makes us forget our wounds and weeping.
-O! how good you are to those who still struggle after resignation
+Oh, how good you are to those who still struggle after resignation
 and sigh after submission to your holy will!
 Though they fall many times,
 yet how is your strength manifested for their recovery and relief,
@@ -168,14 +192,14 @@ Jesus my Saviour, through the eternal Spirit;--praises,
 praises to your name forevermore.
 Amen!`" (Written in a grove at Knapton, in Yorkshire.)
 
-1819, Eighth Month 25th.--O! You that see in secret, that know all things,
+1819, Eighth Month 25th.--Oh, You that see in secret, that know all things,
 that search the hearts, and triy the inward parts of all men,
 and in whose pure sight iniquity is discerned and judged,--may it please
 you yet once again to regard and pity your frail and faultering servant:
 who am not worthy to be accounted of your household; and yet cannot rest satisfied,
 in any thing short of a pure and perfect surrender
 and sacrifice of my all unto your service.
-O! your presence, your purifying,
+Oh, your presence, your purifying,
 preserving energy and virtue inwardly communicated to my soul,--how has it helped
 me along in my earthly pilgrimage,--how has it sustained me in the year of drought,
 and in the hour of temptation and of trial!
@@ -195,7 +219,7 @@ having so often transgressed and offended by unfaithfulness and many backsliding
 even the brightest and best,--what a dwarfish set:--it is
 most true indeed that we have not attained to the stature,
 strength, or standing of our fathers.
-Yet O! how bright in the horizon was the opening,
+Yet Oh, how bright in the horizon was the opening,
 the breaking forth of the morning of the day of the Lord`'s everlasting power!
 Verily his hand is not shortened,
 the glory of his excellency and of his strength will yet be manifested more and more;
@@ -208,8 +232,13 @@ and as they abide where he would have them, nothing shall harm them,
 nor any iniquity prevail against them; and they shall never perish,
 neither shall any pluck them out of his holy hand.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Samuel Alexander.
 
+[.signed-section-context-open]
 21st Tenth Month, 1819.
 
 I omitted to mention our Quarterly Meeting: it was held to satisfaction.
@@ -228,8 +257,15 @@ compliance with what is there laid down;
 nor does much talking in favour of any point, prove that the sense of Truth is that way,
 though it may prove that the sense of the majority leans so.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 London, Eleventh Month 6th, 1819.
 
 My dear love has often been as fresh and warm towards you,
@@ -303,7 +339,7 @@ as the partridge on the mountains, for a long season, pursued yet escaping:
 and the seed of David to this day,
 have often to "`abide in the wilderness in the strong-holds "`and in the mountains,
 and are ready sometimes to say, "`surely I shall one day fall by the hand of Saul.`"
-O! this is a sore conflict, yet a glorious and honourable warfare:
+Oh, this is a sore conflict, yet a glorious and honourable warfare:
 and the victory is certain to all those that hold out unto the end in faith and faithfulness.
 
 I fondly trust, my dear friend, that by this time many of your soul`'s enemies,
@@ -342,7 +378,7 @@ but an upright desire to be led by nothing but the true guide,) I have
 been made willing to resign myself to what has been cast up,
 I trust with some thing of that singleness of heart and simplicity,
 which the right thing does undoubtedly induce.
-O! the comfort and divine consolation,
+Oh, the comfort and divine consolation,
 which such a procedure has drawn upon my poor soul,
 even in the midst of much trouble and suffering.
 
@@ -371,14 +407,24 @@ to the praise of Him who has chosen and ordained us,
 that we should go and bring forth much fruit, and that our fruit should remain;
 and who is ready thoroughly to furnish us unto every good word and work required of us.
 
+[.signed-section-closing]
 Farewell, and believe me to be your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Falmouth, 17th of Twelfth Month, 1819.
 
+[.salutation]
 Dear +++_______+++,
 
 My dear love is to you, though from a low spot,
@@ -405,8 +451,15 @@ invincible and unchangeable to bear up our minds
 above the billows,--this is worth living for,
 and suffering for, and dying for.
 
+--
+
+[.offset]
 +++[+++In a letter to a person under serious convictions,--he wrote:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to M. B. W.
 
 In taking my pen to reply to your letter,
@@ -555,14 +608,14 @@ if it might be the very lowest, at his spiritual supper,
 or even to partake of the crumbs that might fall
 from his table,--willing also to fast long,
 if it so pleased Him,
-until the times of refreshing should come from his presence,--O! how was and is my safety,
+until the times of refreshing should come from his presence,--Oh, how was and is my safety,
 my sure standing, my strength, my salvation, known and felt to be wrought out,
 even with fear and trembling.
 For here in this lowly valley, where self was of no reputation,
 and the bleak gales passed over, and cut not the tender plant,
 the quiet habitation was known,--the still small voice was distinctly heard, which said,
 "`This is the way, walk in it.`"
-O! how I then knew my peace made and daily kept; even a holy assurance was given me,
+Oh, how I then knew my peace made and daily kept; even a holy assurance was given me,
 a holy confidence and repose,
 as in the arms of a faithful Creator,--agreeably to the language of the prophet,
 "`You will keep him in perfect peace, whose mind is stayed on you.`"
@@ -574,7 +627,7 @@ because he had sent forth the Spirit of his Son into my heart,
 and I had received the spirit of adoption, whereby I could cry, Abba, Father.
 For as many as are led by the Spirit of God, they are his sons.
 
-O! how precious is this passive, patient,
+Oh, how precious is this passive, patient,
 submissive state of mind,--a giving up of all into His holy
 care and keeping,--a resigning of our own wills,
 wisdom, and the workings of our own spirits and nature to be melted down,
@@ -585,7 +638,7 @@ that part in us which is to die, being crucified, dead and buried,
 according to the apostles testimony, where he says,
 "`knowing this that our old man is crucified with Him,
 that the body of sin might be destroyed, that hence forth we should not serve sin.`"
-O! how clearly, even with unclouded clearness,
+Oh, how clearly, even with unclouded clearness,
 were things opened to me while in this state and condition;
 or rather how was my mind prepared and qualified (through a being clothed with humility,
 and the meek and quiet spirit,
@@ -613,7 +666,7 @@ and be born again, born of the Spirit, for the carnal mind is enmity against God
 and without holiness no man can see God, or his kingdom, (which is "`righteousness,
 peace, and joy in the Holy Spirit;`") neither can he enter therein:
 however high the profession, yet so much the greater may be the condemnation.
-O! I have felt it to be a very awful consideration, my friend,
+Oh, I have felt it to be a very awful consideration, my friend,
 that the enemy of our soul`'s eternal welfare, hunts for the precious life,
 the substance and root of religion;
 if he can eat that out,--if he can deprive us of that,
@@ -675,3 +728,5 @@ of sins:`" none are saved but by and through Him:
 for we are reconciled to God by the death of His Son,
 and thereby put into a capacity to lay hold of that salvation which is freely offered,
 on condition that we repent and believe.
+
+--

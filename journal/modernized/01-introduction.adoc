@@ -68,6 +68,9 @@ The following testimonial to the religious character of the Author,
 drawn up by one of his early and most intimate friends, now living, (J. F. Marsh,
 of Croydon,) may, it is thought, be suitably introduced at this place:
 
+[.embedded-content-document.testimony]
+--
+
 He was one with whom I shared no common intimacy and friendship,
 both at an earlier period of our lives, and subsequently:
 we often took sweet counsel together; and, I may say,
@@ -101,9 +104,13 @@ and made them white in the blood of the Lamb,--he has finished his course with j
 and is gone to inherit the crown of righteousness,
 laid up for all them that love the appearing of Christ.
 
+--
+
 The reader is referred to the annexed testimony of Gracechurch Street Monthly Meeting,
 for a further but brief memorial of my beloved departed brother.
 
+[.signed-section-signature]
 A+++.+++ R. BARCLAY.
 
+[.signed-section-context-close]
 Leytonstone, near London, 12th Month, 1841.

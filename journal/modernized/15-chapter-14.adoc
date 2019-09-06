@@ -1,9 +1,15 @@
 == Chapter XIV.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to C. P. A.
 
+[.signed-section-context-open]
 Croydon, Tenth Month, 1834.
 
+[.salutation]
 My beloved Friends,
 
 I am ready to believe you would not attribute my silence to neglect or lack of feeling,
@@ -34,16 +40,23 @@ Yet at other times, when favoured to rise above a selfish interest and anxiety,
 one cannot but see it is very needful there should be a falling away first,
 that the man of sin may be revealed, and more and more discovered,
 and that Zion may be more and more redeemed through judgment, and saved as by fire.
-O! may nothing in low and trying seasons be permitted to intervene and trouble us unprofitably,
+Oh, may nothing in low and trying seasons be permitted to intervene and trouble us unprofitably,
 either as to our individual lot and state,
 or as regards our precious fellowship and unity in that which is unchangeable,
 or as to the state of the church or the world;
 but may we continue in faith and patience to the end.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to another friend about the same date, alluding to his late journey,
 he says;]
+
+[.embedded-content-document.letter]
+--
 
 Though the humiliations have been frequent and great,
 a sense of preserving help has never been withheld in the needful measure,
@@ -57,19 +70,26 @@ amidst all exercises and tribulations, such will grow.
 May we ever be counted worthy of taking our lot among this number,
 drinking into one Spirit.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 16th of Twelfth Month, 1834.
 
---Unless we have forfeited our privileges as Christians,
+&hellip;Unless we have forfeited our privileges as Christians,
 and are utterly lost to all right feeling of Divine help, is it not natural and likely,
 and consistent with the provisions of Divine wisdom, that as our day is,
 so should our strength be.
-And O! the invincible, the unutterable strength of the true faith,
+And Oh, the invincible, the unutterable strength of the true faith,
 even but a grain;--it is calculated to overcome the world and the transient things of it;
 as embraced and laid hold of, and cleaved unto, it makes us heirs of life,
 and gives victory over death.
-O! then, what cause, and also what ability may we find, even to "`rejoice evermore,
+Oh, then, what cause, and also what ability may we find, even to "`rejoice evermore,
 and in everything to give thanks,`" as poor J. Woolman told his attendant,--for this is,
 indeed,
 the will and purpose of God in Christ Jesus concerning
@@ -83,22 +103,29 @@ that we may in no way be moved by these or any afflictions; but that the further
 the more we may witness of the Lord`'s wonders in the deeps,
 and be confirmed in the experience of his mercy, faithfulness, and strength;
 though it should be continually made manifest and made perfect in our abundant weakness.
-O! the times and the seasons are well left in his hand,
+Oh, the times and the seasons are well left in his hand,
 who orders or overrules all things well.
 And in the present low and trying state of things, it is not to be wondered at,
 that oppression and obstruction are permitted to be felt,
 to the bowing down of the very souls of some!
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Croydon, 5th of First Month, 1835.
 
-Your communication of the 6th ult.
+Your communication of the 6th of last month
 was very welcome and refreshing to us.
-O! how remarkable are the ways of omnipotent Wisdom, infinite love!
+Oh, how remarkable are the ways of omnipotent Wisdom, infinite love!
 As Penington somewhere says,--if its outgoings are stopped in one direction,
 it will break out with proportionate beauty and force in another.
-O! what can the enemy do,
+Oh, what can the enemy do,
 to hinder the glorious arising and irresistible spread of the gospel of Truth and salvation?
 He may vaunt and do great things for awhile, such as may, if it were possible,
 delude and carry away the very elect;
@@ -131,7 +158,7 @@ do we "`live also`" from day to day,
 and have at times a precious degree of hope given to us,
 that we shall outlive all that can happen to us here, and be safely landed in the end,
 where joy and peace abound forevermore.
-O! then, may we each in our allotment of labour, suffering, or rejoicing,
+Oh, then, may we each in our allotment of labour, suffering, or rejoicing,
 fill up our measure; and work with a good heart,
 while it is day,--while we see the way open before
 us,--in full assurance of faith and love;
@@ -150,7 +177,7 @@ that our comfort in the Lord, and one in another, may not be marred.
 May we all be builded together, and seek also to build up one another,
 in the main thing--our holy faith, which stands in power, in truth, in love, in peace,
 and in the abasement of the creature.
-O! may this blessed work, with you and everywhere else, go forward,
+Oh, may this blessed work, with you and everywhere else, go forward,
 notwithstanding all opposition or misgivings; and may all that would let,
 with every weight, be laid aside, and removed out of the way, says my soul!
 
@@ -176,13 +203,21 @@ or by love of other things: but these are concerned to lie low before the Lord,
 and to be crucified with Christ; that so they may say in truth, "`I live, yet not I,
 but Christ lives "`and moves and reigns "`in me.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 12th of First Month, 1835.
 
---I understood +++_______+++ to say, that she believed,
+&hellip;I understood +++_______+++ to say, that she believed,
 from the extensive opportunities she had had of judging
 among all kinds of churches and professions,
 that the enemy was busily at work to scatter and divide; and that, therefore,
@@ -196,7 +231,7 @@ breaking up the false rests and old formal settlements of people; and saying to 
 "`Why do you seek the living among the dead?`"
 and his design in all these shakings, and siftings, and overturnings is,
 that that which cannot be shaken may be manifested and may remain; that men may see,
-that it will not do any longer to go after the Lo! here`'s, or Lo! there`'s,
+that it will not do any longer to go after the Lo, here`'s, or Lo, there`'s,
 in this or that system of observations;
 but that the kingdom and power are to be found within.
 And so is Christ`'s own language fulfilling,--"`I came not to send peace,
@@ -221,10 +256,18 @@ whereas the way of the Truth is a plain way, so that the wayfaring man, though a
 is not to err therein; that is, as he looks to the Lord alone,
 and does not lean to his own understanding.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 8th of Second Month, 1835.
 
 May the blessing of heaven above and of the earth beneath attend
@@ -251,10 +294,18 @@ which our dear Lord and Saviour purchased for us by his coming and by his death;
 then shall we be Christians indeed; and when our little moment of probation is over,
 then the eternal weight of unmingled joy and glory shall follow!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Thomas E+++_______+++.
 
+[.signed-section-context-open]
 Croydon, Sixth Month, 1835.
 
 No sooner was my eye opened to see the excellency there is in the Truth,
@@ -275,7 +326,7 @@ who desire to cleave to him, with full surrender of them selves;
 that He is still near to help in the needful time, to limit the power of the enemy,
 and lift up a standard against him,
 and to overrule all for the good of those that fear Him.
-O! how little do we know of the designs of His wisdom and goodness
+Oh, how little do we know of the designs of His wisdom and goodness
 to his church:--His people are permitted to be bowed down,
 afflicted, oppressed;--He chastens them,
 and reduces them;--and then (as the history of the church
@@ -311,7 +362,7 @@ and I think I see this in many of the publications
 that have of late years issued from the press.
 The more pure days of the church yield to me much
 the most interesting and impressive experience.
-O! how is the simplicity overborne, even in dedicated minds, now-a-days; how refined,
+Oh, how is the simplicity overborne, even in dedicated minds, now-a-days; how refined,
 how self-indulgent, and full of reasonings are we!
 At what a low ebb in many places is our ministry; even strangers noticing the change,
 and the approach to their pulpit eloquence: Scripture words indeed there are,
@@ -331,9 +382,13 @@ I shall be pleased to hear from you, whenever you have occasion or liberty to ad
 and sometimes, at least, think of me as one that longs to endure to the end,
 to hold fast faith and patience, till the Lord say, it is enough.
 
+[.signed-section-closing]
 I remain a poor and weak brother,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 +++[+++In the Third Month of this year he became very ill with a severe attack of influenza,
 and was reduced to such a feeble state of health,
@@ -352,24 +407,35 @@ that he could be removed home.
 During this afflicting dispensation, while laid up at the house of a Friend at Melksham,
 who with his wife, were very kind and most attentive to him, he wrote thus:]
 
+[.embedded-content-document.letter]
+--
+
 I hope there is no cause for discouragement on my account up to this time:
-O! I trust I have some sense of the tender mercies of Him, who deals gently with me!
+Oh, I trust I have some sense of the tender mercies of Him, who deals gently with me!
 But I think, there is no need to express much to you,
 as to my feelings and state of mind, in reference to this dispensation of Providence.
 You know I wish to hope the best,
 and to prepare for what may seem the worst,--to be
 prepared for all that may be in store for me:
 and this is what I long for all who are near and
-dear to me.--O! how much occasion there is to possess,
+dear to me.--Oh, how much occasion there is to possess,
 as though we possessed not,
 and as those that are liable to be cut off from any of these enjoyments at a moment!
 May we be strengthened to take every cup as at the Lord`'s hand,
 and he will not fail to sweeten it.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 26th of Eleventh Month, 1835.
 
 "`Day unto day utters speech;`" and while every day
@@ -377,7 +443,7 @@ brings with it its peculiar duties and trials,
 there is enough of mercy and help manifested,
 to give abundant occasion for the engagement--"`While I live will I praise the Lord;
 I will rejoice and give thanks while I have any being.`"
-O! that you may have found, and may always find,
+Oh, that you may have found, and may always find,
 the Lord near to you in the time of need, as your bow and battle axe,
 your shield and refuge!
 I feel persuaded the Lord would do wonderfully for you, and make you a blessing to many;
@@ -396,21 +462,29 @@ the high towers and fenced walls, and pleasant pictures has He marred,
 and the lofty city laid low.
 He has in exchange given to apprehend the simplicity,
 the excellency there is in the Truth.
-O! what a high calling, what a talent is consigned to us!
+Oh, what a high calling, what a talent is consigned to us!
 See that you magnify His work, said one:
-and O! that our desires may be from day to day renewed,
+and Oh, that our desires may be from day to day renewed,
 that Christ and his thorough work may be exalted over all,
 in and by us,--come life or death,--come wintry storms
 or genial sunshine across our path.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 13th of Twelfth Month, 1835
 
 I hope you both live in a thorough willingness to come up to the help of the good cause.
-O! what a self-saving, self-serving spirit is abroad;--shrinking and skulking,
+Oh, what a self-saving, self-serving spirit is abroad;--shrinking and skulking,
 instead of exposing all, life and reputation,--laying down all for the brethren,
 for the church, for the Truth, for the Lord!
 May you be strengthened and animated to know what is your part and duty;
@@ -419,15 +493,24 @@ He that saves his life shall lose it--he that hates not father and mother, etc,
 yes and his own life also, cannot be Christ`'s disciple;--how awful!
 Why have we not that holy zeal, and weighty concern, and true call,
 to break down the altars of Baal,--to warn, to rebuke sharply,
-to cut down deceit?--O! that I may be found, during my few remaining days,
+to cut down deceit?--Oh, that I may be found, during my few remaining days,
 fulfilling this course; and through all, dying daily!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Thomas E+++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, First Month, 1836.
 
+[.salutation]
 My dear Friend,
 
 I have delayed, longer than I wished,
@@ -452,7 +535,7 @@ of different movements and circumstances that transpire,
 my mind seems permitted to travel on into the future,
 and to see what some are contriving and concerting to strengthen their cause,
 and to possess themselves as it were of the strong-holds and the passages.
-O! the deceit and the workings of that spirit,
+Oh, the deceit and the workings of that spirit,
 in those that despise and forsake the light of Christ in their own consciences!
 Yet through all,
 though I have sorrowful cause to believe some of understanding must and will fall, yes,
@@ -461,7 +544,7 @@ confirmed in the ground taken by our early Friends,
 and in the belief that all will be made (as you express
 it) to work together for the good of the poor little remnant,
 who are concerned through all sufferings to keep to this ground.
-O! I often feel inwardly cheered and animated, in the midst of the most gloomy prospects:
+Oh, I often feel inwardly cheered and animated, in the midst of the most gloomy prospects:
 for the power of Truth is the same that ever it was; and the Lord can confound,
 even by feeble instruments and unlikely means.
 It matters not through whom help comes,
@@ -473,13 +556,21 @@ Spirit that now lives and reigns in me,
 shall yet break forth in thousands:`"--and this is my full belief,
 even if the number of active and influential members in our Yearly Meeting,
 were greatly diminished or even swept away.
-O! the Lord can turn the fruitful field into barrenness,
+Oh, the Lord can turn the fruitful field into barrenness,
 and make the desert to blossom as the rose.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 2nd of Second Month, 1836.
 
 I can truly say, that with me often there has been no lack of feeling and sympathy,
@@ -524,10 +615,18 @@ if aught be taken from us, with which we might have injured ourselves.
 Ah! like as a father or a mother pities her babe, so does He,
 who watches over us for good!
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 8th of Second Month, 1836.
 
 --"`I will show him how great things he must suffer for my name`'s
@@ -564,7 +663,7 @@ that we are found worthy to suffer in any way for His cause,
 who suffered so much before us and for us,
 that He might open us a way out of this prison-house and place of proving.
 
-O! my dear friend, my mind is enlarged,
+Oh, my dear friend, my mind is enlarged,
 and my eye opened to see something of the excellency of that quiet habitation,
 where none can make afraid;
 where the Lord is "`our peace,`" having ordained peace for us,
@@ -594,12 +693,21 @@ as the prophet says:--"`therefore,`" adds he,
 "`love the Truth and peace;`"--so will I save you, and you shall be a blessing:
 "`fear not, but let your hands be strong.`"
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Stoke Newington, 19th of Second Month, 1836.
 
+[.salutation]
 My dear Friend,
 
 It is a pleasure to greet such as yourself and dear husband, with others in your parts,
@@ -632,14 +740,22 @@ according to your need and according to your measure, to be aware of his devices
 Ah! no divination can prevail against the humble, teachable followers of our Lord:
 they are preserved in the hollow of his hand, and under his wing;
 and he delights to tabernacle with them.
-O! that nothing may turn these aside from following
+Oh, that nothing may turn these aside from following
 on to know the Lord in the way that he leads,
 the good old way, in the footsteps of the flock; whose faith they may safely follow.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 19th of Third Month, 1836
 
 Your last called forth many a fervent aspiration for our mutual preservation, support,
@@ -648,7 +764,7 @@ Ah! we must cleave to our only sure refuge, our strong-hold,
 our very present helper,--and then all will be well;
 and we shall be conducted through all our exercises and strait places,
 receiving the end of our faith.
-O! it is sweet to be permitted in travelling along this weary land,
+Oh, it is sweet to be permitted in travelling along this weary land,
 to give and receive a greeting in spirit,--to be refreshed together as before the Lord,
 and to be "`made to feel that we are members one of another;--that
 we are not without companions in warfare and suffering;
@@ -658,7 +774,7 @@ It reminds me of David, and of his friend Jonathan,
 who "`strengthened his hand in God;`" and we may instructively, and without presumption,
 refer to the circumstances of these individuals,
 with some degree of application to our own case.
-O! the trials and strait places,
+Oh, the trials and strait places,
 in which some of us are placed in the present day:--and how clear does it appear,
 that if we flinch not, but are faithful to all that the Lord requires of us, to be,
 to do, and to suffer, for his cause and people, we shall be made instruments,
@@ -672,7 +788,7 @@ and bound to stand by and uphold his pure cause,
 cannot escape the peculiar notice of the all-seeing eye of the Captain of salvation;
 who will not fail to promote, to honour, to make use of, and to dignify,
 His true-hearted, firm-handed soldiers.
-So look to it,--and O! my soul,
+So look to it,--and Oh, my soul,
 look to it,--that we lose not any portion of that weight of glory,
 which the Lord designs for us,--any portion of that line of usefulness, or of suffering,
 which should devolve upon us.
@@ -681,7 +797,7 @@ our own meanness or insignificance; nor yet like one of old,
 say to the servant of the Lord, "`If you will go with me,
 then I will go,`" etc.--lest it be said,
 "`the journey,`" or the proceeding "`shall not be for your honour.`"
-O! for an unreserved sacrifice, and a going on in the strength of the Lord,
+Oh, for an unreserved sacrifice, and a going on in the strength of the Lord,
 which is made perfect in weakness; and also, a standing still in the true faith,
 to see and to wait for his salvation revealed, and his arm made bare for our help.
 
@@ -712,10 +828,18 @@ or to let in discouragement and doubts.
 However, though we may be permitted to be trampled upon and broken to pieces,
 yet the blessed Truth will outlive it all.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. B+++______+++, Cornwall.
 
+[.signed-section-context-open]
 Stoke Newington, 29th of Third Month, 1836.
 
+[.salutation]
 My beloved Friend,
 
 It is a blessed privilege to be given to drink into one Spirit,
@@ -746,7 +870,7 @@ apparently nothing but debility from disuse and disease;
 yet this I am continually sensible of, that my times are in His hand,
 and He who has laid low, can do as it seems good in His sight,
 even "`raise up and confirm the feeble knees.`"
-O! what encouragement to present and commit ourselves to Him under every dispensation,
+Oh, what encouragement to present and commit ourselves to Him under every dispensation,
 and thus to be allowed to feel, that whether we live or die,
 we are the Lord`'s. Under precious feelings like these, when unable to attend meetings,
 I have longed to be preserved, but as one of the wrestling seed of worm Jacob; who,
@@ -786,20 +910,29 @@ Ah!
 I can not easily forget how my poor,
 dull heart was made to yearn towards your dear family, from one end to the other.
 
---Parents peculiarly have to plough and sow with tears,
+&hellip;Parents peculiarly have to plough and sow with tears,
 often feeling their own infirmities, and how little they can do:
 but the Lord often interferes for their help; and perhaps,
-when they are laid in the dust, brings about and fulfils all their petitions,
+when they are laid in the dust, brings about and fulfills all their petitions,
 even to the letter.
 My love to Friends, and to the poor of the flock, who wait upon the Lord for mercy;
 grace and peace be renewed unto them at all times.
 
+[.signed-section-closing]
 Farewell: your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B:
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 22nd of Eighth Month, 1836.
 
 Your last seemed to convey a low account.
@@ -812,7 +945,7 @@ The furnace is even made and heated for the gold,
 and for nothing else but that which is worth refining: therefore,
 what a blessed thing to be counted worthy to be chastened, as a dear child of the Lord,
 and not to be left to one`'s self.
-O! you know not what are the all-wise,
+Oh, you know not what are the all-wise,
 all-merciful intentions of our Wonderful Counsellor towards you,
 and how he would work in, and for, and also through you.
 Nothing is too hard for Him;
@@ -843,7 +976,7 @@ These are days in which the enemy would persuade some of us,
 that we had better do nothing, lest we should do wrong,
 or in our attempts to aid the cause,
 only give pain and trouble to the rightly exercised by our meddling.
-But O! how otherwise is the fact! what preservation, what help, what direction,
+But Oh, how otherwise is the fact! what preservation, what help, what direction,
 and qualification, have the simple-hearted received,
 whose strength is made perfect in a humbling sense of their
 own weakness;--out of weakness they are made strong.
@@ -878,3 +1011,5 @@ men shall not love their lives unto death; but lay down their lives for the bret
 forego their ceiled houses, their "`pleasant bread,`" and their couches of ivory,
 their boats and their nets, and their father, to become fishers of men;
 and count all things but loss.
+
+--

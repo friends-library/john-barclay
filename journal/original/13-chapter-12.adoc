@@ -7,7 +7,10 @@ also, some other meetings in his way thither and in returning: a certificate was
 and he left home on the 19th of that month,
 taking the meetings of Newcastle and Edinburgh in his way; he then proceeded to Aberdeen,
 and there attended the half-year`'s meeting.
-The fol lowing are extracts from his letters written during this journey.]
+The following are extracts from his letters written during this journey.]
+
+[.small-break]
+'''
 
 25th of Eighth Month, 1826.--+++[+++From Edinburgh he writes:]
 How poor do I feel,
@@ -65,7 +68,7 @@ and hope to see.
 On Second day, I completed my business here to my satisfaction,
 having brought with me what was valuable.
 
-16th, 4h Bay.--Was at Dunfermline, where a little solid company sit together:
+16th, 4th day.--Was at Dunfermline, where a little solid company sit together:
 none of them are yet acknowledged members.
 The Lord was good to us, in bowing our hearts together low before him,
 and I trust it was a favoured time; pretty much counsel was handed.
@@ -105,10 +108,16 @@ and my soul somewhat filled with their company: but I find day by day,
 that former things must be left, and not rested in,
 that the mind may be free and unshackled against the next service.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. H.
 
+[.signed-section-context-open]
 Edinburgh, 14th of Ninth Month, 1826.
 
+[.salutation]
 My beloved Friend,
 
 On the receipt of thy account respecting our endeared companion,
@@ -176,12 +185,21 @@ The Good Master is tender to me a poor creature;
 and while sufficient strength seems to come in every needful hour,
 I have nothing to spare, being borne along through heavy conflicts and deep baptisms.
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to L. C.
 
+[.signed-section-context-open]
 Wellingborough, 3rd of Tenth Month, 1826.
 
+[.salutation]
 My dear Friend,
 
 Truly the feeling of love towards my many dear friends in Cornwall is so expanded,
@@ -231,6 +249,9 @@ and trust in Thee!`"
 How thankful ought we to be, dear friend, for all the mercies still handed to us,
 even day by day; and O! how ought we to walk before Him, who thus deals with us!
 
+--
+
+[.offset]
 +++[+++He returned home the 6th of Tenth Month, 1826,
 having attended the meetings in Cumberland, York Quarterly Meeting,
 and some meetings in Northamptonshire.]
@@ -265,11 +286,16 @@ O Lord! preserve and sustain and redeem my poor soul!
 to visit the meetings in Berkshire, Bedfordshire and Herts,
 Buckinghamshire and Northamptonshire.
 
+[.offset]
 +++[+++Extracts from his letters written when on this service, are here subjoined.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Wycombe, 20th of Ninth Month, 1827.
 
---We reached Reading in time for the Select Meeting,
+&hellip;We reached Reading in time for the Select Meeting,
 where was T. B. I was favoured to my unspeakable comfort,
 to break through the load by which I have seemed to be enveloped for a long season,
 and had to declare of the goodness of the Lord,
@@ -303,11 +329,18 @@ and to the praise of Him who has done great things for us, in helping and sustai
 so that we have not been utterly consumed, though deserving nothing short of it.
 Farewell.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to M. B.
 
+[.signed-section-context-open]
 Berkhamstead, 25th of Ninth Month, 1827.
 
---I feel oftentimes a very poor creature; but we are not our own,
+&hellip;I feel oftentimes a very poor creature; but we are not our own,
 nor have we any real occasion of regret or discouragement,
 that we have given up all for the sake of Him, by whom we enjoy all things.
 It is a great favour that I am enabled to say, the Lord has helped me on my way.
@@ -332,6 +365,8 @@ My health is preserved, but at the end of some days`' work, I feel much wearied;
 it is a comfort to have some evidence, that, however small my measure of labour,
 it is nearly as much as my frame is equal to; yet the Lord makes up all.
 
+--
+
 1827, Tenth Month 7th.--First day, I attended the meetings at Devon shire House;
 was silent in both: glory be to the great name!
 
@@ -340,8 +375,13 @@ the Monthly Meeting; and on Second day following,
 I reached our comfortable home at Alton, through the matchless condescension, goodness,
 and forbearance of my Maker, Preserver, and Redeemer!
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Alton, 15th of Twelfth Month, 1827.
 
 Be assured thou hast my very tender sympathy under
@@ -398,4 +438,6 @@ they act not in their own name: such are ordained and needful in the church;
 and if our eye be single to the great Head, the giver of every good and perfect gift,
 and to his inward appearing and sense as to what comes through others,
 we shall not be in danger of hurt,--bearing always in mind his injunction,
-"`Take heed how ye hear.`"
+"`Take heed __how__ ye hear.`"
+
+--

@@ -9,10 +9,16 @@ might not take the place of a true spiritual nurture in the Lord,
 and an inward growth in grace.
 On this subject he expressed himself as follows, in a letter to a Friend:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to R. B.
 
+[.signed-section-context-open]
 Fifth Month 1st, 1818.
 
+[.salutation]
 Dear R.,
 
 Bear with me, who am but a younger brother, if in a little of that love,
@@ -130,7 +136,7 @@ But how shall I speak of His goodness, who broke the net in which I was entangle
 and delivered me from the snare;
 and who introduced me in measure into the saving knowledge of Himself,
 even that which is revealed, as in the cool of the day, by the still small voice.
-O! how plainly did I then see, that all which I had learned, read, held,
+Oh, how plainly did I then see, that all which I had learned, read, held,
 and believed in my own will, was to be given up; how clearly did I see,
 that all knowledge, faith, obedience,
 but that which the Father was pleased to beget and raise in me in his own season,
@@ -149,14 +155,22 @@ And in truth, this is the surest way, says my very soul, from daily experience;
 for things have never been cleared up to my certain
 satisfaction in such a wonderful manner,
 as since I have been under this discipline of the cross to all selfish wisdom.
-O! the sweetness of being under the tuition of Him,
+Oh, the sweetness of being under the tuition of Him,
 who verily teaches as never man taught.
 
+[.signed-section-closing]
 I am, your affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.offset]
 +++[+++In a letter to another Friend upon the same subject, he writes:]
+
+[.embedded-content-document.letter]
+--
 
 As to religious instruction, it consists, if I mistake not,
 in bringing up children in that nurture and admonition which is of the Lord,
@@ -214,16 +228,20 @@ of directing them to turn and keep their minds inward
 towards God,--showing them the place of true waiting,
 the source of true wisdom,
 and both by precept and example,--as was conspicuous among our early Friends.
-O! here is the truly religious instruction;
+Oh, here is the truly religious instruction;
 a bringing up young people in the fear of the Lord, and in his new covenant of life;
 wherein it is said,
 all are to be taught of Him,--all are to know him from the least to the greatest:
 and here is a building up in the true faith, of which the Lord, not man,
 is the author and the finisher.
 
+[.signed-section-closing]
 Your affectionate Friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1818, Tenth Month 11th.--I have of late put but little to paper by way of remark,
 as to the state of my mind, not having felt much freedom this way;
@@ -237,7 +255,7 @@ does still look unto its Parent for daily sustenance; his ear is ever open,
 unto the cry of his poor;
 and his eye of pity and compassion is still upon that birth which is of him,
 to cherish and to care for it, and to provide all things needful.
-O! for the continuance of his fatherly goodness,
+Oh, for the continuance of his fatherly goodness,
 and for the renewed extension of his preserving arm of power around me;
 that so I may be restrained thereby from all hurt
 and harm through this vale of tears and temptations,
@@ -274,13 +292,13 @@ and to have an inheritance thereby in that, which death cannot destroy,
 nor corruption mar, nor sin defile, but which endures forever!
 Amen!
 
-1818, Tenth Month 19th.--O! the sweet influx of the Father`'s peace,
+1818, Tenth Month 19th.--Oh, the sweet influx of the Father`'s peace,
 of the Father`'s joy and comfort,
 with which he is pleased at times to refresh and revive the hearts of his humbled
 contrited ones,--those that are through his mercy prevailed upon,
 and through his heavenly help and strength enabled to count all things but as nothing,
 that they may be found in him, and to suffer for his name`'s sake the loss of all things!
-O! what a blessed evidence of his continued goodness
+Oh, what a blessed evidence of his continued goodness
 have I been favoured with this morning,
 during the short space of a few minutes,
 in my retirement to seek the lifting up of the light of his countenance,
@@ -295,20 +313,25 @@ power being about me for my preservation on every hand,
 I may boldly say with the Psalmist,--"`Though a host should encamp against me,
 my heart shall not fear,`" the Lord being "`my light and my salvation.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Twelfth Month 21st, 1818.
 
 I have often thought +++_______+++ to be,
 what our early Friends would have called a "`tender-spirited
-young man;`" but O! how much must such go through,
+young man;`" but Oh, how much must such go through,
 who have been made willing to come to the Master, in the full belief that he is the Way,
 the Truth, and the Life.
 The Master looking upon such, loves them; yet must these give up their all,
 as and when he calls for all or any of their "`great possessions.`"
 We read that Zion was to be redeemed with judgment;
 and with the spirit of judgment and of burning was her filth to be purged away.
-O! this fiery baptism! few of us know enough the
+Oh, this fiery baptism! few of us know enough the
 necessity of it;--it is hard coming under it,
 it is hard keeping under it:--then and not until then,
 do we really know the full import of these deep expressions,
@@ -373,6 +396,8 @@ guide and go before, in this gospel day, and that is to lead;
 and when it stops we are to stop and stand still, and when it goes forward,
 we are to move with it and in it, as Israelites indeed.
 
+--
+
 1818, Twelfth Month 27th.--At this time it lay upon me to set up my Ebenezer,
 as decidedly as this perishable method with paper and ink,
 and this feeble representation by words,
@@ -410,10 +435,10 @@ continuance of your holy help from time to time,
 under all the provings and afflictions and chastenings,
 which may in your wisdom be allotted me.
 As all your servants of old, even unto this day, have shared in the cup of bitterness,
-and par taken of the water of affliction, so O! Lord, may I also endure chastening,
+and par taken of the water of affliction, so Oh, Lord, may I also endure chastening,
 and partake of the evidence of sonship; remembering the language of your servant,
 "`If we suffer with Christ, we shall also reign with him.`"
-This accept and grant, if it please you, O! my Father;
+This accept and grant, if it please you, Oh, my Father;
 who have never yet denied that which you have put into my
 heart to offer unto you in the prayer of faith:
 and if I need at any hour any thing of you, I know that you hear me and are with me,
@@ -448,8 +473,13 @@ as long as they were humble?
 Why did Paul come among those of Corinth "`not with excellency of speech or of wisdom?
 "`surely on this ground, would he have gained more converts to the Truth in that place?
 
-+++[+++To a person under convincement of our religious principles.]
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To a person under convincement of our religious principles.
+
+[.signed-section-context-open]
 25th First Month, 1819.
 
 When the Master sent forth his chosen ones to do
@@ -495,7 +525,7 @@ and may your true dependence be, yet more than ever you have known it to be,
 immoveably fixed on your Rock, your Redeemer:
 and do not let the enemy put you on any improper leaning on books or men,
 but lean upon Jesus, as all his beloved disciples ever have done.
-O! it is a safe spot to be sitting at the feet of Jesus,
+Oh, it is a safe spot to be sitting at the feet of Jesus,
 rather than at the feet of Gamaliel;
 and be not cumbered about many things,--remember one thing is needful;
 and this one thing is a learning of Him who is meek and lowly in
@@ -522,14 +552,14 @@ in whose name we may have done even some mighty works,--saying with poor Peter,
 There is, as you well know, a going before our guide,
 a kindling of sparks and warming our selves at them,
 an offering of sacrifice before the prophet come;
-and O! what burdens have the upright in heart at times made hereby;
+and Oh, what burdens have the upright in heart at times made hereby;
 what a "`lying down in sorrow,`"--what a close rebuke
 from our great prophet and high priest,
 "`You have done foolishly.`"
 We may remember Saul said, "`the Philistines will come down upon me,
 and I have not made supplication to the Lord;`" and he waited seven days for Samuel,
 and the people were scattered from him and trembled for fear of the enemy.
-O! here was an offering of something good, in the time and will of the creature;
+Oh, here was an offering of something good, in the time and will of the creature;
 but it was not counted good nor accepted,
 because it was not prepared of the Lord`'s prophet, neither offered in faith,
 but in faithless fear.
@@ -547,7 +577,7 @@ insomuch that a superficial observer would say, What good comes of this graft?
 Of what use has religion been to him?
 Yet the husbandman knows the times and the seasons,
 and that if even a bud were to be put forth, it would be struck by the frost.
-O! there is a time to be empty, to be stripped, to be poor,
+Oh, there is a time to be empty, to be stripped, to be poor,
 to be buffeted by the wintry winds, to be deprived of all sense of life, any relish for,
 or savour of good: and then I have found it safe to lie low in the littleness,
 in patient poverty, in the true insignificance:--"`waiting in the abandonment of self,
@@ -582,7 +612,7 @@ which preserves out of the snares of death.
 How clear, how intelligible is her voice, in and unto the awakened upright soul;
 this word of wisdom is nigh you,
 as you already know,--you need not go far away to find it,
-you need not mind the "`Lo! here`'s`" and "`Lo! there`'s`"--the kingdom is within,
+you need not mind the "`Lo, here`'s`" and "`Lo, there`'s`"--the kingdom is within,
 the king`'s laws are written in the heart.
 Receive not then for doctrines the commandments of men:
 try all things by this infallible touchstone, which never yet led any into error,
@@ -662,7 +692,10 @@ Farewell; keep to the Truth, and it will keep you.
 Remember, "`He that dwells in the secret place of the Most High,
 shall abide under the shadow of the Almighty.`"
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1819, First Month 29th.--This may I say, and leave upon record,
 that though many almost indescribable temptations and presentations
@@ -676,10 +709,10 @@ In his name will I set up my banner;
 who is a Rock of defence and sure refuge to my poor weary soul
 in all her afflictions as there is a concern to flee unto,
 abide in, and under the shadow of this mighty rock in a weary land.
-O! young man or young woman, to whom this may come,--my friend, my brother,
+Oh, young man or young woman, to whom this may come,--my friend, my brother,
 my sister;--who are seeking the better country, and Him who is the way, and the guide;
-O! though you be weary and heavy laden,--take courage!
-O! there is a staff, a stay, and strength and succour with Him and in Him,
+Oh, though you be weary and heavy laden,--take courage!
+Oh, there is a staff, a stay, and strength and succour with Him and in Him,
 who has gone before; and who leads on his little ones gently and sweetly,
 as they are able to follow.
 Take this as the counsel of one, who writes from a sure and living experience,

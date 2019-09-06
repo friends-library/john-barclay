@@ -84,8 +84,13 @@ in a degree of hope (almost imperceptibly small,) that all would be well in the 
 if I was concerned to look unto Him, who is the author,
 and also the finisher of our faith.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to S. A.
 
+[.signed-section-context-open]
 1818, Second Month 1st
 
 I have been apprehensive that our views of these doctrines +++[+++of Immediate Revelation,
@@ -192,6 +197,8 @@ whether with or without instrumental aid,
 they know all things requisite for their present need;
 having "`an understanding given them to know him that is true.`"
 
+--
+
 1818, Third Month 3rd.--I believe if young persons were more fully open,
 and implicitly given up to acts of dedication apparently small, and were willing to go,
 to stay, to do, or to forbear in minor matters, as seemed best,
@@ -215,10 +222,16 @@ I have often seen the propriety of them;
 and I have felt it a precious thing to be "`led about and instructed`" so suitably,
 so seasonably, so safely.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. H.
 
+[.signed-section-context-open]
 16th of Fourth Month, 1818.
 
+[.salutation]
 Dear Edward,
 
 It is my belief, that, according to thy own expressions,
@@ -291,14 +304,24 @@ that so his will may be daily known and done through his Spirit,
 which brings into and preserves in a watchful,
 weighty frame of mind at all times,--and who is, with feelings of affectionate regard,
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. S.
 
+[.signed-section-context-open]
 Russell Square, 17th of Fourth Month, 1818.
 
+[.salutation]
 Dear Edward,
 
 The true authority as well as beauty of our religious meetings,
@@ -338,7 +361,10 @@ on behalf of their poor fellow creatures,
 who may be overtaken or overcome of evil or error; knowing that they themselves stand,
 only through the mercy of the Most High.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1818,
 Fourth Month 21st.--How little do we know what is
@@ -448,10 +474,16 @@ dear Friends said in the meeting,) and prove him there with,
 and see if He will not open the windows of heaven and pour them out a blessing,
 until there be no room to contain.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. J.
 
+[.signed-section-context-open]
 Isle of Wight, 30th Sixth Month, 1818.
 
+[.salutation]
 Dear Edmund,
 
 I have felt so much dissipation of mind since I arrived here,
@@ -518,8 +550,15 @@ that all may be reestablished in their several places,
 and according to their different capacities, by the ordering of the great Workman,
 whose workmanship they are.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend
 
+[.signed-section-context-open]
 London, 29th of Eighth Month, 1818.
 
 I believe there may be much show and appearance of excellent dispositions in some,
@@ -560,4 +599,7 @@ Then as we abide in Him, from whom we derive our strength and vigour,
 we shall bring forth much fruit, not only to his praise and our own peace,
 but to the edification of the church and to the comfort of its living members.
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--

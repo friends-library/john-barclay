@@ -46,11 +46,16 @@ who is the God of the spirits of all flesh, the Master of the assemblies of the 
 the King of saints, the Judge of all the earth! "`Fear ye not me?
 saith the Lord.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Alton, 29th of Fifth Month, 1829.
 
---Our Quarterly and Monthly Meetings were seasons of sadness and depression,
+&hellip;Our Quarterly and Monthly Meetings were seasons of sadness and depression,
 as thou mayst sup pose: but some of us were given,
 through and over all dismay and affliction, to trust and to cling to that,
 which yet remains an immoveable rock and refuge;
@@ -61,13 +66,15 @@ must be ultimately strengthening and beneficial,
 at least to a remnant in our poor Society; who desire, in some degree of sincerity,
 to be searched and tried, and to be purified even seven times.
 
+--
+
 +++[+++In the Ninth Month of this year, 1829, he removed to Croydon,
 within the compass of London and Middlesex Quarterly Meeting:
 he had been much engaged in the preparation of works for the press,
 and he believed the neighbourhood of London would
 afford him greater facilities for such engagements.
 One work which occasioned him great labour about this period,
-was the Diary of Alexander Jaffray,
+was the [.book-title]#Diary of Alexander Jaffray#,
 the original manuscript of which he had discovered at Ury in Scotland.
 The deciphering of this manuscript, as well as its preparation for the press,
 called for much laborious exertion;--memoranda frequently occur in his private note book,
@@ -75,9 +82,9 @@ of his being engaged "`at Jaffray, seven`" to even "`nine hours`" a day:
 and though it may be feared such close application
 was prejudicial to his health and delicate constitution,
 nevertheless he would often say,
-that he believed it to be a line of service marked out for him by the Divine hand.]
+that he believed it to be a line of service marked out for him by the Divine hand.
 
-+++[+++In the Eighth Month, 1830,
+In the Eighth Month, 1830,
 he obtained a certificate from his Monthly Meeting (Kingston,) for religious service,
 in the Quarterly Meeting of Dorset and Hants, his concern being to visit the meetings,
 as well as the families generally; with liberty to include the counties of Kent,
@@ -90,8 +97,16 @@ in supporting him through this engagement, and in granting the sweet incomes of 
 The following are brief extracts from some of his letters,
 written during this engagement.]
 
-Alton, 22nd of Eighth Month,
-1830.--Having now got through this part of our humiliating path,^
+[.small-break]
+'''
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Alton, 22nd of Eighth Month, 1830.
+
+&hellip;Having now got through this part of our humiliating path,^
 footnote:[He was united with his friend J. F. Marsh in this part of his service.]
 and being about to depart on the morrow,
 I thought I might attempt a few lines to tell thee that we got well here;
@@ -105,14 +120,19 @@ I have not been silent in any sitting, though nearly so in both meetings this da
 O! may the Lord continue unto us strength and wisdom; and, if it be His will,
 may He enlarge my poor soul a little, to testify and sing of his power.
 
-Southampton, 25th of Eighth Month,
-1830.--Though I cannot say any thing of heights or of abundance,
+[.signed-section-context-open]
+Southampton, 25th of Eighth Month, 1830.
+
+&hellip;Though I cannot say any thing of heights or of abundance,
 yet sufficient strength and ability seem vouchsafed to my poor soul,
 to raise it to a degree of cheerfulness, and of reverent thankfulness.
 I find wonderful condescension and support administered in every time of need,
 though the path is a very humiliating one.
 
-Poole, 30th of Eighth Month, 1830.--O! The good Master, whom we are longing to serve,
+[.signed-section-context-open]
+Poole, 30th of Eighth Month, 1830.
+
+&hellip;O! The good Master, whom we are longing to serve,
 though in abundant weakness, is not wanting to extend his help in every needful season;
 so that from time to time, He raises the acknowledgment of gratitude,
 and renews the desire to be entirely resigned to His will and disposal.
@@ -122,7 +142,10 @@ My health and spirits are tolerable; and though the weight of things feels awful
 yet eyeing the Lord`'s mercy, I seem lifted over selfishness in some degree,
 and am careful for nothing.
 
-Horsham, 1st of Tenth Month, 1830.--I trust I do feel, however inadequately,
+[.signed-section-context-open]
+Horsham, 1st of Tenth Month, 1830.
+
+&hellip;I trust I do feel, however inadequately,
 that it is through renewed mercy and favour I am here,
 and again made willing to do and to suffer, whatever may be meted out for me,
 if it be but for the Lord`'s precious cause and to His glory.
@@ -148,7 +171,10 @@ she was smitten as it were in a moment, and was a corpse in a very few minutes:
 I understand a striking silence prevailed with them,
 from the time they sat down at table.
 
-Guildford, 6th of Tenth Month, 1830.--Since I wrote last,
+[.signed-section-context-open]
+Guildford, 6th of Tenth Month, 1830.
+
+&hellip;Since I wrote last,
 I have been favoured to get along comfortably, having been well in health and spirits,
 cheerful in mind, and wound up in some good degree, I humbly trust, to my business,
 from hour to hour.
@@ -178,7 +204,10 @@ I feel that the Lord will fulfill his precious promises,
 and be unto me all I stand in need of, while I look unto Him in simplicity and faith,
 striving to obey Him.
 
-Folkstone, 13th of Twelfth Month, 1830.--We have now completed at Dover,
+[.signed-section-context-open]
+Folkstone, 13th of Twelfth Month, 1830.
+
+&hellip;We have now completed at Dover,
 and have entered this day into our labour here.^
 footnote:[He was joined by his friend Daniel P. Hack at Dover;
 they visited the several meetings and the families of Folkstone Monthly Meeting,
@@ -191,7 +220,10 @@ We have had some precious seasons, reviving to our drooping spirits,
 when even at the lowest ebb; and we are bound to rejoice and give thanks,
 and go on our way in faith, with alacrity and patience of soul, come what may.
 
-Canterbury, 18th of Twelfth Month, 1830.--I hope I may again say,
+[.signed-section-context-open]
+Canterbury, 18th of Twelfth Month, 1830.
+
+&hellip;I hope I may again say,
 notwithstanding low and trying seasons,
 we are favoured to proceed comfortably on our errand; feeling where our anchorage is,
 and what we have alone to lean upon.
@@ -202,11 +234,19 @@ and feeling there is nothing to regret having done or not done.
 We have had some very precious times, and some have been remarkably melted down,
 I trust in true contrition.
 
+--
+
+[.offset]
 +++[+++He was favoured to return home from this close and laborious service in peace,
 the 25th of Twelfth month, 1830.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Second Month, 1831.
 
 Whilst writing, I cannot well forbear expressing something of the sense I often have,
@@ -241,6 +281,8 @@ Thus he renews the face of his earth spiritually,
 and brings forth a song in the hearts of his children,
 somewhat similar to those beautiful words in Ps. 89:16-8 verses--"`Who
 in the heaven can be compared unto the Lord,`" etc.
+
+--
 
 1831.--O! the glory,
 the excellency of the power and wisdom and truth of our God and Saviour!
@@ -326,22 +368,34 @@ the publication of the work, called the Beacon,
 which occasioned so much painful excitement in the Society,
 occurred about the beginning of 1835.]
 
+[.small-break]
+'''
+
 +++[+++In the spring of 1833,
 he was first attacked with an inflammatory complaint in the knee-joint,
 brought on by a longer walk than usual,
 but aggravated it was believed by a depressed state of constitution,
-consequent in some degree on his too close application to the Diary of Alexander Jaffray,
+consequent in some degree on his too close application
+to the [.book-title]#Diary of Alexander Jaffray#,
 etc.;--this left a weakness upon him so as never
 after to be able to take his former portion of exercise,
 on which he had felt his general health so much depended:
 the limb was kept for some time under surgical care,
 and many means were resorted to for its restoration, but without success.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. J.
 
+[.signed-section-context-open]
 Croydon, 17th of Eighth Month, 1833.
 
-My dear Friend, I must not longer omit assuring thee of the acceptance of thy letter,
+[.salutation]
+My dear Friend,
+
+I must not longer omit assuring thee of the acceptance of thy letter,
 which was truly cordial to me; evincing that thy mind through all changes has remained,
 as I trust, firmly anchored on that Rock which cannot be removed;
 and comfortably proving to me, what I sometimes seem almost unable to assume,
@@ -368,12 +422,21 @@ Ah! how easy to prescribe all this,--how difficult to get to that spot and to ke
 where the yoke, the burden, the commandment are known and felt to be easy, light,
 and most pleasant.
 
+[.signed-section-context-open]
 I rest as ever thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Croydon, Tenth Month, 1833.
 
 Thy letter, my dear friend, I believe I have never acknowledged;
@@ -402,10 +465,18 @@ as saith the apostle James.
 
 Farewell, my dear friend: think of me for good, that I may hold out to the end safely.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to John Wilbur.
 
+[.signed-section-context-open]
 Croydon, 5th of Tenth Month, 1834.
 
+[.salutation]
 My Dear Friend,
 
 I fear it will almost seem as if I did not value
@@ -434,9 +505,9 @@ and to manifest the path of the Just One, and the work of God in and among his p
 
 Thou wilt be pleased to hear (and oh, that I may continue in the grateful,
 humbling sense of these mercies!) that "`Jaffray`"^
-footnote:[See The Diary of Alexander Jaffray;
+footnote:[See [.book-title]#The Diary of Alexander Jaffray;
 Given in Connection with Memoirs of the Rise, Progress, and Persecutions,
-of the People Called Quakers in the North of Scotland.]
+of the People Called Quakers in the North of Scotland.#]
 has been almost everywhere very favorably received; even enemies to the Truth,
 or those that would prevent it,
 acknowledging their admiration at the record therein borne.
@@ -462,9 +533,10 @@ endeavoring to lower the standard,
 and make it square with their own notions and practice.
 I have been asked by more than one, standing somewhat high among us, to leave out,
 in my 2nd edition of "`Jaffray,`" that quotation from thy "`Letters,`"^
-footnote:[See Letters of Some of the Primitive Doctrines of Christianity, by John Wilbur.
+footnote:[See [.book-title]#Letters of Some of the Primitive Doctrines of Christianity#, by John Wilbur.
 Published by George Crosfield.]
-in my notes to the Memoirs of Friends in Scotland; but I inserted it purposely,
+in my notes to the [.book-title]#Memoirs of Friends in Scotland#;
+but I inserted it purposely,
 and out of a sense of duty, knowing it would not please such as depart,
 or are in danger of departing from the faith once delivered to the saints.
 
@@ -489,9 +561,9 @@ Dear William Byrd is yet living, and alive in the Truth, though very helpless,
 laid on a sofa by day, yet cheerful, calm, and clear in his intellect.
 Samuel Rundell of Liskeard, and Sarah Tucker, are veterans,
 and quite aware of the mode of warfare now abroad.
-The former has published, at Yearly Meeting time, "`Observations on Redemption, Worship,
-Ministry, Supper,`"^
-footnote:[Later republished under the title The Work of Vital Religion in the Soul]
+The former has published, at Yearly Meeting time, [.book-title]#Observations on Redemption,
+Worship, Ministry, Supper#,^
+footnote:[Later republished under the title [.book-title]#The Work of Vital Religion in the Soul.#]
 etc--a pamphlet thou wouldst value I think.
 It +++[+++was written]
 for those not Friends, but hits many points in which Friends are implicated,
@@ -525,16 +597,16 @@ yet he endeavoured to persuade himself and others that he was one with them,
 in what he understood to be the meaning of their "`unhappy`" choice of words.
 Partly in an attempt to distance themselves from the errors
 of Hicksism that had recently wrecked havoc in America,
-Gurney and other Quakers in England began to pull away from
+Gurney and other influential Quakers in England began to pull away from
 many of the original principles and practices of early Friends,
 especially those having to do with entire dependence upon
 the immediate influence of God`'s Spirit for true worship,
-ministry, and spiritual understanding.
+ministry, and inward transformation.
 Gurney`'s writings and lectures were highly influential in the 1830`'s and 40`'s,
-and many Friends who dodged the fallacies of Elias Hicks began to conform
-more and more to a traditional and formal "`Gurneyism`" that did not rightly
-emphasize the revelation and formation of Christ within.]
-Peculiarities, with additions, has passed a committee of the Morning Meeting,
+and many Friends who had dodged the fallacies of Elias Hicks were ensnared by
+the more plausible and traditional principles of "`Gurneyism`" which
+increasingly departed from the faith and practices of their worthy forefathers.]
+[.book-title]#Peculiarities#, with additions, has passed a committee of the Morning Meeting,
 of which I was one.
 Oh, it made my heart sick to attend it, only that my Master whispers,
 "`All these things must needs come to pass--but see that ye be not troubled.`"
@@ -571,4 +643,8 @@ Farewell, my beloved friend;
 may the Most High be our shield and our exceeding great reward,
 and a very present help in trouble.
 With dear love, in which my wife and sister Lydia unite, I remain thy sincere friend,
+
+[.signed-section-signature]
 John Barclay.
+
+--

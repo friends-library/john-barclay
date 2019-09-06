@@ -1,9 +1,15 @@
 == Chapter IX.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++
 
+[.signed-section-context-open]
 3rd of Second Month, 1819.
 
+[.salutation]
 Dear +++_______+++,
 
 I have often believed that the blessing in store for those who
@@ -27,12 +33,21 @@ And I think I may safely say to thee dear +++_______+++,
 there has already been received by me an equivalent to the hundred-fold,--houses,
 brethren, sisters, with suffering; though I look for something still better in the end.
 
+[.signed-section-closing]
 From thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++
 
+[.signed-section-context-open]
 1819, Fifth Month 4th.
 
 I have sometimes remembered the language or sentiment of a tried servant,
@@ -87,8 +102,15 @@ as an injudicious engagement therein;
 it unsettles and uncenters the mind from the great first object,
 if much care be not exercised, and diligent watchfulness maintained.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to E. S.
 
+[.signed-section-context-open]
 1819, Seventh Month 22nd.
 
 The examination of religious tracts proposed to be printed, is a weighty service.
@@ -126,6 +148,8 @@ by whom the words are overlooked in the earnest desires after the substance.
 Those who are admirers of words, whether they be words printed or words preached,
 are very unlikely to be benefited really and truly by either,
 having gone from that which is beyond words, and which alone can make words effectual.
+
+--
 
 1819, Sixth Month 5th.--Great have been my temptations:
 yet abundantly manifest through all,
@@ -208,8 +232,13 @@ and as they abide where he would have them, nothing shall harm them,
 nor any iniquity prevail against them; and they shall never perish,
 neither shall any pluck them out of his holy hand.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to Samuel Alexander.
 
+[.signed-section-context-open]
 21st Tenth Month, 1819.
 
 I omitted to mention our Quarterly Meeting: it was held to satisfaction.
@@ -228,8 +257,15 @@ compliance with what is there laid down;
 nor does much talking in favour of any point, prove that the sense of Truth is that way,
 though it may prove that the sense of the majority leans so.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 London, Eleventh Month 6th, 1819.
 
 My dear love has often been as fresh and warm towards thee,
@@ -371,14 +407,24 @@ to the praise of Him who hath chosen and ordained us,
 that we should go and bring forth much fruit, and that our fruit should remain;
 and who is ready thoroughly to furnish us unto every good word and work required of us.
 
+[.signed-section-closing]
 Farewell, and believe me to be thy affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to +++_______+++.
 
+[.signed-section-context-open]
 Falmouth, 17th of Twelfth Month, 1819.
 
+[.salutation]
 Dear +++_______+++,
 
 My dear love is to thee, though from a low spot,
@@ -405,8 +451,15 @@ invincible and unchangeable to bear up our minds
 above the billows,--this is worth living for,
 and suffering for, and dying for.
 
+--
+
+[.offset]
 +++[+++In a letter to a person under serious convictions,--he wrote:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to M. B. W.
 
 In taking my pen to reply to thy letter,
@@ -675,3 +728,5 @@ of sins:`" none are saved but by and through Him:
 for we are reconciled to God by the death of His Son,
 and thereby put into a capacity to lay hold of that salvation which is freely offered,
 on condition that we repent and believe.
+
+--

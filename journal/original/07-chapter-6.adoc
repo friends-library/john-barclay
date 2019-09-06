@@ -35,10 +35,16 @@ rather than that I should after such tender mercies,
 turn away from following the Lord in the "`little moment,`"
 when he may again be pleased to "`hide his face.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to J. F. M.
 
+[.signed-section-context-open]
 London, 22nd of Ninth Month 1817.
 
+[.salutation]
 My Dear Friend,
 
 There are some bright spots in this wilderness journey,
@@ -74,9 +80,13 @@ It is in such a season that we are truly enabled to "`praise Him,
 who is the help of our countenance and our God;`" and to repose
 anew in Him our confidence and trust for the time to come.
 
+[.signed-section-closing]
 Thy very affectionate,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 1817, Ninth Month 28th.--During the present and past fight of afflictions,
 which the Lord has in wisdom appointed unto me, I have at times,
@@ -282,11 +292,16 @@ There may be words when none should be used,
 and there may be a silence when words are called for;
 and herein stands the snare which should be carefully guarded against.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to a Friend.
 
+[.signed-section-context-open]
 London, Tenth Month 20th, 1817.
 
---This morning upon calling at J. S.`'s, I found Samuel Alexander within and alone,
+&hellip;This morning upon calling at J. S.`'s, I found Samuel Alexander within and alone,
 and spent about twenty minutes pleasantly with him;
 upon inquiring after the American Friends, S. A. said, they were both there,
 and that Hannah Field was unwell; but that I should see Elizabeth Barker.
@@ -347,14 +362,24 @@ which showeth indubitably the good from the evil in all our undertakings and des
 O! this is an attainment that comes only by a diligent
 attention to the voice of the true Shepherd.
 
+[.signed-section-closing]
 Thy very affectionate friend,
 
+[.signed-section-signature]
 J+++.+++ B.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Barclay to His Sister.
 
+[.signed-section-context-open]
 Tenth Month 31st, 1817.
 
+[.salutation]
 My Dear Lydia,
 
 Thou art very near to me in the best sense:
@@ -420,6 +445,8 @@ and that there, is revealed or manifested what the Lord requireth at our hands.
 I believe that we have need to exercise a daily and
 hourly watching and waiting in the light,
 in order to be favoured clearly to discover those things that belong to our peace.
+
+--
 
 1817,
 Eleventh Month 10th.--I think I have seen the danger of young men
@@ -536,7 +563,7 @@ they were sensible of their lamentable situation, their helplessness and distres
 and they knew or believed who it was,
 that had power to stem the torrent of their troubles, the tide of their calamities.
 "`Speak the word only,`" said one, "`and my servant shall be healed.`"
-"` Believe ye that I am able to do this?`"
+"`Believe ye that I am able to do this?`"
 said Jesus to two who answered--"`Yea, Lord.`"
 "`Lord I believe,`" said another, "`help thou mine unbelief.`"
 So that the blessing which maketh truly rich,

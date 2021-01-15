@@ -1,22 +1,31 @@
 == Chapter I.
 
-The Design of Alexander Jaffray in Recording his Religious Experience--The
-Way of the Lord with Him in his Youthful Days,
-and the Sins And Vanity of Youth--Respecting his Conversion,
-with the Ground of his Hope on this Point--His Exercises of Spirit,
-in Desire of More Full Assurance,
-and Victory Over Sin--The Duty of Wrestling with Cheerfulness against Corruption.
+[.chapter-synopsis]
+* The Design of Alexander Jaffray in Recording his Religious Experience
+* The Way of the Lord with Him in his Youthful Days, and the Sins And Vanity of Youth
+* Respecting his Conversion, with the Ground of his Hope on this Point
+* His Exercises of Spirit, in Desire of More Full Assurance, and Victory Over Sin
+* The Duty of Wrestling with Cheerfulness against Corruption.
 
 A Journal or Diary, wherein some things are observed,
 making appear the wonderful goodness of God in way of Providence towards me,
 and my unthankfulness and unanswerable walking;
 serving for the further humbling of my heart, and the engaging thereof to him forever.
-Jeremiah 30:21.
---"`For who is this that engages his heart to approach unto me,
+
+[quote.scripture, , Jeremiah 30:21]
+____
+
+For who is this that engages his heart to approach unto me,
 says the Lord?`"
-Isaiah 64:7.
---"`There is none that calls upon your name,
-that stirs up himself to take hold of you,`" etc.
+____
+
+[quote.scripture, , Isaiah 64:7]
+____
+
+There is none that calls upon your name,
+that stirs up himself to take hold of you, etc.
+
+____
 
 Among some confused thoughts I have had on these Scriptures, this was one:--that,
 for the better stirring up and engaging the heart to approach unto God,
@@ -166,15 +175,21 @@ to fear and tremble when I think to speak of my being converted;
 yet I dare not but affirm it, to the eternal praise of his free grace,
 through Jesus Christ, that he has had mercy on me!
 
-For, first, I think I may say, in some measure of simplicity and sincerity of heart,
+[.numbered-group]
+====
+
+[.numbered]
+For, _first,_ I think I may say, in some measure of simplicity and sincerity of heart,
 that though I be sensible of exceeding much vileness and corruption in me,
 yet I desire to be holy.
 
-Secondly, That in any measure I was sensible I was vile,
+[.numbered]
+_Secondly,_ That in any measure I was sensible I was vile,
 and that this sense for a good time together was
 growing with me:--here was another ground.
 
-Thirdly, Though I dare not say that secondary and selfish ends had no place with me,
+[.numbered]
+_Thirdly,_ Though I dare not say that secondary and selfish ends had no place with me,
 in my desire to have sin subdued and holiness perfected in me--such ends, I mean,
 as fear of wrath and punishment here and in hell,
 and to eschew shame and disgrace in the world;--yet, I think I may say,
@@ -191,7 +206,8 @@ wherein I differ from them;--fear thus to dishonour so good a God,
 and to offend any of his little ones, was also frequently, and I hope I may say,
 much upon my heart, and a very great restraint unto me against sin.
 
-Fourthly, Some measure of light and affection was granted,
+[.numbered]
+_Fourthly,_ Some measure of light and affection was granted,
 though I remain in much darkness and ignorance of God; yet,
 comparing my state now with what formerly it was, I cannot but, to the praise of God,
 acknowledge with the blind man, John 9:25, "`Whereas I was blind, now I see.`"
@@ -201,7 +217,8 @@ as thereby to make and keep me more and more humble and low before him; and ther
 to seek to have my dependence and walk with him more close and near than formerly,
 I know I may judge this to be a very sound and sure ground.
 
-Fifthly, Whereas I was sometimes, and naturally am,
+[.numbered]
+_Fifthly,_ Whereas I was sometimes, and naturally am,
 of a very sharp and censorious disposition, of a bitter and persecuting humour,
 especially to such as in matters of opinion differed from me;
 it has pleased the Lord a little to frame my heart another way;
@@ -216,7 +233,8 @@ So, this desire which I had to do the people of God service,
 and love to them as such--which I dare not but confess, to the praise of God,
 he has in some measure granted to me--that was another ground.
 
-Sixthly, Love to and desire after the most home-speaking and soul-searching ministry,
+[.numbered]
+_Sixthly,_ Love to and desire after the most home-speaking and soul-searching ministry,
 that discovers sin and its abominable nature most,
 and distinguishes and discerns best between real and true grace and its counterfeit.
 I have been many times glad to find it so,
@@ -227,7 +245,8 @@ most willingly have dallied with.
 Yet, how sorely have I been foiled again and again, after all this,
 by the strivings of these corruptions in me!
 
-Seventhly, A desire I had to be useful to God in my generation,
+[.numbered]
+_Seventhly,_ A desire I had to be useful to God in my generation,
 to know the work of my generation; and--if I could do no more--I was willing,
 and sometimes was helped, to pray for it.
 The mistakes and ignorance of God`'s people about this,
@@ -235,6 +254,8 @@ is not the least part of their judgment--if I mistake not.
 And, that the Lord was pleased to give me any desire after the knowledge of his mind,
 in observing his wonderful way of dispensations, I count it no small mercy,
 and another ground or proof of his love towards me.
+
+====
 
 Though these and the like signs are good, yet,
 that assurance and testimony is made out but as it

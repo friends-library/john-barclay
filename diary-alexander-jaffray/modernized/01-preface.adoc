@@ -37,8 +37,8 @@ Among other MSS.
 to all appearance much neglected,
 and which might have been before long utterly lost sight of,
 lay the earlier portion of the present Diary, in a corner of the Apologist`'s study;
-and in another place, "`A Brief Historical Account of the Rise, Progress,
-and Persecutions of the People called Quakers, in the North of Scotland.`"
+and in another place, [.book-title]#A Brief Historical Account of the Rise, Progress,
+and Persecutions of the People called Quakers, in the North of Scotland.#
 Of the latter MS. I shall presently have occasion to speak; but of the former,
 the paper was highly discoloured, and the writing in some places much injured by time;
 the character of it was at first not easily deciphered,
@@ -115,7 +115,10 @@ through which been disposed to view this question.
 I would, however, venture to submit the following passage from a modern publication,
 as embracing some just and judicious considerations.
 
-"`Of the true state of religion during the period of Cromwell`'s government,
+[.embedded-content-document]
+--
+
+Of the true state of religion during the period of Cromwell`'s government,
 it is difficult to form an accurate estimate.
 Judging from certain external appearances,
 and comparing them with the times which followed, the opinion must be highly favourable.
@@ -151,13 +154,15 @@ civil and ecclesiastical, and a declared active enemy to insolent tyranny,
 blind superstition, political godliness, bigotry, and pious frauds,
 who had not a fervency of zeal,
 which led him on some occasions beyond the bounds of sober,
-temperate reason.`"--Orme`'s Memoirs of the Life of Owen.
+temperate reason.--Orme`'s [.book-title]#Memoirs of the Life of Owen.#
+
+--
 
 But it will be needful to pursue the subject of enthusiasm somewhat further;
 inasmuch as it may have, in the minds of some,
-a particular reference not only to Jaffray, as he is in the Diary,
+a particular reference not only to Jaffray, _as he is in the Diary,_
 leaning to the Independents, but to Jaffray,
-as he is among his colleagues in the Memoirs,
+_as he is among his colleagues in the Memoirs,_
 a zealous "`Quaker`"--It is most unreasonable,`"
 observes a descendant of the family of Cromwell,
 in rebutting the animadversions of Hume against the Independents of that day,
@@ -226,7 +231,7 @@ and all other writers for the royal cause represent the Parliament and its adher
 allowing them no good motive for any of their proceedings,
 but attributing them wholly to concealed ambition, and sinister views;
 and thus stigmatized,
-they have been handed down to the present day.`"--Memoirs of Oliver Cromwell,
+they have been handed down to the present day.`"--[.book-title]#Memoirs of Oliver Cromwell,#
 by Oliver Cromwell; vol.
 ii. p. 400-405.
 
@@ -288,7 +293,7 @@ By such conduct the tribulations of the kingdom may often be avoided,
 but the consolations and rewards of it will also be lost.
 "`If any man serve me let him follow me; and where I am, there shall also my servant be;
 if, any man serve me, him will my father honour, John 12:26.`"
---Orme`'s Memoirs of the Life of Owen, p. 60.
+--Orme`'s [.book-title]#Memoirs of the Life of Owen,# p. 60.
 
 Some slight observations are yet to be subjoined,
 before we pass on to the subject of the second division
@@ -656,7 +661,7 @@ which the attrition of violence might have wetted into a weapon,
 that would have cut them off from the earth;--and
 they now reap the fair fruit of their principles,
 in the enjoyment of privileges from which others are still
-debarred.`"--Essays on the Principles of Morality,
+debarred.`"--[.book-title]#Essays on the Principles of Morality,#
 etc., by Jonathan Dymond.
 
 It is, then, to a recital of such circumstances as these,
@@ -716,6 +721,8 @@ that, through his Divine blessing, which can give success to the feeblest effort
 this collection may, according to the abundance of his grace in Christ Jesus,
 our Redeemer, redound to his own praise!
 
+[.signed-section-signature]
 John Barclay.
 
+[.signed-section-context-close]
 Croydon, 2nd month, 1833.

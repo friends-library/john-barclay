@@ -1,12 +1,16 @@
 == Chapter II.
 
-The birth of Alexander Jaffray in 1614, and his education at Aberdeen--1632:
-His marriage with Jane Dune--He spends some time with Robert Burnet, advocate,
-in Edinburgh--Takes a journey to London--1633:
-Attends the coronation of King Charles the first at Edinburgh--Travels to France twice--1636:
-Settles at Aberdeen--His lifeless formality in private and public duties--1644:
-The death of his wife--"`Sir George Gordon,`" Laird of Haddo,
-violently assaults and imprisons him for the space of five weeks.
+[.chapter-synopsis]
+* The birth of Alexander Jaffray in 1614, and his education at Aberdeen
+* 1632: His marriage with Jane Dune
+* He spends some time with Robert Burnet, advocate, in Edinburgh
+* Takes a journey to London
+* 1633: Attends the coronation of King Charles the first at Edinburgh
+* Travels to France twice
+* 1636: Settles at Aberdeen
+* His lifeless formality in private and public duties
+* 1644: The death of his wife
+* "`Sir George Gordon,`" Laird of Haddo, violently assaults and imprisons him for the space of five weeks.
 
 The way of God with me, before, as well as since my conversion,
 (if I may so speak,) hath been full of kindness and love:--he saw and loved me,
@@ -32,7 +36,7 @@ there is in breeding young ones timely in the fear of God,
 and keeping them closely and diligently at their
 studies,--in this they were some way deficient.
 And I am likely myself to fall into the same fault,
-which will be much more inexcusable in me than in them;
+which will be much more inexcusable in _me_ than in _them;_
 their breeding being very different from mine,
 and especially considering the opportunities I have had, both at home and abroad.
 
@@ -56,7 +60,7 @@ by this unfixed and unsettled way of getting too much liberty, I lost much,
 especially in attaining a knowledge of the Latin tongue.
 About the middle of the year 1631, being then about seventeen years of age,
 I came from the school in Banchory to the College, where, passing the first class,
-having made the manner to learn some Greek in Banchory,
+having _made the manner_ to learn some Greek in Banchory,
 I entered to my logics under Mr. Hugh +++[+++or Howe]
 Gordon, regent, and Dr. Dune, then principal,
 who were both of them unfit for training up youths,
@@ -78,7 +82,7 @@ And yet, such was the goodness of my God unto me, that in this +++[+++engagement
 he directed me well, whereas he might have made the circumstance a cross and curse to me;
 but it pleased him to bless it,
 giving me not only much contentment of a meek and quiet yokefellow, who,
-all the time of our being together, was very comfortable and pleasing to me;--even this,
+all the time of our being together, was very comfortable and pleasing to me;--__even this,__
 is matter of very great mercy, for which I ought to praise God.
 There was also more in it; for, I trust I have good grounds to say,
 that the seeds of grace in good measure were begun to be sown in her heart,--as
@@ -250,14 +254,14 @@ of the state of his father`'s property and affairs,
 and "`what was likely to come`" to him, etc.;
 with some observations on the propriety of keeping clear and correct accounts, etc.;
 but adds, that his main design in this book is more to spiritual subjects,
-and "`the observation of the goodness of God, for the engaging of my heart to him.`"]
+and "`the observation of the goodness of God, _for the engaging of my heart to him.`"_]
 
 In the year 1644, the 19th day of March, or thereabout,
 it pleased God to remove my wife by death; which was hastened, much to my grief,
-by the Laird of Haddo ^
+by the Laird of Haddo^
 footnote:[A predecessor of the Earl of Aberdeen.
 The Family residence, Haddo Castle,
-is a few miles N. W. Of Old Meldrum.]taking me prisoner out of my own house,
+is a few miles N. W. Of Old Meldrum.] taking me prisoner out of my own house,
 the occasion of which was as follows:--Some time before that,
 I committed a servant of his to prison for a riot done in Aberdeen.
 Thereafter he pursued me near to Kintore, +++[+++about twelve miles from Aberdeen,]

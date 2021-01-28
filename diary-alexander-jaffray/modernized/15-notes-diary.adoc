@@ -1,5 +1,6 @@
 == Appendix of Notes and Illustrations to the Diary.
 
+[.centered]
 === Note A.
 
 It does not very clearly appear,
@@ -14,6 +15,7 @@ to place the earliest insertion as late as 1656.
 In a future Note, some further remark will be made,
 on the retrospective form of this part of the Diary.
 
+[.centered]
 === Note B.
 
 This Robert Burnet was the father of Bishop Burnet,
@@ -47,6 +49,7 @@ which, however, does not appear to be the correct mode.--That the Burnetts,
 who are mentioned in the succeeding _Memoirs,_ as being of the Society of Friends,
 were connected with the above family, is not distinctly ascertained.
 
+[.centered]
 === Note C.
 
 "`In the year 1633,`" says Bishop Burnett, in the [.book-title]#History of His Own Times,#
@@ -57,6 +60,7 @@ that the country suffered much by it: all was entertainment and show.`"
 Spalding, in his [.book-title]#History of the Troubles, etc.,# edit.
 1830, p. 14, gives a particular account of each day`'s banqueting and ceremony.
 
+[.centered]
 === Note D.
 
 George Jamieson is named in Kennedy`'s [.book-title]#Annals of Aberdeen# as "`an eminent portrait
@@ -67,6 +71,7 @@ and in 1633, King Charles, when there on the occasion of his coronation,
 sat to him for his portrait.
 Vol. i. p. 268.
 
+[.centered]
 === Note E.
 
 The Editor has been wholly at a loss to English the
@@ -98,6 +103,7 @@ but that he was a chief promoter of this undertaking
 for bettering the condition of the poor,
 whether interested on his own account, or not, in any concern of a similar description.
 
+[.centered]
 === Note F.
 
 This affair is related in Spalding`'s [.book-title]#History of the Troubles,
@@ -119,6 +125,7 @@ whereof 5000 to the complainers, and 15,000 to the public.`"
 // lint-disable invalid-characters "½"
 The merk, Scots money, being 1s 1½d+++.+++, makes the fine £1,125 sterling.
 
+[.centered]
 === Note G.
 
 This aggression of Haddo, with the date of its occurrence,
@@ -151,6 +158,7 @@ when his father and others of the inhabitants of Aberdeen subscribed it;
 being urged to that measure by the Commissioners for the Covenanters, who,
 according to Spalding, came to Aberdeen "`on the 20th of July.`"
 
+[.centered]
 === Note H.
 
 It will be proper,
@@ -205,6 +213,7 @@ or arbitrament of the Parliament?
 This being putt to the voices of the house, it was found by plurality of voices,
 that this crime is capital, and punishable be the pain of death.`" Vol, iii. p. 213.
 
+[.centered]
 === Note I.
 
 In the Parliamentary Records of Scotland, under the date of "`the 19th of February,
@@ -220,6 +229,7 @@ Monymusk, Echt, Leslie the younger, etc.`"--The name Fraser, in the Public Recor
 is written promiscuously, Fraser, Frazer, Fraiser, Frissil, Frizell.
 "`Lord Fraser`" is occasionally styled "`Lord Frizell.`"
 
+[.centered]
 === Note J.
 
 On an examination of the _Acts and Minutes of the Scottish Parliament,_
@@ -236,44 +246,34 @@ his name appears in the Parliamentary Records,
 as being on committees or otherwise;
 but which are wholly passed over by Jaffray in his Diary.
 
-1644, 5th month,
-(July) 19th. He is nominated with others a Commissioner for Suppressing the Rebellion,
-which was put down by Argyle.
+[.syllogism]
+* 1644, 5th month, (July) 19th. He is nominated with others a Commissioner for Suppressing the Rebellion, which was put down by Argyle.
 
-24th. On a Committee of War for the county of Aberdeen.
-1646, 12th mo: 2nd. On a similar appointment.
+* 24th. On a Committee of War for the county of Aberdeen. 1646, 12th mo: 2nd. On a similar appointment.
 
-1648, 2nd mo: 18th. On a similar appointment.
+* 1648, 2nd mo: 18th. On a similar appointment.
 
-1649, 11th mo: 5th. On the Committee of Burgesses, or Commons,
-for Dispatches and Public Affairs.
-(note.
-The Lords and Burgesses sat in the same house.)
+* 1649, 11th mo: 5th. On the Committee of Burgesses, or Commons, for Dispatches and Public Affairs. (note. The Lords and Burgesses sat in the same house.)
 
-12th. Appointed, with Robert Barclay,
-(no description given of R. B.,) on behalf of the Burgesses, on a Committee.
+* 12th. Appointed, with Robert Barclay, (no description given of R. B.,) on behalf of the Burgesses, on a Committee.
 
-12th mo: 14th. Joins in a Report to Parliament, on a Petition of the Earl of Sutherland.
+* 12th mo: 14th. Joins in a Report to Parliament, on a Petition of the Earl of Sutherland.
 
-15th. On a General Committee for putting the kingdom in a posture of defence.
+* 15th. On a General Committee for putting the kingdom in a posture of defence.
 
-1st mo: 14th, 1650.
-On the Committee of Estates
+* 1st mo: 14th, 1650. On the Committee of Estates.
 
-15th. On the Commission for Plantation of Kirks; and a Commissioner of Exchequer.
+* 15th. On the Commission for Plantation of Kirks; and a Commissioner of Exchequer.
 
-16th. Is added to the Committee on Dispatches; also on Valuations.
+* 16th. Is added to the Committee on Dispatches; also on Valuations.
 
-26th. On a Committee, to report on the most effectual way of paying the troops,
-and gratuities to wounded soldiers.
+* 26th. On a Committee, to report on the most effectual way of paying the troops, and gratuities to wounded soldiers.
 
-5th mo: 31st. On a Commission for visiting the College at Aberdeen.
+* 5th mo: 31st. On a Commission for visiting the College at Aberdeen.
 
-6th mo: 7th. On the Committee of Estates.
+* 6th mo: 7th. On the Committee of Estates.
 
-5th mo: 4th. Along with the Earls of Cassilis, Buccleugh, Lothian, the Lairds Brodie,
-Libertoun, and others, "`to repair to his Majesty,
-and congratulate him on his happy arrival in this kingdom.`"
+* 5th mo: 4th. Along with the Earls of Cassilis, Buccleugh, Lothian, the Lairds Brodie, Libertoun, and others, "`to repair to his Majesty, and congratulate him on his happy arrival in this kingdom.`"
 
 During the course of this chapter, as in others,
 our Diarist enters rather at large on some circumstances in which he was engaged,
@@ -303,6 +303,7 @@ and of the distress occasioned by the pestilence, which had lately infested the 
 he was pleased to suspend the exaction of the money.`"
 Vol. i. p. 228.
 
+[.centered]
 === Note K.
 
 Alexander Jaffray`'s father may here be briefly spoken of,
@@ -312,6 +313,7 @@ on one occasion to the General Assembly of the Church of Scotland.
 Spalding, who evidently is not partial to him, notices that, in 1645,
 "`he departed this life in New Aberdeen; a rigorous Covenanter.`"
 
+[.centered]
 === Note L.
 
 "`The plague, which had existed in the southern districts of Scotland for two years,
@@ -339,6 +341,7 @@ he was deputed to repair to Edinburgh,
 to confer with the Committee of Estates about the mode of election of the provost.
 Annals of Aberdeen, vol. i. p. 243.
 
+[.centered]
 === Note M.
 
 Thus modestly, no scantily, does our humble-minded,
@@ -589,6 +592,7 @@ Johnstoun.
 
 --
 
+[.centered]
 === Note N.
 
 In a tract, "`printed in London, September 9th,
@@ -681,8 +685,9 @@ For the Right honourable, etc.`"
 --
 
 It is evident, on inspection of Alexander Jaffray`'s signature,
-that this should stand "`Al.`" not "`M. Jaffray.`"
+that this should stand _"`Al.`"_ not _"`M. Jaffray.`"_
 
+[.centered]
 === Note O.
 
 John Owen, whose views of religious liberty are thus particularly adverted to by Jaffray,
@@ -724,6 +729,7 @@ if at any time God will give them repentance to the acknowledgment of the truth.
 Imprisoning, banishing, slaying, is scarcely _a patient waiting._
 God does not so wait on unbelievers.`" [.book-title]#Memoirs of Owen,# p. 89--104.
 
+[.centered]
 === Note P.
 
 These meetings of ministers and professors at Edinburgh,
@@ -766,6 +772,7 @@ and following of the Sectaries courses, and favouring their errors.`"
 "`The main business that was agitat at this meeting
 was anent a letter to be written to Cromwell.`"
 
+[.centered]
 === Note Q.
 
 Of these individuals, with whom Jaffray had interviews, both publicly and more privately,
@@ -809,6 +816,7 @@ as the ensuing _Memoirs_ of that people will show.^
 footnote:[His house, Parkhill, lies on the north side of the Don,
 and may be seen from the Bridge of Dyce to the east.]
 
+[.centered]
 === Note R.
 
 "`Mr. James Wood was, some time after the year 1651,
@@ -885,6 +893,7 @@ of considerably greater length than this letter.
 [.signed-section-context-open]
 Aberdeen, May 24th, 1652.
 
+[.salutation]
 Right honourable, reverend, and much honoured in the Lord!
 
 Fear to offend you and other precious men in the land,
@@ -1109,6 +1118,7 @@ Alexander Jaffray, Mr. William Moore, Mr. John Row, Mr. John Meinzies, Andrew Bi
 
 --
 
+[.centered]
 === Note S.
 The following quotation from Orme`'s [.book-title]#Life of Owen,# p. 127,
 may throw some light on these reflections of Jaffray.
@@ -1176,6 +1186,7 @@ all the children could read the Scriptures, and were provided with Bibles,
 either by their parents or their ministers.`' [.book-title]#History of the Church of Scotland,# p. 54,
 etc.`"
 
+[.centered]
 === Note T.
 
 We have seen that Jaffray, in his interactions with Cromwell,
@@ -1241,6 +1252,7 @@ Nor will Christians of other denominations be disappointed
 of instruction and comfort from the perusal,
 in proportion as they look beyond men, to the essential teachings of the grace of Jesus.
 
+[.centered]
 === Note U.
 
 Allusion has several times been made in these Notes to the Independents.
@@ -1297,6 +1309,7 @@ which is very near to the date of these his observations in the Diary.
 It is entitled, "`A Declaration in favour of __Congregational Discipline,
 Purity of Communion, and Toleration.__`"
 
+[.centered]
 === Note V.
 
 In Row`'s _Supplement to Blair`'s Life,_
@@ -1318,6 +1331,7 @@ No. 63,(is from a number of Protesting ministers in the south or west,
 to some in hazard of Independency; the scope of which, no doubt, is,
 as Jaffray expresses it, _to persuade them from falling on any such dividing way._
 
+[.centered]
 === Note W.
 
 In Nicoll`'s MS. _Diary,_ before cited, under date "`May 8--18,
@@ -1371,7 +1385,7 @@ in due and competent form.
 And our aforesaid nomination and enrollment in our buikes of exchequer
 should be to our said Commissioners are sufficient warrant in that behalf.
 
-"`Therefore we, with advice and consent of the Commissioners of our said exchequer,
+Therefore we, with advice and consent of the Commissioners of our said exchequer,
 have given, granted, and disponed, like as we be the tenour hereof give, grant,
 and dispone to the said Alexander Jaffray esquire,
 so long as he shall therein well and faithfully demean himself,
@@ -1392,10 +1406,10 @@ In testimony whereof we have append our great seal to their presents.
 At Edinburgh, the twentieth day of November,
 the year of our Lord one thousand six hundred and fifty seven years.
 
-By warrant signed be the Commissioners of the exchequer.`"
+By warrant signed be the Commissioners of the exchequer.
 +++[+++Endorsement]
 
-[.signed-section-context-close]
+[.signed-section-closing]
 Presented and sealed at Edinburgh the 27th of November, 1657.
 
 [.signed-section-signature]
@@ -1450,6 +1464,7 @@ so that we are deprived of his sentiments connected with that important
 engagement upon which he was united with his friend Jaffray,--the
 Commission to treat with the King at Breda.
 
+[.centered]
 === Note X.
 
 It is far from the design of the Author of these historical illustrations,
@@ -1716,6 +1731,7 @@ and were never likely to convert a soul:--all these they usually rejected,
 and in their stead admitted any that were able, serious preachers,
 and lived a godly life, of what tolerable opinion soever they were.`"
 
+[.centered]
 === Note Y.
 
 The reader will probably have remarked,
@@ -1729,6 +1745,7 @@ cross,`" appear to wind up the _retrospective_ part of the narrative to a close.
 After this, at the date, "`10th of April, 1657,`", proceeds the Diary, _as a diary,_
 in its more appropriate form, _each observation bearing the date of insertion._
 
+[.centered]
 === Note Z
 
 A passage remarkably similar to this,
@@ -1754,6 +1771,7 @@ tending to throw light upon that coincidence,
 which is occasionally to be discerned between the
 sentiments of this author and our worthy Diarist.
 
+[.centered]
 === Note AA.
 
 _"`There is a noble guest within us_--Oh! let all our business be,
@@ -1803,6 +1821,7 @@ which it was the blessed will of the Father should subsist among believers,
 which the Son himself interceded for,
 and which his Holy Spirit is fully able to bring about.
 
+[.centered]
 === Note BB.
 
 Jaffray seems to have imbibed such a sentiment as this,
@@ -1825,6 +1844,7 @@ not noted for any extraordinary profession or forwardness in religion,
 but only to live a quiet, blameless life, whom I have after found to have long lived,
 as far as I could discern, a truly godly and sanctified life.`"
 
+[.centered]
 === Note CC.
 
 It would seem, by this paragraph, as if Alexander Jaffray`'s opinion _then_ was,
@@ -1844,6 +1864,7 @@ that the law of the spirit of life in Christ Jesus
 _had made him free from the law of sin and death._
 A similar mode of speech, the Apostle James uses, chap. 3. verses 9, 10.
 
+[.centered]
 === Note DD.
 
 At the latter end of this paragraph,
@@ -1893,6 +1914,7 @@ _that_ had not been true; neither had they been ignorant what to pray,
 nor should they have needed the help of the Spirit to teach them.`"
 Apology, Prop. xi. sect. 10.
 
+[.centered]
 === Note EE.
 
 Andrew Cant, the father-in-law of Alexander Jaffray,
@@ -1910,6 +1932,7 @@ In Row`'s _Supplement to Blair`'s Life,_
 Andrew Cant is described as "`very forward and zealous,
 being of a fiery temper;`" which agrees with the account here given of him.
 
+[.centered]
 === Note FF.
 
 _Caskieben_ is repeatedly mentioned in the "`Retours,`"
@@ -1922,6 +1945,7 @@ lying in the parish of Keith Hall.`"--Kinmuck,
 where the Society of Friends still have a meetinghouse, is in that parish,
 and very near the Earl of Kintore`'s residence.
 
+[.centered]
 === Note GG.
 
 "`Dr. Thomas Goodwin, whom Wood,
@@ -1931,6 +1955,7 @@ He is represented, in the Memoir of the Life of Owen, "`as rather too high a Cal
 but distinguished for his piety, learning, and industry;
 as the five folio volumes of his posthumous works bear ample testimony.`" p. 175.
 
+[.centered]
 === Note HH.
 
 The name of Swintoune, has already been introduced in a preceding Note,
@@ -2053,6 +2078,7 @@ and some interested considerations of Middleton the Commissioner,
 joined to procure his safety; and he was dismissed,
 but after a long imprisonment and much dilapidation of his estates.`"
 
+[.centered]
 === Note II.
 
 Owen`'s work [.book-title]#On the Mortification of Sin in Believers# was published in 1656.
@@ -2068,6 +2094,7 @@ the danger of entering into it; and the means of preventing that danger, etc._ 1
 being the substance of some sermons on Matt. 26:41.--"`Watch and pray,
 that you enter not into temptation.`"--[.book-title]#Memoirs,# p. 501.
 
+[.centered]
 === Note JJ.
 
 Remarkable, certainly, is the coincidence between Alexander Jaffray`'s forebodings,
@@ -2099,6 +2126,7 @@ to expose both themselves and their party as impious and ridiculous.`"
 vol. i. p. 127. See also Neale`'s [.book-title]#History of the Puritans,# vol.
 iv. p. 269.
 
+[.centered]
 === Note KK.
 
 This was the Committee of Estates.
@@ -2115,6 +2143,7 @@ before the Committee of Estates, and required to give bail,
 that they should appear at the opening of the Parliament,
 and answer to what should be then objected to them.`" vol. i. p. 155, 156.
 
+[.centered]
 === Note LL.
 
 James Simpson was minister at Airth in Stirlingshire.
@@ -2126,6 +2155,7 @@ he was banished the King`'s dominions,
 without being heard by the Parliament in his own defence.
 He died in Holland.--Woodrow`'s [.book-title]#History of the Sufferings of the Church of Scotland,# vol. i. p. 71.
 
+[.centered]
 === Note MM.
 
 In the _Acts and Minutes of the Parliament of Scotland,_
@@ -2139,6 +2169,7 @@ together with the decision of the house upon it.
 [.letter-heading]
 To the Lord Commissioner his Grace, and the honourable Estates of Parliament.
 
+[.offset]
 The humble petition of Alexander Jaffray shows,
 
 That when your Lordship`'s Petitioner was required by the
@@ -2162,6 +2193,7 @@ upon caution for his peaceable deportment,
 and to answer for his by-past behaviour when he shall be called,
 as your Grace and the honourable Estates of Parliament shall appoint.
 
+[.signed-section-closing]
 And your Lordship`'s answer the Petitioner expects.
 
 [.signed-section-signature]
@@ -2190,6 +2222,7 @@ the town of Edinburgh until the Parliament`'s further order.
 
 --
 
+[.centered]
 === Note NN.
 
 The following quotation from Skinner`'s [.book-title]#Ecclesiastical History of Scotland,# will,
@@ -2227,6 +2260,7 @@ and afterward underwent much hardship and persecution.
 Trail was tried before the Parliament; and the next year was banished,
 and went to Holland.
 
+[.centered]
 === Note OO.
 
 "`One Macquare, a hot man and considerably learned,

@@ -1,5 +1,6 @@
 == Appendix of Notes and Illustrations to the Diary.
 
+[.centered]
 === Note A.
 
 It does not very clearly appear,
@@ -14,52 +15,55 @@ to place the earliest insertion as late as 1656.
 In a future Note, some further remark will be made,
 on the retrospective form of this part of the Diary.
 
+[.centered]
 === Note B.
 
 This Robert Burnet was the father of Bishop Burnet,
 and married a sister of the Lord Warristoun,
 who is several times named by our Author in future pages of his Diary.
-In Row`'s Supplement to Blair`'s Life,
+In Row`'s _Supplement to Blair`'s Life,_
 a MS. in the Library of the Writers to the Signet at Edinburgh,
 he is mentioned as being "`both a good man and a
-good advocate;`" and in Nicoll`'s Diary of Occurrences,
+good advocate;`" and in Nicoll`'s _Diary of Occurrences,_
 a MS. in the Advocate`'s Library there, he is termed, "`a very good honest,
 and religious Christian.`"
 After the Restoration, he was made a judge in the Court of Session,
 by the title of Lord Crimond.
-The preface to Burnet`'s History of his own Times, represents him,
+The preface to Burnet`'s [.book-title]#History of His Own Times,# represents him,
 agreeably to Jaffray`'s description,
 as "`so remarkable for his strict and exemplary life,
 that he was generally called a Puritan.`"
 
 According to the same testimony, "`he was the younger brother of a family,
 very considerable for its authority as well as interest in the
-shire of Aberdeen;`" his father being Alexander Burnet of Leys.
-See Dougl.
-Baronage, 42. The reader, as he proceeds, will find, that in 1645, Alexander Jaffray,
+shire of Aberdeen;`" his father being _Alexander Burnet of Leys._
+See _Dougl.
+Baronage, 42._ The reader, as he proceeds, will find, that in 1645, Alexander Jaffray,
 with his father, took up their abode for a time with their "`cousin,
 Alexander Burnet the elder.`"
-Now, the maiden name of Jaffray`'s grandmother was Christian Burnet,
+Now, the maiden name of Jaffray`'s _grandmother_ was Christian Burnet,
 and she is described in the genealogy of the family,
-as daughter to the then proprietor of Leys.
-Burnet, in the Diary, and in some other documents, is uniformly spelt with one "`t`",
+as _daughter to the then proprietor of Leys._
+Burnet, in the Diary, and in some other documents, is uniformly spelt with one _"`t`"_,
 which, however, does not appear to be the correct mode.--That the Burnetts,
-who are mentioned in the succeeding Memoirs, as being of the Society of Friends,
+who are mentioned in the succeeding _Memoirs,_ as being of the Society of Friends,
 were connected with the above family, is not distinctly ascertained.
 
+[.centered]
 === Note C.
 
-"`In the year 1633,`" says Bishop Burnett, in the History of his own Times,
+"`In the year 1633,`" says Bishop Burnett, in the [.book-title]#History of His Own Times,#
 "`the King +++[+++Charles the 1st.]
 came down in person to be crowned.
 His entry and coronation were managed with such magnificence,
 that the country suffered much by it: all was entertainment and show.`"
-Spalding, in his History of the Troubles, etc., edit.
+Spalding, in his [.book-title]#History of the Troubles, etc.,# edit.
 1830, p. 14, gives a particular account of each day`'s banqueting and ceremony.
 
+[.centered]
 === Note D.
 
-George Jamieson is named in Kennedy`'s Annals of Aberdeen as "`an eminent portrait
+George Jamieson is named in Kennedy`'s [.book-title]#Annals of Aberdeen# as "`an eminent portrait
 painter,`" who also "`not infrequently applied his talent to history,
 landscape, and miniature.`"
 He was employed by the magistrates of Edinburgh to make paintings of the Scottish monarchs;
@@ -67,6 +71,7 @@ and in 1633, King Charles, when there on the occasion of his coronation,
 sat to him for his portrait.
 Vol. i. p. 268.
 
+[.centered]
 === Note E.
 
 The Editor has been wholly at a loss to English the
@@ -75,13 +80,13 @@ although he has examined a glossary of Scottish phrases.--He was equally unable,
 even to decipher, with any certainty,
 two or three words towards the close of the preceding paragraph,
 where the hiatus is denoted: as nearly as could be made out,
-they are these,--"`and made some waring of wattglen or thereby.`"
-But a clue has occurred, while looking over the Annals of Aberdeen,
+they are these,--__"`and made some waring of wattglen or thereby.`"__
+But a clue has occurred, while looking over the [.book-title]#Annals of Aberdeen,#
 from which it may be conjectured, that he alludes to some woollen goods,
 or other description of manufacture.--"`In the year 1636,`" that is,
-two years after the time we are now arrived at in the Diary, our Author being,
+two years _after_ the time we are now arrived at in the Diary, our Author being,
 as we shall see, provost or chief magistrate of Aberdeen,
-"`the magistrates obtained from King Charles the
+"`the _magistrates_ obtained from King Charles the
 1st. a patent for establishing a house of correction;
 chiefly with the view of reforming the morals,
 and of promoting good order and industry among a certain description of the inhabitants,
@@ -89,9 +94,8 @@ who were to be employed in manufacturing broadcloths, kerseys, says,
 and other coarse cloths.`"
 "`The manufacture of cloths was carried on in the house
 of correction for several years by a joint stock company,
-to a pretty considerable extent.`"
-Annals,
-etc. vol. i. p. 257. Connecting the circumstance
+to a pretty considerable extent.`" [.book-title]#Annals, etc.#
+vol. i. p. 257. Connecting the circumstance
 of Jaffray`'s going by Leeds and Wakefield to London,
 and his notice of the Yorkshire cloths, with his expressions above,
 there is little doubt,
@@ -99,10 +103,11 @@ but that he was a chief promoter of this undertaking
 for bettering the condition of the poor,
 whether interested on his own account, or not, in any concern of a similar description.
 
+[.centered]
 === Note F.
 
-This affair is related in Spalding`'s History of the Troubles,
-etc. p. 336.--"`Upon Saturday, the 1st of July, +++[+++1643,]
+This affair is related in Spalding`'s [.book-title]#History of the Troubles,
+etc.# p. 336.--"`Upon Saturday, the 1st of July, +++[+++1643,]
 Sir George Gordon of Haddo unhappily hurt Alexander Jaffray, late bailie,
 and John Jaffray their father, +++[+++or rather his brother]
 at Broomend, in coming frae the good-man of Brakay`'s burial; because the said A. J.,
@@ -120,6 +125,7 @@ whereof 5000 to the complainers, and 15,000 to the public.`"
 // lint-disable invalid-characters "½"
 The merk, Scots money, being 1s 1½d+++.+++, makes the fine £1,125 sterling.
 
+[.centered]
 === Note G.
 
 This aggression of Haddo, with the date of its occurrence,
@@ -137,8 +143,7 @@ for he was not in town.
 Surely, it is to be marked, the like seldom has been seen, that so few men,
 so pertly and publicly, should have disgraced such a brave burrow,
 by taking away their provost and the rest, men of note,
-without any kind of contradiction or obstacle.`"
-History of the Troubles, etc. p. 384. See also Baillie`'s Letters and Journals.
+without any kind of contradiction or obstacle.`" [.book-title]#History of the Troubles, etc.# p. 384. See also _Baillie`'s Letters and Journals._
 The above writer adds, that "`the Marquis +++[+++of Huntly]
 left the four captives at Strathboggie,
 who were transported therefore to Aucbindown upon the 2nd of April.`"
@@ -153,6 +158,7 @@ when his father and others of the inhabitants of Aberdeen subscribed it;
 being urged to that measure by the Commissioners for the Covenanters, who,
 according to Spalding, came to Aberdeen "`on the 20th of July.`"
 
+[.centered]
 === Note H.
 
 It will be proper,
@@ -175,19 +181,19 @@ the town was pillaged, and, as the Diary correctly states,
 Immediately after this, Burleigh`'s shattered force was joined by Argyle,
 so that Montrose did not retain his position at Aberdeen;
 and this may account for Jaffray`'s expression,
-that he could not well stay there;--the place was yet in the hands of his friends,
+that he could not _well_ stay there;--the place was yet in the hands of his friends,
 but it had been successively taken and retaken by opposite parties,
 so that in that spot there was no safe abiding.
-See Kennedy`'s Annals of Aberdeen; also Spalding, p. 447.
+See Kennedy`'s [.book-title]#Annals of Aberdeen;# also Spalding, p. 447.
 
 Dunotter, or Dunnotter Castle, now in ruins, is situated on a lofty perpendicular rock,
 almost surrounded by the sea, a little to the south of Stonehaven.
-It belonged to the Earl Marischall:--so did also the estate of Ury, not far from there,
+It belonged to the Earl Marischall:--so did also the _estate of Ury,_ not far from there,
 and well known to the Society of Friends,
-as having since been in the possession of the Barclay family; Colonel David,
+as having since been in the possession of the _Barclay_ family; Colonel David,
 the father of their "`Apologist,`" having about this time purchased it of the Earl.
-Thorns, in his History of Aberdeen, relates, that the Earl,
-with sixteen Covenanting ministers and others, had taken refuge in Dunotter,
+Thorns, in his [.book-title]#History of Aberdeen,# relates, that the Earl,
+with sixteen _Covenanting_ ministers and others, had taken refuge in Dunotter,
 while Montrose, with his Highland clan, ravaged the country;
 and that the latter wrote a letter to him, requesting him to support the royal cause,
 but that Marischall, counselled by Andrew Cant,
@@ -207,12 +213,13 @@ or arbitrament of the Parliament?
 This being putt to the voices of the house, it was found by plurality of voices,
 that this crime is capital, and punishable be the pain of death.`" Vol, iii. p. 213.
 
+[.centered]
 === Note I.
 
 In the Parliamentary Records of Scotland, under the date of "`the 19th of February,
 1649,`" is "`the supplication of Forbes of Leslie, Alexander Jaffray, bailie of Aberdeen,
 Andrew Cant,`" and others, that they may not be censured,
-for having burned "`the house of Pitcaple, in the month of September,
+for having burned "`__the house of Pitcaple,__ in the month of September,
 1645,`" and the report of the Committee of Parliament thereon; and a vote is passed,
 that "`they deserve the approbation of the Parliament.`"
 The petition states, that "`the Lord, in the very neck of time,
@@ -222,80 +229,71 @@ Monymusk, Echt, Leslie the younger, etc.`"--The name Fraser, in the Public Recor
 is written promiscuously, Fraser, Frazer, Fraiser, Frissil, Frizell.
 "`Lord Fraser`" is occasionally styled "`Lord Frizell.`"
 
+[.centered]
 === Note J.
 
-On an examination of the Acts and Minutes of the Scottish Parliament,
+On an examination of the _Acts and Minutes of the Scottish Parliament,_
 at the date of the 3rd of the month called February, 1646,
 Alexander Jaffray is found to be one of "`a Commission
-for Proceedings against Malignants and Delinquents.`"
-According to Balfour`'s Annals, this was a Committee for "`Fines, Processes,
+for Proceedings against __Malignants and Delinquents.__`"
+According to Balfour`'s _Annals,_ this was a Committee for "`Fines, Processes,
 and Excise.`"--Although he notices thus cursorily
 his being a member of Parliament in 1646,
-and again, at a future page, in 1649; yet, by the Acts and Minutes, it would seem,
+and again, at a future page, in 1649; yet, by the _Acts and Minutes,_ it would seem,
 that he also stood in that character in 1644 and 1648.
 The following are some of the occasions upon which
 his name appears in the Parliamentary Records,
 as being on committees or otherwise;
 but which are wholly passed over by Jaffray in his Diary.
 
-1644, 5th month,
-(July) 19th. He is nominated with others a Commissioner for Suppressing the Rebellion,
-which was put down by Argyle.
+[.syllogism]
+* 1644, 5th month, (July) 19th. He is nominated with others a Commissioner for Suppressing the Rebellion, which was put down by Argyle.
 
-24th. On a Committee of War for the county of Aberdeen.
-1646, 12th mo: 2nd. On a similar appointment.
+* 24th. On a Committee of War for the county of Aberdeen. 1646, 12th mo: 2nd. On a similar appointment.
 
-1648, 2nd mo: 18th. On a similar appointment.
+* 1648, 2nd mo: 18th. On a similar appointment.
 
-1649, 11th mo: 5th. On the Committee of Burgesses, or Commons,
-for Dispatches and Public Affairs.
-(note.
-The Lords and Burgesses sat in the same house.)
+* 1649, 11th mo: 5th. On the Committee of Burgesses, or Commons, for Dispatches and Public Affairs. (note. The Lords and Burgesses sat in the same house.)
 
-12th. Appointed, with Robert Barclay,
-(no description given of R. B.,) on behalf of the Burgesses, on a Committee.
+* 12th. Appointed, with Robert Barclay, (no description given of R. B.,) on behalf of the Burgesses, on a Committee.
 
-12th mo: 14th. Joins in a Report to Parliament, on a Petition of the Earl of Sutherland.
+* 12th mo: 14th. Joins in a Report to Parliament, on a Petition of the Earl of Sutherland.
 
-15th. On a General Committee for putting the kingdom in a posture of defence.
+* 15th. On a General Committee for putting the kingdom in a posture of defence.
 
-1st mo: 14th, 1650.
-On the Committee of Estates
+* 1st mo: 14th, 1650. On the Committee of Estates.
 
-15th. On the Commission for Plantation of Kirks; and a Commissioner of Exchequer.
+* 15th. On the Commission for Plantation of Kirks; and a Commissioner of Exchequer.
 
-16th. Is added to the Committee on Dispatches; also on Valuations.
+* 16th. Is added to the Committee on Dispatches; also on Valuations.
 
-26th. On a Committee, to report on the most effectual way of paying the troops,
-and gratuities to wounded soldiers.
+* 26th. On a Committee, to report on the most effectual way of paying the troops, and gratuities to wounded soldiers.
 
-5th mo: 31st. On a Commission for visiting the College at Aberdeen.
+* 5th mo: 31st. On a Commission for visiting the College at Aberdeen.
 
-6th mo: 7th. On the Committee of Estates.
+* 6th mo: 7th. On the Committee of Estates.
 
-5th mo: 4th. Along with the Earls of Cassilis, Buccleugh, Lothian, the Lairds Brodie,
-Libertoun, and others, "`to repair to his Majesty,
-and congratulate him on his happy arrival in this kingdom.`"
+* 5th mo: 4th. Along with the Earls of Cassilis, Buccleugh, Lothian, the Lairds Brodie, Libertoun, and others, "`to repair to his Majesty, and congratulate him on his happy arrival in this kingdom.`"
 
 During the course of this chapter, as in others,
 our Diarist enters rather at large on some circumstances in which he was engaged,
 and especially on the progress of his mind,
 in relation to subjects deeply interesting to him;
-while he forbears to lay out to view the part he took in some other public events,
+while he forbears to _lay out_ to view the part he took in some other public events,
 where these have no immediate application to his spiritual career.
 Such omissions, of even important transactions of his life,
 may have in part arisen from the professed design of the Diary,
-which is purely religious; but, it is believed,
+which is purely _religious;_ but, it is believed,
 they are also in some degree attributable to the Writer`'s unusually humble
 views and feelings.--One circumstance wholly passed over at this period,
 is the following.
 In 1651, Alexander Jaffray was provost or mayor of Aberdeen; and,
 in the course of that year, according to the records of the town Council,
 was deputed a Commissioner to General Monk at Dundee
-"`concerning certain important matters.`"
+_"`concerning certain important matters.`"_
 What these matters were, the town Records do not state; but,
-in Kennedy`'s Annals of Aberdeen,
-the most probable explanation of one of these affairs occurs.
+in Kennedy`'s [.book-title]#Annals of Aberdeen,#
+the most probable explanation of _one_ of these affairs occurs.
 That place surrendered at discretion to the army of General Monk, as this author relates,
 "`on the 7th of September,`" when the English took possession of the town.
 They immediately imposed upon the citizens a contribution of £12,000. A representation,
@@ -305,6 +303,7 @@ and of the distress occasioned by the pestilence, which had lately infested the 
 he was pleased to suspend the exaction of the money.`"
 Vol. i. p. 228.
 
+[.centered]
 === Note K.
 
 Alexander Jaffray`'s father may here be briefly spoken of,
@@ -314,14 +313,14 @@ on one occasion to the General Assembly of the Church of Scotland.
 Spalding, who evidently is not partial to him, notices that, in 1645,
 "`he departed this life in New Aberdeen; a rigorous Covenanter.`"
 
+[.centered]
 === Note L.
 
 "`The plague, which had existed in the southern districts of Scotland for two years,
 broke out in Aberdeen about the 1st of June, 1647,
 and continued its ravages till almost the end of October.
 The election of the magistrates this year, was held at Gilcomston,
-on account of the pestilence, which cut off in Aberdeen 1600 of the inhabitants.`"
-Thorns`' History, vol. i. p. 330.
+on account of the pestilence, which cut off in Aberdeen 1600 of the inhabitants.`" [.book-title]#Thorns`' History,# vol. i. p. 330.
 According to Kennedy,
 the population may be computed to have then stood at 9000.--Jaffray
 is conjectured to have been at that time a bailie or magistrate,
@@ -329,11 +328,11 @@ not the provost or mayor.
 He repeatedly filled both these offices; his name appearing as provost in the years 1636,
 1639, 1642, 1649, and 1651; and as bailie in 1634, 1641, 1643, 1645, and 1648.
 There is, however, some difficulty in precisely fixing the dates,
-as the election took place in the latter part of each year for the ensuing.
+as the election took place in the _latter_ part of each year for the _ensuing._
 This must account for the discrepancy between Spalding`'s statement,
 and that which has been obligingly furnished the Editor, by James Hardie,
 the city chamberlain of Aberdeen, from the Records of the town Council.
-The name of Jaffray`'s father being likewise Alexander,
+The name of Jaffray`'s father being likewise _Alexander,_
 this circumstance should probably strike off the
 two first years of his nomination to each office,
 as belonging, it is supposed, to the father rather than the son,
@@ -342,6 +341,7 @@ he was deputed to repair to Edinburgh,
 to confer with the Committee of Estates about the mode of election of the provost.
 Annals of Aberdeen, vol. i. p. 243.
 
+[.centered]
 === Note M.
 
 Thus modestly, no scantily, does our humble-minded,
@@ -360,7 +360,7 @@ of these engagements was nearly three months.
 But while regretting the loss we sustain, both by a chasm in this part of the Diary,
 as well as by the summary glance which is taken of this transaction of Jaffray`'s life,
 let us not omit to mark,--amidst his reflections upon it
-as a political event,--how liberal he is in self-condemnation.
+as a political event,--__how liberal he is in self-condemnation.__
 Nor does he spare to animadvert with freedom on what he
 considered to be the carnal policy and contrivances of others;
 yet, through all, his heart is not obstructed from rising into grateful admiration,
@@ -421,7 +421,7 @@ which was a great advantage to the city.`"--But to return.
 
 In addition to the four Commissioners mentioned by Jaffray, including himself,
 who were deputed by the Scottish Parliament in 1649 to treat with the King, Godwin,
-in his History of the Commonwealth, numbers one other,
+in his [.book-title]#History of the Commonwealth,# numbers one other,
 besides three appointed by the General Assembly of the Church of Scotland;
 and he refers to Balfour as his authority.
 Lamont, in his Diary, p. 2, speaks only of two for the Church, "`namely, Mr. James Wood,
@@ -441,16 +441,16 @@ Thus do these authors differ from each other.
 
 It will not be deviating from the scope of these annotations,
 to insert an extract or two from the Journal of the last individual,
-while engaged on this business; Jaffray being particularly alluded to by him.
+_while engaged on this business;_ Jaffray being particularly alluded to by him.
 The Editor obtained access to this small volume at the Library of the British Museum,
-the purport of its title being, The Life of John +++[+++not Thomas]
-Livingstone.--"`When I considered,`" says the writer,
+the purport of its title being, _The Life of John_ +++[+++not Thomas]
+_Livingstone._--"`When I considered,`" says the writer,
 "`the Commissioners sent by the State,
 I was not willing to embark in any business with them.
 Cassels, Brodie, and A. Jaffray, I had no exception against; the other three +++[+++Lothian,
 George Wynram, styled, the Laird Libertoun, and Sir John Smith,]
 I suspected, would be ready to condescend to an agreement upon unsafe terms.`" p. 39.
-Again, at p. 43, "`None of us three ministers ever went to the King alone,
+Again, at p. 43, "`None of us _three_ ministers ever went to the King alone,
 but often all together, or at least two of us.
 We went seldom, but whenever we went, we had access and liberty to stay,
 and speak so long as we pleased.
@@ -489,7 +489,7 @@ not too implicitly to trust or follow even such as these.
 
 Some readers may wish to have placed before them,
 the conditions on which the treaty with the King stood.
-They are thus given by Neale, in the History of the Puritans.
+They are thus given by Neale, in the [.book-title]#History of the Puritans.#
 "`First, That all persons excommunicated by the Kirk, should be forbid the court.
 Second, That the King by his solemn oath, and under his hand and seal,
 declare his allowance of the Covenant.
@@ -506,7 +506,7 @@ if the Kirk desired it.`"--"`The King arrived in Scotland June 23rd,`" continues
 and upon his parting with all his old counsellors;
 which he did.`"--It is not needful to insert the Covenant at full length;
 but the tenor of it,
-is thus set forth by the author of the "`Hind let loose,`" p. 65. It imported,
+is thus set forth by the author of the [.book-title]#Hind Let Loose,# p. 65. It imported,
 and required of subscribers, "`their sincere and constant endeavours,
 in their several places and callings,
 for the preservation of the uniformity in reformation, in doctrine, worship, discipline,
@@ -522,14 +522,18 @@ in the amendment of our lives and walking exemplary one before another.`"
 The day after his arrival, the King was conveyed to Aberdeen,
 where "`he was lodged in a merchant`'s house opposite the Tolbooth,`"
 as appears by a very particular account of his landing and reception,
-given in "`Historical Discourses, etc. by Sir Edward Walker.`"
+given in [.book-title]#Historical Discourses, etc.# by Sir Edward Walker.
 A letter is recorded in the Council register of Aberdeen, vol.
 53, signed by Jaffray and his fellow-commissioners at this juncture,
 and addressed to the magistrates, as follows.
 
-"`Worshipful and good Friends,
+[.embedded-content-document.address]
+--
 
-"`We have directed these to let you know, that the King is safely arrived, and intends,
+[.salutation]
+Worshipful and good Friends,
+
+We have directed these to let you know, that the King is safely arrived, and intends,
 if God permits, to be at Aberdeen on Thursday at night;
 therefore you will take such care to provide such lodgings for him,
 and for the Commissioners, and for the train,
@@ -539,9 +543,13 @@ let nothing be lacking which may testify your affection to the native King,
 who has fully assured all the desire of his people.
 No further, but we are your very assured friends,
 
+[.signed-section-signature]
 Cassillis, J. Brodie, J. Smith, Lothiane, George Wynram, Al. Jaffray.
 
+[.signed-section-context-close]
 Speymouth, 23rd June, 1650.
+
+--
 
 The only remaining document to be laid before the reader,
 connected with and winding up the whole subject of these observations,
@@ -557,7 +565,10 @@ There is also another tract,
 with a similar "`Act of Approbation of the Commissioners,`" etc., dated 1650;
 its title running "`Some Passages in the Parliament of Scotland,`" etc.
 
-"`At Edinburgh, the 14th day of June, 1649.
+[.embedded-content-document]
+--
+
+At Edinburgh, the 14th day of June, 1649.
 The Estates of Parliament, now presently convened,
 in the third session of this second triennial Parliament,
 having received from John Earl of Cassils, Alexander Brodie of that ilk,
@@ -572,11 +583,16 @@ do therefore unanimously and heartily acknowledge their faithfulness and diligen
 and approve their proceedings,
 and render to them the hearty thanks of this kingdom for the same.
 
-Sic subscribitur,
+[.signed-section-closing]
+_Sic subscribitur,_
 
+[.signed-section-signature]
 Arch.
 Johnstoun.
 
+--
+
+[.centered]
 === Note N.
 
 In a tract, "`printed in London, September 9th,
@@ -586,8 +602,8 @@ under date 4th September,`" there is a list of the Scottish prisoners;
 and among them are named "`Lord Liberton, Mr. Alexander Jaffray,
 of the Committee of Estates, Mr. Gillespy, minister, Mr. John Waugh,
 minister.`"--It also appears by a letter inserted in Thurlow`'s State Papers,
-from Oliver Cromwell to Lieutenant General Lesly, that "`Provost Jaffray, Custairs,
-and Wauch`" were the prisoners exchanged for the
+from Oliver Cromwell to Lieutenant General Lesly, that _"`Provost Jaffray, Custairs,
+and Wauch`"_ were the prisoners exchanged for the
 seamen and their officers.--Among some extracts,
 taken from the town Records of Aberdeen, by permission of James Hardie,
 the city chamberlain of that place, is an order to John Jaffray, brother of Alexander,
@@ -596,7 +612,7 @@ etc. to obtain his speedy liberation.`"--During his imprisonment, being at Edinb
 while Cromwell and his army lay before the Castle, previous to its surrender,
 the following curious and important transaction took place,
 in which Alexander Jaffray was concerned.
-It is taken from the work entitled, "`Cromwelliana,`" p. 95.
+It is taken from the work entitled, [.book-title]#Cromwelliana,# p. 95.
 
 "`The General having all things in readiness for battering the Castle,
 on Thursday last sent a summons to the Governor Dundas, for the surrender thereof;
@@ -619,12 +635,25 @@ to desire two Scotch gentlemen, then in Edinburgh, to come in to speak with him.
 Hereupon,
 his excellency returned these papers following to the Governor of Edinburgh Castle:
 
+[.embedded-content-document]
+--
+
 Sir, Having acquainted the gentlemen with your desire to speak with them,
 and they making some difficulty of it, have desired me to send you this enclosed.
 I rest, Sir, your servant,
 
+[.signed-section-signature]
 Oliver Cromwell.
+
+[.signed-section-context-close]
 Edinburgh, 14th December, 1650.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 For the Governor of Edinburgh Castle.
 
 Right honourable,
@@ -641,14 +670,24 @@ and the Lord be with you.
 
 We are, Sir, your honour`'s humble servants, well-wishers in the Lord,
 
+[.signed-section-signature]
 M+++.+++ Jaffray.
+
+[.signed-section-signature]
 Jo. Carstairs.
+
+[.signed-section-context-close]
 Edinburgh, 14th December, 1650.
+
+[.signed-section-context-close]
 For the Right honourable, etc.`"
 
-It is evident, on inspection of Alexander Jaffray`'s signature,
-that this should stand "`Al.`" not "`M. Jaffray.`"
+--
 
+It is evident, on inspection of Alexander Jaffray`'s signature,
+that this should stand _"`Al.`"_ not _"`M. Jaffray.`"_
+
+[.centered]
 === Note O.
 
 John Owen, whose views of religious liberty are thus particularly adverted to by Jaffray,
@@ -668,29 +707,29 @@ and he joined Cromwell at Berwick.
 He continued with the army till early in 1651.
 For a considerable time, he had advocated the cause of liberty of conscience;
 and especially in 1649, when called to preach before the Parliament,
-the day after the execution of Charles the 1st. He faithfully told them on that occasion,
+_the day after the execution of Charles the 1st._ He faithfully told them on that occasion,
 that "`much of the evil which had come upon the country,
 had originated within their own walls,`" and warned them against "`oppression,
 self-seeking, and contrivances for persecution.`"
 But that which forms the chief reason for bringing forward this discourse,
-is an Essay on Toleration annexed to it.
+is an _Essay on Toleration_ annexed to it.
 In this piece,
 he examines particularly the arguments of the Scottish
 General Assembly in favour of a forced uniformity,
 and exposes their fallacy.
 "`Gospel constitutions,`" says he, "`in the case of heresy or error,
 seem not to favour any course of violence, I mean, of civil penalties.
-Foretold it is, that heresies must be; but,
-this is for the manifesting of those that are approved,
+Foretold it is, that heresies _must be;_ but,
+this is for the manifesting of those _that are approved,_
 not the destroying of those that are not.
 Admonitions, and excommunications upon rejection of admonition,
-are the highest constitutions against such persons;
+are the _highest_ constitutions against such persons;
 waiting with all patience on them that oppose themselves,
 if at any time God will give them repentance to the acknowledgment of the truth.
-Imprisoning, banishing, slaying, is scarcely a patient waiting.
-God does not so wait on unbelievers.`"
-Memoirs of Owen, p. 89--104.
+Imprisoning, banishing, slaying, is scarcely _a patient waiting._
+God does not so wait on unbelievers.`" [.book-title]#Memoirs of Owen,# p. 89--104.
 
+[.centered]
 === Note P.
 
 These meetings of ministers and professors at Edinburgh,
@@ -709,9 +748,9 @@ that they ought to be admitted to make profession of their repentance: the other
 that after such professions made,
 they might be received to defend and serve their country.
 Upon this, a great division followed in the Kirk:
-those who adhered to these resolutions were called the Public Resolutioners: but,
+those who adhered to these resolutions were called the _Public Resolutioners:_ but,
 against these, some of those bodies protested; and they,
-together with those who adhered to them, were called the Protesters.`"
+together with those who adhered to them, were called the __Protesters.__`"
 In the progress of this difference, other occasions of debate arose.
 Warristoun, Guthrie, Patrick Gilespie,
 Rutherford and others were on the side of the Protesters;
@@ -720,19 +759,20 @@ it was but for a short space, as the complexion of his interviews with them,
 and his subsequent more decided separation from the Scottish Presbyterian Church,
 fully prove.
 
-Row`'s Supplement to Blair`'s Life, a manuscript before referred to,
+Row`'s _Supplement to Blair`'s Life,_ a manuscript before referred to,
 notices "`some deserting the cause of monarchy and Presbytery,
-especially of the Malignant temper, with a few formerly accounted pious and gracious men;
+especially of the _Malignant_ temper, with a few formerly accounted pious and gracious men;
 their minds being corrupted by Sectarian principals.`" p. 102.
 This writer further speaks of the extrajudicial meeting of Protesters,
 both ministers, elders, and professors, at Edinburgh, "`in the end of December,
 1651;`" and that one object they had, was to converse with some of these,
-for preventing their compliance with the enemy, meaning, the Parliament`'s army.
+for preventing _their compliance with the enemy,_ meaning, the Parliament`'s army.
 He observes, "`they war not all alike but for a sinful compliance,
 and following of the Sectaries courses, and favouring their errors.`"
 "`The main business that was agitat at this meeting
 was anent a letter to be written to Cromwell.`"
 
+[.centered]
 === Note Q.
 
 Of these individuals, with whom Jaffray had interviews, both publicly and more privately,
@@ -772,10 +812,11 @@ and, it is probable, stood in the station of ruling elder or deacon;
 as he was sent for by this meeting of ministers,
 there can be no question about his standing among his fellow-professors.
 He became a valued member of the Society of Friends,
-as the ensuing Memoirs of that people will show.^
+as the ensuing _Memoirs_ of that people will show.^
 footnote:[His house, Parkhill, lies on the north side of the Don,
 and may be seen from the Bridge of Dyce to the east.]
 
+[.centered]
 === Note R.
 
 "`Mr. James Wood was, some time after the year 1651,
@@ -783,7 +824,7 @@ made Provost or Principal of the Old College of St. Andrews,
 and one of the ministers there`"
 "`and continued in the service of the foresaid offices until 1663.`"
 "`He refuted the Independents, and asserted the Presbyterial government.`"
---Biographia Scotticana, or Scotch Worthies, p. 271.
+--[.book-title]#Biographia Scotticana,# or _Scotch Worthies,_ p. 271.
 James Wood, it will be recollected,
 was one of the Commissioners from the General Assembly of the Church of Scotland,
 to treat with the King, both in 1649 and 1650.
@@ -801,7 +842,7 @@ declaring their separation from the communion of the Church of Scotland,
 upon two points of controversy between us and these of the Independent way, namely,
 the constitution of the visible church and the government thereof.`"
 In an appendix to part 2nd of the same work,
-Wood brings forward what they of Aberdeen had averred in their letter,--that when thoughts
+Wood brings forward what__ they of Aberdeen had averred__ in their letter,--that when thoughts
 of questioning the Presbyterian government were first borne in upon them,
 they did a long time suppress them as temptations.
 "`Because we had so solemnly (though too implicitly) engaged to the maintenance thereof:
@@ -813,10 +854,10 @@ and using all helps which we could have, we profess, so far as we can see,
 way comes nearer to the pattern of the word than the classical form.`"
 In reply to this, Wood writes, p. 361, "`It may be just matter of inquiry to others,
 and haply may be of good purposes to themselves, to reflect and consider,
-when these thoughts began first to be borne in upon them, at least,
+when these thoughts began first to be _borne in_ upon them, at least,
 when they began to out anything of them.
 Did we hear anything of such thoughts in them,
-but since the great revolution of state in this kingdom, after Worcester?`"
+but since the great revolution of state in this kingdom, after__ Worcester?__`"
 meaning the battle of Worcester, when the Scottish army and their King were defeated.
 "`This,`" adds he, "`may seem to be ground of searching of heart,
 which is deceitful above measure.`"
@@ -824,8 +865,8 @@ There is too much of genuineness and sincerity about Jaffray`'s
 account of the progress of his own mind in these matters,
 for us to question the purity of his motives for
 a change from Presbyterian to Independent sentiments.
-Certainly, Wood`'s quotation from the Aberdeen letter tends rather to confirm,
-the respect we must have for that cautious, humble, and tender disposition,
+Certainly, Wood`'s quotation from the _Aberdeen letter_ tends rather to _confirm,_
+the respect we _must_ have for that cautious, humble, and tender disposition,
 with which these scruples were entertained and communicated.
 The Editor sees much of Jaffray`'s cast of thought
 and of expression in the letter alluded to:
@@ -837,7 +878,7 @@ Since the preceding part of this Note was penned,
 by favour of "`Dr. Lee,`" the present Clerk of the
 General Assembly of the Church of Scotland,
 permission has been obtained to take a copy of the identical letter above referred to,
-which was ascertained to be among the Woodrow MSS.
+which was ascertained to be among the _Woodrow MSS._
 fol. 30. 24. in the possession of that religious body.
 Though long, there needs no apology for its insertion; inasmuch as,
 while by its tenour and weight the motives of Jaffray are
@@ -846,12 +887,17 @@ his views in regard to the change he was then about making, are materially devel
 It is accompanied by two answers, one from Warristoun,
 of considerably greater length than this letter.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Aberdeen, May 24th, 1652.
 
+[.salutation]
 Right honourable, reverend, and much honoured in the Lord!
 
 Fear to offend you and other precious men in the land,
-has made us hitherto to bear up sundry things that were upon our spirits;
+has made us hitherto to _bear up_ sundry things that were upon our spirits;
 but our consciences will permit us to keep silence no longer;
 wherefore we have made bold, before we appear more publicly,
 to give you a short account of our thoughts;
@@ -874,7 +920,7 @@ has never been so looked to as it ought:--and so, at best, we have but an impure
 And this we speak, without any derogation to those worthy men,
 who were instrumental in our first reformation, whose memory is precious to us; no,
 we verily judge, that if those holy men were alive in our times,
-they would exceedingly offend at us, who have sat down in their dawning light,
+they would exceedingly offend at us, who have _sat down in their dawning light,_
 which had its own mixture of darkness.
 
 To us it seems, for aught we can search in the word,
@@ -888,7 +934,7 @@ purchased by the blood of Christ,`" etc.
 We cannot acquiesce to that common answer,
 that these expressions are to be understood of the better part;
 for that they are to be understood of them all, according to the judgment of charity,
-the Holy Spirit has clearly said, Rom. 1:7, "`To all that be in Rome, beloved of God,
+the Holy Spirit has clearly said, Rom. 1:7, "`To _all_ that be in Rome, beloved of God,
 called saints;`" and again, ver. 8, "`I thank my God through Jesus Christ for you all.`"
 We hope, when the Apostle says, 1 Cor. 6:18,
 "`Flee fornication,`" none will deny that he speaks to the whole church; yet,
@@ -929,7 +975,7 @@ for neither were all the Publicans baptized of John.
 
 Many more, and more pressing grounds from the word,
 might be alleged to make forth this point; but we are unwilling to be tedious;--only,
-sure we are, holiness becomes the house of our God.
+sure we are, _holiness becomes the house of our God._
 It is certain, our churches were not constituted according to this rule,
 in the full extent of it; yes,
 alas! few of our most precious men will acknowledge it to be the rule.
@@ -943,8 +989,8 @@ is it not the communion of the blood of Christ?
 the bread which we break, is it not the communion of the body of Christ?
 For we being many are one bread and one body;
 for we are all partakers of that one bread.`"
-If then we should communicate with those who are knownly profane, should we not,
-upon the matter, own and acknowledge such, as the members of Christ?
+If then we should communicate with those who are _knownly_ profane, should we not,
+upon the matter, own and acknowledge _such,_ as the members of Christ?
 Does not even that charge reach us, 2 Cor. 6:17. "`Come out from among them,
 and be separate, says the Lord, touch no unclean thing, and I will receive you.`"
 Here, indeed, he speaks of a cessation from the heathen; but the mediums which he uses,
@@ -958,7 +1004,7 @@ but these general terms will comprehend gross public wickedness among professed 
 as well as heathenish idolaters.
 It is far from us to intend a separation from the godly in Scotland; they shall be,
 through the Lord`'s grace, dear to us as our own souls, aye,
-though they should persecute us, our hearts shall cleave to them.
+_though they should persecute us,_ our hearts shall cleave to them.
 But may not a purge remedy all this?
 O that it could!
 But shall a tenth, shall one of a city, two of a tribe, purge a whole nation?
@@ -985,8 +1031,8 @@ and therefore to talk of purging, considering our posture,
 seems to us but a specious notion, to entangle our spirits and keep us from duty.
 
 Touching Presbyterial government, indeed,
-when thoughts of questioning it were first borne in upon us,
-we did a long time suppress them as temptations; because we had solemnly,
+_when thoughts of questioning it were first borne in upon us,
+we did a long time suppress them as temptations;_ because we had solemnly,
 though too implicitly, engaged to the maintenance thereof.
 Yet afterwards, knowing that a truth cannot lose by a search,
 we brought the matter to the balance of the sanctuary; and now, after seeking of God,
@@ -1026,7 +1072,7 @@ No where do we read in the gospel,
 of jurisdiction in relation to censure committed to a classical presbytery;
 all the power we find exercised by that meeting at Jerusalem, Acts, xv.,
 is dogmatical--("`You people and brethren`"--having their interest like-ways)--which
-the congregation divines willingly yield all the certificate they use,
+the congregation divines willingly _yield_ all the certificate they use,
 is, "`If you do these things, you shall do well,`" ver. 29,
 but do not threaten to sentence those who disobey, with excommunication.
 There might be something said from antiquity,
@@ -1038,7 +1084,7 @@ as desiring to lean on a surer foundation.
 It is not any by-respect for what we know of our own hearts,
 as our consciences bear us witness, but conviction of duty, which puts us out to this;
 and though precious people in the land shall have hard thoughts of us for it,
-we hope to find mercy to have tender thoughts of them.
+_we hope to find mercy to have tender thoughts of them._
 The Lord has highly honoured you to bear witness, oftener than once,
 to contradicted truth; but we dare say, if the Lord would clear your judgments,
 to appear upon the head of this business,
@@ -1046,7 +1092,7 @@ it would be the greatest honour which ever God conferred on you; and we, poor cr
 would gladly come under your shadow.
 It would be no shame for you to acknowledge,
 the Lord`'s work has outgrown your expectations; but it fears us, while you stand +++[+++at]
-a distance from the duty, the Lord`'s hand shall be "`stretched out still.`"
+a distance from the duty, the Lord`'s hand _shall be "`stretched out still.`"_
 And we humbly desire you to take heed,
 (we trust you will pardon our freedom,) lest you
 be snares to the people of God in the land;
@@ -1056,7 +1102,7 @@ and to use such plainness of speech.
 Therefore we hope we shall not be mistaken; yet if the Lord, by you or yet any other,
 will hold forth convincing light to us, discovering our mistakes,
 we should gladly close with it; only,
-if we be necessitated to take any course for expeding +++[+++ridding]
+if we be necessitated to take any course for _expeding_ +++[+++ridding]
 ourselves from the present snares and guiltiness, under which we lie,
 we desire you will not construe it hardly.
 
@@ -1064,16 +1110,20 @@ Now, that light may be let forth to you and us both,
 from Him who is the Father of lights,
 shall be the earnest desire of your loving brethren in Christ,
 
-In name of others in this place, sic subscribitur,
+[.signed-section-closing]
+In name of others in this place, _sic subscribitur,_
 
-Alexander Jaffray, Mr. William Moore, Mr. John Row, Mr. John Meinzies, Andrew Birnie.`"
+[.signed-section-signature]
+Alexander Jaffray, Mr. William Moore, Mr. John Row, Mr. John Meinzies, Andrew Birnie.
 
+--
+
+[.centered]
 === Note S.
-
-The following quotation from Orme`'s Life of Owen, p. 127,
+The following quotation from Orme`'s [.book-title]#Life of Owen,# p. 127,
 may throw some light on these reflections of Jaffray.
 
-The state of religion in Scotland, during the ten years preceding the English invasion,
+"`The state of religion in Scotland, during the ten years preceding the English invasion,
 and the rule of the Commonwealth afterwards, has been much misunderstood.
 The zealous friends of Presbyterian discipline,
 have represented the period from 1638 to 1649, as the golden age of religion in Scotland,
@@ -1092,8 +1142,8 @@ in establishing uniformity, and in passing persecuting laws;
 but had much less of the Spirit of Christ than their office required.
 The English army and ministers had but a low opinion of the state of religion,
 on their coming into Scotland.`"--This view of the subject seems to be confirmed
-by the succeeding passage from Bishop Burnet`'s History of his own Times.
-Speaking of the Covenanters, he says, "`Then they took up the name of Malignants,
+by the succeeding passage from Bishop Burnet`'s [.book-title]#History of His Own Times.#
+Speaking of the Covenanters, he says, "`Then they took up the name of _Malignants,_
 by which all who differed from them were distinguished:
 but the strictness of piety and good life,
 which had gained them so much reputation before the war, began to wear of;
@@ -1103,7 +1153,7 @@ came to be the distinction of the party.
 This they carried even to the saying of grace before and after meals,
 sometimes to the length of a whole hour.
 But as every new war broke out,
-there was a visible abatement of even the outward show of piety.`"
+there was a visible abatement of even the outward show of piety.`'
 vol. i. p. 47.
 
 "`It does not appear,`" continues Orme, "`that the influence of the English army,
@@ -1129,30 +1179,31 @@ unlikely to overrate the salutary influence of the measures of the Commonwealth.
 '`proclaim a sort of toleration to dissenters among Protestants,
 but permitted the gospel to have its course,
 and presbyteries and synods to continue in the exercise of their powers;
-and all the time of their government, the gospel prospered not a little, but mightily.
+and all the time of their government, the gospel prospered not a little, _but mightily._
 At the King`'s return, every parish had a minister, every village had a school,
 every family almost had a Bible; yes, in most of the country,
 all the children could read the Scriptures, and were provided with Bibles,
-either by their parents or their ministers.`' History of the Church of Scotland, p. 54,
+either by their parents or their ministers.`' [.book-title]#History of the Church of Scotland,# p. 54,
 etc.`"
 
+[.centered]
 === Note T.
 
 We have seen that Jaffray, in his interactions with Cromwell,
 and with that party who were then generally termed "`Sectaries,`"
-had his mind much cleared upon the subject of the due limits
-of the magistrate`'s power in matters of religion;
+had his mind much cleared upon the subject of _the due limits
+of the magistrate`'s power in matters of religion;_
 that he saw into the error and guiltiness, as he describes it,
 of the good men of his own nation,
 in their carrying forward what they called the work
 of God and of reformation--"`whereon,`" says he,
-"`much has been well expressed by many good men;`" and further, that he was led onward,
+_"`much has been well expressed by many good men;`"_ and further, that he was led onward,
 to institute a close impartial search into the scriptural
 constitution and government of churches.
 There is strong ground for the assumption,---although,
 from the sparing detail of matter of fact in the Diary,
 it cannot be ascertained,--that our earnest, yet discriminating inquirer,
-while thus engaged, had met with William Dell.
+while thus engaged, had met with _William Dell._
 This individual, as an author,
 had then recently put forth several very prominent treatises
 in illustration or in vindication of gospel liberty;
@@ -1161,7 +1212,7 @@ his close attendance at the headquarters of the same army which Cromwell now com
 gave him great opportunity of propagating those views of religious toleration,
 for which he was so deservedly noted.
 Indeed, Dell may fairly be regarded,
-to use the words of Crosby in his History of the Baptists,
+to use the words of Crosby in his [.book-title]#History of the Baptists,#
 as one of the heads or champions of that party in the nation,
 who were opposed to persecution;
 and appeared among the most forward in promoting a reformation in religion,
@@ -1169,7 +1220,7 @@ beyond what many were prepared for.
 Among his various pamphlets upon these favourite topics,
 and which are collected into 2 vols.
 8vo. in the edition of 1817,
-there is one entitled "`The Way of true Peace and Unity in the true Church
+there is one entitled _The Way of True Peace and Unity in the True Church_
 of Christ,`" etc. from which the Editor thinks proper to quote a passage,
 presenting remarkably close analogy to that peculiar train of conclusion,
 taken up by Jaffray in the foregoing paragraph now under notice.
@@ -1177,9 +1228,9 @@ taken up by Jaffray in the foregoing paragraph now under notice.
 While upon the subject of the government of the church,
 after quoting that text of the Apostle, Eph. 5:32, "`This is a great mystery:
 but I speak concerning Christ and the church,`" Dell thus proceeds--"`And as the Lord,
-in the former age, has been pleased to reveal to the church the mystery of the Head,
-after a long time of its obscuring and darkening under the reign of antichrist; so now,
-we wait in hope, that he will, in this present age, reveal the mystery of the Body,
+_in the former age,_ has been pleased to reveal to the church the mystery of the HEAD,
+after a long time of its obscuring and darkening under the reign of antichrist; _so now,
+we wait in hope, that he will, in this present age, reveal the mystery of the_ BODY,
 which has been no less obscured than the former;
 that so the whole mystery of whole Christ, may both be known and accomplished among us,
 according to the riches of his glory by the gospel.`"--"`The
@@ -1190,17 +1241,18 @@ Believing, as they did, that Christianity could scarcely exist without state-pat
 and that conscience was the subject of human legislation,
 the simple form of Independency was not likely to occur to them; or, if it did occur,
 would be speedily rejected as unsuitable to the state of the church, and of the world.`"
-Orme`'s Life of Owen, p. 65.
+Orme`'s [.book-title]#Life of Owen,# p. 65.
 
 The Editor is unwilling to pass away from William Dell,
 without recommending him as an author of remarkably spiritual cast,
 to the particular notice of the Society of Friends;
-many of whom are acquainted with some of his works,
+many of whom are acquainted with _some of his works,_
 so nearly congenial with their own views.
 Nor will Christians of other denominations be disappointed
 of instruction and comfort from the perusal,
 in proportion as they look beyond men, to the essential teachings of the grace of Jesus.
 
+[.centered]
 === Note U.
 
 Allusion has several times been made in these Notes to the Independents.
@@ -1211,12 +1263,12 @@ That a church of Christ is a voluntary society of Christians,
 regularly assembling in one place,
 and with its officers possessing the full power of government, worship,
 and discipline in itself.`"
-Orme`'s Life of Owen, p. 63. In the appendix to the same volume,
+Orme`'s [.book-title]#Life of Owen,# p. 63. In the appendix to the same volume,
 there is a note upon the early state of Independency in Scotland.
 After some recital of the rise of that community, under the designation of Brownism,
 from one Brown,
 who came out of the Low Countries to Edinburgh with a number of adherents;
-this author goes on to quote a passage from Spalding`'s History of the Troubles, p. 303,
+this author goes on to quote a passage from Spalding`'s [.book-title]#History of the Troubles,# p. 303,
 much to our purpose.
 "`About this time, September, 1642, there came in quietly to Aberdeen,
 one called Othro Ferrendail, an Irishman, and a skinner to his calling,
@@ -1228,7 +1280,7 @@ with close doors, nocturnal doctrine or Brownism, as was said.`"
 This is the first notice we have of Independency in Aberdeen,
 towards which our Diarist would now be considered as fast verging.
 Indeed, it appears as if either this Ferrendail, or one of his family, like Jaffray,
-found no rest there for his mind, but passed onward to the principles of the Friends;
+found no rest _there_ for his mind, but passed _onward_ to the principles of the Friends;
 for, one of that name became a member, and sufferer for conscience-sake in the Society,
 as will be seen in the succeeding part of this volume.
 "`In the provincial assembly at Aberdeen, 1642,`" Orme proceeds to remark,
@@ -1236,7 +1288,7 @@ as will be seen in the succeeding part of this volume.
 lately crept into Aberdeen and other parts.`"
 At length it appears, "`the General Assembly of 1647, passed an act,
 prohibiting the importation of all books and pamphlets containing Independency and Anabaptism,
-and forbidding reading the same; or harbouring any persons infected with such errors.
+and forbidding reading the same; _or harbouring any persons infected with such errors._
 Presbyteries and synods are enjoined to process such as shall offend against these injunctions;
 and civil magistrates are recommended to aid and
 assist ministers in everything to that effect.
@@ -1249,38 +1301,40 @@ and imported Independency in such a way as could not be resisted.`"
 It is to such measures and laws as these, that Jaffray, doubtless,
 has reference in the paragraphs now under notice;
 and in tracing the progress of his mind hitherto,
-his objections to the Presbyterian body may be pretty
-much comprehended in the heads of a Declaration,
+his _objections_ to the Presbyterian body may be pretty
+much comprehended in _the heads of a Declaration,_
 presented by the English Commissioners to the General Assembly of the Church of Scotland,
 in the month called July, 1652,
 which is very near to the date of these his observations in the Diary.
-It is entitled, "`A Declaration in favour of Congregational Discipline,
-Purity of Communion, and Toleration.`"
+It is entitled, "`A Declaration in favour of __Congregational Discipline,
+Purity of Communion, and Toleration.__`"
 
+[.centered]
 === Note V.
 
-In Row`'s Supplement to Blair`'s Life,
+In Row`'s _Supplement to Blair`'s Life,_
 we have the following account of this conference.--"`In September,
 Mr`'s Samuel Rutherfoord, James Guthrie, Pat.
 Gillespie, and Jhone Carstaires went to Aberdeen,
 to confer with these who had declared themselves for separation.
-But Mr. Jhone Menzies, who was their ringleader, and the greatest dispute among them,
+But Mr. Jhone Menzies, who was their ringleader, and the greatest disputant among them,
 being sick, they could doe the less; notwithstanding, for the space of six days,
 they conferred and debated with one other two ministries and some regents in the college,
 in the hearing of many that hankered after that way.
 Alexander Jaffray, late provost of Aberdeen, was much for separation:
 there was some also there that was against infant baptism
-and were in danger to be tainted with other errors.`" p. 106.--In the Woodrow MSS+++.+++,
+and were in danger to be tainted with other errors.`" p. 106.--In the _Woodrow MSS+++.+++,_
 already referred to in a previous note, quarto, volume 29,
-No. 61, Gilespie`'s return home to Glasgow from Aberdeen is noticed,
-where he had gone to endeavour to keep or recover some there:
+No. 61, _Gilespie`'s_ return home to Glasgow from Aberdeen is noticed,
+where he had gone _to endeavour to keep or recover some there:_
 No. 63,(is from a number of Protesting ministers in the south or west,
 to some in hazard of Independency; the scope of which, no doubt, is,
-as Jaffray expresses it, to persuade them from falling on any such dividing way.
+as Jaffray expresses it, _to persuade them from falling on any such dividing way._
 
+[.centered]
 === Note W.
 
-In Nicoll`'s MS. Diary, before cited, under date "`May 8--18,
+In Nicoll`'s MS. _Diary,_ before cited, under date "`May 8--18,
 1652,`" a list of public functionaries is given, on the English Judges sitting down;
 and among these, is the name of "`Provost Jaffray,
 keeper of the great seal and Director of the Chancellarie, etc.`"
@@ -1302,9 +1356,12 @@ a place of honour more than of business.
 
 By favour of Richard Jaffray of London,
 the present hereditary descendant of the Jaffray family,
-the following copy of the original instrument is subjoined, conveying,
-under the great seal of the Commonwealth,
+the following copy of the _original instrument_ is subjoined, conveying,
+under _the great seal of the Commonwealth,_
 the above-mentioned office of Director of the Chancellary to Alexander Jaffray.
+
+[.embedded-content-document]
+--
 
 Oliver, by the grace of God, Lord Protector of the Commonwealth of England, Scotland,
 and Ireland, and dominions thereto belonging,
@@ -1328,7 +1385,7 @@ in due and competent form.
 And our aforesaid nomination and enrollment in our buikes of exchequer
 should be to our said Commissioners are sufficient warrant in that behalf.
 
-"`Therefore we, with advice and consent of the Commissioners of our said exchequer,
+Therefore we, with advice and consent of the Commissioners of our said exchequer,
 have given, granted, and disponed, like as we be the tenour hereof give, grant,
 and dispone to the said Alexander Jaffray esquire,
 so long as he shall therein well and faithfully demean himself,
@@ -1349,14 +1406,19 @@ In testimony whereof we have append our great seal to their presents.
 At Edinburgh, the twentieth day of November,
 the year of our Lord one thousand six hundred and fifty seven years.
 
-By warrant signed be the Commissioners of the exchequer.`"
+By warrant signed be the Commissioners of the exchequer.
 +++[+++Endorsement]
 
+[.signed-section-closing]
 Presented and sealed at Edinburgh the 27th of November, 1657.
 
+[.signed-section-signature]
 Abernethie
 
+[.signed-section-signature]
 Johesone dept.
+
+--
 
 Alexander`'s Brodie`'s name has already appeared in a preceding page,
 as one of the Commissioners to treat with the King at Breda.
@@ -1395,17 +1457,18 @@ beside seeking of Him;
 and what neglected duty is he calling us unto?--4th. What corruptions in worship
 and ordinances does he observe?--5th. What takes he to be the causes of the bitter
 differences and divisions which are springing up among the godly in the land,
-no, in both the lands?`" p. 26.--The "`Diary of Alexander Brodie of Brodie Esq.`"
+no, in both the lands?`" p. 26.--The [.book-title]#Diary of Alexander Brodie of Brodie Esq.#
 was printed in 1740, at Edinburgh; it consists of 148 pages octavo,
 and extends only from 1652 to 1653-4;
 so that we are deprived of his sentiments connected with that important
 engagement upon which he was united with his friend Jaffray,--the
 Commission to treat with the King at Breda.
 
+[.centered]
 === Note X.
 
 It is far from the design of the Author of these historical illustrations,
-very minutely to enter into the political circumstances
+_very minutely_ to enter into the political circumstances
 of the times in which Jaffray lived.
 Rather than this,
 he would prefer a close adherence to the example so uniformly set in the Diary,
@@ -1419,7 +1482,7 @@ usually termed the Little Parliament,
 of which we find Jaffray to have been chosen a member.
 
 "`Though historians differ so much in their characters of this assembly,`"
-as the authors of the Parliamentary History of England observe,
+as the authors of the [.book-title]#Parliamentary History of England# observe,
 "`yet they all seem to agree,
 in passing over their proceedings with the most affected neglect;
 they do little more than mention their coming together,
@@ -1431,7 +1494,7 @@ devoting to it out of their twenty-four octavo volumes above fifty pages.
 "`We are very far,`" they continue,
 "`from entering into a vindication of this unconstitutional assembly.
 It is certain, that the manner of their being convened,
-in obedience to Cromwell`'s warrant of nomination,
+in obedience to Cromwell`'s _warrant of nomination,_
 was the most flagrant instance of invasion upon the rights
 and liberties of all the electors of the three nations,
 our whole history affords;
@@ -1442,7 +1505,7 @@ and some modern writers who have implicitly copied them, will best appear,
 by the laws they made, and the bills they were employed about,
 at the time of their dissolution.`"
 
-The warrant of nomination is now to be given, in submission to which,
+The _warrant of nomination_ is now to be given, in submission to which,
 our worthy Author became involved in so high responsibility:
 it is inserted in "`Cromwelliana,`" p. 125.
 
@@ -1458,6 +1521,9 @@ to whom the great charge and trust of so weighty affairs is to be committed.
 And having good assurance of your love to, and courage for God,
 and the interest of his cause, and of the good people of this Commonwealth:
 
+[.embedded-content-document.legal]
+--
+
 I, Oliver Cromwell, captain general and commander in chief of all the armies,
 and forces raised and to be raised within this Commonwealth,
 do hereby summon and require you,
@@ -1468,24 +1534,28 @@ then and there to take upon you the said trust, unto which you are hereby called
 and appointed to serve as a member for the county
 of +++____________+++. And hereof you are not to fail.
 
+[.signed-section-signature]
 Oliver Cromwell.`"
 
+[.signed-section-context-close]
 Given under my hand and seal, "`The +++_______+++ day of June, 1653.
+
+--
 
 By virtue of this instrument was a House of Commons convened,
 and agreeably to the tenour of it, Lingard in his History of England, asserts,
 that the chief qualification of the members was to consist in holiness of life.
 He proceeds to state, vol.
 vii. p. 142, that, "`With this view,
-the ministers took the sense of the congregational churches in the several counties;
-the returns contained the names of the persons, faithful, fearing God,
-and hating covetousness, who were deemed qualified for this high and important trust;
+the ministers took the sense of the __congregational churche__s in the several counties;
+the returns contained the names of the persons, _faithful, fearing God,
+and hating covetousness,_ who were deemed qualified for this high and important trust;
 and out of this, the Council, in the presence of the Lord General,
 selected 139 representatives for England, 6 for Wales, 6 for Ireland,
 and 4 for Scotland.`"
 He speaks of them as being men of independent fortunes; while Ludlow had expressly said,
 that this assembly was composed for the most part of honest and well-meaning persons.
-But Godwin, in the History of the Commonwealth, goes further, and affirms,
+But Godwin, in the [.book-title]#History of the Commonwealth,# goes further, and affirms,
 they included in their numbers "`some of the most eminent and respectable
 persons in the community,`" adding the remark of Whitelock,
 that, "`It was much wondered at by some, that these gentlemen,
@@ -1501,7 +1571,7 @@ he was, doubtless,
 influenced by a consideration of the peculiar position of public affairs at that crisis,
 and by a hope that some opening might follow for
 measures productive of good to his country.
-His colleagues chosen for Scotland, according to Nicoll, by the English Council of State,
+His colleagues chosen for Scotland, according to _Nicoll,_ by the English Council of State,
 were, "`the Laird Brodie,`" who has been mentioned in the preceding Note;
 "`Sir James Hope,`" styled "`the Laird of Hopetoun;`" Colonel Lockhart of Ley;
 and "`the Laird Swintoune,`" respecting whom some
@@ -1510,7 +1580,7 @@ Several of these stood as Lords or Judges in the Court of Session.
 Alexander Brodie, the first named, in his private Diary,
 under the date of "`the 17th June,`" alludes to the receipt of Cromwell`'s "`letter,
 or rather citation and summons to come to London,`" and on the 10th of the next month,
-he writes, "`I spread Mr. Jaffray`'s letter before the Lord,
+he writes, "`I spread _Mr. Jaffray`'s_ letter before the Lord,
 and found it could not stand with former resolutions.
 I am not the man which others vainly imagine me to be; no,
 nor indeed come I up to my profession.--If the Lord would uphold my soul,`"
@@ -1568,14 +1638,14 @@ the affairs of Scotland,`" on that for tithes,
 for the business of trade, for corporations,
 and for receiving propositions for the advancement of the Commonwealth.
 With regard to the first of these, it is to be understood, that the most important,
-and perhaps main business devolving on that Committee, was, the settlement of a union,
-then attempted, between England and Scotland:--Cromwell`'s name, of course,
+and perhaps main business devolving on that Committee, was, _the settlement of a union,
+then attempted, between England and Scotland:_--Cromwell`'s name, of course,
 stands foremost upon it.
 This is evident from Lamont`'s Diary, p. 68.--"`1663,
 June 24th. The Commissioners for Scotland being called
 for by General Cromwell and his council of officers,
 to treat about a union of their nations, went for England at this time.`"
-Nor must a remark of Godwin`'s, in his History of the Commonwealth, be here omitted, vol.
+Nor must a remark of Godwin`'s, in his [.book-title]#History of the Commonwealth,# be here omitted, vol.
 iii. p. 568. "`The Parliament also applied itself
 with diligence to the bill of union with Scotland,
 and made several important and useful regulations relative to that country.
@@ -1610,7 +1680,7 @@ and the doors closed.`"--So far, in amplification of the words of Jaffray,
 "`When that Parliament was broken up, I, not being satisfied with the reasons thereof,
 was one of 30 or 31 that stayed in the house.`"
 Godwin`'s closing character of it, cannot properly be withheld,
-as given at p. 578 of the above cited volume of his History,
+as given at p. 578 of the above cited volume of his _History,_
 after which this subject will be disposed of:--"`There
 was much of public virtue in this assembly;
 they possessed no common portion of that wisdom and penetration
@@ -1641,7 +1711,7 @@ Nichol`'s Diary notices his name on a list of those persons appointed "`for the 
 benorth Angus,`" "`for the approval of ministers newly ordained,`" in accordance with
 "`an ordinance brought down from the Protector by Patrick Gillespie.`"
 This was, doubtless, a similar appointment to that in England,
-of Commissioners for ejecting scandalous, ignorant, and insufficient ministers,
+of Commissioners for _ejecting scandalous, ignorant, and insufficient ministers,_
 which took place about the same time.
 Their business was, to inquire particularly "`into the grace of God in the candidate,
 his holy and unblameable conduct; also into his knowledge and utterance,
@@ -1661,37 +1731,39 @@ and were never likely to convert a soul:--all these they usually rejected,
 and in their stead admitted any that were able, serious preachers,
 and lived a godly life, of what tolerable opinion soever they were.`"
 
+[.centered]
 === Note Y.
 
 The reader will probably have remarked,
-that the preceding portion of the narrative is by no means, correctly speaking, a Diary;
+that the preceding portion of the narrative is by no means, correctly speaking, a _Diary;_
 the actual period of its production, as before hinted,
 being presumed to be about the latter end of the year 1656.
 The comprehensive review and acknowledgment of past mercies, which now follows,
 on the writer`'s settlement near Edinburgh,
 together with his more diffuse meditations "`On being exercised in bearing the
-cross,`" appear to wind up the retrospective part of the narrative to a close.
-After this, at the date, "`10th of April, 1657,`", proceeds the Diary, as a diary,
-in its more appropriate form, each observation bearing the date of insertion.
+cross,`" appear to wind up the _retrospective_ part of the narrative to a close.
+After this, at the date, "`10th of April, 1657,`", proceeds the Diary, _as a diary,_
+in its more appropriate form, _each observation bearing the date of insertion._
 
+[.centered]
 === Note Z
 
 A passage remarkably similar to this,
 occurs in Archbishop Leighton`'s Commentary upon the First Epistle of Peter.
 Speaking on the words, ch. 5. ver. 1.
-"`Who am also an elder, and a witness of the sufferings of Christ,`"
-that wonderful man, as Doddridge deliberately styles him, proceeds to show,
-that a spiritual view of Christ crucified,
-is certainly very requisite for the due witnessing of him,
+"`Who am also an elder, __and a witness of the sufferings of Christ,__`"
+that _wonderful_ man, as Doddridge deliberately styles him, proceeds to show,
+that a _spiritual view_ of Christ crucified,
+is certainly very requisite for the _due witnessing of him,_
 and displaying the excellency and virtue of his sufferings.
 "`Men,`" continues he, "`commonly read and hear, and may possibly preach,
 of the sufferings of Christ as a common story; and that way, it may a little move a man,
-and wring tears from his eyes: but faith has another kind of sight of them,
-and so works other kind of affections,--and without that,
-the very eyesight of them availed the apostles nothing:
+and wring tears from his eyes: but faith has another _kind of sight of them,_
+and so works other kind of affections,--and without _that,_
+the very _eyesight of them_ availed the apostles nothing:
 for how many saw him suffer as they did, who reviled, or at least despised him.
-But, by the eye of faith to see the only begotten Son of God,
-as stricken and smitten of God, wounded for our transgressions, etc. this is the thing,
+But, _by the eye of faith_ to see the only begotten Son of God,
+as stricken and smitten of God, wounded for our transgressions, etc. _this is the thing,_
 that will bind upon us most strongly all the duties of Christianity, etc.`"
 
 In the succeeding Note, the reader will find some observations relative to Leighton,
@@ -1699,14 +1771,15 @@ tending to throw light upon that coincidence,
 which is occasionally to be discerned between the
 sentiments of this author and our worthy Diarist.
 
+[.centered]
 === Note AA.
 
-"`There is a noble guest within us--Oh! let all our business be,
-to entertain him honourably,
-and to live in celestial love within;--that will make all things without
+_"`There is a noble guest within us_--Oh! let all our business be,
+to _entertain him honourably,_
+and to live in celestial love _within;_--that will make all things _without_
 be very contemptible in our eyes.`"--This almost parallel passage,
 is taken from a letter of Archbishop Leighton`'s,
-published in his Whole Works, Lond. edit. 1818.
+published in his [.book-title]#Whole Works,# Lond. edit. 1818.
 There are parts of Jaffray`'s Diary, and the paragraph now under notice is one,
 which, both in turn of thought and of expression,
 bear a vivid resemblance to this eminent Christian author.
@@ -1748,6 +1821,7 @@ which it was the blessed will of the Father should subsist among believers,
 which the Son himself interceded for,
 and which his Holy Spirit is fully able to bring about.
 
+[.centered]
 === Note BB.
 
 Jaffray seems to have imbibed such a sentiment as this,
@@ -1759,54 +1833,56 @@ taken by a well-known writer contemporary with our Diarist.
 In a summary review of Richard Baxter`'s matured experience in regard to religion,
 taken by himself towards the latter part of his life,
 in which much enlargement of view and abasement of self is discovered,
-we have the following sentence.--"`I less admire gifts of utterance,
+we have the following sentence.--"`I less admire _gifts of utterance,_
 and the bare profession of religion than I once did; and have much more charity for many,
 who by the lack of gifts do make an obscurer profession.
-I once thought, that almost all who could pray movingly and fluently,
-and talk well of religion, had been saints.
+I once thought, that almost all who could _pray movingly and fluently,
+and talk well of religion,_ had been saints.
 But experience has opened to me, what odious crimes may consist with high profession.
 While I have met with various obscure persons,
 not noted for any extraordinary profession or forwardness in religion,
 but only to live a quiet, blameless life, whom I have after found to have long lived,
 as far as I could discern, a truly godly and sanctified life.`"
 
+[.centered]
 === Note CC.
 
-It would seem, by this paragraph, as if Alexander Jaffray`'s opinion then was,
+It would seem, by this paragraph, as if Alexander Jaffray`'s opinion _then_ was,
 that a believer could not, by grace, through watchfulness,
-escape being actually polluted by sin,--that he must
+_escape being actually polluted by sin,_--that he _must_
 carry about with him "`a body of sin and death.`"
 With regard to the text here quoted, the Apostle`'s answer seems to follow his own query,
 "`I thank God,`" or, as some render it,
 (and Archdeacon Paley in one of his Sermons inclines to this translation,)
-"`The grace of God through Jesus Christ our Lord.`"
+"`__The grace of God__ through Jesus Christ our Lord.`"
 No doubt, Jaffray came to see, and unite in belief with his fellow-countryman,
 contemporary, and friend, Robert Barclay, that Paul here speaks,
-not of his own condition of the time, but rather was personating that of one,
+_not of his own condition of the time,_ but rather was personating that of one,
 not yet fully arrived at an established state; especially, as in verse 14 he says,
-"`But I am carnal,`" etc., and yet in chap. 8. verse 2, he avers,
+"`But __I am carnal,__`" etc., and yet in chap. 8. verse 2, he avers,
 that the law of the spirit of life in Christ Jesus
-had made him free from the law of sin and death.
+_had made him free from the law of sin and death._
 A similar mode of speech, the Apostle James uses, chap. 3. verses 9, 10.
 
+[.centered]
 === Note DD.
 
 At the latter end of this paragraph,
 Alexander Jaffray makes allusion to a part of that very memorable and excellent prayer,
 which the Lord Jesus was pleased, in condescension to the request of his disciples,
-to give forth as a model for the utterance of their inward exercises towards God.
+to give forth _as a model_ for the utterance of their inward exercises towards God.
 Whatever might, at this time, have been the sentiment of our Author,
-with regard to the duty of using daily this precise form of words in prayer,
+_with regard to the duty of using daily this precise form of words in prayer,_
 it is evident he supposed our blessed Saviour commanded
-a daily recurrence to one subject of petition--namely,
+_a daily recurrence to one subject of petition_--namely,
 the coming of the kingdom of God.
 In justice, however, to those views which he subsequently adopted,
 it seems needful to revive the language of his friend, Robert Barclay,
 on this express subject.--"`We find,
 that Jesus Christ the author of the Christian religion,
-prescribes no set form of worship to his children,
+_prescribes no set form of worship to his children,_
 under the more pure administration of the new covenant; save that he only tells them,
-that the worship now to be performed, is spiritual, and in the Spirit.
+that the worship now to be performed, _is spiritual,_ and _in the Spirit._
 And it is especially to be observed, that, in the whole New Testament,
 there is no order nor command given in this thing,
 but to follow the revelations of the Spirit,--save only, that general +++[+++one,]
@@ -1818,13 +1894,13 @@ so soon as the saints are gathered,--there is not one word to be found: yes,
 these duties are always annexed to the assistance, leadings,
 and motions of God`'s Spirit.`"
 Then, in a note, he subjoins--"`If any object here,
-That the Lord`'s prayer is a prescribed form of prayer, and therefore of worship,
-given by Christ to his children:--I answer; First,
+_That the Lord`'s prayer is a prescribed form of prayer, and therefore of worship,
+given by Christ to his children:_--I answer; First,
 This cannot be objected by any sort of Christians that I know; because,
-there are none who use not other prayers, or that limit their worship to this.
+there are none who use not _other prayers,_ or that limit their worship to _this._
 Secondly, This was commanded to the disciples, while yet weak,
 before they had received the dispensation of the gospel;
-not that they should only use it in praying, but that he might show them by one example,
+_not that they should only use it in praying,_ but that he might show them by one example,
 how that their prayers ought to be short, and not like the long prayers of the Pharisees.
 And that this was the use of it, appears by all the prayers,
 which many saints afterward made use of, whereof the Scripture makes mention:
@@ -1833,11 +1909,12 @@ according as the thing required, and as the Spirit gave utterance.
 Thirdly, That this ought so to be understood, appears from Rom. 8:26,
 where the Apostle says, We know not what we should pray for as we ought,
 but the Spirit itself makes intercession for us, etc.
-But if this prayer had been such a prescribed form of prayer to the church,
-that had not been true; neither had they been ignorant what to pray,
+But if _this_ prayer had been such a prescribed form of prayer to the church,
+_that_ had not been true; neither had they been ignorant what to pray,
 nor should they have needed the help of the Spirit to teach them.`"
 Apology, Prop. xi. sect. 10.
 
+[.centered]
 === Note EE.
 
 Andrew Cant, the father-in-law of Alexander Jaffray,
@@ -1851,13 +1928,14 @@ They were both, according to Cruickshank, vol. i. p. 148,
 summoned to appear before the King`'s Council in 1662,
 in common with their brethren of the same persuasion;
 but it does not appear that they suffered; on the contrary, the son conformed to Prelacy.
-In Row`'s Supplement to Blair`'s Life,
+In Row`'s _Supplement to Blair`'s Life,_
 Andrew Cant is described as "`very forward and zealous,
 being of a fiery temper;`" which agrees with the account here given of him.
 
+[.centered]
 === Note FF.
 
-Caskieben is repeatedly mentioned in the "`Retours,`"
+_Caskieben_ is repeatedly mentioned in the "`Retours,`"
 as being Alexander Jaffray`'s property.
 He probably refers to some lawsuit respecting it, or to the sale of it; for,
 in the Records of the Scottish Parliament in the year 1669, is a charter of the crown,
@@ -1867,15 +1945,17 @@ lying in the parish of Keith Hall.`"--Kinmuck,
 where the Society of Friends still have a meetinghouse, is in that parish,
 and very near the Earl of Kintore`'s residence.
 
+[.centered]
 === Note GG.
 
 "`Dr. Thomas Goodwin, whom Wood,
-in the Athena Oxonienses denominates,`' one of the atlases and
+in the [.book-title]#Athena Oxonienses# denominates,`' one of the _atlases_ and
 patriarchs of Independency,`' was President of Magdalen College, Oxford.`"
 He is represented, in the Memoir of the Life of Owen, "`as rather too high a Calvinist,
 but distinguished for his piety, learning, and industry;
 as the five folio volumes of his posthumous works bear ample testimony.`" p. 175.
 
+[.centered]
 === Note HH.
 
 The name of Swintoune, has already been introduced in a preceding Note,
@@ -1892,14 +1972,14 @@ it may not be irrelevant here to bring together some very imperfect notices of h
 extending to the period when he joined the Society of Friends,
 and chiefly taken from writers of that day.
 
-The Biographia Britannica describes Swintoune "`as of a very good family;`"
+The [.book-title]#Biographia Britannica# describes Swintoune "`as of a very good family;`"
 and that he "`had as good education as almost any man in Scotland,
 which joined to very strong natural parts, rendered him a most accomplished person.`"
 But little has been met with concerning him,
 previous to the coming of Cromwell`'s army into Scotland.
 Before that period, however,
 he stood member of the Scottish Parliament for the county of Berwick or the Merse,
-in which the family estates lay; and according to Balfour`'s Annals, he voted,
+in which the family estates lay; and according to Balfour`'s [.book-title]#Annals,# he voted,
 in the Committee of Estates,
 against the sending Commissioners to Breda to treat with Charles the 2nd,
 as well as "`against a levie, when as the Parliament was informed certainly,
@@ -1910,22 +1990,22 @@ and proceedings of the Presbyterian body in his own country.
 Lamont speaks of him,
 as "`one formerly cried up for his piety;`" and that he "`went in to the English army,
 while they lay at Edenbroughe.`"
-Diary or Chronicle of Fife, p. 32. The testimony in Row`'s Supplement to Blair`'s Life,
+_Diary or Chronicle of Fife,_ p. 32. The testimony in Row`'s _Supplement to Blair`'s Life,_
 is similar, with regard to the time and manner of his acting,
 and evidently marks him out as among the "`few formerly
 accounted pious and gracious men,`" who,
-he says, had deserted the cause of Presbytery as well as that of monarchy.
+he says, _had deserted the cause of Presbytery_ as well as that of monarchy.
 "`Some officers, shortly after Dunbar fight,`" Row observes,
 "`having layed down their charges and gone in to the enemy,
 (especially the young lairde of Swintowne, who, before the invasion,
 was suspected to favour the enemy and some sectarian
 errors,)--"`p. 88. He was excommunicated in 1651,
 as the same MS. sets forth, by the Commission of the General Assembly at Perth;
-but after this, in 1656, Nicoll`'s Diary relates,
+but after this, in 1656, _Nicoll`'s Diary_ relates,
 he "`was relaxed from that sentence of excommunication,`"
 "`without personal appearance`"--for what reason,
 is not specified, although,--from a controversial pamphlet afterward published,
-with the title, Some Sober Animadversions--this seems to have taken place,
+with the title, _Some Sober Animadversions_--this seems to have taken place,
 "`without his desiring any such thing.`"
 
 During the Commonwealth, Swintoune several times served in the Scottish Parliament,
@@ -1937,7 +2017,7 @@ and shortly afterward, as being chosen member to Richard`'s Parliament.
 He joined in a petition to that body, "`with the other deputies then in London,
 who in 1652 consented to the union of Scotland with
 England,`" "`for perfecting that union.`"
-The following are the next passages in Nicoll`'s Diary relating to him.
+The following are the next passages in _Nicoll`'s Diary_ relating to him.
 "`Judge Swynton also, being repute to half secret correspondence with this Lord Lambert,
 was taken notice of heir in Scotland, apprehended and secured in the citadel of Leith,
 upon the 16th day of January, 1660.`"
@@ -1951,8 +2031,8 @@ The Marques was tenderly conveyed between two bailleis of Edinburgh;
 but Swynton by the town officers, environed with thousands of people, men and women,
 being one fanatic person and one Quaker,
 and was committed to close prison within the Tolbooth of Edinburgh.`"
-These circumstances are also related in Baillie`'s Letters and Journals,
-and in Woodrow`'s History, but with less of descriptive point.
+These circumstances are also related in _Baillie`'s Letters and Journals,_
+and in _Woodrow`'s History,_ but with less of descriptive point.
 Bishop Burnet gives the outcome of his trial:
 "`Swinton had been attainted in the Parliament at Stirling, for going over to Cromwell:
 so he was brought before the Parliament, to hear what he could say,
@@ -1998,22 +2078,23 @@ and some interested considerations of Middleton the Commissioner,
 joined to procure his safety; and he was dismissed,
 but after a long imprisonment and much dilapidation of his estates.`"
 
+[.centered]
 === Note II.
 
-Owen`'s work On the Mortification of Sin in Believers was published in 1656.
-"`It discovers,`" says Orme his biographer.
+Owen`'s work [.book-title]#On the Mortification of Sin in Believers# was published in 1656.
+"`It discovers,`" says Orme his biographer,
 "`a profound acquaintance with the corruption of the human heart,
 and the deceitful workings of the natural mind.
 It is not the mortification of a voluntary humility,
 or the infliction of self-devised and unnecessary pain, which it recommends;
 but the gradual weakening and final destruction of the principle of sin,
-by the operation of spiritual influence, and the application of Divine truth.`"
-Memoirs p. 220.--The Treatise On Watchfulness,
-must have been that entitled Of Temptation; the nature and power of it;
-the danger of entering into it; and the means of preventing that danger, 1658;
+by the operation of spiritual influence, and the application of Divine truth.`" [.book-title]#Memoirs# p. 220.--The Treatise _On Watchfulness,_
+must have been that entitled _Of Temptation; the nature and power of it;
+the danger of entering into it; and the means of preventing that danger, etc._ 1658;
 being the substance of some sermons on Matt. 26:41.--"`Watch and pray,
-that you enter not into temptation.`"--Memoirs, p. 501.
+that you enter not into temptation.`"--[.book-title]#Memoirs,# p. 501.
 
+[.centered]
 === Note JJ.
 
 Remarkable, certainly, is the coincidence between Alexander Jaffray`'s forebodings,
@@ -2022,15 +2103,15 @@ as they are throughout this paragraph, in a way of pious,
 chastened meditation and secret prayer,--when compared
 with the descriptions given by historians,
 of that state of things which soon ensued.
-Bishop Burnet in particular, in the History of his own Times, conveys,
+Bishop Burnet in particular, in the [.book-title]#History of His Own Times,# conveys,
 briefly indeed but very sufficiently,
 a realization of the apprehension of his fellow-countryman and contemporary, our Author.
 
 "`With the restoration of the King, a spirit of extravagant joy spread over the nation,
-that brought on with it the throwing off the very profession of virtue and piety:
+that brought on with it _the throwing off the very profession of virtue and piety:_
 all ended in entertainments and drunkenness,
-which overrun the three kingdoms to such a degree,
-that it very much corrupted all their morals.
+which overrun _the three kingdoms_ to such a degree,
+that _it very much corrupted all their morals._
 Under the colour of drinking the King`'s health,
 there were great disorders and much riot everywhere: and the pretences of religion,
 both in those of the hypocritical sort,
@@ -2042,9 +2123,10 @@ censures and jealousies that those brought on them,
 by any method that was more sure and more easy, than by going into the stream,
 and laughing at all religion, telling or making stories,
 to expose both themselves and their party as impious and ridiculous.`"
-vol. i. p. 127. See also Neale`'s History of the Puritans, vol.
+vol. i. p. 127. See also Neale`'s [.book-title]#History of the Puritans,# vol.
 iv. p. 269.
 
+[.centered]
 === Note KK.
 
 This was the Committee of Estates.
@@ -2061,6 +2143,7 @@ before the Committee of Estates, and required to give bail,
 that they should appear at the opening of the Parliament,
 and answer to what should be then objected to them.`" vol. i. p. 155, 156.
 
+[.centered]
 === Note LL.
 
 James Simpson was minister at Airth in Stirlingshire.
@@ -2070,18 +2153,23 @@ Towards the beginning of the month called June, 1661,
 being accused in Parliament by the King`'s advocate of seditious practices,
 he was banished the King`'s dominions,
 without being heard by the Parliament in his own defence.
-He died in Holland.--Woodrow`'s
-History of the Sufferings of the Church of Scotland, vol. i. p. 71.
+He died in Holland.--Woodrow`'s [.book-title]#History of the Sufferings of the Church of Scotland,# vol. i. p. 71.
 
+[.centered]
 === Note MM.
 
-In the Acts and Minutes of the Parliament of Scotland,
+In the _Acts and Minutes of the Parliament of Scotland,_
 under date of "`the 16th of January,
 1661,`" is recorded the following Petition of Alexander Jaffray,
 together with the decision of the house upon it.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the Lord Commissioner his Grace, and the honourable Estates of Parliament.
 
+[.offset]
 The humble petition of Alexander Jaffray shows,
 
 That when your Lordship`'s Petitioner was required by the
@@ -2105,28 +2193,39 @@ upon caution for his peaceable deportment,
 and to answer for his by-past behaviour when he shall be called,
 as your Grace and the honourable Estates of Parliament shall appoint.
 
+[.signed-section-closing]
 And your Lordship`'s answer the Petitioner expects.
 
+[.signed-section-signature]
 +++[+++Signed]
 Alexander Jaffray.
+
+--
+
+[.embedded-content-document.legal]
+--
 
 The Lord Commissioner, with advice of the Estates of Parliament,
 ordains the supplicant to be put to liberty,
 he finding caution to stay within the town of Edinburgh,
 and not to remove forth thereof but by order of Parliament, under the pain of 20,000 lib.
 
+[.signed-section-signature]
 +++[+++Signed]
-"`Glencairne, Cancellarius, "`I. P. D. Pari.`"
+Glencairne, Cancellarius, I. P. D. Pari.
 
 The Lord Commissioner of Estates of Parliament,
 gives hereby warrant and order to the magistrates of Edinburgh,
 to set the person of Alexander Jaffray at liberty forth of their Tolbooth,
 he finding caution to the Lord Register`'s sight to stay within
-the town of Edinburgh until the Parliament`'s further order.`"
+the town of Edinburgh until the Parliament`'s further order.
 
+--
+
+[.centered]
 === Note NN.
 
-The following quotation from Skinner`'s Ecclesiastical History of Scotland, will,
+The following quotation from Skinner`'s [.book-title]#Ecclesiastical History of Scotland,# will,
 in general terms, convey the occasion of the imprisonment of these individuals.
 "`The Committee,
 which had been appointed by the King`'s last Parliament at Stirling in 1651,
@@ -2139,16 +2238,16 @@ who had met at Edinburgh, and had drawn up a new remonstrance,
 putting the King in mind of the Covenant,
 which he had solemnly sworn when he was among them,
 and declining his having any power or authority in the settlement of the church.
-The Committee likewise summoned sundry suspected persons to appear before them,
+The Committee likewise summoned sundry _suspected persons_ to appear before them,
 and find bail for their answering in the next Parliament.`"--vol. ii. p. 446.
-Among these ten or twelve ministers, Cruickshank, in his History, vol. i. p. 68,
+Among these ten or twelve ministers, Cruickshank, in his [.book-title]#History,# vol. i. p. 68,
 gives the four names here mentioned, as well as that of James Guthrie,
-concerning whom Jaffray next speaks; among the suspected persons,
+concerning whom Jaffray next speaks; among the _suspected persons,_
 the same historian introduces the name of our Diarist himself.
 With regard to Guthrie, "`He was accused,`" says Bishop Burnet,
 "`of accession to the remonstrance, when the King was in Scotland,
 and for a book he had printed,
-with the title of The Causes of God`'s wrath upon the Nation; in which,
+with the title of [.book-title]#The Causes of God`'s Wrath upon the Nation;# in which,
 the treating with the King, the tendering him the Covenant,
 and admitting him to the exercise of the government were highly aggravated,
 as great acts of apostasy.`"
@@ -2161,6 +2260,7 @@ and afterward underwent much hardship and persecution.
 Trail was tried before the Parliament; and the next year was banished,
 and went to Holland.
 
+[.centered]
 === Note OO.
 
 "`One Macquare, a hot man and considerably learned,
@@ -2175,7 +2275,7 @@ But Macquare was as stiff as he was severe, and would come to no submission.
 Yet he was only condemned to perpetual banishment.
 Upon which, he and some others who were afterwards banished,
 went and settled at Rotterdam.`"
-Burnet`'s History of his own Times, vol. i. p. 161.
+Burnet`'s [.book-title]#History of his own Times,# vol. i. p. 161.
 
 [.asterism]
 '''

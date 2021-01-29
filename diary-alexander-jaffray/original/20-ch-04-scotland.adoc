@@ -1,15 +1,18 @@
 == Chapter IV.
 
-1806: James Urquhart excommunicated by the Presbytery:
-A remarkable circumstance befalls the person who publishes this act--1667:
-Violence of "`Sir John Keith`" against the Friends-1668:--Illness of Alexander
-Jaffray--He is imprisoned at Banff--His address to the Bishop of Berdeen--1669:--Lilias
-Skene`'s convincement--Her husband,
-from an opposer, becomes a Friend--1671:
-The public preachers of Aberdeen endeavour to excite the civil power against
-this people--A synod of the clergy address the king`'s council against them--1672:
-The king`'s declaration of indulgence--Friends relieved by the judges
-on the subject of oaths--The sudden and dismal end of some persecutors.
+[.chapter-synopsis]
+* 1806: James Urquhart excommunicated by the Presbytery: A remarkable circumstance befalls the person who publishes this act
+* 1667: Violence of "`Sir John Keith`" against the Friends
+* 1668: Illness of Alexander Jaffray
+* He is imprisoned at Banff
+* His address to the Bishop of Berdeen
+* 1669: Lilias Skene`'s convincement
+* Her husband, from an opposer, becomes a Friend
+* 1671: The public preachers of Aberdeen endeavour to excite the civil power against this people
+* A synod of the clergy address the king`'s council against them
+* 1672: The king`'s declaration of indulgence
+* Friends relieved by the judges on the subject of oaths
+* The sudden and dismal end of some persecutors.
 
 It happened about the year 1666, that James Urquhart,
 whose name has been before mentioned,
@@ -78,13 +81,13 @@ and in the very same time that the father had been using
 his arm to strike the harmless servant of the Lord;
 which circumstances, thus coinciding, so awakened the conscience of this person,
 that he said,
-(and afterward told it to some Friends,) he should never strike a Quaker again.
+(and afterward told it to some Friends,) _he should never strike a Quaker again._
 
-We return to our worthy, and now, infirm Diarist, Alexander Jaffray,
+We return to our worthy, and now, infirm _Diarist,_ Alexander Jaffray,
 who at this period honoured under much affliction with a quinsy;
 for some time he could not speak, nor scarcely eat or drink,
 insomuch as to be given over for death by all that beheld him.
-Yet, while in that state, he signified by writing, the steadfastness of his faith in God;
+Yet, while in that state, he signified by writing, _the steadfastness of his faith in God;_
 and also his belief,
 that he should yet be preserved for further service to the Lord and his Truth;
 which prediction the sequel fully verified.
@@ -123,6 +126,10 @@ that Alexander Jaffray addressed an epistle to the Bishop,
 who had thus been a willing instrument in occasioning his unrighteous bondage.
 It is here given, though somewhat condensed in parts.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Patrick Scougal.
 
 Not in my own will, am I thus drawn forth,
@@ -141,7 +148,7 @@ Will not every judicious and seriously sober person, find more cause now than ev
 thus to judge of them and their proceedings,
 and still more so of thy concurrence with them;
 while the weight of your indignation is so mainly turned against that sober,
-harmless people, the witnesses of Jesus Christ, in scorn called Quakers?
+harmless people, _the witnesses of Jesus Christ,_ in scorn called Quakers?
 they, above all others,
 being most falsely charged with owning blasphemous and heretical tenets,
 and such abominable practices as their soul abhors;
@@ -149,7 +156,7 @@ who have by no means been wanting in vindication of themselves, both by word and
 from such charges.
 
 But, so greatly hath iniquity prevailed,
-that men are not ashamed thus to detain the Truth of God in unrighteousness;
+that men are not ashamed thus to _detain the Truth of God in unrighteousness;_
 not only obscuring and hiding that which we gave forth for the
 clearing of our principles and practices in these respects,
 and which they themselves called for at our hands; but,
@@ -173,21 +180,21 @@ or my relations`' neglect, who, by paying a little money,
 might have prevented the same;--to undeceive thee and them herein,
 I find it my duty to tell thee,
 I am engaged upon far other grounds than those of willfulness or peevishness,
-to decline paying or in any way to assent to the payment of that money,--even,
+_to decline paying or in any way to assent to the payment of that money,_--even,
 on that of a real and well-grounded fear of God.
 For, as thou well know`'st, that fine was incurred, not for any crime or guiltiness,
-but for my testimony to the work of God imposed upon me.
-And, to do any thing to weaken this, either by paying,
+but _for my testimony to the work of God_ imposed upon me.
+And, _to do any thing to weaken this,_ either by paying,
 or permitting to be paid on my behalf, any part of that money,
-would be a very betraying of the cause of God into the hands of its enemies.`"
+would be _a very betraying of the cause of God_ into the hands of its enemies.`"
 
 Thus do I warrantably and truly judge of this matter,
 however thou or others may conclude, through the darkness that is in you,
-as to a discernment of the work of God in this day,
-and what is required of the true witnesses of it.
+_as to a discernment of the work of God in this day,
+and what is required of the true witnesses of it._
 I can truly say, my own particular case should not have been so much as mentioned,
-were it not for the sake of my testimony, which above my natural life,
-and all that is on that account dear to me, I desire to preserve full and entire.
+were it not _for the sake of my testimony,_ which _above my natural life,
+and all that is on that account dear to me, I desire to preserve full and entire._
 God hath so overruled, and I know that he will continue to overrule,
 the sharpest of my sufferings, to his own glory and my soul`'s advantage,
 and hath likewise so overruled your designs therein; that, through his grace,
@@ -199,16 +206,20 @@ most assuredly, you will have before God to answer.
 And this, further, I may not forbear to tell thee.
 Such severity against the people called Quakers,
 will not produce that which thou and others intend by it.
-For, though ye should be permitted to bring many more than myself to die in prison;--as,
+For, though ye should be permitted to bring many more than myself _to die in prison;_--as,
 how many for this, the cause and work of God, not loving their lives unto death,
 have been cheerfully brought thereto; yet,
-shall that only tend to the further service and advancement of our testimony,
+shall _that_ only tend to the further service and advancement of our testimony,
 which is indeed gloriously come forth, and shall further,
 to the terror and astonishment of all opposers.
 
+[.signed-section-signature]
 Alexander Jaffray the elder.
 
+[.signed-section-context-close]
 From the Tolbooth in the town of Banff, the 4th day of the 11th month, 1668.
+
+--
 
 While in this place of confinement,
 Alexander Jaffray also wrote "`A Testimony to the Truth,
@@ -231,8 +242,8 @@ A material circumstance attending her convincement merits observation.
 While her mind was deeply exercised in a serious inquiry after the way of Truth,
 she found her progress impeded by notions and prepossessions against that people,
 industriously instilled by the preachers into her mind,
-and into the minds of others of their hearers;--as, that they denied the Scriptures,
-and did not pray in the name of Jesus.
+and into the minds of others of their hearers;--as, _that they denied the Scriptures,
+and did not pray in the name of Jesus._
 This impediment was removed in the following manner.
 She happened to be taken ill, and kept her chamber, in an apartment,
 under the same room where Barbara Forbes dwelt.
@@ -242,13 +253,13 @@ and endeavouring to live in communion with him.
 Since that time, she had found her way into fellowship with the Friends,
 having measurably arrived at that difficult attainment,
 which Jaffray desired for her--namely,
-that she might behave and quiet herself as a child that is weaned of its mother.
+that she might _behave and quiet herself as a child that is weaned of its mother._
 At her house, the Friends were accustomed occasionally to meet,
 so near to the apartment of Lilias Skene, that she could distinctly hear what passed.
 Attentively listening on one occasion,
 she plainly heard two English women exercised both in preaching and prayer,
-whose lively testimonies she observed to be full of Scripture expressions,
-and their petitions put up in the name of Christ,
+whose lively testimonies she observed to be _full of Scripture expressions,_
+and their petitions put up _in the name of Christ,_
 as well as accompanied by his life and power.
 Thenceforward, she was effectually reached by the Truth,
 and brought under subjection to it;
@@ -276,16 +287,16 @@ that he was considered to possess some solid qualifications as a Christian profe
 and yet this is hardly to be in any wise traced or discerned in
 the account he gave of his own conduct on one particular occasion.
 For, after he had joined the Society, he related the following singular circumstance,
-that befell him in the time of his ignorance and
-height of unsanctified zeal against Friends;
+that befell him _in the time of his ignorance and
+height of unsanctified zeal against Friends;_
 and which he desired might be remembered,
-as a warning instance of the providential hand of the Almighty against a bitter,
-railing spirit, which he acknowledged then ruled in him.--Being in company,
+as a warning instance of the providential hand of the Almighty against _a bitter,
+railing spirit,_ which he acknowledged _then ruled in him._--Being in company,
 at his own house, with one Alexander Gordon, a Nonconformist preacher, he said,
-It were well to take that villain George Keith, and hang him up at the cross of Aberdeen.
+_It were well to take that villain George Keith, and hang him up at the cross of Aberdeen._
 Within a very few hours after he had uttered these words,
 he was smitten in his cheek and mouth with that complaint,
-called cynicus spasmus or snarling spasm, by which his mouth continually turned about;
+called _cynicus spasmus_ or _snarling_ spasm, by which his mouth continually turned about;
 in this condition he remained for some weeks,
 so that the witness for God in his conscience convinced him of the justice of this visitation,
 for his hasty, furious speeches against that innocent person, and against Friends.
@@ -320,7 +331,7 @@ though hitherto, through the moderation of the magistrates, without much success
 For, in 1671, when the Judges visited Aberdeen on their circuit, Meldrum,
 whose inimical disposition towards this people has already been shown,
 in his sermon before the Judges, represented them, in his usual strain,
-as a most dangerous and pernicious sect,
+_as a most dangerous and pernicious sect,_
 at the same time urging the exercise of the utmost severity of the law against them.
 Nor was he satisfied with this; but, in company with his colleague, John Menzies,
 he waited upon the Judges at their chambers, where they also met with the Bishop:
@@ -328,7 +339,7 @@ to them they complained,
 that the magistrates of Aberdeen had several times broken up the Quakers`' Meetings,
 had imprisoned, fined, and even banished some of them; and yet,
 were not able to suppress them.
-Upon which, the Judges asking, What they would have them do further?
+Upon which, the Judges asking, _What they would have them do further?_
 Menzies "`made a proposal so cruel, that the Bishop was ashamed,
 and the Judges would return no answer.`"
 And when some of the said people, who were cited, appeared before them,
@@ -343,8 +354,8 @@ at the joint solicitation of the four ministers of Aberdeen, a sub-synod, or, pe
 more correctly speaking, a Synod was convened by the Bishop; which met soon after,
 and drawing up an address to the King`'s Council at Edinburgh,
 sent two of their number to present it; in which, they petitioned the Council,
-to take some effectual course to curb and rid the land of the Quakers,
-who were increasing among them.
+_to take some effectual course to curb and rid the land of the Quakers,
+who were increasing among them._
 The deputies from the Synod expected to obtain some fresh order from the
 Council against the "`Quakers,`" but met with fresh disappointment;
 the Council only referring them to a precedent Act of Parliament, which ordained,
@@ -360,19 +371,19 @@ Two of them, George Meldrum and David Lyall, thereupon,
 immediately set about doing their part towards bringing
 the Act into force against this people;
 and were busily engaged in performing their monitory office from house to house, when,
-that same night, the King`'s Declaration of Indulgence to all Nonconformists, in 1672,
+that same night, the King`'s _Declaration of Indulgence to all Nonconformists,_ in 1672,
 reached Aberdeen, and put a stop to their proceedings at that time.
 This was accepted as a providential deliverance by the persons, whose ruin they sought.
 
-The Declaration of Indulgence came very seasonably
+_The Declaration of Indulgence_ came very seasonably
 to prevent the execution of an Act of Council,
 which the preachers had prevailed upon the magistrates of Aberdeen to pass;
 by which they had resolved,
-"`that no Quaker should be made a burgess or freeman of that city,`"
-and that "`whosoever received a Quaker into his house,
+_"`that no Quaker should be made a burgess or freeman of that city,`"_
+and that _"`whosoever received a Quaker into his house,
 without leave of the magistrate, should be fined five shillings.
 And that if any person should let a house for Quakers, either to meet or dwell in,
-he should be fined five hundred merks Scots money, or £28. 2s. 6d. sterling.
+he should be fined five hundred merks Scots money, or £28. 2s. 6d. sterling.`"_
 
 About the same time, the people called Quakers in this kingdom received relief,
 in a case of conscience, in which they, in common with their brethren in other parts,
@@ -397,11 +408,11 @@ in an awful manner cutting short the lives of those,
 that still proceeded in their wickedness.
 Several instances are on record of this description;
 some as regards the persecuting preachers and magistrates of the day.--Among others,
-James Skene, who was generally known by the name of White James,
+James Skene, who was generally known by the name of _White James,_
 to distinguish him from a very abusive and wicked man of the same name,
-called Black James, took great delight in inventing malicious slanders against Friends.
+called _Black James,_ took great delight in inventing malicious slanders against Friends.
 On one occasion, whilst he was repeating some wicked verses, which he had composed,
-on purpose to defame a worthy and innocent person, he was in that instant,
+on purpose to defame a worthy and innocent person, he was _in that instant,_
 suddenly struck down, as one dead, and was for some time deprived of his senses.
 When he recovered, he acknowledged the just judgment of God upon him,
 confessed the offence he had committed against this innocent people,
@@ -410,7 +421,7 @@ professedly a minister of the gospel,
 procured the imprisonment of George Keith for preaching
 the Truth In the graveyard at Old Deer,
 and caused him, with another Friend, to be kept all night in a very filthy dungeon,
-called the Thieveshole, where there was no window, either for light or air;
+called the _Thieves-hole,_ where there was no window, either for light or air;
 he was immediately after cut off by death in a sudden and
 surprising manner.--Nor should the case of Robert Petrie,
 provost or mayor of Aberdeen, be altogether omitted; who,
@@ -435,7 +446,7 @@ Although much occasion remains for us all, in humility and fear,
 to look well to our own standing,
 rather than improperly to dive into the counsels of unsearchable Wisdom respecting others;
 yet surely, in regard to cases like these,
-we are bound with reverence to acknowledge the hand behind the scene,
+we are bound with reverence to acknowledge _the hand behind the scene,_
 even that eternal Justice and Truth which has declared,
 "`He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them,
 shall have mercy.

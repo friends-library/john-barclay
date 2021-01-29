@@ -1,11 +1,13 @@
 == Chapter I.
 
-1653:
-Rise of the Society of Friends in Scotland--Their first meetings and ministers--1662:
-Alexander Jaffray and others at Aberdeen join them--Meetings established at Inverury,
-Ardiharrald, and Kinmuck--George Gray--1663-4: Imprisonment of Richard Rae, George Keith,
-and Patrick Livingston--Alexander Jaffray summoned before the high commission court,
-examined by Archbishop Sharpe, and fined, etc.
+[.chapter-synopsis]
+* 1653: Rise of the Society of Friends in Scotland
+* Their first meetings and ministers
+* 1662: Alexander Jaffray and others at Aberdeen join them
+* Meetings established at Inverury, Ardiharrald, and Kinmuck
+* George Gray
+* 1663-4: Imprisonment of Richard Rae, George Keith, and Patrick Livingston
+* Alexander Jaffray summoned before the high commission court, examined by Archbishop Sharpe, and fined, etc.
 
 In the preceding division of this Work,
 has been disclosed the religious Diary of an individual,
@@ -34,13 +36,13 @@ to which by education or custom we are every one of us variously bound,
 so far as these were clearly seen to be at variance with the rule of gospel light.
 On our approach towards the close of the Diary,
 we must have especially marked that excellent position,
-towards which the mental eye of the writer so constantly turned,
-and on which it was becoming more and more intensely fixed;--a
-state of pure and full reliance upon the Lord`'s direction,
-of simple, quiet resignation unto the Lord s disposal in all things,
+towards which the mental eye of the writer _so constantly turned,_
+and on which it was becoming _more and more intensely fixed;_--a
+state of _pure and full reliance upon the Lord`'s direction,_
+of _simple, quiet resignation unto the Lord s disposal in all things,_
 according as his will and power should be made known in the secret of the heart.
 This state of mind has been abundantly held up to us in various parts
-of the Sacred Records,--as a rest which remains for the people of God,
+of the Sacred Records,--as _a rest which remains for the people of God,_
 into which the true believer, while in this state of existence,
 is permitted to enter,--even all such as come unto Christ spiritually, that is,
 receive him into their hearts, learn of him,
@@ -98,8 +100,7 @@ in company with Robert Widders and Alexander Parker,
 passed through the adjacent country in several directions,
 "`sounding the day of the Lord, preaching the everlasting gospel of salvation,
 and turning people to Christ Jesus who died for them,
-that they might receive his free teaching.`"
-G+++.+++ Fox`'s Journal, 3rd edit. p. 255.
+that they might receive his free teaching.`" [.book-title]#G+++.+++ Fox`'s Journal,# 3rd edit. p. 255.
 
 It does not appear that any of these dedicated honorers,
 unless it were John Grave and George Atkinson, advanced so far as Aberdeen;
@@ -129,7 +130,7 @@ But, the merciful God, by his powerful arm, and healing, saving Word of Life,
 did restore and bring up my soul out of the deep, where it was for a time buried,
 and renewed life and understanding, and caused the light of his countenance to shine,
 and the sweetness of his peace to spring; so that I may truly say,
-he caused the bones that he had broken to rejoice.
+he caused _the bones that he had broken to rejoice._
 And then, when he had thus crushed, and humbled,
 and let me see how he could make all things become as nothing again,
 and so hide all glory from man,--then, in His goodness, he revealed his glory, and power,
@@ -152,7 +153,7 @@ and travelled in that nation about three months;
 and was both in the north and west of it, as far north as Aberdeen,
 and back again to Edinburgh, and so down west to Lithgow, Hamilton, Ayr,
 and as far as Port Patrick; and back to Ayr and Douglas.
-And our service was at their steeple-houses, and markets, and other places,
+And our service was at their _steeple-houses,_ and markets, and other places,
 where we met with people; and sometimes at Friends`' meetings, where there were any.
 And our work was, to call people to repentance, out of their lifeless,
 hypocritical profession and dead formalities,
@@ -164,6 +165,9 @@ And, being thus clear of that nation, we returned into England,
 and came over the water to Bowstead-hill, the first day of the eleventh month, 1658.`"
 +++[+++see Appendix, C.]
 
+[.small-break]
+'''
+
 The gospel messages of these and other zealous witnesses,
 reached the consciences of many who heard them.
 Yet, with regard to Aberdeen and the district thereabouts,
@@ -171,27 +175,27 @@ no open espousal of the tenets peculiar to the people called Quakers took place,
 until towards the end of the year 1662; when William Dewsbury was drawn,
 in love to these prepared and panting souls,
 to proclaim among them "`the acceptable year of the
-Lord,`" even deliverance from the bondage of corruption,
-by the law of the spirit of life in Christ Jesus.
+Lord,`" even _deliverance from the bondage of corruption,
+by the law of the spirit of life in Christ Jesus._
 Thus was the remarkable work of convincement,--which had been secretly going on,
 in some of their hearts for several years,
 through many deep conflicts of spirit,--helped forward to such a point,
 that they were made willing, even in all things, to take up the daily cross,
-though in various respects as bitter as death,
+_though in various respects as bitter as death,_
 and to follow the guidance of Christ by his Spirit within them,
 whithersoever he should be pleased to lead.
 
 On the list of this little, but noble band, the name of Alexander Jaffray stands foremost.
 He is described, in the ancient Record which forms a ground-work to this History,
 as having been chief magistrate of the city of Aberdeen,
-"`and a man of great account as to religion, among the highest professors all along.`"
+_"`and a man of great account as to religion, among the highest professors all along.`"_
 With what lively emotions of entire satisfaction,
 these doctrines were likely to have been embraced, at this time, by these individuals,
 may best be conveyed in his own language:--that,
 when first he heard that God had raised up a people in England,
 directing all to his pure light, Spirit, and grace in their own hearts,
 as the most sure Teacher and Leader into all truth, religion, and worship;
-his very heart did leap within him for joy.
+_his very heart did leap within him for joy._
 
 In an early part of the preceding Diary,
 the Writer makes some favourable allusion to the principles of the Independents,
@@ -201,14 +205,13 @@ There is little doubt, but that, up to the season when the narrative breaks off,
 he belonged to no distinct society of Christian professors.
 After that period,
 during the short space which intervened before his joining the Society of Friends,
-he may possibly have been considered an Independent;
-agreeable to the statement given of him in that excellent publication, now called,
-"`Piety Promoted.`"
+he may possibly have been _considered_ an Independent;
+agreeable to the statement given of him in that excellent publication, now called, [.book-title]#Piety Promoted.#
 But hitherto, it is evident, he represents himself to us,
-as reserving himself for some further manifestation of a more excellent way,
+as _reserving himself_ for some further manifestation of a more excellent way,
 than that which had hitherto come within the line of his experience.
 The frame and breathing of his spirit seems constantly to have sent forth this petition,
-"`That which I see not, teach me;`" while his unshaken,
+_"`That which I see not, teach me;`"_ while his unshaken,
 uniform dependence on Divine direction and help,
 would doubtless oftentimes bring home to him the
 Scriptural promise and accompanying exhortation, Phil. 3:15-16.
@@ -260,36 +263,36 @@ not only at this time,
 but even before any settlement of them had been formed in this section of Scotland.
 The passage alluded to, is as follows.
 
-"`After the Lord had raised up the witnesses of this Day,
+"`After the Lord had raised up the witnesses of _this Day,_
 and had opened in them and unto them the light and glory thereof,
 several of them at sundry times were moved of the Lord to come into these parts,
-and unto the town of Aberdeen, in love to the seed which there was to be gathered;
+and unto the town of Aberdeen, in love to the seed which _there_ was to be gathered;
 but their acceptance for several years together, was very unsuitable.
 
 "`For the enemy that had wrought, and was exalted in the mystery of iniquity,
 to darken the appearance of this Day, had prepared and stirred up his ministers,
 to resist them and their testimony, by aspersing them with many gross calumnies, lies,
-and reproaches; as demented, distracted, bodily possessed of the devil,
-practising abominations under colour of being led to them by the Spirit;
-and as to their principles, blasphemous deniers of the true Christ, of heaven, hell,
+and reproaches; _as demented, distracted, bodily possessed of the devil,
+practising abominations under colour of being led to them by the Spirit;_
+and as to their principles, _blasphemous deniers of the true Christ, of heaven, hell,
 angels, the resurrection of the body, and day of judgment; inconsistent with magistracy,
-nothing better than John of Ley den and his accomplices.
+nothing better than John of Ley den and his accomplices._
 +++[+++see Appendix, E.]
-This was the vulgar and familiar language of the pulpits,
+This was the vulgar and familiar language _of the pulpits,_
 which was for a time received for unquestionable truth; till about the year 1663,
 some sober and serious professors in and about the said town,
 did begin to weigh these things more narrowly,
-and find the savour of that Life in the testimony of this so much reproached people,
-which some years before had stirred in others,
-who were now come to a great loss and decay.
+and find _the savour of that Life_ in the testimony of this so much reproached people,
+which _some years before_ had stirred in others,
+who were _now_ come to a great loss and decay.
 And this gave them occasion to examine the principles and ways of that people more exactly;
-which proving, upon inquiry, to be far otherwise than they had been represented,
+which proving, upon inquiry, to be _far otherwise_ than they had been represented,
 gave them a further occasion to see the integrity and soundness
 of that despised people and of their principles,
 on the one hand; and on the other,
 to see the prejudiced disingenuousness and enmity of their accusers.
-In these, the Lord caused his word to prosper, (who were few in number,
-yet noted as to their sobriety in their former way of profession,)
+In _these,_ the Lord caused his word to prosper, (who were _few in number,
+yet noted as to their sobriety in their former way of profession,_)
 and raised them up to own that people and their testimony,
 and to become one with them.`"
 
@@ -304,9 +307,9 @@ About the same time were also joined to their number, George Gray and Nancy Sim,
 persons of very good repute,
 both with regard to their religious qualifications and worthy conduct;
 insomuch that the appointed minister of the parish where they dwelt,
-Samuel Walker of Monkeggie, boasted of them, saying, that he had a weaver,
+Samuel Walker of Monkeggie, boasted of them, saying, _that he had a weaver,
 and a poor woman, whom, he would defy any of the Quakers to equalise,
-either for knowledge or good life.
+either for knowledge or good life._
 But when, shortly after, these very individuals, his hearers,
 respecting whom he was so highly opinionated, withdrew from under his teachings,
 and joined the people called Quakers, this minister was exceedingly incensed.
@@ -316,7 +319,7 @@ through sincere and steadfast adherence to the intimations of Christ`'s Spirit,
 a highly valued servant of the gathered church; being called into the ministry,
 during the time of his subsequent long and hard imprisonment at Aberdeen.
 Poor as to this world, and barely acquainted with the very rudiments of learning,
-the word of God`'s wisdom, the word of faith, dwelt richly in him;
+_the word of God`'s wisdom, the word of faith, dwelt richly in him;_
 and his understanding being much enlarged in heavenly experience, he brought forth,
 as a faithful steward, the good things committed to him,
 to the great refreshment of the Lord`'s heritage,
@@ -326,11 +329,11 @@ through watchfulness, preserved and directed in the exercise of his ministerial 
 nor could any critical opposer, it is said, ever find him wrong in a word.
 On the other hand, many persons would confess their admiration at the excellent matter,
 utterance, and pertinent connection observed in the testimonies of one,
-so devoid of acquired learning, and yet,
-so thoroughly furnished in all respects unto his holy calling.
+_so devoid of acquired learning, and yet,
+so thoroughly furnished in all respects unto his holy calling._
 Thus, in this instance, was very clearly held up to view,
-what it is that constitutes the best adorning of gospel preachers,
-and what is the only right qualification for speaking "`as the oracles of God.`"
+what it is that constitutes _the best adorning_ of gospel preachers,
+and what is the _only_ right qualification for speaking "`as the oracles of God.`"
 +++[+++see Appendix, F.]
 
 Nancy Sim, who was also in low circumstances, readily opened her house,
@@ -374,8 +377,8 @@ in a sense of "`great straitness and hardness over the meeting.`"
 Patrick Livingston broke silence, by declaring, that,
 for a sign and token of the lovingkindness of the Lord,
 towards a seed or remnant raised and to be raised up in that country,
-He would reveal his glorious presence among them in a wonderful manner,
-before they parted.
+_He would reveal his glorious presence among them in a wonderful manner,
+before they parted._
 So little appearance of this was there, when he spoke, and for a while after,
 that some of the Friends present who were weak in the faith, fell under a great concern,
 lest this should not have been by any means fulfilled.
@@ -409,8 +412,8 @@ carried on against a harmless and unresisting people,
 as cannot fail to prove affectingly interesting to the mind of every considerate Christian.
 And why?
 Because he loves to mark the progress of "`the true Light`" of the gospel,
-in dispelling the various shades of apostasy and spiritual darkness;--on this account,
-must he own and duly appreciate every stand that has been made or is making,
+in dispelling the various shades of apostasy and spiritual darkness;--__on this account,__
+must he own and duly appreciate _every stand_ that has been made or is making,
 in integrity, meekness, faith, and patience,
 against the delusions and encroachments of antichrist.
 +++[+++see Appendix, G.]
@@ -446,12 +449,12 @@ which all your adversaries shall not be able to gainsay or resist;`" for,
 even the Archbishop himself, who condescended to confer with Alexander Jaffray,
 could get no advantage in argument against him.
 Nevertheless, to satisfy these ministers, the sentence of the court was,
-that he should be confined to his own dwelling-house, and keep no meetings therein,
-nor go any where without the Bishops licence, under the penalty of a fine of 600 merks,
+_that he should be confined to his own dwelling-house, and keep no meetings therein,
+nor go any where without the Bishops licence, under the penalty of a fine of 600 merks,_
 Scots money, which is £33. 15s. sterling:
 this sum they esteemed to be one fourth part of his yearly rents.
 To such an unjust sentence his answer was,
-that it was better to obey God than man:--and this obedience, afterward,
+that _it was better to obey God than man:_--and this obedience, afterward,
 cost him various sufferings.
 
 Some readers may need to be reminded,
@@ -476,9 +479,9 @@ they took no pains to keep their clergy strictly to rules, and to their duty:
 on the contrary, there was a levity and a carnal way of living about them,
 that very much scandalized me.
 There was, indeed, one Scougal, Bishop of Aberdeen, that was a man of rare temper,
-great piety, and prudence: but I thought he was too much under Sharpe`'s conduct,
+great piety, and prudence: but I thought he was _too much under Sharpe`'s conduct,_
 and was at least too easy to him.`"
-Burnet`'s History, vol. i. p. 304.
+_Burnet`'s History,_ vol. i. p. 304.
 It was scarcely to be expected,
 that men of this stamp should be mild and temperate
 in the exercise of that secular and inordinate power,
@@ -492,6 +495,6 @@ in Burnet`'s hearing, "`that, in the whole progress of that affair,
 +++[+++the setting up of Episcopacy,]
 there appeared such gross characters of an angry Providence, that,
 how fully soever he was satisfied in his own mind as to Episcopacy itself,
-yet it seemed that God was against them;
+yet it seemed _that God was against them;_
 and that they were not like to be the men that should build up his church;
-so that the struggling about it, seemed to him, like a fighting against God.`"
+so that the struggling about it, seemed to him, like __a fighting against God.__`"

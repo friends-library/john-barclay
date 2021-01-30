@@ -1,16 +1,14 @@
 == Chapter VI.
 
-1672: The "`clergy`" and magistrates of Aberdeen, further incensed against this people,
-procure the demolition of the walls of their burial-ground,
-and the disinterment of their dead--Letter of William Dewsbury,
-John Swintoune and Robert Barclay imprisoned at Montrose,
-together with some Friends at that place, for holding a meeting:
-their address to the magistrates--1673: Andrew Jaffray convinced,
-and several more--The provost and magistrates of Aberdeen strenuously
-importune the king`'s council against the "`Quakers`"--They are
-examined and fined--Hugh Neilson`'s disappointment of the fines,
-by a proclamation of the government--Death of Alexander
-Jaffray--His wife`'s convincement and death.
+[.chapter-synopsis]
+* 1672: The "`clergy`" and magistrates of Aberdeen, further incensed against this people, procure the demolition of the walls of their burial-ground, and the disinterment of their dead
+* Letter of William Dewsbury, John Swintoune and Robert Barclay imprisoned at Montrose, together with some Friends at that place, for holding a meeting: their address to the magistrates
+* 1673: Andrew Jaffray convinced, and several more
+* The provost and magistrates of Aberdeen strenuously importune the king`'s council against the "`Quakers`"
+* They are examined and fined
+* Hugh Neilson`'s disappointment of the fines, by a proclamation of the government
+* Death of Alexander Jaffray
+* His wife`'s convincement and death.
 
 In a preceding page,
 allusion was made to the defective state of moral and religious feeling,
@@ -46,9 +44,9 @@ which occasioned much outcry of distress in that family.
 Going on in his usual course of wickedness, among similar acts,
 often causing the walls of the burial-place and premises to be pulled down, etc. he was,
 shortly after, suspended in his career by a fall which fractured his leg.
-They, nevertheless,
+_They, nevertheless,
 continued to remove every corpse that was interred in the same ground;
-nor did the barbarous practice cease,
+nor did the barbarous practice cease,_
 till a representation being made to the King`'s Council, a secret check was given them,
 and this more than ordinary inhumanity put a stop to.
 +++[+++see Appendix, Q.]
@@ -63,50 +61,63 @@ Without doubt,
 there were not any likely to appreciate such epistolary counsel more duly than these,
 who could regard the writer of it as their spiritual father, one that,
 to a certain extent,
-had in Christ Jesus begotten them through the gospel,--themselves
-also as his work in the Lord.--A copy of the letter is preserved,
+had _in Christ Jesus begotten them through the gospel,_--themselves
+also as _his work in the Lord.-_-A copy of the letter is preserved,
 as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Warwick, 29th of 8th month, 1672.
 
+[.salutation]
 My dear Friends,
 
 All watch and wait in the light of the Lord, that every thought be judged down,
 that is contrary to the light;
 then will the cross be laid to the ground of your own thoughts,
-and the true baptism of Christ +++[+++be]
-known, which will bury you in such deep humility and sense of the free mercy of the Lord,
+and _the true baptism of Christ_ +++[+++be]
+known, which will _bury_ you in such deep humility and sense of _the free mercy of the Lord,_
 +++[+++as]
-to raise you up in the living faith, to reign over your own thoughts and wills.
-Then will you be born again into a pure subjection to the pure light, +++[+++to the]
-thoughts and will of God,
-which is our sanctification and perfection of glory manifested within us, etc.:
-and so will you witness the new and holy birth, which makes self of no reputation,
+to _raise you up in the living faith,_ to reign over your own thoughts and wills.
+Then will you be _born again_ into a pure subjection to the pure light, +++[+++to the]
+thoughts and _will of God,
+which is our sanctification_ and perfection of glory manifested within us, etc.:
+and so will you witness _the new and holy birth,_ which makes _self of no reputation,_
 neither boasts in anything it does; but follows the Lord in his pure leadings,
 to serve him and his people in love, in whatever he calls into,
-to the perfecting of his praises, and the comfort of his people forever!
+to the _perfecting of his praises,_ and the comfort of his people forever!
 
 In which life, feel the yearning bowels of your brother towards you,
 who are truly poor in spirit; for, the unspeakable mercies of the Most High God,
 is your inheritance forever!
-The Almighty God keep all your garments clean in his holy power, and in it exercise you,
-to the building up one another in your most holy faith; that, in the pure chaste love,
-you may grow up in the unity of the spirit and bond of peace,
-to shine forth as the morning stars to enlighten the people in that nation.
+The Almighty God keep all your _garments clean_ in his holy power, and in it exercise you,
+to the _building up one another in your most holy faith;_ that, in the pure chaste love,
+you may grow up _in the unity of the spirit and bond of peace,_
+to shine forth _as the morning stars_ to enlighten the people in that nation.
 Oh! be faithful, my dear Friends; for the Lord has a great people in Scotland;
 for whom I, with many of our brethren, have travailed, in jeopardy of our lives,
-in years past, casting our bread upon the waters, with hopes to find it after many days.
-And seeing God has called you to be the first fruits, and to make you a blessing,
+in years past, _casting our bread upon the waters,_ with hopes to _find it after many days._
+And seeing God has called you to be _the first fruits,_ and to make you _a blessing,_
 as you wait to be ordered of the Lord,
 as before written,--then will my great expectation
 be answered in the behalf of the holy Seed,
 whom my soul loves in that land,--and remains your dear brother in the light, thoughts,
 and will of our God forever!
 
+[.signed-section-signature]
 William Dewsbury.
+
+[.postscript]
+====
 
 Read this in the fear of the Lord,
 and send copies among the meetings of his holy people in Scotland.
+
+====
+
+--
 
 A transaction recorded in manuscript,
 as having taken place in the course of this year in the neighbourhood of Montrose,
@@ -133,7 +144,7 @@ Thus situated, J. Swintoune and R. Barclay came to visit them,
 and lodged at William Napier`'s, where the meeting was to be held the next day.
 They met accordingly, and enjoyed a good season together in solemn worship;
 undisturbed by the magistrates, although they had declared,
-they would recommit the Friends whenever they assembled after that manner.
+_they would recommit the Friends whenever they assembled after that manner._
 Having separated and mostly withdrawn, the town officers entered, saying,
 that they had orders from the magistrates to detain them there,
 till their own worship should be over, it being then near three o`'clock.
@@ -141,7 +152,7 @@ About an hour after this, William Napier, the master of the house,
 was called for to the council-house, where the magistrates were then met.
 J+++.+++ Swintoune and R. Barclay did not think fit to forsake their host,
 though the officer endeavoured to prevent their accompanying him.
-On this, they asked him, if they also were prisoners?
+On this, they asked him, if _they_ also were prisoners?
 he said, No: they were not called for.
 J+++.+++ S. and R. B., however, went forward.
 William Napier being called up, the magistrates demanded,
@@ -149,7 +160,7 @@ Whether he would still trouble their town?
 He asked, Wherein?
 They said, In having meetings in his house.
 He, without confessing or denying the fact, said,
-He hoped there was no law against the worship of God, and that this could be no crime.
+He hoped there was no law against the worship of God, and that _this_ could be no crime.
 They told him, He was to go back to prison, from which he had been so lately released.
 J+++.+++ S. and R. B., having intimated their desire to speak to the magistrates,
 were next called; upon which the former,
@@ -166,7 +177,7 @@ The provost said, They had been at a meeting, which was contrary to law.
 J+++.+++ S. called upon him to prove this, as they were not about to accuse themselves.
 The provost said, They were not going to dispute with them; and,
 without going aside or consulting with the rest, told them,
-They also were to go to prison; for it was clear, they were at a meeting;
+_They_ also were to go to prison; for it was clear, they were at a meeting;
 and if the Friends thought themselves wronged, they might complain against them.
 J+++.+++ S. told them, Their being sent to prison was a preconcerted measure,
 and reasoned with them on the injustice of their proceedings, desiring them,
@@ -196,56 +207,60 @@ and those that are in Him.
 +++[+++Indeed]
 we have notice, signified under the hand of one that is somewhat friendly,
 that they have threatened, (in case the King`'s Council shall release us,
-which they think likely,) to send men in disguise into our meetings to break our bones.
+which they think likely,) to _send men in disguise into our meetings to break our bones._
 But the Lord is with us, and is on our side;
 and we are filled with quietness and contentedness here: glory to his name, his arm,
 his power, forever, who has done it!--and, indeed, it is well with us!
 And this is written for the satisfaction of Friends and others,
-to whose hands it shall come; desiring to be remembered by all Friends,
+_to whose hands it shall come;_ desiring to be remembered by all Friends,
 as the dear remembrance of them is with us,--yes,
 of all the Friends of Truth and followers of the Lamb, far and near.
 And it is our purpose and resolution, in the strength of the Lord,
-not to go from off this place, but as clear men; being in all six, namely,
+_not to go from off this place, but as clear men;_ being in all six, namely,
 John Swintoune, Robert Barclay, William Napier, John Milne, William Low, James Nuccoll.`"
 
 The following is a copy of the letter above alluded to,
 addressed by them to the magistrates of Montrose--a nobly-toned and touching appeal,
 at once exhibiting the fortitude and patience with which Christianity would invest us.
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Friends,
 
 Our case being as it was, and as some of us fully represented it to you,
-how could you in justice deal with us as you have done,--in the middle of winter,
-to send us, whose occasions lie elsewhere, to a cold and desolate prison?
+how could you in justice deal with us as you have done,--__in the middle of winter,__
+to send us, whose occasions lie elsewhere, _to a cold and desolate prison?_
 Well! the just God beholds your injustice and oppression; iniquity lies at your door,
 and we are to lay it upon you, and to charge you in the name of the Lord God,
 that you beware for the future to be found in such practices, and,
 in the sense that you have done evil herein, be resolved to do so no more; that,
 if possible, your iniquities in this and the like cases,
-(for this is not the first,) may be forgiven you.
-As well, also, the thoughts of your hearts,--which are,
+(for this is not the first,) _may be forgiven you._
+As well, also, _the thoughts of your hearts,_--which are,
 to banish Truth and a true people out of your coasts, or to vanquish them,
 by tempting them to unfaithfulness, and to forsake that testimony,
-which they are to bear among you--which they must bear, and cannot forbear it.
-You have undertaken, with many of this day, to raise the burdensome stone,
+which they are to bear among you--which they _must_ bear, and _cannot_ forbear it.
+You have undertaken, with many of this day, _to raise the burdensome stone,_
 which many have found too heavy for them, and many have dashed themselves upon it,
 and many have been ground to powder by it, whose remembrance is as a stink in this day!
 And therefore, be warned, to take heed, and consider in time what you have done, that,
-if possible, you may find a place of repentance, and do so no more.
+if possible, _you may find a place of repentance,_ and do so no more.
 
-As for us, we are not afraid of you, nor ashamed of our testimony,
-and you cannot vanquish us.
+_As for us,_ we are not afraid of you, nor ashamed of our testimony,
+and _you cannot vanquish us._
 You imagine a vain thing, and you will herein weary yourselves with very vanity.
 
 Now, whereas you may think to cover yourselves with this +++[+++plea:]
 '`We are but inferior magistrates; and we must obey the laws,
 that require us to suppress conventicles, and to punish conventiclers.`' Well,
 it is confessed, you are but inferior magistrates,
-and therefore have not an arbitrary power; but are to proceed according to law,
-when you proceed--though they were found blameable,
-who walked willingly after the unjust commandment, Hosea 5:11. But,
-let the laws be what they may, you have proceeded herein without and contrary to all law,
-and shadow of it; and have therein manifested your injustice,
+and therefore have not _an arbitrary power;_ but are to proceed according to law,
+when you proceed--though _they_ were found blameable,
+who walked _willingly_ after the unjust commandment, Hosea 5:11. But,
+let the laws be what they may, you have proceeded herein _without and contrary to all law,
+and shadow of it;_ and have therein manifested your injustice,
 and the unreasonableness of your proceedings,
 through your malice against the Truth and its friends.
 And herein lies the weight and depth of your iniquity;
@@ -253,29 +268,32 @@ in which you have manifested yourselves and your spirit,
 and may procure the plagues and judgments of the Lord to be poured upon this town,
 and many may come to feel the smart of your doings.
 Verily, we were ashamed on your behalf, in the instant of time,
-and on the behalf of our native country; that, in a place so considerable as this,
+and on the behalf of _our native country;_ that, _in a place so considerable as this,_
 you should demean yourselves so unjustly, so palpably,
 having no shadow of a rational cover for your proceedings.
 
-Well! we ask nothing of you, but that you come to a sense of your past way,
+Well! _we ask nothing of you,_ but that you come to a sense of your past way,
 that you may not fall into the like for the future.
-And as for us, we are well contented to stay here,
+And _as for us,_ we are well contented to stay here,
 until the due time of our deliverance come; and our expectations,
-(be it known to you,) are neither from the hills nor from the mountains,
-but from God alone.
-Our case is committed to Him who judges righteously!
-We are, as regards our testimony and for its sake, well contented, well pleased,
-well satisfied, to be here; our bonds are not grievous to us:
-glory to the Lord forever!--who has not, who never will fail us,
+(be it known to you,) are neither _from the hills nor from the mountains,
+but from God alone._
+Our case is committed to Him _who judges righteously!_
+We are, as regards our testimony and for its sake, _well contented, well pleased,
+well satisfied, to be here;_ our bonds are not grievous to us:
+glory to the Lord forever!--who _has_ not, who never will fail us,
 
+[.signed-section-signature]
 John Swintoune, Robert Barclay, William Napier, James Nuccoll, John Milne, William Low.
+
+--
 
 We are not informed, in the above record,
 how long these sufferers for the testimony of a good conscience, were thus detained,
 or by what means their liberation was effected;
 although it may be presumed this was brought about soon after,
 as a minute of Aberdeen Monthly Meeting,
-states the release of John Swintoune to have taken place early in the 11th month,
+states the release of _John Swintoune_ to have taken place early in the 11th month,
 in consequence of an order from the King`'s Council,
 and that he was then on his way to Edinburgh,
 with the view of laying the case of his friends in general before the government.
@@ -321,19 +339,22 @@ This paper is signed by Alexander Skene, David Barclay, and others.
 It is further stated, that this person was so wrought upon,
 either by the letter above alluded to, or which is more probable,
 by his own utter disappointment of his prey, that he exclaimed,
-he should never trouble the Quakers more,
-for it was unhappy to have anything to do against them.
+_he should never trouble the Quakers more,
+for it was unhappy to have anything to do against them._
 
-Thus did the Lord, who is the keeper of his people and their shade upon their right hand,
+Thus did the Lord, who is _the keeper of his people and their shade upon their right hand,_
 remarkably appear in many instances of his protecting
 care towards those that trusted in him,
 some of which are not here enumerated.
 While, therefore, the Scriptural language is grievously true of many wicked,
-"`When your hand is lifted up, they will not see;`" yet are there in all ages,
+"`When your hand is lifted up, __they will not see;__`" yet are there in all ages,
 such ample proofs of providential interposition and disposal of events,
-as should certainly tend to bring about, in the hearts of those not yet utterly hardened,
-that blessed crisis, when "`all men shall fear, and shall declare the work of God;
+as _should certainly tend_ to bring about, in the hearts of those not yet utterly hardened,
+that blessed crisis, when "`__all__ men shall fear, and shall declare the work of God;
 for they shall wisely consider of his doing.`"
+
+[.small-break]
+'''
 
 We are now to approach the close of Alexander Jaffray`'s career,
 whose religious experience, developed in his Diary,
@@ -357,13 +378,13 @@ up to the awful change.
 
 He remarked, it was his great joy and comfort in that trying hour,
 that ever he had been counted worthy to bear a testimony to,
-and suffer for that invaluable principle of Christ`'s inward
+and suffer for that invaluable principle of _Christ`'s inward
 appearance in the hearts of the children of men,
-visiting all by his light, grace, and good Spirit, which convinces of sin.
-And further, that the great judgment and condemnation of many in the nation,
+visiting all by his light, grace, and good Spirit, which convinces of sin._
+And further, that _the great judgment and condemnation of many in the nation,
 especially the religious professors, was and would be,
 their having so slighted and despised, yes, hated this Divine light,
-and the witnesses of it.
+and the witnesses of it._
 
 Being overcome in spirit, he occasionally said, "`Now, Lord,
 let your servant depart in peace, for my eyes spiritually have seen, my heart has felt,
@@ -386,19 +407,19 @@ as by the opposite effect these sufferings had upon the dedicated and upon the d
 
 Sometimes, when very sick, he would bless the Lord,
 that now fighting with a natural death, he had not an angry God to deal with.
-"`Oh!`" said he, "`the sting of death is fully gone, and death is mine;
-being reconciled to me, as a sweet passage, through Him that loved me.`"
+"`Oh!`" said he, "`the sting of death is fully gone, and _death is mine;_
+being reconciled to me, _as a sweet passage,_ through Him that loved me.`"
 And again, he signified, that the Lord had given him the garments of praise,
 instead of the spirit of heaviness.
 Another time, seeing a candle in the room almost gone out, he said,
 "`My natural life is near an end, like that candle,
 for lack of nourishment or matter to entertain it; but in this +++[+++respect]
-we shall differ, that if it be let alone, that goes out with a stink,
+we shall differ, that if it be let alone, _that_ goes out with a stink,
 but I shall go out with a good savour: praises to my God forever!`"
 
-A little before his breath ceased, he declared, He had been with his God,
-and had seen deep things: about which time,
-he was filled in a wonderful manner with the power of Christ,
+A little before his breath ceased, he declared, _He had been with his God,
+and had seen deep things:_ about which time,
+he was filled in a wonderful manner with _the power of Christ,_
 which much affected those present: and very shortly after, he gently passed away!
 
 One of the earliest minutes recorded by the Monthly Meeting of Friends at Aberdeen,
@@ -409,7 +430,7 @@ Alexander Jaffray, at his own house at Kingswells, the 7th of the 5th month, 167
 at one in the morning; who was buried in his own burial-ground there, upon the 8th day.
 He was a sincere, upright-hearted man all his time,
 and one that had been a seeker of the Lord from his youth up,
-and had much of the life of Jesus and spirit of holiness attending his heart all along,
+and had _much of the life of Jesus and spirit of holiness attending his heart all along,_
 as his conduct witnessed;
 and died with blessed and living testimonies to the honour of Truth,
 before many professors and profane, who came to see him.`"
@@ -424,10 +445,10 @@ at least on the particular occasion of trial there alluded to,
 this helpmeet of our Friend was in some danger of adding, by her unbelief or impatience,
 to his many sources of trial, rather than of mitigating his sorrows.
 However this may have actually been, the sequel will prove,
-that her end was a striking comment on her husband`'s path,
-and even as a seal to his dying testimony:--so remarkably, oftentimes,
+that her end was _a striking comment on her husband`'s path,_
+and even as a _seal to his dying testimony:_--so remarkably, oftentimes,
 are the expectations, endeavours, and prayers of the faithful answered;
-whether they be permitted or not, to see the travail of their soul accomplished,
+whether _they_ be permitted or not, to see the travail of their soul accomplished,
 the ends of their faith fully brought about.--The above authentic record,
 which has been just quoted,
 furnishes us with this short but very interesting document respecting her:
@@ -435,7 +456,7 @@ furnishes us with this short but very interesting document respecting her:
 relict of our late dear Friend, Alexander Jaffray, came into our meeting,
 and owned +++[+++the way of]
 Truth publicly, +++[+++as it is professed by Friends;]
-which was a speaking testimony, considering her parentage and education; +++[+++she]
+which was a _speaking_ testimony, considering her parentage and education; +++[+++she]
 being mightily wrought upon to avow Truth publicly,
 by her worthy husband`'s remarkable dying,
 with such demonstration therein.`"--Her decease took place as early after this circumstance,
@@ -444,7 +465,7 @@ as the 24th of the next month, and her remains were interred at Kingsvvells.
 
 The Author of these pages has not been able definitively to ascertain,
 that Alexander Jaffray was ever actually considered in the light of a minister;
-although he is fully prepared to suppose this was not the case.
+although he is fully prepared to suppose this was _not_ the case.
 At this early period,
 it does not appear to have been a stated practice among the Friends in Scotland,
 to give forth any testimonial, either in the name of one or more individuals,
@@ -455,7 +476,7 @@ in such a way, that few,
 especially among those whose doctrine and life had conspicuously shone forth,
 but were held up to the view of succeeding generations,
 as examples "`whose faith`" they might be encouraged to "`follow,
-considering the outcome of their conduct, Jesus Christ, the same yesterday, today,
+considering the _outcome_ of their conduct, Jesus Christ, the same yesterday, today,
 and forever.`"
 
 Without conceding, in the slightest degree, the safe and true position,
@@ -464,15 +485,15 @@ and furnished for the awfully-humbling work committed to them;
 there is great occasion for us prominently to bear in mind, that these,
 thus selected for a particular service,
 are but vessels,--as indeed are all other members of the church,--mere instruments,
-made use of just in such manner and so long as the chief Shepherd, "`the Lord,
+_made use of just in such manner and so long as_ the chief Shepherd, "`the Lord,
 has need of`" them.
 When Peter, accompanied by John, wrought a special miracle on the lame man, Acts,
 3rd chapter, he said, "`Such as I have, give I unto you;`" and afterward, to the Jews,
-"`Why do you look so earnestly upon us, as though by our own power or holiness,
+"`Why do you look so earnestly upon us, as though by _our own power or holiness,_
 we had made this man to walk?`"
 And certainly,
-"`His name,`" (which comprehends his power,) "`through faith in his name,`"--yes,
-"`the faith which is by him,`" when rightly received and
+_"`His name,`"_ (which comprehends his power,) "`through _faith_ in his name,`"--yes,
+"`the faith which is __by him,__`" when rightly received and
 applied,--is that which the followers of a crucified Redeemer,
 in every age, as well ministers as hearers,
 have alone to look to for sufficiency unto every good word and work.
@@ -495,16 +516,16 @@ God has preeminently chosen, in every age, the weak things, the foolish things,
 and things that are not, to be his instruments in this line,
 lest we should unduly look to or lean upon them,
 and that "`no flesh should glory in his presence.`"
-And those that "`will be the chiefest,`" that seem to be somewhat,
+And those that "`will be the chiefest,`" that _seem to be somewhat,_
 that are even "`worthy of double honour,`" commonly
 have laid upon them the heavier burdens,
 have to pass under more humiliating baptisms,
 and are placed obvious to greater temptations.
 Not only have they nothing but what they receive, but they have the more to account for,
-and in a more full sense than any others, are made servants of all.
+and in a more full sense than any others, are made _servants of all._
 They point to the Giver of every good and perfect gift,--which is also the case
 with all who let their "`light shine;`" they testify of that grace and truth,
-which is at once sufficient for others as for themselves,
+which is at once sufficient for _others_ as for _themselves,_
 and which can come by Him alone,
 who is given to be "`Head over all things to the church.`"
 
@@ -512,5 +533,5 @@ With these observations on the agency and help of our fellow-mortals,
 shall the memorial of so estimable a Christian as Alexander Jaffray be dismissed;
 under a fervent feeling of desire,--which has uniformly attended the mind of his Biographer,
 while holding up so bright an example,--that, as of men he sought not glory,
-so all may be ascribed to the Great First Cause,
-who is supremely and everlastingly worthy!
+_so all may be ascribed to the Great First Cause,
+who is supremely and everlastingly worthy!_

@@ -1,13 +1,16 @@
 == Chapter VIII.
 
-1676:
-Fines levied by Melvill--John Skene and Robert Burnett
-address the provost of Aberdeen--His severity;
-and Melvill`'s conduct-- Patrick Livingston and James Halliday`'s preaching--Further
-distraints and fresh imprisonments--David Barclay`'s liberation--Letter
-of the Princess Elizabeth to Robert Barclay--His imprisonment on his return
-home--Letter of the Princess to Prince Rupert on behalf of Friends--Melvill
-executes his warrant of distraint at Ury.
+[.chapter-synopsis]
+* 1676: Fines levied by Melvill
+* John Skene and Robert Burnett address the provost of Aberdeen
+* His severity; and Melvill`'s conduct
+* Patrick Livingston and James Halliday`'s preaching
+* Further distraints and fresh imprisonments
+* David Barclay`'s liberation
+* Letter of the Princess Elizabeth to Robert Barclay
+* His imprisonment on his return home
+* Letter of the Princess to Prince Rupert on behalf of Friends
+* Melvill executes his warrant of distraint at Ury
 
 Soon after the Court of Commissioners had come to this decision,
 Melvill set himself to work to put in execution the authority given him,
@@ -18,8 +21,8 @@ this poor man was released from his imprisonment.
 He, being discharged,
 was present when his goods were conveyed to the market-cross to be appraised;
 and finding that they were doing him much wrong by underrating them,
-testified against their injustice; and, withal, kneeling down,
-he prayed God to forgive them.
+testified against their injustice; and, withal, _kneeling down,
+he prayed God to forgive them._
 This act, however truly savouring of a meek and Christian spirit, was by the provost,
 George Skene, resented as a high affront to him and his office;
 he therefore again committed Thomas Milne to prison, where he was detained four days.
@@ -28,12 +31,16 @@ place justly esteemed this as a great severity;
 and two of the prisoners found themselves concerned each of them to plead with him,
 in the following remarkable letters of expostulation.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Skene to the Provost Of Aberdeen.
 
-Aberdeen Prison,
+[.signed-section-context-open]
+Aberdeen Prison, 25th of 8th month, 1676.
 
-25th of 8th month, 1676.
-
+[.salutation]
 Provost!
 
 Read and consider seriously without passion or prejudice.--Is there no God in heaven?
@@ -63,7 +70,7 @@ to cause or suffer a man to be imprisoned for no
 other reason than obeying Christ`'s command,
 as it is recorded in Matthew 5:44, '`Love your enemies, bless them that curse you,
 do good to them that hate you,
-and pray for them which despitefully use you and persecute you.`'
+and __pray for them which despitefully use you and persecute you.__`'
 
 Now, I warn thee, that thou seek not to cover this, and such rigorous practices,
 lest thou add to thine iniquity;
@@ -71,20 +78,20 @@ for no excuse will stand thee in stead in the day of the Lord;
 and their power and influence, by which thou proceedest as thou dost,
 shall not cover thee from the hand of that God, who hath said concerning his people,
 '`He that toucheth you toucheth the apple of mine
-eye.`' Wherefore let not the self-seeking clergy,
+eye.`' Wherefore let not _the self-seeking clergy,_
 nor their emissaries, sow pillows under thy arm-holes,
 as the false prophets did of old to those in authority, by telling thee,
 that we are not the people of God.
 For, know assuredly, the word of the Lord hath been to me, with others of my brethren,
-since we came in here, that as there is no variableness nor shadow of changing in Him,
+since we came in here, that as there is no variableness nor shadow of changing _in Him,_
 so shall He be the same to us, as He hath been to our brethren and sisters in England,
-Ireland, and New England too, where some suffered martyrdom for His name`'s sake.
+Ireland, and _New England_ too, where some _suffered martyrdom for His name`'s sake._
 And as we continue faithful in owning him before men, so he shall own us,
 not only before our very persecutors, but also in the great and terrible day of the Lord,
 before his Father and his angels.
-And we shall be as the palm-tree, +++[+++the emblem of constancy, fruitfulness, patience,
-and victory,]--the more devils and men endeavour to oppress us in our
-public testimonies for His inward appearance,--we shall rise the higher.
+And _we shall be as the palm-tree,_ +++[+++the emblem of constancy, fruitfulness, patience,
+and victory,]--the more devils and men endeavour to _oppress_ us in our
+public testimonies for His inward appearance,--__we shall rise the higher.__
 
 Wherefore, I beseech thee, in God`'s holy fear,
 take heed to thy proceedings against an innocent people; and let not the enemy within,
@@ -92,8 +99,8 @@ nor his instruments without, drive thee further on in this path,
 wherein thou art walking,
 lest thou be found fighting against God--then will God fight against thee,
 and thou shalt not be honourable: for God hath said in the Scriptures,
-He will honour them that honour him, and on the contrary,
-They shall be lightly esteemed that dishonour him.
+_He will honour them that honour him,_ and on the contrary,
+_They shall be lightly esteemed that dishonour him._
 So, repent; and be warned from the Lord!--despise it not,
 though it come through a weak instrument; for if thou do not mind it,
 all thy endeavours in this persecuting way,
@@ -111,17 +118,23 @@ as that it may produce fruits most acceptable to God, and refreshing to his peop
 
 I rest, as formerly, however esteemed by thee, thy true and faithful friend,
 
+[.signed-section-signature]
 John Skene.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Robert Burnett to the Provost of Aberdeen.
 
-Aberdeen Tolbooth,
-
-28th of 8th month, 1676.
+[.signed-section-context-open]
+Aberdeen Tolbooth, 28th of 8th month, 1676.
 
 In the zeal of the Lord God, and in love to thy soul, do I write to thee,
 being moved thereunto by his Spirit, which hath arisen in my heart,
-with a mighty indignation and wrath against that in thee,
+with a mighty indignation and wrath against _that_ in thee,
 which doth oppress his innocent seed in thine own heart,
 and hath taken much rule in thy whole man.
 This doth evidently appear, by what thou hast done,
@@ -132,7 +145,7 @@ by an unrighteous generation,
 who can lay no other deed to their charge but innocency and uprightness:
 for this we rejoice, in the midst of our sufferings, and shall more rejoice,
 through the strength of our God,
-who rules heaven and earth,--that all shall turn
+who rules heaven and earth,--that _all_ shall turn
 to his glory and the good of them that fear him.
 For, whoever may combine against him and his anointed, they shall not prosper;
 their designs shall be turned backward, and their contrivances come to nought;
@@ -156,6 +169,7 @@ A fall is abiding all those, that lift up their heel against the Almighty: for,
 
 Let this be a warning to thee from thy true friend,
 
+[.signed-section-signature]
 Robert Burnett.
 
 [.postscript]
@@ -168,11 +182,13 @@ If so, then Pilate may plead the same; yea, and more,
 who publicly declared his unwillingness to pass sentence against Christ,
 who esteemed him a good and just man, and washed his hands, as innocent of his blood;
 and yet,
-if he was not free of the murder of our blessed Lord,--no
+if _he_ was not free of the murder of our blessed Lord,--no
 more shall any of the present rulers,
 who have an hand in the present persecution.
 
 ====
+
+--
 
 The last letter, being delivered into the provost`'s own hand by Margaret Cassie, was,
 with the other,
@@ -257,7 +273,7 @@ that no man could be found, who would be concerned in the matter of appraisement
 
 These Friends, who both resided in England,
 in the course of a religious visit to their brethren in this nation,
-had come to Aberdeen, and being apprehended, were put into the upper prison.
+had come to Aberdeen, and being apprehended, were put into the _upper_ prison.
 Here they had frequent opportunities, especially on market days,
 to preach to the people the doctrine of Truth out of their prison-windows;
 having more hearers there,
@@ -283,25 +299,30 @@ No express record is made of the occasion of such
 partiality being shown him by his oppressors,
 so different from the treatment they meted out to his fellows.
 Yet is there ample ground to impute this to the exertion used by his son, when in London;
-which, though made on behalf of the sufferers generally,
+which, though made on behalf of the sufferers _generally,_
 and not at all pointedly on behalf of David Barclay,
 (as is indeed evident in the foregoing address to the King,) took effect, it would seem,
-with regard to him, while it failed, at least for the present,
+with regard to _him,_ while it failed, at least for the present,
 to obtain for the rest of the prisoners the reasonable indulgence sued for.
 These exertions of Robert Barclay, were not confined to a direct application to royalty.
 He wrote to the Princess Elizabeth; and by her reply,
 which he received while he was still in London, it is clear,
 she had already endeavoured to interest her brother, the Prince Rupert,
 to use his influence for the liberation of the whole number,
-but especially marking out David Barclay to notice,
-his wife standing in the relation of third cousin to the Princess.
+but especially marking out _David Barclay_ to notice,
+_his wife_ standing in the relation of third cousin to the Princess.
 Her letter,
 which opens a correspondence that subsisted between these eminent characters till death,
 and is remarkable for its Christian simplicity, is here given.
 +++[+++see Appendix, W.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Elizabeth, Princess Palatine of the Rhine, to Robert Barclay.
 
+[.signed-section-context-open]
 July 21st--31st, 1676.
 
 My dear Friend in our Saviour Jesus Christ!
@@ -327,22 +348,31 @@ Your letters will always be welcome to me, so will your friends,
 if any please to visit me.
 
 I should admire God`'s providence,
-if my brother could be a means of releasing your father and forty more in Scotland;
+_if my brother could be a means of releasing your father and forty more in Scotland;_
 having promised to do his best,
 I know he will perform it,--he has ever been true to his word:--And you shall find me,
 with the grace of our Lord,
 
+[.signed-section-closing]
 A true Friend,
 
+[.signed-section-signature]
 Elizabeth.
 
+[.postscript]
+====
+
 P+++.+++ S. The Princess of Hornes sends you her most hearty commendations.
+
+====
+
+--
 
 Robert Barclay had not long returned to his native country, and the bosom of his family,
 when he was himself apprehended by order of the provost, together with Thomas Moor,
 Thomas Milne, and John Forbes,
 while they were attending their meeting for worship at Aberdeen.
-The three latter were conveyed to the higher jail;
+The three latter were conveyed to the _higher_ jail;
 and because the keeper did not confine him in the same place with them,
 the provost was highly offended.
 His commitment was on the 7th of the 9th month; and by the next month,
@@ -350,15 +380,20 @@ the news of his confinement reached his friend, the Princess Palatine,
 probably with some circumstances of exaggeration,
 as appears from the following letter to her brother, the Prince Rupert.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Herford, December 19th, 1676.
 
+[.signed-section-signature]
 Dear Brother,
 
 I have written to you some months ago by Robert Barclay, who passed this way,
 and hearing I was your sister, desired to speak with me.
-I knew him to be a Quaker by his hat,
+_I knew him to be a Quaker by his hat,_
 and took occasion to inform myself of all their opinions:
-and finding they were so submiss to the magistrates in real, omitting the ceremonial,
+and finding they were so _submiss_ to the magistrates in real, omitting the ceremonial,
 I wished in my heart, the King might have many such subjects.
 And since, I have heard,
 that notwithstanding his Majesty`'s gracious letter
@@ -384,15 +419,19 @@ than in a sensible compassion of the innocent sufferers.
 You will act herein according to your own discretion; and, I beseech you,
 still consider me as
 
+[.signed-section-closing]
 Yours,
 
+[.signed-section-signature]
 Elizabeth.
+
+--
 
 One brief comment on the foregoing letter, merely by way of information,
 may perhaps be due to some of the younger classes of readers,
 who profess with the Society of Friends,
 as well as to others who do not.--The Princess knew Barclay to be a Quaker by his hat,
-and thereupon took occasion to inform herself of all their opinions.
+and _thereupon_ took occasion to inform herself of all their opinions.
 Neither the Princess, nor Barclay, nor the Friends of Barclay in that day,
 placed any undue value upon singularity of external appearance, merely as such.
 The costume of the Friends had, before this date, become peculiar,
@@ -409,7 +448,7 @@ as well as to the manners of those that love it;
 their close scrutiny into the motives for all their conduct, induced a caution,
 a jealousy, a precision in these respects, which while wholesome and beneficial,
 appeared to be consistent with the apostolic injunction,
-"`Be ye holy in all manner of conversation`" 1. Peter, i. 15.
+"`Be ye holy __in all manner of conversation__`" 1. Peter, i. 15.
 
 While Robert Barclay lay in the Tolbooth of Aberdeen, Melvill,
 who had been one of his father`'s troopers, came to Ury with his party,
@@ -418,7 +457,7 @@ the warrant he had from the Commissioners to distrain for the fine.
 The iron gate being shut, and the family at dinner,
 the man had to wait awhile for admission, which might have somewhat irritated him.
 For when his former master and colonel, on examining the warrant, told him,
-that could give him no authority within his estate, which lay in the shire of Mearns,
+_that_ could give him no authority within his estate, which lay in the shire of Mearns,
 whilst the decree of the Commissioners, under whom he acted,
 extended only to the shires of Aberdeen and Banff;
 he would by no means desist from his purpose, but, adding one illegal act to another,

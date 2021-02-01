@@ -386,7 +386,7 @@ as appears from the following letter to her brother, the Prince Rupert.
 [.signed-section-context-open]
 Herford, December 19th, 1676.
 
-[.signed-section-signature]
+[.salutation]
 Dear Brother,
 
 I have written to you some months ago by Robert Barclay, who passed this way,

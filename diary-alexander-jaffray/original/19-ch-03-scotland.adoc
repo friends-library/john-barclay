@@ -1,14 +1,14 @@
 == Chapter III.
 
-1665: George Keith`'s ill-usage,
-and the imprisonment of Alexander Forbes and others--David
-and Robert Barclay join the society--Some account of them,
-especially of David Barclay previous to this circumstance.
+[.chapter-synopsis]
+* 1665: George Keith`'s ill-usage, and the imprisonment of Alexander Forbes and others
+* David and Robert Barclay join the society
+* Some account of them, especially of David Barclay previous to this circumstance.
 
 George Keith, in the year 1665, under a sense of religious duty towards his Maker,
 and with a desire for the good of souls,
 publicly confessed and upheld "`the way of the Lord,`" in an address to
-the congregation who assembled at "`the great place of worship,`" in Aberdeen.
+the congregation who assembled at _"`the great place of worship,`"_ in Aberdeen.
 In attempting that service, he was violently assaulted, beaten,
 and knocked down by one James Horne, their bell-ringer.
 It was observed, that, a short time after this, the same individual,
@@ -35,7 +35,7 @@ or submission in any wise to the will of their adversaries.--Towards
 the close of the same year,
 John Glennie, James Urquhart, John Brown, and William Gellie were also taken,
 while at their own place of worship,
-and imprisoned for two months in a place called the Iron-house at Aberdeen,
+and imprisoned for two months in a place called the _Iron-house_ at Aberdeen,
 where the worst of felons and murderers were usually confined.
 
 But by such rigorous proceedings, those termed the clergy did not attain their object;
@@ -66,12 +66,15 @@ that we are more fully prepared to realize the difficulties
 of the path they afterward had to walk in;
 at the same time that we are better qualified to appreciate the depth, and strength,
 and beauty of that spiritual work, which was effected in them.
-We can then more duly estimate what it cost them, to refuse the glory of this world,
+We can then more duly estimate what it cost them, _to refuse the glory of this world,_
 with all the various opportunities that presented, of gratifying "`the lust of the flesh,
 the lust of the eyes,
 and the pride of life;`" as well as to accept with cheerful resignation
-"`the reproach of Christ,`" by becoming fools for his sake,
+"`the reproach of Christ,`" _by becoming fools for his sake,_
 that so they might be "`to the praise of his glory.`" Eph. 1:12.
+
+[.small-break]
+'''
 
 David Barclay was born in the year 1610, at Kirktounhill,
 the seat and birthplace of his father, of the same name; who, living much at court,
@@ -90,14 +93,14 @@ nor is it likely he would do so, after he became one with the Friends in sentime
 as to the origin of "`wars and fightings,`"--except it were to testify against them.
 Some of these circumstances of his life, however,
 are alluded to in the histories of the times,
-and also bear upon certain points connected with the foregoing Diary;
+_and also bear upon certain points connected with the foregoing Diary;_
 they are therefore deemed by no means unfit to have a place in these Memoirs.
 Circumstances of this description,
 like those of a similar cast relating to Alexander Jaffray,
 may assist the reader in contemplating the strong contrast, there is,
 between views of worldly and warlike policy,
-such as then influenced the conduct of these individuals,
-and that line of conscientious practice taken up by them in after life,
+such as _then_ influenced the conduct of these individuals,
+and that line of conscientious practice taken up by them in _after life,_
 which induced them to become comrades in the spiritual warfare.
 
 The following narrative is taken, nearly verbatim,
@@ -165,14 +168,14 @@ Among these, Colonel David Barclay was one;
 nor does it appear that ever after he was concerned in military affairs.`"
 
 The above account of his conduct, is said to have been given,
-in a manuscript preserved in the family, all written with his own hand;
+in a manuscript preserved in the family, _all written with his own hand;_
 he also takes notice, that being, for the reason just mentioned,
 rendered incapable of further service to his Prince,
 he retired to Gordonstoun for several years.
 During this time, the Earl Marischall, being taken prisoner at Eliot, in Angus,
 by the English under General Monk, and his estate forfeited, they seized it,
 together with the lands of Ury, which the Colonel had purchased from him; on the pretext,
-that the rights (or perhaps writings) of the latter were not fully completed.
+that the _rights_ (or perhaps _writings)_ of the latter were not fully completed.
 Upon this, by the advice of the Earl and his other friends,
 he availed himself of the interest he had by his wife`'s cousin-german,
 the Earl of Sutherland, and other relations,
@@ -197,7 +200,7 @@ About the same time, in addition to this source of affliction, he was,
 by order of the government, after the Restoration,
 committed close prisoner to Edinburgh Castle.
 This treatment was said to be occasioned by his having been "`a trustee
-under the Usurper,`" as Mackenzie`'s History of Scotland states;
+under the Usurper,`" as Mackenzie`'s [.book-title]#History of Scotland# states;
 and yet he had suffered in the cause of Charles the 1st,
 not only by being thrust from all his posts on that account,
 but by having his estates seized for several years.
@@ -231,11 +234,11 @@ as opportunity came into their hand; and this,
 for the very reason which had rendered themselves the object of persecution, namely,
 their differing from others.
 His intercourse with the world, both abroad and at home,
-had given him ample occasion to make such remarks on their practice;
+had given him ample occasion to make such remarks on their _practice;_
 while the perusal of their several systems of divinity, whilst in his retirement,
-had afforded him full insight into their several credenda.
-Upon the whole, he concluded, that the Christian religion must in itself be very good,
-and the only true religion, since all valued themselves upon their claim to it;
+had afforded him full insight into their several _credenda._
+Upon the whole, he concluded, that the Christian religion _must in itself be very good,
+and the only true religion,_ since all valued themselves upon their claim to it;
 and further, that all could not be right, when they so widely differed one from another.
 To relieve himself by arriving at a determinate choice,
 he betook himself to the close reading of the New Testament,
@@ -259,7 +262,7 @@ These his private thoughts, he afterward communicated on several occasions to hi
 
 Accordingly,
 with the greatest earnestness did he set about an
-examination and inquiry relative to this way,
+examination and inquiry relative to _this way,_
 which was indeed "`everywhere spoken against.`"
 Being in London about this time,
 he "`had converse with several Friends both there and elsewhere,`"
@@ -282,17 +285,17 @@ He ascertained,
 that notwithstanding all the calumnies and reproach with which their enemies loaded them,
 this class of men were a sober, plain, self-denying, religious people;
 that they never shunned suffering or persecution for their testimony;
-that they gave up their all for the sake of their religion;
-that they had beat their swords into ploughshares, and their spears into pruning-hooks,
-and neither taught nor exercised war any more,--the certain mark of the gospel times,
+that they gave up _their all_ for the sake of their religion;
+_that they had beat their swords into ploughshares, and their spears into pruning-hooks,
+and neither taught nor exercised war any more,--the certain mark of the gospel times,_
 according to the language of the evangelical prophet, Isa. 2:4. Further,
-that they loved one another,--the infallible character our blessed Saviour hath given,
-of their being his disciples, John 13:35; in short,
+_that they loved one another,--the infallible character our blessed Saviour hath given,
+of their being his disciples,_ John 13:35; in short,
 that their practice and principles were most agreeable
 to the primitive standard recorded in the New Testament.
 He therefore came to this fixed and certain conclusion
-within himself;--if Jesus Christ hath followers,
-disciples, or a visible church upon earth, these must be they.
+within himself;--__if Jesus Christ hath followers,
+disciples, or a visible church upon earth, these must be they.__
 So, upon full conviction, he joined with them,
 and became eminent for his religious and exemplary life, as formerly for his bravery,
 resolving to suffer indignities and injuries for conscience
@@ -315,11 +318,11 @@ It was remarked,
 that none bore these indignities with greater calmness than did David Barclay.
 One of his relations, upon an occasion of uncommon rudeness,
 lamenting that he should be now treated so differently from what formerly he had been;
-he answered, that he found more satisfaction as well as honour,
+he answered, _that he found more satisfaction as well as honour,
 in being thus insulted for his religious principles, than when, some years before,
 it was usual for the magistrates, as he passed the city of Aberdeen,
 to meet him several miles, and conduct him to a public entertainment in their townhouse,
-and then convey him so far out again, in order to gain his favour.
+and then convey him so far out again, in order to gain his favour._
 
 His humility and sincerity as to religion was "`most remarkable in his whole
 conduct;`" but his deportment is said to have been particularly awful and striking,
@@ -341,7 +344,7 @@ and having quite newly become united in faith and fellowship with this religious
 Such a fact is thought worthy to be pointed out;
 and it is affectionately recommended to the contemplation of the youthful reader,
 taken in connection with the extensive religious growth and fruitfulness of "`this blessed
-young man`" in afterlife:--it seems to have been as an early offering by way of earnest,
+young man`" in afterlife:--it seems to have been as an _early offering_ by way of earnest,
 and, doubtless, not merely indicated, but opened the way to further acts of dedication.
 His father soon after, settling with his family at Ury,
 meetings of the like kind continued from that time to be regularly held,
@@ -390,7 +393,7 @@ to embrace the same doctrine and course of life.
 It is by no means evident, that he was induced simply through the means of preaching,
 to make this change; indeed, his own clear explanation, which will be shortly given,
 leads us to an opposite conclusion; but more especially the testimony of Andrew Jaffray,
-one of his intimate friends, who asserted that he was "`reached in the time of silence.`"
+one of his intimate friends, who asserted that he was "`__reached__ in the time of silence.`"
 Although, during his father`'s imprisonment in Edinburgh Castle,
 the governor denied him all access to him for the space of several months;
 yet he had had sufficient occasion to observe the circumspect
@@ -398,7 +401,7 @@ example and genuine piety of his worthy parent,
 as well as that of other servants of the Lord, who entertained similar views;
 and his mind was in consequence imbued with some
 "`general impressions`" in favour of Friends;
-till at length, according to the language of the Ury Record,
+till at length, according to the language of the _Ury Record,_
 "`he came by the power of God to be reached and made to bow`" before the Truth.
 At this juncture,
 John Swintoune and James Halliday were particularly helpful to him as instruments;
@@ -414,7 +417,7 @@ he says,--"`Who, not by strength of argument,
 or by a particular disquisition of each doctrine,
 and convincement of my understanding thereby,
 came to receive and bear witness to the Truth;
-but by being secretly reached by this Life.
+_but by being secretly reached by this Life._
 For, when I came into the silent assemblies of God`'s people,
 I felt a secret power amongst them which touched my heart; and as I gave way unto it,
 I found the evil weakening in me, and the good raised up;
@@ -447,7 +450,7 @@ The time that intervened between my forsaking the Church of Rome,
 and uniting with those with whom I now stand engaged,
 I kept myself free from joining with any sort of people,
 though I took liberty to hear several.
-My converse was most with those, who inveigh much against judging,
+My converse was most with those, who inveigh much against _judging,_
 and such kind of severity: which latitude may perhaps be esteemed the other extreme,
 opposite to the preciseness of these other sects;
 whereby I also received an opportunity to know,
@@ -460,8 +463,8 @@ Through great love, watchfulness, and fidelity to the inward appearance of Jesus
 taking up his cross to the glory and friendship of this world,
 and despising the shame that attended his owning this testimony;
 for he esteemed "`the reproach of Christ greater riches than the treasures
-in Egypt,`" and counted all things but loss in comparison of winning Christ,
-and being found in Him.
+in Egypt,`" and counted all things but loss in comparison of _winning Christ,
+and being found in Him._
 After this manner, he rapidly advanced, it may be said,
 both with regard to stature and strength, to such a growth in grace and saving knowledge,
 as has been the admiration of many.
@@ -485,7 +488,7 @@ Much more might be written concerning this faithful
 brother in the Lord and pillar in the church of Christ,
 who was a man I very much loved for his honour in the Truth.`"
 Of his father, the same Friend writes,
-that he "`was a noble man for the Lord and his Truth.`"
+that he "`was _a noble man_ for the Lord and his Truth.`"
 
 Before turning from these striking specimens of the effect
 of submission to Divine power in its operation on the soul,
@@ -497,8 +500,8 @@ from the many contradictions which in that day were
 poured forth upon this view of the Truth,
 and upon him for its sake, chiefly in his own country.
 In these, he ever acquitted himself with honour to his religious profession;
-but particularly by "`An Apology for the true Christian
-Divinity,`" held by the people called Quakers,
+but particularly by [.book-title]#An Apology for the True Christian
+Divinity,# held by the people called Quakers,
 which volume was published in Latin so early as the 28th year of his age;
 his first piece having appeared in print six years before.
 "`This was,`" says William Penn, "`the most comprehensive of all his pieces.
@@ -517,13 +520,13 @@ and lastly cites divers authors, both ancient and modern,
 especially some of the primitive ages, for further illustration and confirmation.
 The method and style of the book maybe somewhat singular, and like a scholar;
 for we make that sort of learning no part of our divine science.
-But that was not to show himself; but out of his tenderness to scholars, and,
+But that was not _to show himself;_ but _out of his tenderness to scholars,_ and,
 as far as the simplicity and purity of the Truth would permit,
-in condescension to their education, and way of treating those points herein handled.`"
+_in condescension to their education,_ and way of treating those points herein handled.`"
 It has passed through many English and also foreign editions,
 being translated into several languages.
 Among those, who from that day to the present have joined the Society by convincement,
-not a few have been led to do so, from the perusal of this book.
+_not a few have been led to do so, from the perusal of this book._
 Several have been the testimonies given in its favour by authors of repute.
 "`I am not ashamed,`" says one, "`to own,
 that I have with great pleasure read over Mr. Barclay`'s Apology for Quakerism;
@@ -531,8 +534,7 @@ and do really think it the most masterly, charitable, and reasonable system,
 that I have ever seen.
 It solves the numerous difficulties raised by other sects,
 and by turns thrown at one another,
-and shows all parts of Scripture to be uniform and consistent.`"
-Cato`'s Letters, or, Essays on Liberty, civil and religious, by Gordon and Trenchard,
+and shows all parts of Scripture to be uniform and consistent.`" [.book-title]#Cato`'s Letters, or, Essays on Liberty, Civil and Religious,# by Gordon and Trenchard,
 1720, vol.
 iv. p. 226. Another author, Norris, a minister of the "`Established Church,`" declares,
 "`I cannot think Quakerism inconsiderable,
@@ -547,7 +549,7 @@ I had rather engage against a hundred Bellarmins, Hardings, and Stapletons,
 than with one Barclay.`"
 And again, That he knew of no religion so rich in reputation for great men,
 but might be glad of the accession of such a writer.
-Of Divine Light, Tract, ii. p. 32.
+_Of Divine Light,_ Tract, ii. p. 32.
 
 In truth, to adopt nearly the words of a candid writer,
 Robert Barclay`'s qualifications for controversial honour, were unusually eminent;
@@ -563,8 +565,8 @@ and this imparted a clearness of method, which, with the weight of his arguments
 proved him an overmatch for his antagonists.
 
 It is not requisite, here to enlarge any further on this author`'s productions.
-An ample survey of them has been given by the author of "`A Short Account
-of the Life and Writings of Robert Barclay,`" published in 1802.
+An ample survey of them has been given by the author of [.book-title]#A Short Account
+of the Life and Writings of Robert Barclay,# published in 1802.
 William Penn also wrote a preface to his Collected Works,
 in which there is a particular recommendation of the several treatises of which it consists.
 This introduction, for the lively spiritual sentiments pervading it,

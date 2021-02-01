@@ -1,11 +1,12 @@
 == Chapter V.
 
-1669;
-Death of Margaret Molleson--Her daughter becomes the wife of Robert Barclay--A monthly
-and a half-yearly meeting established at Ury--Observations on church discipline;
-and Robert Barclay`'s treatise on that subject--1672:
-His deep exercise respecting the inhabitants of Aberdeen--Remarks
-on the zeal and care of Friends in several respects.
+[.chapter-synopsis]
+* 1669: Death of Margaret Molleson
+* Her daughter becomes the wife of Robert Barclay
+* A monthly and a half-yearly meeting established at Ury
+* Observations on church discipline; and Robert Barclay`'s treatise on that subject
+* 1672: His deep exercise respecting the inhabitants of Aberdeen
+* Remarks on the zeal and care of Friends in several respects.
 
 The preceding chapter closed with the exhibition
 of some dark and gloomy shades of human character.
@@ -44,7 +45,7 @@ For this end,
 were the public meetings of the people called Quakers her frequent place of resort,
 and she continued "`instant`" in more private approaches to the Lord;
 insomuch that her husband, who was not at that time in profession with Friends,
-had cause to say, her knees were worn with kneeling at prayer.
+had cause to say, _her knees were worn with kneeling at prayer._
 For about four months before her departure, when he awoke in the night season,
 he usually found her in meditation; and after her decease,
 he said before several people who came to visit him,
@@ -55,7 +56,7 @@ On the 16th of the 10th month, 1669, in the morning, she was suddenly taken ill,
 and in the evening of the same day died in childbirth,
 having been for some time before made sensible that her end was approaching.
 Yet her physician, not supposing that she had been in so dangerous a state, said to her,
-She needed not fear--his life for hers; to which she answered, "`Fear?
+_She needed not fear--his life for hers;_ to which she answered, "`Fear?
 I have no cause; but thou wilt see, thou art mistaken.`"
 At this time, many relations and neighbours being in her chamber, were in much sorrow;
 among whom was an eminent professor, and an old acquaintance of hers,
@@ -73,21 +74,29 @@ Then, in a sense that she was about to reap the fruit of all her spiritual honou
 she declared, "`Now interruption is to cease, and my eternal joy is already begun!`"
 Soon after this she expired.
 
+[.small-break]
+'''
+
 A few months subsequently to the removal of this exemplary character,
 one of her daughters, Christian, was married to Robert Barclay.
 She had, through much suffering and hardship, in her sixteenth year,
 publicly embraced the testimonies held by Friends, and was one,
-whose name and character truly coincided; a daughter worthy of such a mother,
+whose _name_ and _character_ truly coincided; a daughter worthy of such a mother,
 and a wife worthy of such a husband.
 As there will be further occasion to speak of her in the course of these Memoirs,
 her character shall not here be enlarged on; yet it may be interesting to some readers,
 to contemplate the grounds and motives for entering on the marriage state,
-which appeared to influence such a mind as that of the "`Apologist`" at
+which appeared to influence such a mind as that of the _"`Apologist`"_ at
 the age of twenty-one years,--at least so far as these are developed in
 the following letter addressed to the worthy object of his choice.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 28th of 1st month, 1669.
 
+[.salutation]
 Dear Friend,
 
 Having for some time past had it several times upon my mind,
@@ -106,7 +115,7 @@ and praises have sprung up in me to the God of our salvation,
 for what he hath done for thee!
 Many things in the natural will concur to strengthen
 and encourage my affection towards thee,
-and make thee acceptable unto me; but that which is before all and beyond all, is,
+and make thee acceptable unto me; but that which is _before all and beyond all, is,_
 that I can say in the fear of the Lord,
 that I have received a charge from him to love thee,
 and for that I know his love is much towards thee;
@@ -116,8 +125,8 @@ so long as thou abidest in a true sense of it.
 I write not these things to draw out thy mind, but as being with me so to do;
 that thou mayst rather be humbled, and love the more to abide in the low, meek, quiet,
 satisfied, peaceable, contented habitation,
-from which there is safety that cannot be hurt,
-and peace that cannot be broken,--a place of rest and quietness,
+from which there is _safety that cannot be hurt,
+and peace that cannot be broken,_--a place of rest and quietness,
 where the children of light and babes of the household of faith have fellowship together,
 and embrace one another in the pure love, which is mysterious,
 and hid from such as are led away by the foolish loves and fond affections of this world.
@@ -134,13 +143,16 @@ whose private condition puts in a capacity to be obvious to temptation of that k
 by yielding to which, I fear it will be found, some have received hurt.
 That such as are behind, may be preserved from the like danger, is the cry of my soul.
 I am sure it will be our great gain so to be kept,
-that all of us may abide in the pure love of God; in the sense and drawings whereof,
-we can only discern and know how to love one another.
+that all of us may abide in _the pure love of God; in the sense and drawings whereof,
+we can only discern and know how to love one another._
 
 In the present flowings thereof, I have truly solicited thee, desiring and expecting,
 that, in the same, thou mayst feel and judge.
 
+[.signed-section-signature]
 Robert Barclay.
+
+--
 
 About this time, the jealousy and enmity of magistrates, preachers,
 and people in and around Aberdeen, began to grow very strong towards the Friends;
@@ -179,7 +191,7 @@ But Friends were preserved in a tranquil and innocent boldness,
 so that "`neither the big words nor yet the barbarous deeds`" of their opponents,
 could make them flinch from an honest confession of the true reasons for their conduct.
 One of them saying, in defence of their alleged disobedience to magistracy,
-that it was better to obey God than man, the provost scoffingly answered,
+that it was _better to obey God than man,_ the provost scoffingly answered,
 "`So we must all, forsooth, be apostles and disciples.`"
 On this, John Hampton, a poor illiterate young lad, observed,
 that it seemed he did not reckon himself a disciple of Christ,
@@ -227,7 +239,7 @@ set up a Monthly Men`'s Meeting for affairs,
 in administering true and righteous judgment among themselves in all things,
 and taking care of the poor, etc.; and appointed a register or record book,
 to be hereafter carefully kept,
-for recording what is condescended upon at these meetings:
+for recording what is _condescended upon_ at these meetings:
 to which book eleven men Friends and fourteen women did set down their names,
 as belonging to that meeting.`"
 
@@ -254,7 +266,7 @@ so is also the ancient apostolical order of the church of Christ,
 reestablished among them, and settled upon its right basis and foundation.`"
 This piece appears to have been written about the year 1674,
 the author being then not above twenty-six years of age.
-The compiler of "`A Short Account of the Life and Writings of Robert Barclay,`"
+The compiler of [.book-title]#A Short Account of the Life and Writings of Robert Barclay,#
 says respecting it,--"`The work has passed through several impressions;
 and as its title when abridged to the few words,
 '`The Anarchy of the Ranters,`' conveys little or no information of its contents,
@@ -264,7 +276,7 @@ and particularly claims the attention of all persons,
 who think it their duty to be active in supporting
 and executing the discipline of the church.`"
 To the above may be subjoined the observation of the writer of his life
-in the "`Biographia Britannica,`"--"`A very curious and instructive work,
+in the [.book-title]#Biographia Britannica,#--"`A very curious and instructive work,
 in which he with much solidity and perspicuity lays open the causes,
 and displays the consequences of superstition on the one hand,
 and fanaticism on the other, clearing the Quakers from both.`"
@@ -288,17 +300,17 @@ vigorous engagement in the warfare of life.
 Indeed, (to use the language of his grandson,
 from whose Memoir much of this delineation is obtained,) as though he
 had a foresight of the shortness of his time in this state of being,
-he "`posted`" through those affairs, which he thought himself concerned to perform,
+he _"`posted`"_ through those affairs, which he thought himself concerned to perform,
 with equal alacrity, wisdom, and meekness.
 
 Having now described one of the productions of his pen,
 and at a preceding page having given some account
-of his "`Apology,`" it may here be further noticed,
+of his _Apology,_ it may here be further noticed,
 that all his publications, together comprising a folio volume of nine hundred pages,
 were put forth in the course of the first nine years after his marriage,
 between the age of twenty-two and thirty-one years.
 Among his other works,
-the "`Catechism and Confession of Faith`" still continues to be from time to time reprinted,
+the [.book-title]#Catecthism and Confession of Faith# still continues to be from time to time reprinted,
 and is found to be serviceable in explaining the religious tenets held by the Society.
 It first appeared in 1673; previous to which time, as we have seen,
 the Friends were confidently represented as despising and denying the Bible:
@@ -306,7 +318,7 @@ this compilation, formed entirely from the words of the Sacred Volume,
 was intended to disprove such groundless assertions.
 "`As the days in which we live,`" observes his biographer,
 "`are marked by bold attempts to vilify the Scriptures; and as,
-even under our profession, there have been persons,
+even _under our profession,_ there have been persons,
 who have endeavoured to bring them into discredit,
 thinking to succeed the more easily with a people,
 who believe in the superior excellence of the Spirit;
@@ -337,7 +349,7 @@ We are informed,
 he gave up to obey the call to some hard and weighty requisitions of this kind;
 sometimes visiting the congregations of such people, with a word of warning or rebuke.
 On one occasion in particular, about the beginning of the year 1672, it was his concern,
-under a strong sense of duty, to pass through three of the principal streets of Aberdeen,
+under a strong sense of duty, _to pass through three of the principal streets of Aberdeen,_
 clothed in sackcloth, after the manner of some of the ancient prophets,
 and with similar motives.
 After he had thus become "`a spectacle to men,`" he wrote
@@ -351,9 +363,9 @@ some sympathetic feeling from hearts that glow with love to souls,
 and who long that Zion`'s prosperity may with increasing brightness go forth.
 
 This action is branded,
-by the writer of his life in the "`General Biography,`" with the name of enthusiasm,
+by the writer of his life in the [.book-title]#General Biography,# with the name of enthusiasm,
 and is even stigmatized with marks of contempt by his eulogist
-in the "`Biographia Britannica;`" by each of them,
+in the [.book-title]#Biographia Britannica;# by each of them,
 however, his sincerity is admitted.
 But whatever may be the impression made on different readers,
 according to their particular habits or mode of thinking,
@@ -363,7 +375,7 @@ one point is clear,--that the everlasting Father of his people,
 has in all ages deputed some of his children to be
 as delegated shepherds over the flocks of his heritage,
 and as lights in the midst of "`a crooked and perverse generation.`"
-To these he has ever committed a testimony, of some description or other,
+To these _he has ever committed a testimony, of some description or other,_
 to be borne for his Truth`'s sake,--a standard to be upheld, in some especial manner,
 against the course of the prince of darkness,
 whose machinations and whose maxims are for the most part closely interwoven with,
@@ -373,9 +385,9 @@ that each one of us should give the closest attendance upon those things,
 that obviously make for our own peace of mind,
 and individual progress in the life of Christ; rather than presume,
 in such a case as that before us,
-to define the precise line of testimony that may or may not be meted out to another;
+to define the precise line of testimony that may or may not be meted out to _another;_
 especially where the uniform tenour of conduct and conversation,
-must be allowed to place that man in very near connection with his own Master,
+must be allowed to place _that man in very near connection with his own Master,_
 to whom he must, even in this life, either stand or fall.
 
 But to bring to a close these digressive reflections.--In
@@ -384,12 +396,12 @@ there are circumstances recorded,
 which strongly mark the decrepit state of vital religion and sound scriptural morality,
 then existing as well in England as in Scotland; and it is not surprising,
 that such wisdom and mercy as rules or overrules all things here below,
-should raise up remarkable instruments,
+should raise up _remarkable instruments,_
 to effect his own beneficent ends,--by restoring safe paths to walk in,
 by improving the tone of piety, and thus renewing this portion of the face of his earth.
 There was surely great occasion for these to be men of plain, uncompromising stamp,
 that they might effectually do the work assigned,--as it were,
-to thresh the very mountains, to break up the tough and rugged ground,
+to _thresh the very mountains,_ to break up the tough and rugged ground,
 and in other respects, as they might be commissioned, prepare anew the way of the Lord.
 
 The public honorers raised up in this corner of the vineyard,
@@ -398,7 +410,7 @@ may be said to have been by no means few in number,
 in proportion to that of the members generally;
 and especially considering the small extent of district over which Friends were distributed.
 Nor did the Lord of the vineyard spare to assign them instrumental
-help in good measure from other quarters;
+help in good measure _from other quarters;_
 the records of their meetings often stating the names of numerous visitors from England,
 whom the love of Christ and love to souls,
 constrained to pass up and down among the flock,
@@ -426,7 +438,7 @@ in embracing each other: for which blessed opportunity, Friends publicly and joi
 in his own Spirit and life, returned praises to the Lord.`"
 Such a successful illustration of the true honour of love,
 in the spirit of meekness and of wisdom,
-is not held up as one peculiarly confined to that generation;--by no means;--rather
+is not held up as one peculiarly confined to _that_ generation;--by no means;--rather
 as an additional encouraging proof of the preciousness of brotherly admonition,
 order, and concord in the body of Christ.
 
@@ -438,7 +450,7 @@ to entertain and give way to clear intimations of their duty in these respects.
 Hence we find a minister in good estimation, George Gray of Caskieben,
 about eight miles from Aberdeen, informing Friends at their Monthly Meeting,
 of a people in his neighbourhood,
-who thirsted after the assemblies of this despised Society,
+who _thirsted after_ the assemblies of this despised Society,
 although they could not as yet "`well digest silent meetings;`" and what he desired was,
 that Friends would consider their case, "`that if so be,
 the Lord may be pleased to move some Friends +++[+++of Aberdeen]
@@ -467,4 +479,4 @@ but flocking about the door and windows, which were purposely opened unto them.`
 About one month after this, John Forbes is requested on behalf of Friends,
 to look out for some more convenient place for the congregation
 who assemble at his house every First day,
-one half of their number not being able, it is said, to gain admittance.
+_one half_ of their number not being able, it is said, to gain admittance.

@@ -1,22 +1,19 @@
 == Chapter VII.
 
-1673: The magistrates make a second application to the king`'s council,
-and the "`clergy`" solicit Archbishop Sharpe against the "`Quakers`"
-proclamation against house and field conventicles--1674:
-Friends are forcibly put out of their meetinghouse--Thomas
-Dockery taken from prayer to prison,
-also William Gellie--Friends are denounced by name as rebels at the market-cross,
-and their personal property declared forfeited to the king--David
-Rait`'s disturbance of them in their meetings;
-his fearful end--1675:
-Conference of Robert Barclay and George Keith with some college students,
-four of whom join the society--1676:
-Declaration relative to conventicles--Thirty-four Friends are imprisoned--They
-are tried by a court of commissioners--Their defence,
-sentence, and treatment--Letter of Isaac Penington--Robert Barclay,
-visiting the churches, on his return from Holland and Germany,
-petitions the king on behalf of Friends further proceedings
-of the commissioners--Case of John Thompson.
+[.chapter-synopsis]
+* 1673: The magistrates make a second application to the king`'s council, and the "`clergy`" solicit Archbishop Sharpe against the "`Quakers`" proclamation against house and field conventicles
+* 1674: Friends are forcibly put out of their meetinghouse
+* Thomas Dockery taken from prayer to prison, also William Gellie
+* Friends are denounced by name as rebels at the market-cross, and their personal property declared forfeited to the king
+* David Rait`'s disturbance of them in their meetings; his fearful end
+* 1675: Conference of Robert Barclay and George Keith with some college students, four of whom join the society
+* 1676: Declaration relative to conventicles
+* Thirty-four Friends are imprisoned
+* They are tried by a court of commissioners
+* Their defence, sentence, and treatment
+* Letter of Isaac Penington
+* Robert Barclay, visiting the churches, on his return from Holland and Germany, petitions the king on behalf of Friends further proceedings of the commissioners
+* Case of John Thompson
 
 The magistrates of Aberdeen were not discouraged by their
 late unsuccessful attempts against the Society of Friends,
@@ -36,7 +33,7 @@ without attaining their purpose.
 
 This people, however, were not long left unmolested.
 A proclamation had lately been issued from the King`'s
-Council against house or field conventicles,
+Council against _house or field conventicles,_
 with a bond attached, to be subscribed by heads of families and others,
 obliging themselves and those under them not to keep such meetings or be present at them,
 under a penalty.
@@ -61,8 +58,8 @@ as was also William Gellie soon after, for the like offence,
 during nearly the same period.
 The next step taken against Friends,
 in pursuance of the act of Parliament against conventicles, and the order in Council,
-was, to denounce them all by name at the market-cross as rebels against the state,
-and to declare their personal property forfeited to the Kings use.
+was, _to denounce them all by name at the market-cross as rebels against the state,
+and to declare their personal property forfeited to the Kings use._
 It will be supposed, that all reasonable measures were taken by a people so abused,
 to represent their case to those in power,
 as well as to remonstrate with their immediate oppressors.
@@ -82,10 +79,10 @@ by the teachers of religion, must have had a still greater effect.
 The meetings of Friends were, in consequence, not unfrequently attended by those,
 whose minds seemed bent on disturbance and despitefulness.
 It was, doubtless, to this state of things as it then existed in Aberdeen,
-that Robert Barclay alludes in his "`Apology,`" a
+that Robert Barclay alludes in his _Apology,_ a
 quotation from which is given in the Notes.
 +++[+++see Appendix, T.]
-One envious opposer, David Rait, was especially active: for the space of two years,
+One envious opposer, David Rait, was especially active: for the space of _two years,_
 was he in the practice of using all endeavours to interrupt
 them in the hours appropriated for divine worship;
 being usually accompanied and abetted by a number of the college students,
@@ -120,11 +117,11 @@ under which he ended his days.
 On the 14th of the 2nd month, 1675,
 a public conference or dispute was held at Aberdeen
 in the presence of some hundreds of people,
-between Robert Barclay and George Keith on one part, and some students of divinity,
+between Robert Barclay and George Keith on one part, and some students of _divinity,_
 so called, on the other: the occasion of which was this.
 Robert Barclay, with a view of rescuing the Society from the odium under which they lay,
 through gross misrepresentation of their doctrines from the pulpits,
-published his "`Theses,`" which was the ground-work of the "`Apology;`"
+published his _"`Theses,`"_ which was the ground-work of the _Apology;_
 giving a brief and plain account of the principles owned by them,
 that the public might have a fair opportunity of candidly considering the subject.
 At the end of these Propositions, he offered to defend them in those places,
@@ -193,7 +190,7 @@ Whether or not they were guilty according to the indictment;
 David Barclay replied:--That, though it was ordinary,
 for such as were stated under the circumstances it had pleased God to put them,
 to entertain lawyers to plead for them; yet they,
-having the One Advocate with the Father,
+having _the One Advocate with the Father,_
 that would and could plead their innocency in the hearts of all their opposers,
 they might not employ any man to plead for them.
 And, inasmuch as none of them had followed the practice of law, it was desired,
@@ -201,7 +198,7 @@ that no advantage might be taken against them on account of their ignorance of t
 of it;--also that the rigour of it might not be extended towards them,
 if they should be found transgressors,
 (which they hoped to make appear was not the case,) there being a maxim, owned by all,
-that Summum jus is summa injuria.
+that _Summum jus is summa injuria._
 He further added, That the prisoners were most unjustly charged,
 with having kept three meetings in the week since the 1st month, 1674;
 whereas several of them had been, in that time, beyond the sea, others in England,
@@ -213,7 +210,7 @@ That they were not to be their own accusers.
 It was said, This could be proved by witnesses; to which David Barclay said, He expected,
 that, according to law, equity, and reason, he might except against these.
 Upon this, several college students were called in, against whom David Barclay objected,
-that they were socii criminis, having themselves joined in keeping such meetings;
+that they were _socii criminis,_ having themselves joined in keeping such meetings;
 and further, that they had lately published a book expressly against the prisoners,
 in the very title page of which,
 they accuse them of blasphemy and treason,--and therefore
@@ -233,8 +230,8 @@ that it was merely out of that duty they owed to God, and in obedience to his co
 that they dare not forsake the assembling of themselves together in his name,
 and not out of any contempt of those in authority.
 "`And if for this,`" continues the document, "`the Lord should permit us to suffer,
-we trust he will furnish us with such a measure of resignation of all that we have,
-to his disposing, that we shall not count any thing too dear,
+we trust he will furnish us with such a measure of _resignation of all that we have,
+to his disposing,_ that we shall not _count any thing too dear,_
 when it comes in competition with His honour and our duty to Him.
 But, we shall not wish any in present authority to be instruments thereof,
 seeing the Lord hath said to his people, '`He that toucheth you,
@@ -257,8 +254,8 @@ and the rest twenty merks apiece.
 And, over and above, John Skene and George Keith,
 because they were "`found to have preached and prayed at
 these unwarrantable meetings,`" were "`to find caution,
-under the pain of five thousand merks, not to do the like hereafter,
-or else to enact themselves to remove out of the kingdom,`" agreeable to the act of
+under the pain of five thousand merks, __not to do the like hereafter,
+or else to enact themselves to remove out of the kingdom,__`" agreeable to the act of
 Parliament.--This John Skene is thus described by Proud in his History of Pennsylvania,
 introduction, p. 160. "`John Skene was a person of great service and integrity,
 both in his religious and civil conduct; he was near two years Governor of West Jersey,
@@ -294,8 +291,13 @@ remarkable strain of sympathetic and encouraging communication,
 coming from so tried a servant of the Lord as Isaac Penington,
 and meeting them after they had completed their fourth month of imprisonment.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 For my dear suffering Friends in Scotland.
 
+[.salutation]
 Dear Friends and Brethren,
 
 Who have partaken of the tender mercy and blessed visitation of the Lord.
@@ -370,9 +372,13 @@ whose breathings are to God for you, and his praises unto Him,
 through the sense of His being with you, and daily showing mercy to you,
 upholding and preserving you in the midst of your sore trials and afflictions.
 
+[.signed-section-signature]
 Isaac Penington.
 
+[.signed-section-context-close]
 London, 5th of 5th month, 1676.
+
+--
 
 Robert Barclay was at this time engaged from home,
 in visiting his friends and the churches of Christ as a minister,
@@ -383,12 +389,11 @@ nothing is preserved as to the particulars of this journey on the continent.
 In the course of it, he commenced acquaintance with Elizabeth,
 Princess Palatine of the Rhine, who was distantly related to his mother,
 and with her he had some satisfactory opportunity of conference on religious subjects.
-The publication of his "`Apology`" this year, which was printed in Latin at Amsterdam,
+The publication of his _Apology_ this year, which was printed in Latin at Amsterdam,
 may very probably have formed a part of his engagement abroad;
 and it is more than conjectural, as his biographer intimates,
 that on his return by way of London,
-the author presented his book to Charles the 2nd. See the
-"`Short Account of R. B`'s Life and Writings,`" 1802, p. 31.
+the author presented his book to Charles the 2nd. See the [.book-title]#Short Account of R. B`'s Life and Writings,# 1802, p. 31.
 To the credit of the King, he took no offence at the Christian freedom,
 used by Robert Barclay in his well-known address to him, prefixed to that work, which,
 for its manly style, religious boldness, yet decent respect, has been much admired.
@@ -399,8 +404,11 @@ honoured father and other Friends in Scotland;
 upon which, beginning to have some interest at court, and access to the King`'s presence,
 he delivered into his own hands the following petition on their behalf.
 
-The State of the Case of the People called Quakers in Scotland,
-presented unto the King`'s consideration.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== The State of the Case of the People called Quakers in Scotland, presented unto the King`'s consideration.
 
 The Council of Scotland having about three months ago emitted a declaration,
 to reinforce former acts of Parliament against conventicles,
@@ -422,18 +430,28 @@ from such as are said to have abused the Indulgence;
 with some present relief to those harmless sufferers, to prevent that utter ruin, which,
 in all probability, will attend so many of them, that live by their honour and trade.
 
+[.signed-section-signature]
 R+++.+++ Barclay.
+
+--
 
 The King`'s secretary, the Duke of Lauderdale,
 was thereupon instructed to underwrite a favourable reference of the matter,
 which was done in these words:
 
+[.embedded-content-document]
+--
+
 His Majesty is graciously pleased to refer this paper to the right
 honourable the Lords of his Majesty`'s Privy Council in Scotland.
 
+[.signed-section-signature]
 Lauderdale.
 
+[.signed-section-context-close]
 Whitehall, August 7th, 1676.
+
+--
 
 In a collection of manuscript correspondence, belonging to Colchester Monthly Meeting,
 is an original letter of Robert Barclay, addressed to Stephen Crisp,
@@ -509,7 +527,7 @@ and submission which becometh Christians.`"
 The Earl of Errol then addressed himself to the other Commissioners, "`My Lords,
 "`if ye have any more to say than I have said, ye may speak it.`"
 Upon this, the Earl Marischall remarked,
-"`They plead themselves not guilty of seditious conventicles,
+"`They plead themselves _not guilty_ of seditious conventicles,
 as would seem by what that young man spoke,
 whereas the law concludes their very meetings seditious.`"
 Alexander Skene replied, That they could not help all the constructions of that kind,
@@ -522,13 +540,13 @@ you will not give bond.`"
 To which John Skene answered, "`Let never that day dawn,
 in which we shall be so unfaithful to the Lord! but if any should prove so,
 let neither the King nor his Council trust that man;
-for he that is not faithful to the Lord,
-will never be faithful to his King and country.`"
+__for he that is not faithful to the Lord,
+will never be faithful to his King and country.__`"
 
 The prisoners being ordered to remove, as they were withdrawing,
 the Earl of Errol said again to Alexander Gellie,
 That the Quakers`' loyalty was a qualified loyalty.
-Alexander replied, That he did not understand that to be loyalty,
+Alexander replied, That he did not understand _that_ to be loyalty,
 which was not qualified with the fear of God, and by obedience to him rather than man.
 
 After some hours,

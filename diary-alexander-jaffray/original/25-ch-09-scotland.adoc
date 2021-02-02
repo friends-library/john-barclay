@@ -1,20 +1,21 @@
 == Chapter IX.
 
-1676:
-Further seizures and imprisonments--Letter of Gavine Laurie to Friends--George Gray
-and Alexander Seaton`'s treatment at Old Meldrum--Case of Alexander Chalmers and wife--1677:
-Alexander Burnett, bailie,
-endeavours to incense the commissioners against Friends--To
-prevent the prisoners from preaching,
-their prison windows are closed up--Some of them are removed to a place called the Chapel,
-others from the lower to the higher prison--Their situation and
-hard usage--a friend of the prisoners addresses the provost.
+[.chapter-synopsis]
+* 1676: Further seizures and imprisonments
+* Letter of Gavine Laurie to Friends
+* George Gray and Alexander Seaton`'s treatment at Old Meldrum
+* Case of Alexander Chalmers and wife
+* 1677: Alexander Burnett, bailie, endeavours to incense the commissioners against Friends
+* To prevent the prisoners from preaching, their prison windows are closed up
+* Some of them are removed to a place called the Chapel, others from the lower to the higher prison
+* Their situation and hard usage
+* A friend of the prisoners addresses the provost
 
 But Melvill had not yet finished his work in making seizures;
 some further instances of which may be mentioned, as tending,
 in connection with what has gone before, to set forth the persecuting spirit of that day,
 when our predecessors had, at a rate thus dear,
-to pay for even attempting to worship their God in
+to pay for even _attempting_ to worship their God in
 the way of his leading.--From George Grey,
 a poor weaver, for a fine of twenty merks, were taken cattle and goods worth £28,
 besides linen, which the soldiers privately stole and carried off.
@@ -44,10 +45,16 @@ While thus situated,
 the prisoners were saluted with the succeeding effusion
 of gospel love from a brother at a distance.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Keith, Robert Barclay, and the rest of Friends.
 
+[.signed-section-context-open]
 11th of 12th Month, 1676.
 
+[.salutation]
 Dear Friends,
 
 Your letter some time since I saw, which was read at London in the meeting,
@@ -79,9 +86,9 @@ My soul is united with you in the one bundle of life, and in this I feel your st
 here I can lie down and even rejoice with you in your bonds!
 Many a blessed night and day have I felt, when the body hath been in bonds;
 and I know the same Life is with you.
-That fountain is but one, and your refreshings are from it.
+_That_ fountain is but one, and your refreshings are from it.
 This gives patience to wait, until he say to the winds and storms,
-and foaming boisterous sea, '`Be still:`'--for he will not let his people be overwhelmed.
+and foaming boisterous sea, _'`Be still:`'_--for he will not let his people be overwhelmed.
 
 And it is in my heart, that the Lord hath a day of breaking through, yet more and more,
 in that nation.
@@ -113,7 +120,7 @@ how God`'s power hath broke forth amongst you in prison,
 and how the glory of the Lord hath filled your vessels!--no news was so welcome to me;--yea,
 I have tasted of that joy with you.
 
-Dear Friends, I could write much; but I know God`'s presence is your all,
+Dear Friends, I could write much; but I know God`'s presence is _your all,_
 and is beyond all words:--only, that you may feel my joy in the Lord for you,
 and may feel my love to you all, who are the faithful sufferers for his Truth.
 Yea, dear Friends, I could lie down with you in your bonds,
@@ -121,18 +128,21 @@ if it were the will of my Father; and I wait till it may be his will that I see 
 
 Friends were refreshed in reading your letter,--yea, it was gladness to them.
 We are well here.
-God`'s Truth prospers, and that is the joy of our hearts,
+God`'s Truth prospers, and _that_ is the joy of our hearts,
 when we see the gathering to the Lord`'s standard,
 and when many are inquiring the way to Zion with their faces thitherward.
 
 So, the Lord God of my life preserve you all in faithfulness to him forever,
 who am your brother in the same Truth,
 
+[.signed-section-signature]
 Gavine Lawrie.
+
+--
 
 This individual, whose name is also sometimes written, Gawen Laurie,
 was a merchant of London, possibly residing in Hertfordshire, where,
-it appears by Besse`'s "`Sufferings of Friends,`" he underwent distraint on his property;
+it appears by Besse`'s [.book-title]#Sufferings of Friends,# he underwent distraint on his property;
 but some years after the date of this letter, Robert Barclay,
 when chosen governor of East Jersey, North America,
 appointed him deputy-governor of the province,
@@ -197,7 +207,7 @@ The Commissioners, willing to put a stop to such supposed danger,
 gave him an order to remove Patrick Livingston, George Keith, Robert Barclay, John Skene,
 and Andrew Jaffray to a place out of the town, called the Chapel,
 where the commissary courts used to sit,
-and where they thought the prisoners might have better accommodation.
+and where _they_ thought the prisoners might have better accommodation.
 With this order the provost and bailie were by no means well pleased; and,
 their aim being rather to incommode than to alleviate,
 they were not very forward to execute it.
@@ -250,8 +260,7 @@ his name eminent in the religious world;
 and, it may not be un-instructive to add,
 many of whose numerous descendants are now surrounded with
 most of the accommodations which opulence can bestow,
-and with much more than the simplicity of the Christian life requires.`"
-R+++.+++ Barclay`'s Life, p. 36.
+and with much more than the simplicity of the Christian life requires.`" [.book-title]#R+++.+++ Barclay`'s Life,# p. 36.
 
 But the case of those confined in the higher prison at the Tolbooth was yet more grievous.
 They were so straitened for room, that they could not lay their beds,
@@ -265,7 +274,7 @@ how deplorable must have been the condition of men thus confined,
 and for so long a period.
 Every night were they locked up in two rooms for the space of fifteen hours,
 nor had they for several days together such attention paid them as even decency requires.
-While they lay in this miserable state, eight others of their brethren,
+While they lay in this miserable state, _eight_ others of their brethren,
 taken at their religious meetings, were added to their number, namely, Alexander Skene,
 (the same that had formerly been a magistrate,) Robert Burnett of Lethentie,
 Alexander Gellie, John Forbes of Aquorthies, John Robertson, Robert Sandilands,
@@ -279,10 +288,10 @@ applied to the magistrates to prevent their death,
 of which the physicians actually declared them to be in danger.
 With this view, they sued for their removal into the great room of the Chapel;
 but the provost and bailie Burnett would not admit it, the latter saying,
-He would pack them like salmon in a barrel,
+_He would pack them like salmon in a barrel,
 and though they stood as close as the fingers on his hands,
 yet they should have no more room; and that if they had not room in the chambers,
-they might lie on the stairs:--the passage of which stairs was so narrow,
+they might lie on the stairs:_--the passage of which stairs was so narrow,
 that one person could hardly pass another.
 
 At length, a friend of the prisoners, under a great concern,
@@ -291,8 +300,13 @@ as showing,
 that the prisoners or their friends were not wanting in the Christian
 duty of warning and rebuking unjust and cruel rulers.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Provost of Aberdeen.
 
+[.salutation]
 Provost!
 
 The King of kings, who is Lord both over thee and me, hath laid it upon me,
@@ -307,11 +321,11 @@ whom one day thou wilt see he owns,
 and to whom he will give a better kingdom than an earthly one.
 But because thou art not willing to see and acknowledge them such,
 what I am to lay before thee shall be,
-laying aside that part of the difference betwixt us, Whether they be, or be not,
-the people of the Lord: for it is beyond doubt to me,
+laying aside that part of the difference betwixt us, _Whether they be, or be not,
+the people of the Lord:_ for it is beyond doubt to me,
 the Lord having made me to see they are his,
 and joined my heart unto them and their testimony; and thou, it seems,
-art not yet come to begin the question in good earnest, From whence are they come?
+art not yet come to begin the question in good earnest, _From whence are they come?_
 
 Thy hard thoughts and hard speeches of them are beside the law,
 wherewith thou defendest some of thy actions,
@@ -321,7 +335,7 @@ that for these and all other deeds done in the body thou must give
 an account,--and thou wilt find thy need of forgiveness;
 but how canst thou seek or expect it, if thou be void of mercy to any?
 Albeit there were of us that had wronged thee, what do we owe thee?
-But a few pence in comparison of what thou owest the Lord.
+But a _few pence_ in comparison of what thou owest the Lord.
 And wilt thou fulfill our Lord`'s parable in plain deeds, to imprison cruelly,
 and beyond thy superior`'s orders, for thy own private offence?
 Verily, though before this time much had been forgiven thee,
@@ -342,7 +356,7 @@ If thou think, thereby thou art executing justice, and actest righteously,
 because they walk contrary to thy will, mind what the wise man said,
 '`Be not righteous overmuch, nor make thyself over-wise:
 why shouldst thou destroy thyself?`' Why should it offend thee,
-that they preach repentance and remission of sins by believing in Christ near,
+that they preach repentance and remission of sins by believing in Christ _near,_
 to a multitude of poor wicked people?
 Can you think worse of them than some formerly really were,
 who preached Christ out of envy,
@@ -353,9 +367,11 @@ And that they cry aloud from a prison-window, and lift up their voices like a tr
 is it an injury to thee, or matter of offence justly given?
 Or canst thou allege, God or man will lay that practice of theirs to thy charge?
 So that, upon no account, needest thou to be afraid or offended, to suffer them,
-when they are willing for Christ`'s sake to run all hazards,
+when _they_ are willing for Christ`'s sake to run all hazards,
 and be lightly esteemed among men.
 It is far less for thee to bear it.
 Therefore leave them to their Master, to whom they must stand or fall,
 that so thou mayst give up thy charge and account with approbation of the Lord,
 whose favour will be of use, when that of all men will fail.
+
+--

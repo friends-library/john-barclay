@@ -1,20 +1,17 @@
 == Chapter XI.
 
-1677: Pretence,
-that the "`Quakers`" were Popishly affected--The
-king`'s commissioners grant them present relief:
-some of the prisoners obtain their liberty,
-others are removed to Banff--Previous to this, Friends address the council,
-and Robert Barclay writes to Archbishop Sharpe--Misunderstanding
-between the magistrates of Aberdeen and the under-sheriff--Disgraceful
-affair among the instigators of persecution--John Forbes,
-deputy-sheriff, and the magistrates of Banff,
-treat the prisoners with great civility--Aberdeen
-prison for a short interval cleared of Friends.
+[.chapter-synopsis]
+* 1677: Pretence, that the "`Quakers`" were Popishly affected
+* The king`'s commissioners grant them present relief: some of the prisoners obtain their liberty, others are removed to Banff
+* Previous to this, Friends address the council, and Robert Barclay writes to Archbishop Sharpe
+* Misunderstanding between the magistrates of Aberdeen and the under-sheriff
+* Disgraceful affair among the instigators of persecution
+* John Forbes, deputy-sheriff, and the magistrates of Banff, treat the prisoners with great civility
+* Aberdeen prison for a short interval cleared of Friends
 
 One of the chief pretences, which the public preachers and magistrates made use of,
 to palliate their unjustifiable treatment of the people called Quakers, was,
-that they were Popishly affected,
+that they were _Popishly affected,_
 and advancers of the interests of the Church of Rome:--a
 pretence altogether false and groundless.
 At the same time,
@@ -46,10 +43,10 @@ under the idle pretext, that they had not room for their better accommodation.
 But, many persons appearing on behalf of the prisoners,
 and representing the cruelty of their confinement,
 the Commissioners resolved to afford them some present relief; and thereupon decreed,
-That, considering the extraordinary trouble sustained by the magistrates and burgh of Aberdeen,
+That, _considering the extraordinary trouble sustained by the magistrates and burgh of Aberdeen,
 through the many Quaker conventicles held in the Tolbooth,
 and that others have been urged to throw themselves into the snare of imprisonment,
-for the purpose of molestation,--the following persons be
+for the purpose of molestation,_--the following persons be
 removed from there to the Tolbooth of the burgh of Banff,
 till further orders; namely, Robert Barclay, George Keith, Patrick Livingston,
 John Skene, James Halliday, Thomas Mercer, John Lesk, John Cowie, and Thomas Milne.
@@ -88,9 +85,14 @@ had expostulated with him in a very plain and forcible letter,
 full of "`sound wisdom and discretion.`"
 The address and letter are as follow.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 Unto The King`'s Council, the suffering People of God, called Quakers,
 in and about Aberdeen,
 
+[.salutation]
 Shows,
 
 That albeit the nature of our known principles,
@@ -118,15 +120,15 @@ to dispose of us in some other place;--upon pretence that their
 courthouse could not be spared longer for a prison for us,
 notwithstanding they have an empty place where they could,
 and others of them would have secured us;--yet, by a certain malicious barbarity,
-shameful to be named among Christians, they have thronged up fifteen of us in two narrow,
+shameful to be named among Christians, _they have thronged up fifteen of us in two narrow,
 stinking holes,
 where each of us have not so much room as could not be denied us in the graveyard,
-and so are forced to lie one above another with boxes, notwithstanding the vault below,
+and so are forced to lie one above another with boxes,_ notwithstanding the vault below,
 and not water-tight; and others of us they have put in a cold, dark,
 narrow place within the town.
 
 May it therefore please the King`'s Council,
-seriously to weigh and consider our condition, who have been now above a year in prison,
+seriously to weigh and consider our condition, who have been now _above a year_ in prison,
 and order our release: leaving to the magistrates of this place,
 to inform the Council of what they have or can say against our peaceableness,
 to make use of the pretence of law to execute their
@@ -143,6 +145,12 @@ according to the wisdom and justice becoming their station,
 will comply with this our most reasonable desire,
 as such who regard equity without respect of persons.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Sharpe, Archbishop of St. Andrews (so called.)
 
 My being personally unknown to you, has hindered me to give way to that pressure of mind,
@@ -199,7 +207,7 @@ But should you now be found a positive persecutor of such,
 against whom nothing of that kind, neither from principle nor practice, can be alleged,
 but only the simple exercise of their conscience; would not that give plentiful occasion,
 for such as desire to represent your other actions with the worst aspect, to show,
-(whatever you pretend of the State`'s security,) yet you are a persecutor of pure conscience,
+(whatever you pretend of the State`'s security,) yet you are a persecutor of _pure conscience,_
 since you show yourself such towards those, against whom the former reason does not hold?
 
 And surely, it would seem,
@@ -233,7 +241,7 @@ shall never be able to make us doubt of, or make us depart from that living,
 precious Truth, that God in his mercy has revealed to us,
 and by us is embraced:--nor yet fright us from the public profession of it;--yes,
 though we should be pursued to death itself, which, by the grace of God,
-we hope cheerfully to undergo for the same: and we doubt not,
+we hope _cheerfully_ to undergo for the same: and we doubt not,
 but God would out of our ashes raise witnesses,
 who should outlive all the violence and cruelty of man.
 And albeit you should yourself be most inexorable and violent towards us,
@@ -251,9 +259,13 @@ than the violent assaults or secret assassinations of your other antagonists.
 That you may prevent both the one and the other, by a Christian moderation,
 suitable to the office you lay claim to, is the desire of your soul`'s well-wisher,
 
+[.signed-section-signature]
 R+++.+++ Barclay.
 
+[.signed-section-context-close]
 From the Chapel Prison of Aberdeen, the 26th of the 1st month, 1677.
+
+--
 
 It is more than probable, that both these documents had weight with that body,
 of which Sharpe was so prominent a member.
@@ -275,7 +287,7 @@ and each party entered formal protests at law against the neglect of the other.
 Under these circumstances,
 when neither of the contending parties would accept the disposal of the prisoners,
 Robert Barclay and five of his companions went before a notary and protested,
-that they were freemen, and should pass away about their lawful occasions.
+that _they were freemen, and should pass away about their lawful occasions._
 
 Most of those who by this means obtained their liberty, went away to Edinburgh,
 that they might do their utmost to procure the enlargement or relief of their brethren,
@@ -312,9 +324,9 @@ This public rebuke was highly resented as a great
 indignity to those termed the clergy in general,
 several of whom wrote to the King`'s Council expressly about it,
 representing the Quakers in prison as so insolent and abusive,
-that a clergyman could not quietly pass the streets for them.
+_that a clergyman could not quietly pass the streets for them._
 The magistrates also wrote largely to the Archbishop,
-earnestly requesting his assistance "`in suppressing the Quakers.`"
+earnestly requesting his assistance _"`in suppressing the Quakers.`"_
 Thus, by a joint concurrence of the Commissioners, the magistrates of Aberdeen,
 the Synod of ministers, and the Archbishop,
 the cause of the innocent sufferers was obstructed;
@@ -366,8 +378,8 @@ the provost had no longer in his custody those,
 against whom his prejudice and indignation chiefly burned: that he might, therefore,
 appear to have some generosity and feeling towards the poorer class,
 he came to the conclusion, that,
-as the greater ones among the "`Quakers`" had all escaped,
-he would let go the smaller ones.
+_as the greater ones among the "`Quakers`" had all escaped,
+he would let go the smaller ones._
 They were nine in number; and among them, is the name of poor George Gray, the weaver,
 who has been before noticed as an example in patient suffering.
 Accordingly, on the 23rd of the 3rd month, 1677,

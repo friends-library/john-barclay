@@ -1,13 +1,13 @@
 == Chapter XIII.
 
-Lilias Skene`'s expostulatory letter to Robert Macquare--1677:Robert
-Barclay`'s second journey to Holland and Germany:
-his letter to the Princess Elizabeth--Continuance of persecution during the space
-of two years and a half-reflections--Constancy of Patrick Livingston--1678:
-He, with George Gray,
-and Andrew Jaffray are thrust up into the iron house--The favour and providence
-of God towards the sufferers--Archbishop Sharpe`'s end,
-with the removal by death or otherwise of the most active persecutors.
+[.chapter-synopsis]
+* Lilias Skene`'s expostulatory letter to Robert Macquare
+* 1677:Robert Barclay`'s second journey to Holland and Germany: his letter to the Princess Elizabeth
+* Continuance of persecution during the space of two years and a half-reflections
+* Constancy of Patrick Livingston
+* 1678: He, with George Gray, and Andrew Jaffray are thrust up into the iron house
+* The favour and providence of God towards the sufferers
+* Archbishop Sharpe`'s end, with the removal by death or otherwise of the most active persecutors
 
 An early portion of these Memoirs has been appropriated
 to an Exhortation from the pen of Alexander Jaffray;
@@ -71,10 +71,16 @@ which he wrote to the Princess soon after his return to England,--that
 the painful subject of the persecution of his fellow-countrymen,
 did not cease to lie very near his own heart, and that of his valuable correspondent.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Robert Barclay to the Princess Elizabeth.
 
+[.signed-section-context-open]
 Theobald`'s, near London, 12th of the 7th Month, 1677.
 
+[.salutation]
 Dear Friend,
 
 By thy letter of the last of the month past,
@@ -117,7 +123,7 @@ to hear that any came into that universal obedience,
 which the life and power thereof lead to: which life and power,
 as they are felt in the inward part,
 are more than all the words that can be spoken;--of which, I know,
-thou hast at some times not been insensible.
+_thou_ hast at some times not been insensible.
 And therefore my soul`'s desire for thee is,
 that thou mayst more and more come out of all that which cumbers,
 to feel this virtue of Truth to operate in,
@@ -140,7 +146,10 @@ If thou seest meet to salute that counsellor of the Elector in my name, thou may
 
 I shall add no more at present, but that I am thy real and unfeigned friend,
 
+[.signed-section-signature]
 Robert Barclay.
+
+--
 
 One or two circumstances occurring in the above letter,
 are briefly adverted to in the Notes, to which the reader is referred.
@@ -159,24 +168,24 @@ to which allusion is made in the foregoing.
 There is, however, no reason to doubt, it was delivered to the Duke of Lauderdale,
 on Robert Barclay`'s arrival in Scotland.
 The Memoirs of the family, indeed, state in general terms,
-that the release of both the father and son took place "`by an order from court,
-with a reprimand for meddling with either of them;`" and that the "`son afterward
-procured the liberation of his other friends who were detained after them.`"
+that the release of both the father and son took place _"`by an order from court,
+with a reprimand for meddling with either of them;`"_ and that _the "`son afterward
+procured the liberation of his other friends who were detained after them.`"_
 It is presumed,
 this must be understood of the above-mentioned imprisonment
 of David Barclay and others in the course of this year:
-but it does not expressly appear, how soon Robert`'s lot was cast among the prisoners,
-after his return home, nor when his release, with that of his father, was effected.
+but it does not expressly appear, _how soon_ Robert`'s lot was cast among the prisoners,
+after his return home, nor _when_ his release, with that of his father, was effected.
 
 It may here be briefly named, that about two years subsequently,
 he journeyed a third time on the Continent.
 His engagements in this instance are but little known,
-beyond the circumstance of his having proceeded by way of London to Holland,
+beyond the circumstance of his having proceeded _by way of London to Holland,_
 "`upon account of visiting and acting for his friends;`" also that at Rotterdam,
 he again addressed the Princess by letter,
-"`excusing himself for not seeing her at that time;`" "`a
-copy of which,`" continues his grandson in the Memoirs,
-"`I have.`"
+"`excusing himself for not seeing her at that time;`" _"`a
+copy of which,`"_ continues his grandson in the Memoirs,
+_"`I have.`"_
 
 In the ancient record which has furnished a chief groundwork for the present
 historical account of this persecution of a Christian people,
@@ -189,7 +198,7 @@ We are only informed, in general terms, of the continuance of the scene,
 which has been largely opened before us in former pages;
 the like treatment being dealt out to the sufferers,
 and by them received in a similar spirit,
-during the protracted space of about two years and a half; that is,
+_during the protracted space of about two years and a half;_ that is,
 from the date of their last-mentioned commitment in the 4th month, 1677.
 
 But, perhaps, enough has been said in proof of that assertion,
@@ -200,8 +209,8 @@ who have been led and guided by his Spirit.`"
 Enough, also, has been already brought forward,
 in illustration of the cruel and vindictive character of an earthly or "`carnal
 mind,`" proving this to be at once "`enmity against God`" and all goodness;
-and showing, as the Scripture imports, that he who is born after the flesh,
-will ever be disposed to persecute him that is born after the Spirit.
+and showing, as the Scripture imports, that he who is _born after the flesh,_
+will ever be disposed to persecute him that is _born after the Spirit._
 Yet might it have proved interesting,
 to have known more minutely the history of this interval; a period,
 which was probably marked, in the remembrance of the sufferers,
@@ -231,7 +240,7 @@ as will appear by reference to a small portion of the rough outline traced by th
 where, in a summary and general way,
 they wind up the ancient memoir of their troubles to its close.
 
-Extract--"`And it is never to be forgotten, but worthy everlastingly to be recorded,
+__Extract--__"`And it is never to be forgotten, but worthy everlastingly to be recorded,
 how wonderfully and gloriously '`the Lord from heaven`' countenanced and owned our sufferings,
 by the signal pouring forth of his Holy Spirit and power among us,
 beyond whatever we had formerly known, for our encouragement in our trials,
@@ -272,8 +281,8 @@ he stood in the relation of "`a faithful minister in the Lord,`" having been the
 of gathering their souls to the inward appearance and "`patient waiting for Christ.`"
 So sensible of this, were those who vehemently sought to lay waste this testimony,
 and so troubled at his unwearied and unyielding zeal,
-that they would several times let him go forth from among his companions in custody,
-or miss some meeting he was known to be at; and,
+that they would several times _let him go forth_ from among his companions in custody,
+or _miss_ some meeting he was known to be at; and,
 being conscious how they had wronged him,
 would have been glad of some means of being disencumbered of him,
 could they have effected this with credit to themselves.
@@ -300,12 +309,12 @@ This practice was highly displeasing to the magistrates.
 They therefore sought to prevent it,
 by causing these three individuals to be separated from the rest of their companions,
 and violently thrust up into a close vaulted cell, situated on the top of the jail,
-and called the Iron-house, where the worst of felons and murderers were usually confined.
+and called the _Iron-house,_ where the worst of felons and murderers were usually confined.
 They had neither light nor air, except through a long hole in the thick wall,
 which had a double grating of iron on the outside, and another within.
 Here they were kept night and day, in the heat of the summer of 1678;
 when the filthiness of the place, and the corruption of the air so closely pent up,
-produced "`a multitude of worms, called white maggots, and other vermin,
+produced "`a multitude of worms, called _white maggots, and other vermin,_
 which swarmed about,
 even upon their beds and victuals,`" and manifestly tended
 to the extreme danger of their health and lives.
@@ -315,10 +324,10 @@ and "`their very natural voices strengthened, and raised up as trumpets,
 mightily to sound forth God`'s glorious truth and power,
 through the said hole in the wall;--and though four or five stories high,
 and double grated as aforesaid,
-so that their faces could not win near to see into the street below,
+so that their faces could not _win_ near to see into the street below,
 yet were they distinctly heard all over the street
 by the people,`" who the more frequently got together.
-After seven weeks`' continuance under the pressure
+After _seven weeks`'_ continuance under the pressure
 of these aggravated circumstances of cruelty,
 the persecutors, not finding their end answered,
 but rather that their endeavours to prevent the prisoners from preaching,
@@ -346,9 +355,9 @@ of these unchristian proceedings against this body,
 would appear to be, the persevering efforts of one of their number, Robert Barclay,
 who possessed great interest with the Duke of York, afterward James the 2nd. For,
 in an Address to the King, soon after his accession to the throne,
-drawn up and presented by this Friend on behalf of the Society in Scotland,--he
+drawn up and presented by this Friend on behalf of the Society in Scotland,--__he
 attributes the opening of their prison doors in the year 1679,
-to the influence of King James (when Duke of York) with the government of that country.
+to the influence of King James (when Duke of York) with the government of that country.__
 
 It was a settled observation among this people, as they strongly testify,
 that during their deepest sufferings at Aberdeen,
@@ -364,16 +373,16 @@ was made subservient to the spreading of that doctrine,
 which it had been the design of such to crush.
 For, during this persecution, their appointed meetings in that city,
 were not only held at the usual times, but greatly increased in the number of attendants.
-The women, whose husbands were so frequently shut up in prison, failed not,
-with their children, to draw together for the worship of the Almighty,
+The _women,_ whose husbands were so frequently shut up in prison, failed not,
+_with their children,_ to draw together for the worship of the Almighty,
 at the stated seasons and in the accustomed places;
 so that the unflinching constancy of these,
 with the accession of other persons out of the country,
 and the returning of the prisoners as soon and as often as they were released,
 disappointed thus far the intentions of the magistrates,
-who were unable to prevent the holding of any one
+_who were unable to prevent the holding of any one
 of the public assemblies of the people called Quakers,
-during the whole course of the persecution.
+during the whole course of the persecution._
 
 While this conscientious class of protesting Christians,
 felt themselves in duty bound passively to submit to what might
@@ -387,7 +396,7 @@ who will not allow any to be tried beyond what he knows is best,
 should be pleased to cut short their trials, and in effect to say, "`It is enough.`"
 There was no people, who had better claim to those words of the Psalmist, Psal.
 xxxi.
-"`My times are in thy hand:`"--for their all was surrendered up unto his sovereign disposal.
+"`My times are in thy hand:`"--for their _all_ was surrendered up unto his sovereign disposal.
 There was no people, whom that language more fitly became,
 which was first uttered by King David, in the same Psalm, and afterward by David`'s Lord,
 "`Into thine hands I commit +++[+++or commend]
@@ -419,9 +428,9 @@ and the hairy scalp of such an one as goeth on still in his trespasses.`"
 
 But to whom do these remarks apply?
 Most certainly, in a primary and prominent sense, though not by any means exclusively,
-to him whose character the voice of history has indelibly stamped,
+to _him_ whose character the voice of history has indelibly stamped,
 as "`the most unprincipled man of his day,`"--the Archbishop Sharpe,--to him,
-who added this to the black catalogue of those things, which, it cannot be doubted,
+who added _this_ to the black catalogue of those things, which, it cannot be doubted,
 were registered against him by the just Judge of all the earth,--that
 he fought against God and those who meekly feared him,
 against those who loved their very enemies, and purely sought the good of all.
@@ -429,15 +438,15 @@ against those who loved their very enemies, and purely sought the good of all.
 The Friends of Aberdeen testify of him,
 that he "`was the very chief and principal instrument of all our sufferings,
 by his power in the Council:`" and the same document states,
-that he was one of those who procured that Commission to be appointed,
+that he was one of those who procured _that Commission_ to be appointed,
 by whom the Friends were so unjustly censured;
 and that he himself spoke very pressingly to some of the members of it,
-to endeavour to root out the Quakers.
+_to endeavour to root out the Quakers._
 Indeed, it was signified to some of the Friends, as they say,
 "`by those who well knew it,
-that it was only he who stopped any favourable answer
+_that it was only he_ who stopped any favourable answer
 from being given by the Council to our bills;
-and that if he would lie by, they would undoubtedly be well answered.`"
+and that if he would _lie by,_ they would undoubtedly be well answered.`"
 It will not be forgotten, that to him were addressed, upwards of two years before,
 those faithful, weighty words of warning, contained in a letter of Robert Barclay,
 before recorded, but worthy of being here repeated.--"`So, the God of truth,
@@ -446,8 +455,8 @@ whom we serve with our spirits in the gospel of his Son, and to whom vengeance b
 +++[+++in case thou should prove inexorable towards us;]
 whose dreadful judgments should be more terrible unto thee,
 and much more justly to be feared,
-than the violent assaults or secret assassinations of thy other antagonists.
-That thou mayst prevent both the one and the other,
+than _the violent assaults or secret assassinations_ of thy _other antagonists._
+That thou mayst prevent _both the one and the other,_
 by a Christian moderation suitable to the office thou layest claim to,
 is the desire of thy souls well-wisher, R. Barclay.`"
 
@@ -460,7 +469,7 @@ nor approved but abhorred`" the act and the spirit of it.--It is presumed,
 that the reader will scarcely need to be informed, that, in the 3rd month, 1679,
 the Archbishop Sharpe was waylaid by some of the Presbyterians,
 as he passed in his coach and six, and inhumanly assassinated,
-his murderers calling him an apostate, a betrayer, and a persecutor.
+his murderers calling him _an apostate, a betrayer, and a persecutor._
 
 The three public preachers of Aberdeen, Meldrum, Menzies, and Mitchell,
 who had so furiously and maliciously set themselves against Friends,
@@ -484,21 +493,21 @@ A further evidence of the Lord`'s tender care over his little ones in this distr
 appeared in the case of the Laird of Haddo; who, being made Chancellor,
 and "`lending an ear to the wicked lies that were
 fabricated to the prejudice of the Society,
-set himself against that stumbling-stone and rock of offence laid in Zion,
+set himself against that _stumbling-stone and rock of offence laid in Zion,_
 the lowly appearance of Jesus Christ in the heart.`"
 Being violent in the King`'s Council, on one occasion,
 together with the Bishop of Aberdeen,
-to have the meetinghouse that Friends had built at Kinmuck pulled down,
-and their school destroyed;
+_to have the meetinghouse that Friends had built at Kinmuck pulled down,
+and their school destroyed;_
 he found the more moderate of his colleagues were averse to the measure.
 For they said, It was against law to pull down a dwelling fire-house, as it was termed;
 and if one Quaker meetinghouse was pulled down,
 it behooved them to pull down every Quaker dwelling-house also;
-for as long as they had one, they would meet in it.
+_for as long as they had one, they would meet in it._
 Upon this; it is credibly stated, on certain information, that he said,
-He would not trouble more, but do it with his own authority.
+_He would not trouble more, but do it with his own authority._
 "`After this,`" proceeds the manuscript, "`within a very short time, our God, who says,
-They that dishonour me shall be lightly esteemed, stirred up a faction against him,
+_They that dishonour me shall be lightly esteemed,_ stirred up a faction against him,
 who got him, not without disgrace, to be displaced from his office,
 having been in it scarcely two years.`"
 

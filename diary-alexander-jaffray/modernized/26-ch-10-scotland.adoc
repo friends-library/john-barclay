@@ -1,9 +1,8 @@
 == Chapter X.
 
-1677:
-Lilias Skene`'s warning to the magistrates and inhabitants of Aberdeen--Consolatory
-letters to the prisoners from William Penn,
-Richard Rae, and Hector Allane.
+[.chapter-synopsis]
+* 1677: Lilias Skene`'s warning to the magistrates and inhabitants of Aberdeen
+* Consolatory letters to the prisoners from William Penn, Richard Rae, and Hector Allane.
 
 About this time, Lilias Skene,
 whose husband Alexander Skene with others had been then recently incarcerated,
@@ -18,8 +17,11 @@ it appears, she was especially versed in these writings,
 and had much improved in her understanding and application of them,
 by obeying the dictates of the Spirit of Christ.
 
-A warning to the Magistrates and Inhabitants of Aberdeen,
-written the 31st of the 1st month, 1677.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A warning to the Magistrates and Inhabitants of Aberdeen, written the 31st of the 1st month, 1677.
 
 At several times, and in diverse manners,
 I have witnessed against the will-worship and blind
@@ -27,7 +29,7 @@ obedience of the inhabitants of this city,
 since the Lord opened my eyes, and drew me out of that fearful pit.
 So, at this season, I am moved in the same zeal for the Truth,
 and compassion towards your souls, Magistrates, Preachers, and People,
-to bear an open testimony against the spirit of persecution,
+to bear an open testimony against the _spirit of persecution,_
 whereunto you are now arrived in such a measure,
 as does exceed the bounds of humanity and the severity of your predecessors.
 
@@ -41,7 +43,7 @@ though you keep your hands free from the blood of the innocent people,
 who suffer for conscience-sake.
 
 O consider!
-If the righteous scarcely be saved, where will the ungodly and unmerciful sinner appear?
+_If the righteous scarcely be saved, where will the ungodly and unmerciful sinner appear?_
 What favour or mercy you have shown to particular persons,
 has not been done unto them as friends of God,
 but that you might appear to be men not wholly void of gratitude or natural affection,
@@ -73,8 +75,8 @@ the Lord is observing who are doing thus, and who is not.
 Neither will it excuse you, that your ministers informed you,
 such men were seducers of the people, and therefore enemies, not friends to God;
 and that your ministers strengthened your hands,
-by accounting it nobility in magistrates to curb error.
-These hills and mountains will not cover you:--they will need coverings for themselves,
+by accounting it _nobility_ in magistrates to curb error.
+These hills and mountains will not cover you:--__they__ will need coverings for themselves,
 if they obtain not mercy to repent and reform.
 
 But not all that you say, or that you act against the Lord`'s work and witnesses,
@@ -90,15 +92,15 @@ and has caused us to feel rough hands from civil authority,
 especially during these last thirteen months.
 But, glory be unto God forever! the faithful and obedient are
 enabled to put their seal to Christ`'s faithful word,
-In the world you shall have trouble, but in me you have peace.
+_In the world you shall have trouble, but in me you have peace._
 I have seen in the light of the Lord,
 this day of trial is come for the fall and for the rise of many in this place,
-and our testimony for the Truth is as a sign spoken against; yes,
+and our testimony for the Truth is _as a sign spoken against;_ yes,
 the sharpest sufferings the seed has met with, or shall meet with, are permitted,
-that the thoughts of many hearts may be revealed, both among you and among us.
+_that the thoughts of many hearts may be revealed,_ both among you and among us.
 
 Wherefore, I beseech you, love your own souls; harden not your hearts from God`'s fear;
-neither despise this warning,--the Lord having sent one, as from the dead, to warn you;
+neither despise this warning,--the Lord having sent one, _as from the dead,_ to warn you;
 though you have the testimony of Moses and the prophets among you,
 which whosoever will not hear, there is little ground of hope,
 such will hear other testimonies, how true soever.
@@ -136,15 +138,15 @@ are not grieved for the afflictions of Joseph?
 O consider these few instances, with many more such! and say not in your hearts,
 as those atheists recorded in Scripture,
 '`All things continue as they were at the beginning,`' and '`Where
-is the promise of his coming?`' Death and judgment will come,
+is the promise of his coming?`' Death and judgment _will_ come,
 and it may be before long; but though it should not hastily, yet remember,
-in the Lord`'s account, a thousand years are but as one day.
+in the Lord`'s account, _a thousand years are but as one day._
 Moreover, there is another Scripture, which has weightily arisen in my heart,
 as applicable to Aberdeen, Jer. 51:1. '`Thus says the Lord; Behold,
 I will raise up against Babylon,
 and against them that dwell in the midst of them that rise up against me,
 a destroying wind,`' etc.
-My desire is, you may not be behind,
+My desire is, you may not be _behind,_
 with that generation whom John the Baptist addressed,
 who were forewarned to flee from the wrath to come.
 
@@ -154,11 +156,14 @@ I hope the Lord shall enable me to bear what he may permit you to do towards me 
 even with that patience which becomes a disciple of the crucified Jesus, and,
 nevertheless, to remain your souls`' well-wisher,
 
+[.signed-section-signature]
 Lilias Skene.
 
-While some of this faithful band thus pleaded with the oppressors,
+--
+
+While some of this faithful band thus pleaded with the _oppressors,_
 others of their number, at a distance from the spot,
-were brought near in spirit to the oppressed; and deeply sympathizing,
+were brought near in spirit to the _oppressed;_ and deeply sympathizing,
 endeavoured to animate and console them, their language in effect reviving,
 as well as sealing the assurance of an Apostle formerly,
 "`But and if you suffer for righteousness sake, happy are you;
@@ -171,8 +176,13 @@ It does not bear a date;
 but the circumstances indicate with sufficient precision
 where it should obtain a place in this simple chronicle.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Brethren imprisoned at Aberdeen for the testimony of Jesus.
 
+[.salutation]
 Dear Brethren!
 
 Salvation and peace by Jesus Christ, the Light of the world, our eternal, glorious Day,
@@ -192,8 +202,8 @@ and great will their reward be from the Lord, that fly not in this winter time,
 nor on this sabbath day.
 
 I feel an immortal spring of pure life rising among you; and can say,
-I am with you in spirit, and behold the aurora of the day of the Lord over Scotland.
-My Brethren, all, be scattered unto and settled in your own,
+I am with you in spirit, and behold the _aurora_ of the day of the Lord over Scotland.
+My Brethren, all, be scattered unto and settled in _your own,_
 and wait for the feeling of the power of the Lord, that subjects all to him;
 then wait for the signification of that power: let none quench the Spirit,
 nor miss of the Spirit`'s mind; that you may now grow spiritual soldiers, expert,
@@ -239,7 +249,10 @@ and fellow travellers in the narrow way that leads to the eternal rest,
 concludes this epistle, from your faithful,
 sympathizing Friend and Brother in the tribulation and patience of the kingdom of Jesus,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 Two other epistolary communications are also recorded,
 as being about this time welcomed by those,
@@ -249,6 +262,10 @@ in good measure to purify their "`souls in obeying the Truth,
 through the Spirit, unto unfeigned love of the brethren.`" 1 Peter 1:22.
 The first of them is as follows.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Edinburgh, 16th of 11th month, 1676.
 
 Dearly beloved Friends in and about Aberdeen, and especially you that are in bonds,
@@ -257,13 +274,13 @@ As you keep innocent and blameless before God, and honour continually so to do,
 and look back and read in your hearts the ground and cause for which you suffer,
 it will minister joy and soul-satisfaction unto you.
 For it ever did so to me: I bless my God, outward imprisonment was never a prison to me;
-though I suffered near two years together in Edinburgh,
-and was never a quarter of an hour all that time from under their fingers;
-being deprived of the enjoyment of all good Friends, and was cast among thieves,
-and robbers, and murderers,--such unclean spirits,
+though I suffered _near two years together_ in Edinburgh,
+_and was never a quarter of an hour all that time from under their fingers;_
+being deprived of the enjoyment of _all good Friends,_ and was cast among _thieves,
+and robbers, and murderers,_--such unclean spirits,
 as I never yet did see worse upon the earth.
-And, as I remember, for the space of two months and upwards,
-I could not say there was one quiet hour either by night or day;--and
+And, as I remember, _for the space of two months and upwards,
+I could not say there was one quiet hour either by night or day;_--and
 this fell to my lot even in the time of my weakness.
 Then, the consideration what I suffered for, did still minister satisfaction unto me;
 for I could take the Lord to record,
@@ -272,8 +289,8 @@ the remembrance of which caused my inward man exceedingly to rejoice.
 And so, blessed forever be the God of my salvation, that caused me,
 in his love which '`is stronger than death,`' to rejoice over all my sufferings!
 Thus, in this love of God, I reigned over all my enemies; and though in prison,
-yet was I a freeman, for '`where the Spirit of the Lord is,
-there is liberty.`' And my sufferings were even joyous unto me, but never grievous;
+yet was I a _freeman,_ for '`where the Spirit of the Lord is,
+there is liberty.`' And my sufferings were even _joyous_ unto me, but never _grievous;_
 for the Lord revealed it unto me,
 that it was a more honourable crown than all the crowns of the whole creation,
 to be a sufferer for the Truth of God!
@@ -282,10 +299,10 @@ then he raised me up above all,
 and gave me strength to press forward towards the mark for the prize of our high calling.
 
 And now, my dear Friends, be faithful, noble,
-and valiant for the Truth upon the earth! for you may bless the day,
+and valiant for the Truth upon the earth! _for you may bless the day,
 that ever you were born, who are called unto such a blessed calling,
-as to suffer for the testimony of a good conscience.
-So, my dear Friends, keep your testimony, for it is your life.
+as to suffer for the testimony of a good conscience._
+So, my dear Friends, _keep your testimony, for it is your life._
 
 And now, my dear Friends, I beseech you, keep in innocency,
 and commit your cause unto the just God,
@@ -294,7 +311,10 @@ Therefore, my dear Friends, love your enemies, and pray for them, and entreat th
 that he may open their eyes, if it be his blessed will,
 and convince them of the evil of their doings.
 
+[.signed-section-signature]
 Richard Rae.
+
+--
 
 It will be readily perceived, that the foregoing production came from the pen of one,
 very differently qualified, in respect both to education and natural endowment,
@@ -306,7 +326,7 @@ preacher;`" being also the individual who,
 earlier than any other of that people, tasted imprisonment at Aberdeen,
 where he had come in the love of the gospel to visit his brethren.
 It is not by any means improbable, that the following circumstance,
-named by Robert Barclay in his "`Apology,`" may have allusion to this Friend: namely,
+named by Robert Barclay in his [.book-title]#Apology,# may have allusion to this Friend: namely,
 That he knew a poor shoemaker, not able to read a word,
 who was taken before a magistrate of a city,
 for preaching to some few that came to hear him; when,
@@ -316,7 +336,7 @@ the poor man still maintained,
 that the Spirit of God never said such a thing as the other affirmed:
 a Bible was brought, and it was found to be as the illiterate shoemaker had said.
 Should the reader be of the number of those, who can believe with William Penn himself,
-that from among the shoemakers, mechanics, and husbandmen may be,
+that from among the _shoemakers, mechanics,_ and _husbandmen_ may be,
 and once were called forth, "`our best preachers;`" and with Robert Barclay,
 that "`the Spirit and grace of God can make up the lack of literature
 in the most rustic and ignorant;`" he will be likely no less to
@@ -345,13 +365,18 @@ This subject is beautifully touched upon in the next letter,
 addressed to the same party; and which afresh discovers,
 how this people watched over each other for good, and by love served one another.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Leith, 3rd of 11th month, 1676.
 
+[.salutation]
 Dear Friends,
 
 In the sense of that Life, which visited me in the beginning,
 am I drawn forth to write unto you,
-who are now stayed for the blessed testimony of our God.
+who are now _stayed_ for the blessed testimony of our God.
 I know the Lord is with you, and his everlasting arm is near,
 and underneath to uphold you in this great trial, +++[+++even He]
 who has not failed to prepare you for this honourable service.
@@ -364,18 +389,18 @@ to all eternity.
 
 Friends! feel the everlasting Life,
 and drink of the living springs that proceed therefrom, which God has opened unto you:
-this is your reward at the hand of the Lord; let your minds be stayed in that,
+_this_ is your reward at the hand of the Lord; let your minds be stayed in _that,_
 and you are over all that the devil and his instruments may do unto you.
 Look not out, neither be weary in well-doing,
 and your deliverance will come in the Lord`'s season.
-He that has wrought your soul`'s deliverance,
+He that has wrought your _soul`'s_ deliverance,
 is not unmindful of you that are faithful unto him.
 But if any draw back, they will lose their reward, and the Lord will be provoked.
 
 So, dear Brethren, encourage one another in the Lord: and you that are strong,
 (whom the Lord has made so,) help the weak, and bear with them,
 and travail one with and for another, in the spirit of love and meekness;
-and have a high esteem of, and respect unto, the weakest member for the Head`'s sake,
+_and have a high esteem of, and respect unto, the weakest member for the Head`'s sake,_
 Christ Jesus our Lord, who shed his blood for all,
 and is near unto you to behold your conduct inwardly and outwardly.
 Grieve him not, nor oppress his seed in one another;
@@ -389,10 +414,13 @@ they that have laid down their heads in our Father`'s bosom, repent not,
 that they have suffered these things for Christ`'s sake.
 
 So, in the love of our God, have I written these few things unto you,
-my dearly beloved Friends; in this let us dwell together,
+my dearly beloved Friends; in _this_ let us dwell together,
 and we are sure our dwelling is in God, whatever the world may say.
 And to Him that is able to keep you, both in soul and body,
 both in your inward and outward afflictions and temptations, I leave you,
 who is God only wise and powerful, blessed forever! "`From your Friend and Brother,
 
+[.signed-section-signature]
 Hector Allane.
+
+--

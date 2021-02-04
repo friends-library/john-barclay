@@ -1,16 +1,16 @@
 == Chapter XVIII.
 
-1699: Visit and epistle of Samuel Watson to Friends in Scotland--1723:
-Memoirs of Alexander Seaton, Robert Scott, and David Wallace;
-Also some account of Christian Barclay and her family.
+[.chapter-synopsis]
+* 1699: Visit and epistle of Samuel Watson to Friends in Scotland
+* 1723: Memoirs of Alexander Seaton, Robert Scott, and David Wallace; Also some account of Christian Barclay and her family
 
 The preceding chapter has carried forward to the close of the 17th century,
 these memorials of the faithfulness of a covenant-keeping God towards a little remnant,
 who had made a covenant with him by sacrifice.
-They had embraced that law in the inward parts, to which the Prophet Jeremiah,
+They had embraced _that law in the inward parts,_ to which the Prophet Jeremiah,
 when describing the new covenant dispensation,
-makes allusion,--"`the law of the spirit of life in Christ
-Jesus,`" who remains the blessed Mediator of it.
+makes allusion,--__"`the law of the spirit of life in Christ
+Jesus,`"__ who remains the blessed Mediator of it.
 While a people thus separated unto God, abide true to him,
 while their heart is right in his sight,
 while they continue steadfast in his covenant of light and life,
@@ -34,10 +34,16 @@ neighbourhood,--witnessed the first breaking forth of that heavenly faith and ze
 which was remarkable among the precursors of this people; he was well qualified,
 sensibly to perceive any departure from the purity and strength of primitive days.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Samuel Watson to Friends in Scotland.
 
+[.signed-section-context-open]
 Hamilton, 29th of 5th month, 1699.
 
+[.salutation]
 My dear Friends in Scotland!
 
 The Lord of the whole earth hath drawn me, out of my own country,
@@ -150,14 +156,17 @@ who hath made us partakers of his grace, wherein, while keeping in obedience,
 we feel a being bound up in the bundle of divine love, never to be separated.
 In which love I salute you all, and take my leave of you.
 
+[.signed-section-signature]
 Samuel Watson.
+
+--
 
 While we may, with some feeling of instruction and delight,
 be allowed to dwell upon or cling to such evidence,
 as that which the above document affords us, of the favourable condition of a church,
 professing to be guided by the Spirit of Christ; we must, still,
-prepare for and accept the unwelcome intelligence,--that these scenes in their brightness,
-did not long continue.
+prepare for and accept the unwelcome intelligence,--that _these scenes in their brightness,
+did not long continue._
 Another century was opening--and opening alike upon the ardent, hopeful,
 generous spirit of youth,
 as upon the ripening graces of "`the ancient and honourable;`"--these
@@ -177,7 +186,7 @@ that he did for Israel.--And there arose another generation after them,
 which knew not the Lord, nor yet the works which he had done for Israel.`" Judges 2:10-7.
 
 A worthy, living remnant has indeed been hitherto preserved among the Society of Friends,
-even in these districts, where their principles were so boldly, so nobly maintained,
+even _in these districts,_ where their principles were so boldly, so nobly maintained,
 though they be only as "`gleaning grapes,`"--"`two or three
 berries in the top of the uppermost bough`"--so "`few,
 that a child may write them.`"
@@ -192,7 +201,7 @@ from one generation to another, the Lord has freely dealt out to them,
 among those that fear him,--it must be admitted, they have too generally, by no means,
 been that "`willing people,`" which "`the day of his power`" would have made them,--a
 people "`watching at his posts,`" waiting to hear his gracious will respecting them,
-and remembering his commandments to do them.--May the awful
+and remembering his commandments _to do them._--May the awful
 "`song of the Beloved touching his vineyard,`" Isa. 5:50,
 etc. never be pronounced upon them!
 
@@ -227,7 +236,7 @@ and disapprove the students`',
 as false in many things.--Alexander Seaton.`"--While we are given to understand,
 that the bright example set before him in his relations, Alexander Forbes and wife,
 under whose roof he lodged while attending college,
-had previously had some favourable effect on his mind; yet,
+had _previously_ had some favourable effect on his mind; yet,
 it is clear by the above language,
 he was by no means prepared to acknowledge the religious views of Friends,
 until after this public exposition of them had taken place.
@@ -239,7 +248,7 @@ which shortly after became his portion,
 only served to enlarge his experience of the power and goodness of God towards him.
 Being thrust into Aberdeen jail, he was soon called upon, it is said,
 in rather a remarkable manner, publicly to give testimony by the word of exhortation,
-to that which had wrought so effectually in him.
+to _that_ which had wrought so effectually in him.
 He is represented to have been a sincere and weighty man,
 of good understanding and solid judgment; a faithful, zealous,
 and sound minister of Jesus Christ;
@@ -247,8 +256,8 @@ especially exemplary in humility and lowliness of mind,
 living in peace and unity with his friends, well esteemed likewise among his neighbours.
 He used daily to devote some part of his time to religious retirement; and,
 although a scholar, was not much known to be such in his public ministrations,
-valuing that learning but little in comparison of the cross
-of Christ and the operation of his Holy Spirit.
+valuing that learning but little in comparison of _the cross
+of Christ and the operation of his Holy Spirit._
 After his marriage, from a sense of duty, he removed to Glasgow,
 where the few Friends in that city were undergoing some sharp trial,
 as well by abuses from the magistrates, as from the rude rabble.
@@ -284,7 +293,7 @@ Some Friends coming before meeting to visit him, he observed, "`Job was hard put
 and his friends were all mistaken, in that they did not believe,
 that the Lord did afflict man without a sinful cause.`"
 His wife persuading him to take something, lest he should faint, he cheerfully consented,
-saying, "`Let me try to eat one bit with my friends;`" but turning the case, added,
+saying, "`Let me try to eat _one bit_ with my friends;`" but turning the case, added,
 "`Christ said,
 Labour for the bread that perisheth not--but nourisheth
 up to eternal life.--Praises wait for the Lord in Zion:
@@ -302,7 +311,7 @@ and +++[+++to]
 bring them to a lasting eternity, where there is joy forevermore`"--and then,
 turning to his wife, he applied the foregoing language to her,
 by very briefly intimating that, having such precious promises, she, in particular,
-had great occasion to be content under the divine appointments.
+had great occasion _to be content_ under the divine appointments.
 At another season, having got some rest in sleep, he queried, "`Why am I kept here?
 Let me go home--Lord! receive my spirit,--I recommend my soul +++[+++to thee]--receive
 me into thy everlasting kingdom and the mansion thou showedst me.`"
@@ -320,17 +329,20 @@ therefore be content and resigned to the will of the Lord.`"
 Some little time before his decease, several Friends who had been at meeting,
 coming in to see him, after a season of silence, and one present had spoken a few words,
 Alexander, being very much broken into tears, said,
-"`It is the invisible power that supports under affliction: Moses endured,
+"`It is _the invisible power_ that supports under affliction: Moses endured,
 as seeing him that is invisible.`'`" Several Friends belonging to Lurgan, Ballindery,
 and Lisburn meetings visiting him, in his extreme weakness, his wife asked him,
 if he knew them?
-he replied, "`I do very well; but it is a trouble to me to speak: but all is well,
-and will be everlastingly well.`"
+he replied, "`I do very well; but it is a trouble to me to speak: __but all is well,
+and will be everlastingly well.__`"
 
 His distemper was tedious, and at times exceedingly painful,
 but he was preserved in resignation to the last, and in great peace and quietness,
 yielded up his earthly being, it is concluded in exchange for an endless inheritance,
 on the 23rd of the 1st month, being about 71 years of age.
+
+[.small-break]
+'''
 
 Robert Scott was convinced of the Truth, as held by this Christian people, at Montrose,
 the place of his nativity, where he several times suffered imprisonment;
@@ -342,21 +354,21 @@ Afterward, he settled at Stonehaven: here, it is stated, that the public preache
 in like manner as at Montrose, began persecuting him,
 with a view of inducing him to remove away from the spot.
 But, by the judicious counsel of David Barclay, he was induced to stay,
-and to endeavour to live down, or wear out so very unworthy a disposition.
+and to endeavour _to live down,_ or wear out so very unworthy a disposition.
 This he most completely effected,
 by patient continuance in peaceable and upright conduct: for,
 betaking himself to merchandizing, by honest dealing and blameless conversation,
 his influence won upon his neighbours, and actually prevailed even over his opposers,
-so that most of those called clergy round the country sent to him for goods;
+so that most of those called clergy round the country sent _to him_ for goods;
 and the Lord blessed his endeavours with such success,
 that he was reckoned one of the best traders in the place.
 Yet was he not in any wise puffed up, but abode in humility,
 thankful to the Giver of every good gift, and often praising him for his mercies.
 He was a great lover of the assemblies of the Lord`'s children and people; often,
 in the throng of business,
-leaving all to attend the meetings held in the middle of the week,
-and would frequently remark, that he never lost, but often gained by this practice,
-saying, these meetings were made to him the best of any.
+_leaving all_ to attend the meetings held in the middle of the week,
+and would frequently remark, _that he never lost, but often gained by this practice,_
+saying, _these meetings were made to him the best of any._
 After his wife`'s death, advancing in years, he wisely retired from business;
 and his only son also dying,
 he was kindly cared for by a daughter-in-law to the end of his days.
@@ -382,10 +394,13 @@ with a clear and audible voice,
 he presented his supplications unto him who had been with him all his life long,
 greatly to the tendering of the hearts of those present, both Friends and others.
 After which, in a fervent manner, he several times recommended his own soul to God,
-desiring him to finish that great work of gathering his soul; for he could do nothing,
-but "`stand still and see`" or "`wait for his salvation.`"
+__desiring him to finish that great work of gathering his soul; for he could do nothing,
+but "`stand still and see`" or "`wait for his salvation.__`"
 Then, with clasped hands and uplifted eyes,
 calling upon the Lord to take his spirit to himself, he yielded it up to Him who gave it.
+
+[.small-break]
+'''
 
 David Wallace was also of Stonehaven, being born in the year 1660 of honest parents;
 his father was a farmer in the parish of Arbuthnot, some miles from thence.
@@ -400,9 +415,9 @@ and at length went with them to one of their meetings, which gave him some comfo
 A Friend in the ministry afterward visiting Ury,
 he was also inclined to be at that meeting,
 where his mind was thoroughly reached by the power of the Lord,
-and he became persuaded these were the people with whom he could have fellowship,
-and that this was for him the pathway to peace.
-On his return home that night, he appeared to his parents to be a changed man;
+and he became persuaded _these_ were the people with whom he could have fellowship,
+and that _this_ was for him the pathway to peace.
+On his return home that night, he appeared to his parents to be a _changed man;_
 but they were mightily troubled at the circumstance.
 David Wallace had his companions in this straight and narrow way of self-denial,
 though few of them faithfully stood their ground in it,
@@ -418,7 +433,7 @@ David Wallace, in particular, came forward steadily,
 in all things standing by that cause, which he had thus conscientiously taken up.
 Endued with good abilities, he had also a deep judgment in spiritual things,
 and his memory in Scripture was so remarkable, that he was termed by some,
-the Concordance, being commonly able to give chapter and verse to most passages.
+_the Concordance,_ being commonly able to give chapter and verse to most passages.
 In the place where he lived, Stonehaven,
 he was a useful character among his neighbours in their town concerns;
 but towards the church to which he belonged, he was serviceable in many respects,
@@ -436,6 +451,9 @@ In this happy state of mind, resigning his own soul,
 also his wife and children to the care and protection of the Almighty,
 he quietly passed away, on the 4th of the 6th month, being 63 years of age.
 
+[.small-break]
+'''
+
 Of the next individual, Christian Barclay, no additional particulars have come to hand,
 beyond the instructive document, which was issued after her decease,
 by those who could best estimate the value of her character.
@@ -443,7 +461,7 @@ An abstract of the principal parts of it,
 are here subjoined.--Her mind was remarkably turned
 to religious considerations from her youth,
 publicly embracing the testimony of Truth, in the love of it,
-about the 16th year of her age, and that, through many hardships and sufferings;
+about the 16th year of her age, and that, _through many hardships and sufferings;_
 in this path she all along steadfastly trod, giving evidence both by doctrine,
 and by an example becoming the gospel, of her great concern for its prosperity.
 She was a well accomplished woman every way, and of singular virtues;
@@ -470,7 +488,7 @@ The bright influence of her example had great effect upon her children and grand
 eight or ten of whom she usually had at a time under her roof;
 and she was permitted to see the Divine approbation and blessing,
 remarkably crown her endeavours on their behalf.
-But her efforts and exercises, not confined here, were directed for the good of all;
+But her efforts and exercises, not confined here, were directed _for the good of all;_
 especially for the church--that no slackness or unconcern might be entertained,
 and that every one professing Christ,
 might use all diligence to make their calling and election sure.

@@ -399,6 +399,8 @@ It is prepared from documents,
 put forth by those contemporaries of Robert Barclay who knew him well,
 and appears in the pages of [.book-title]#A Short Account of His Life and Writings.#
 
+[quote]
+____
 He was distinguished by strong mental powers, particularly by great penetration,
 and a sound and accurate judgment.
 His talents were much improved by a regular and classical education.
@@ -452,3 +454,4 @@ most wisely and happily improved it.
 He lived long enough to manifest, in an eminent degree,
 the temper and conduct of a Christian,
 and the virtues and qualifications of a true minister of the gospel.
+____

@@ -1,31 +1,32 @@
 == Chapter XV.
 
-1690:
-Religious progress and latter end of Robert Barclay--Letter
-of George Fox to his widow--His character.
+[.chapter-synopsis]
+* 1690: Religious progress and latter end of Robert Barclay
+* Letter of George Fox to his widow
+* His character
 
 But the loss which the Friends in this part of the country sustained,
 by the removal of such men as George Gray and David Barclay, was not all;
-it was quickly followed, and without doubt exceeded by the death of one,
+it was quickly followed, and without doubt _exceeded_ by the death of _one,_
 whom they and the Society at large were bound in a more than ordinary manner to esteem,
 as "`worthy of double honour.`"
 "`Surprising,`" says William Penn, "`was the death of dear Robert Barclay,
-to me particularly, from the share I claimed in him, and the esteem I had for him:
+_to me particularly,_ from the share I claimed in him, and the esteem I had for him:
 but that which gave weight to my sorrow,
 was the loss which thereby comes to the church of God, and especially in Scotland.
-That he lived no longer,
+That _he_ lived no longer,
 who was so well fitted to live for the service and honour of the Truth,
 and the good of God`'s people, must render his death more afflicting to all those,
-who desire to be reckoned among this number.`"--"`O Friends!`" continues the same writer,
-"`if precious in the eyes of the Lord be the death of his saints,
-ought not their honours and death to be precious to the Lord`'s people?`"
+who desire to be reckoned among this number.`"--__"`O Friends!`"__ continues the same writer,
+_"`if precious in the eyes of the Lord be the death of his saints,
+ought not their honours and death to be precious to the Lord`'s people?`"_
 
 But before touching upon his close,
 we must take a view,--such a superficial view as the existing documents
 oblige us to take,--of those transactions which throw light upon
 the religious progress of this "`prince in Israel,`" 2 Sam. 3:38,
 during the last ten years of his pilgrimage.
-Hitherto his course has been that of the Christian advocate, strenuous and firm,
+Hitherto his course has been that of _the Christian advocate,_ strenuous and firm,
 yet tender and discreet, in all his services for the cause in which he engaged;
 meek and patient also, under those numerous provocations which were poured upon him.
 But the days of public persecution being now over, as regards the Friends in Scotland,
@@ -33,11 +34,11 @@ and the principles they uniformly held becoming better understood by the public,
 we do not find that fresh occasions presented for such laborious exercises as those,
 in which Robert Barclay had been hitherto involved
 for the defence and spreading of the gospel.
-The same voice, which had sounded an alarm in the ear of his soul,
+_The same voice,_ which had sounded an alarm in the ear of his soul,
 which had girded him for this description of warfare and put him forth in it,
 many a time giving him the victory through our Lord Jesus Christ,
 doubtless conveyed to his submissive spirit a release from the field of controversy.
-It was this, which now led him in a line of duty, less conspicuous indeed,
+It was _this,_ which now led him in a line of duty, less conspicuous indeed,
 and less accounted of by men,
 but in its place and season no less acceptable in the sight of God.
 Not that it was the easeful, inert, instinctive observance of such duty,
@@ -95,7 +96,7 @@ owing to his death while on the voyage, was not permitted to take effect.
 
 The little incident, well known to readers among the Society of Friends,
 of Robert Barclay`'s rencounter with highwaymen, on his way back to Scotland from London,
-in 1683, will not by them be expected to be passed over,
+in 1683, will not _by them_ be expected to be passed over,
 in these recollections of his life and conduct.
 His grandson`'s own account, now before the Author, may at least be fresh to every one.
 
@@ -106,7 +107,7 @@ were traveling homeward in company together,
 they were upon the 8th of August attacked in Stonegatehole, in Huntingdonshire,
 by highwaymen.
 One of them presented a pistol to my grandfather; he took him by the arm very calmly,
-asking him how he came to be so rude--for he knew his business.
+asking him _how he came to be so rude_--for he knew his business.
 The fellow, trembling, dropt the pistol out of his hand upon the ground,
 in great surprise, and did not so much as demand any thing.
 But his brother-in-law was riffled, and poor Sonemans was shot through the thigh,
@@ -114,9 +115,9 @@ But his brother-in-law was riffled, and poor Sonemans was shot through the thigh
 who being with some difficulty brought to Stilton, died in a few days of the wound.
 I had the above accounts from my grandmother,
 who likewise told me that she observed my grandfather,
-that morning before they were attacked, more pensive than usual; and that he told her,
+that morning before they were attacked, _more pensive than usual;_ and that he told her,
 it was his opinion, some unusual trial or exercise was to befall them that day;
-but when the affair happened, he enjoyed a remarkable serenity.`"
+but when the affair happened, __he enjoyed a remarkable serenity.__`"
 
 He was again in London in the year 1685, and also in 1687; the latter time,
 very much in compliance with the pressing solicitations of Friends,
@@ -126,6 +127,10 @@ while it will serve as a standing testimonial of their love,
 and of the sense which they had of Robert Barclay`'s
 usefulness in serving the cause he had espoused.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend, R. B.,
 
 Now the occasion of my writing unto thee at this time is,--that Friends are very sensible
@@ -144,9 +149,13 @@ more than I shall speak of at this time;--and so I hope the Lord
 will incline thy heart to weigh and consider thy service in it.
 And so, once more, with my love,
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Edmonton, 19th of the 5th month, 1686.
+
+--
 
 The death of his worthy parent, David Barclay, before recited,
 and that of a sister soon after, with the various concerns that would, in consequence,
@@ -170,7 +179,7 @@ induce them to wish, that the degree of ease which they now enjoyed,
 might rest on a more satisfactory basis.
 Indeed, it is evident by the address,
 which went up to the King this year from the Society at large,
-that they looked for "`such a concurrence from the Parliament, as will,`" they say,
+that they looked for _"`such a concurrence from the Parliament, as will,`"_ they say,
 "`secure it to our posterity.`"
 Whatever might have been the principles of James the 2nd,
 (as the compiler of the Life of Robert Barclay justly observes,) the latter,
@@ -189,8 +198,8 @@ The popular opinion was in favour of the bishops;
 yet the former severities of some of that order against dissenters,
 particularly against Friends, occasioned some reflections on them; which,
 coming to the knowledge of the imprisoned bishops,
-they declared that the Quakers had belied them,
-by reporting that they had been the death of some.
+they declared _that the Quakers had belied them,
+by reporting that they had been the death of some._
 Robert Barclay being informed of this, went to the Tower;
 and gave the bishops a well substantiated account of some,
 who had been detained in prison till death, by order of bishops,
@@ -224,18 +233,18 @@ on account of his father`'s interest, which occasioned numerous dependents.
 
 Though this fact is probably calculated, at first sight, to startle most minds;
 such feeling may be measurably allayed considerations like the following.
-It cannot with reason be said, that in every supposable case,
-this line of conduct in a parent would be altogether unwarrantable or inexpedient.
+It cannot with reason be said, _that in every supposable case,_
+this line of conduct in a parent would be _altogether_ unwarrantable or inexpedient.
 Yet, it is freely admitted,
-the present instance should form by no means a warrant
+the present instance should form _by no means_ a warrant
 or precedent for any to venture upon,
-unless under circumstances that may equally bear the weight of the risk and responsibility.
+unless under circumstances that may _equally_ bear the weight of the risk and responsibility.
 It may safely be concluded,
 that Robert Barclay had duly reflected on the subject;--that he
-was fully acquainted with the character and propensities of his
-child,--that he had thoroughly before his view the degree of exposure,
+was _fully_ acquainted with the character and propensities of his
+child,--that he had _thoroughly before his view_ the degree of exposure,
 which, under his own firm and prudent control, was likely to be incurred.
-And further we are assured, that he himself was no novice,
+And further we are assured, that he himself was _no novice,_
 with regard either to the allurements of this present evil world,
 the weakness of the creature, or the wiles of the destroyer.
 On the other hand, few had more occasion to trust in Divine protection and grace,
@@ -244,12 +253,12 @@ It is an interesting appurtenance to the foregoing statement,
 and gives some force to the remarks which follow it,--that when this youth grew up,
 had run his course, and had done with time,
 his friends could in their expressive way testify of him, that,
-even throughout this critical time to which we are precisely referring,
+even _throughout this critical time_ to which we are precisely referring,
 "`his conversation was clean and void of offence:`"--and
 how is this accounted for?--they add,
 in the same sentence,
 that which is the best explanation--"`He may be truly said
-to have remembered his Creator in the days of his youth.`"
+to have __remembered his Creator in the days of his youth.__`"
 
 Previous to quitting London, Robert Barclay had an interview with the King,
 which shall be described in the words of his grandson.--"`At
@@ -258,14 +267,14 @@ for whose apparent misfortunes he was much concerned; having,
 as my grandmother informed me,
 several times discoursed with him upon the posture of affairs at that juncture,
 about settling the differences like to arise;
-and sometimes agreeable resolutions were taken,
-but one way or other prevented from being executed.
+and _sometimes agreeable resolutions were taken,_
+but _one way or other_ prevented from being executed.
 At their parting, being in a window with the King, where none other was present,
-who looking out said, The wind was now fair for the Prince of Orange coming over;
+who looking out said, _The wind was now fair for the Prince of Orange_ coming over;
 upon which my grandfather took occasion to say,
-It was hard that no expedient could be found out to satisfy the people:
-to which the King replied, That he would do any thing becoming a gentleman,
-except to part with liberty of conscience, which he never would while he lived.
+_It was hard that no expedient could be found out to satisfy the people:_
+to which the King replied, _That he would do any thing becoming a gentleman,
+except to part with liberty of conscience, which he never would while he lived._
 
 On his return home,
 Robert Barclay spent the remaining two years of his life in much retirement,
@@ -288,11 +297,11 @@ and Christian frame of mind shone through all.
 With tears, he expressed the love he bore towards "`all faithful brethren in England,
 who keep their integrity to the Truth,`" and added,
 "`Remember my love to Friends in Cumberland, at Swarthmore,
-and to dear George +++[+++meaning George Fox,]
+and to _dear George_ +++[+++meaning George Fox,]
 and to all the faithful everywhere;
 concluding with these comfortable words--"`God is good still:
 and though I am under a great weight of sickness and weakness as to my body,
-yet my peace flows.
+yet _my peace flows._
 And this I know,--that whatever exercises may be permitted to come upon me,
 they shall tend to God`'s glory and my salvation:
 and in that I rest.`"--He died on the 3rd of the 8th month, then called October, 1690,
@@ -308,14 +317,20 @@ of her time;`" and the other from Robert Barclay`'s very especial Friend,
 George Fox, with whom he maintained a frequent correspondence.
 The former may be allowed a place; in the Notes to this volume,
 as an expressive proof of the estimation in which he was held by one of that rank;
-+++[+++see Appendix, BB]; but the latter is too extraordinary an effusion of the ancient,
-evangelical spirit, to be withheld from a prominent place in these pages.
-It proved the last letter, except one, which that worthy ever wrote.
++++[+++see Appendix, BB]; but the latter is too extraordinary an effusion of the _ancient,
+evangelical_ spirit, to be withheld from a prominent place in these pages.
+It proved the _last_ letter, except one, which that worthy ever wrote.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 George Fox to Christian Barclay.
 
+[.signed-section-context-open]
 28th of 10th month, 1690.
 
+[.salutation]
 Dear Friend!
 
 With my love to thee and thy children, and all the rest of Friends in the holy Seed,
@@ -332,54 +347,57 @@ And all the creation is upheld by his Word and power,
 by which they were made;--so that a sparrow cannot fall to the ground
 without his will and pleasure;--and his sons and servants in his image,
 are in greater value in his eye than many sparrows.
-Therefore, thou and thy family may rejoice,
-that thou hadst such an offering to offer up unto the Lord, as thy dear husband; who,
+Therefore, thou and thy family may _rejoice,_
+that thou hadst _such an offering to offer up unto the Lord,_ as thy dear husband; who,
 I know, is well in the Lord, in whom he died, and is at rest from his labours,
 and his works follow him.
 
 And, now, my dear Friend, do thy diligence in thy family,
 in bringing up thy children in the fear of the Lord, and his new covenant of life;
-that thou mayst present them to God as his children, and all thy servants and tenants,
+that thou mayst present them to God _as his children,_ and all thy servants and tenants,
 in the wisdom of God.
-Thou must answer the Truth in them all, in truth, holiness, righteousness, and justice,
+_Thou must answer the Truth in them all,_ in truth, holiness, righteousness, and justice,
 and walking humbly before God.
-Thou wilt always feel his presence to assist,
-and enable thee to perform whatsoever he requires of thee; so that whatever thou dost do,
+_Thou wilt always feel his presence to assist,
+and enable thee to perform whatsoever he requires of thee;_ so that whatever thou dost do,
 it may be to the honour and glory of God.
-And do not look at the outward presence of thy husband; but look at the Lord,
-and serve Him with a joyful heart, mind, soul,
+And _do not look at the outward presence of thy husband;_ but look at the Lord,
+and serve Him _with a joyful heart,_ mind, soul,
 and spirit all the days thou livest upon the earth.
 
 From him, who had a great love and respect for thy dear husband,
 for his work and service in the Lord, who is content in the will of God,
-and all things that he doeth:--and so must thou be.
+and all things that he doeth:--__and so must thou be.__
 And so, the Lord God Almighty,
 settle and establish thee and thine upon the heavenly Rock and Foundation; that,
 as thy children grow in years, they may grow in grace, and so in favour with the Lord.
 Amen!
 
+[.signed-section-signature]
 George Fox.
 
 [.postscript]
 ====
 
 Postscript.--I know thy husband hath left a good savour behind him,
-so I desire thou mayst do the same.
+so I desire _thou mayst do the same._
 
 ====
 
+--
+
 The following faithful delineation of the character of "`this
 worthy young man of God,`" as William Penn styles him,
-may be fresh to many readers; but is worthy the repeated attentive perusal of those,
+may be fresh to many readers; but is worthy the _repeated_ attentive perusal of those,
 who claim connection with the Society of Friends, especially among the younger classes.
 To adopt the language and motives of the same writer, William Penn,
-on the like occasion,--"`For their example and encouragement,`" is this account given,
+on the like occasion,--"`For _their_ example and encouragement,`" is this account given,
 "`who have or hereafter may receive the eternal Truth,
-as well as for a testimony to the power and goodness
-of God in raising him up to his church.`"
+as well as __for a testimony to the power and goodness
+of God in raising him up to his church.__`"
 It is prepared from documents,
 put forth by those contemporaries of Robert Barclay who knew him well,
-and appears in the pages of A Short Account of His Life and Writings.
+and appears in the pages of [.book-title]#A Short Account of His Life and Writings.#
 
 He was distinguished by strong mental powers, particularly by great penetration,
 and a sound and accurate judgment.

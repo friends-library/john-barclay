@@ -1,25 +1,25 @@
 == Chapter XX.
 
-Some observations on the state of the Society of Friends in the present day,
-occasioned by the foregoing history, and the anticipations of their predecessors.
+[.chapter-synopsis]
+* Some observations on the state of the Society of Friends in the present day, occasioned by the foregoing history, and the anticipations of their predecessors
 
 At the opening of these Memoirs, the travels of George Fox in Scotland, in the year 1657,
 were briefly adverted to.
-After describing, in his Journal, the last meeting he had,
+After describing, in his [.book-title]#Journal,# the last meeting he had,
 previous to his return to England,
 this extraordinary comment upon his visit occurs.--"`The
 truth and the power of God was set over that nation;
 and many, by the power and Spirit of God, were turned to the Lord Jesus Christ,
 their Saviour and Teacher, whose blood was shed for them:
-and there is since a great increase,--and great there will be in Scotland,
-though the time may be far distant at present.
+and there is since a great increase,--__and great there will be in Scotland,
+though the time may be far distant at present.__
 For when first I set my horse`'s feet upon Scottish ground,
 I felt the seed of God to sparkle about me, as innumerable sparks of fire.
 Not but that there is abundance of thick, cloddy earth of hypocrisy and falseness atop,
 and a briary, brambly nature, which is to be burned up with God`'s word,
 and ploughed up with his spiritual plough,
-before God`'s seed brings forth heavenly and spiritual fruit to his glory.
-But the husbandman is to wait in patience.`"
+_before God`'s seed brings forth heavenly and spiritual fruit to his glory._
+But the husbandman is __to wait in patience.__`"
 
 Whether those readers, who may be inclined to lay some stress upon such anticipation,
 can see anything like the fulfilment of it, at least in part, in the foregoing history,
@@ -45,14 +45,14 @@ following expressions are made use of.
 had the gift of prophecy;--which strengthens the
 desire and hope the Lord has raised in several,
 in that +++[+++respect, in which]
-he was very positive, namely,--that the Lord would yet again visit this land,
-to the gathering of many to condemn the world, its wisdom, and ways.`"--Besides these,
+he was very positive, namely,--__that the Lord would yet again visit this land,
+to the gathering of many to condemn the world, its wisdom, and ways.__`"--Besides these,
 John Gratton,
 whose visit to his fellow-professors in Scotland has been already described,
 closes his narrative with this encouraging estimate of the prospects,
 as well as actual condition of religious classes
-of the people at large:--"`I hope and believe,
-the Lord will have a great people there, in time to come; though the enemy be angry,
+of the people at large:--__"`I hope and believe,
+the Lord will have a great people there, in time to come;__ though the enemy be angry,
 and would hinder the spreading of the holy Truth; yet, his weapons are but carnal, silly,
 and weak.
 I desire many Friends may think of that nation, and, in the will of God,
@@ -65,7 +65,7 @@ See his Journal, edit.
 Doubtless, such expectations were not unreasonable; they were never entertained,
 neither were such declared assurances ever given forth,
 by any true messengers of the Lord,
-without at least an implied reference to those qualifying conditions,
+without at least an _implied_ reference to those qualifying conditions,
 which must ever attend the distribution of the tokens of Divine favour towards any people.
 
 But, in order somewhat further to clear up, at least so far as the Author may be enabled,
@@ -88,11 +88,11 @@ that if they sustained in faithfulness this testimony committed to them,
 others would in due season be constrained to acknowledge its excellence,
 and gather unto it.
 Accordingly, as long as they followed in simplicity their Leader and Light,
-obeying unreservedly that power in which their faith stood, wonderful,
+obeying _unreservedly_ that power in which their faith stood, wonderful,
 even in the face of all opposition, were the effects of their example and ministry.
-But, when they or their successors in any wise withdrew their necks from the yoke of Christ,
+But, when they or their successors _in any wise_ withdrew their necks from the yoke of Christ,
 allowing anything to stand in competition with his will concerning them,
-and so declining to cleave unto the Lord with full purpose of heart;
+and so declining to cleave unto the Lord _with full purpose of heart;_
 he hid his face from them, and veiled that glory,
 which had indeed been a wall of defence about them, on the right hand and on the left.
 Thus, in proportion as they have at any time cast away the shield of faith in this Divine,
@@ -112,15 +112,15 @@ seemed aforetime to have been entrusted.
 Thus, in the present day, the sentiments held by others of the pious,
 dedicated servants of God, beside the Friends, have undergone a considerable,
 though gradual amelioration;
-the standard of Truth has been more purely exalted through them,
+_the standard of Truth has been more purely exalted through them,_
 although their respective popular creeds and ceremonial usages,
 may remain much as they were in former times;
 they are pressing into the marrow and pith of true
-religion,--the life of Jesus inwardly revealed.
+religion,--__the life of Jesus inwardly revealed.__
 So that, as might be expected, many such are actually, at this day,
 approving and accepting those very decrees, and ordinances, and testimonies,
 which the Spirit of Christ, the Truth,
-led our forefathers to adopt or observe;--and which testimonies, nevertheless,
+led _our_ forefathers to adopt or observe;--and which testimonies, nevertheless,
 are even now, by our own professed friends, oftentimes let fall in our streets,
 and in some danger of being trampled under foot.
 
@@ -128,17 +128,17 @@ What wonder, then, that this precious discovery of spiritual doctrine and practi
 did not prevail among the nations, in that manner and to the full extent,
 which we may imagine the primitive Friends expected?
 Yes, rather, is there not cause of wonder,
-that it should have been thus far admired and owned by others,
+that it should have been _thus far_ admired and owned by others,
 so palpable occasion of stumbling having been, from one generation to another,
 administered within our own borders?
 And how would it have flourished in the earth,
-had this people more generally abode in the Vine of Life,
+had this people more generally _abode in the Vine of Life,_
 as the true spiritual Israel ever do!
 The Lord would have kept these fruitful branches, as his Prophet declares,
 "`night and day,`"--he would have watered them "`every moment:`" then also,
 his ancient promise, in the succeeding verses,
 would have been amply realized--"`He shall cause them that come of Jacob to take root:
-Israel shall blossom and bud, and fill the face of the earth with fruit.`" Isa. 27:3,6.
+Israel shall blossom and bud, __and fill the face of the earth with fruit.__`" Isa. 27:3,6.
 But,
 still more is the infinite long-suffering and unsearchable
 forbearance of the Almighty to be adored,
@@ -156,34 +156,34 @@ is the pathetic language adopted by one of such faithful gospel ministers, who,
 in comparatively recent times, visited the Friends in Scotland,
 from the continent of America.
 "`Although,`" says J. Churchman, "`the descendants and children of Friends,
-who were as bright stars in their day,
+who were as _bright stars_ in their day,
 may value themselves on the worthiness of their parents; yet,
 if they do not love and serve the God of their fathers
 with a perfect heart and an upright mind,
-he will not own them with his heavenly presence, but they will be as unsavoury salt.`"
+he will not own them with his heavenly presence, but they will be as __unsavoury salt.__`"
 See his Journal, Philad.
 edit.
 1818, p. 129. Again, another dedicated minister, Richard Jordan,
 leaves this feeling remark on record.--"`Oh! may the lives and testimonies
 of those eminent instruments and faithful servants of God in their day,
-like the blood of righteous Abel, though dead,
+_like the blood of righteous Abel,_ though dead,
 yet continue so to speak to after generations, and to their own posterity in particular,
-that they may be stirred up to follow them as they followed Christ.`"
+that they may be stirred up __to follow them as they followed Christ.__`"
 And a little further on, he thus speaks of the state of the people more at large.
 "`I may now remark, that in passing along through Scotland,
 it has not felt so dark and distressing to my mind, as in many other places.
 It has seemed to me, that there are many precious souls,
 who are secretly inquiring the way to the Zion of rest;
 but,--oh! for those pastors and teachers, who keep them, as it were,
-in the outward court, and instruct them to look for this rest in something without them,
+in the outward court, and instruct them to look for this rest in something _without them,_
 even in their ceremonies and ordinances.
-But how can it be otherwise, when they themselves have come no further;
+But how can it be otherwise, when _they themselves_ have come no further;
 but are still framing ordinances out of the Scriptures, without the Spirit,
 and without the Life.
 Oh! what running to and fro, to find this rest, what divisions in their churches,
 so called;--yes, divisions, and subdivisions; and none seem to be yet settled.
-How my soul felt for them; and I was not a little confirmed in my mind,
-that a door would be opened, yes, was already opened,
+How my soul felt for them; and _I was not a little confirmed in my mind,
+that a door would be opened,_ yes, was already opened,
 for the true messengers of the gospel to honour profitably in that country;
 if they do but travail deep enough in the Spirit and Life,--which,
 it is the earnest solicitude of my soul, may be the case there,
@@ -194,28 +194,28 @@ that it is disobedience and distrust,
 (the one being very intimately connected with the other,)
 that draw down the Divine displeasure upon a people;
 in accordance with that exhortation of the Prophet in the name of his God, Jer. 7:23.
---"`Obey my voice,`" and then, continues he, "`I will be your God,
-and you shall be my people`"--not else.
+--__"`Obey my voice,`"__ and then, continues he, "`I will be your God,
+and you shall be __my people__`"--not else.
 And says the Apostle Paul, "`Towards you,`" that is, the called of the Lord, "`goodness;
-if you continue in his goodness, otherwise, you also shall be cut off,`" Rom. 11:22;
+if you _continue in his goodness,_ otherwise, _you also_ shall be cut off,`" Rom. 11:22;
 and again, another Apostle utters this awful inquiry,
-"`What shall the end be of those that obey not the gospel of God?`" 1 Peter 4:17.
+"`What shall the end be of those that _obey not_ the gospel of God?`" 1 Peter 4:17.
 
 The Society of Friends, certainly,
 never countenanced the idea among its professed members or adherents,--as
 a modern writer on Ecclesiastical History and Noncomformity seems
-to intimate,--that any of us should think within ourselves,
-"`We have Abraham to our father.`"
+to intimate,--that any of us _should think within ourselves,
+"`We have Abraham to our father.`"_
 The strain of exhortation may, indeed, not infrequently be heard among us,
 "`Look unto Abraham your father,
 and Sarah that bare you`"--"`walk in the steps of that faith of our father
-Abraham`"---follow such as have themselves truly followed Christ,
+Abraham`"---__follow such__ as have themselves truly _followed Christ,_
 have drank of that Rock,
-and found it to be in them "`a well of water springing up into everlasting life.`"
+and found it to be _in them "`a well of water springing up into everlasting life.`"_
 
 Ah! may a consideration of what the Lord has wrought for the predecessors of this people,
 duly affect the minds of those, who, in a certain sense,
-have taken up their mantle,--who have been made sensible
+have _taken up their mantle,_--who have been made sensible
 what constituted the clothing of their spirits,
 even the garments of righteousness, salvation, and praise!
 May they often meditate upon the honourable place,
@@ -230,15 +230,15 @@ be encouraged to go into this good land and possess it,--more richly,
 more fully, more availingly inherit it, to the health of their own souls,
 and to the help of all with whom they have to do!
 May those also of a younger generation, like Timothy of old,
-keep that good thing committed to them, by the Holy Spirit;
+_keep that good thing committed to them,_ by the Holy Spirit;
 then the promises and prophecies, which may have gone before on such, will be revived,
 confirmed, and applied in their experience;
-and the faith which was in their forefathers will also, doubtless, dwell in them.
+and the faith which was _in their forefathers_ will also, doubtless, _dwell in them._
 In this way, is it not to be confidently, yet humbly expected,
 that such will be "`blessed of the Lord,
-and their offspring with them,`" that He will delight to increase such more and more,
-they and their children; so that, instead of their fathers, will, in due season,
-be the children, standing in their allotment and sharing in their privileges.
+and _their_ offspring with them,`" that He will delight to _increase_ such _more and more,
+they and their children;_ so that, _instead of their fathers, will,_ in due season,
+_be the children,_ standing in their allotment and sharing in their privileges.
 For "`the mercy of the Lord is from everlasting to everlasting upon them that fear him,
 and his righteousness unto children`'s children; to such as keep his covenant,
 and to those that remember his commandments to do them.`"
@@ -251,15 +251,15 @@ in proportion to their need, "`with all might according to his glorious power,
 unto all patience and long-suffering with joyfulness,`"--will
 there not an acknowledgment be raised,
 in the breast of every one that knows and loves the appearing of Jesus Christ,
-that such a work must be of God and not of man.
-And if we are prepared to admit, it was, in their case,
+that _such a work must be of God and not of man._
+And if we are prepared to admit, it was, _in their case,_
 by the effectual operation of his power and grace upon their hearts,
 that such a work was thus commenced, carried on, and completed to his own praise;
-shall we not, in like manner, be ready to believe, that thus, in our line and measure,
-he is willing to do for us of the present day, as well as for every generation of those,
+shall we not, in like manner, be ready to believe, that _thus,_ in _our_ line and measure,
+he is willing to do for _us of the present day,_ as well as for _every generation_ of those,
 who shall desire above all things to "`wait for his salvation,`" who shall
 be "`looking for the mercy of our Lord Jesus Christ unto eternal life.`"
-Assuredly, "`the promise`" is unto us and unto our "`children,
+Assuredly, "`the promise`" _is unto us and unto our "`children,_
 and unto all that are afar off, even as many as the Lord our God shall call:`"--for,
 "`God is faithful, by whom you are called unto the fellowship of his Son.`" 1 Cor. 1:9.
 
@@ -298,12 +298,12 @@ Wherever scattered, or wherever gathered,
 truly they have "`a goodly heritage,`" as well as
 "`exceeding great and precious promises;`" and,
 however these provided blessings may seem for a time to fall short of fulfilment,
-yet are they all in progress,
+yet are they all _in progress,_
 yet are they all steadfast and sure to His seed and church,--to
 those who cleave unto Him in dependence and submission of soul.
-A mark is said to be set upon those who sigh and cry,--who, waiting,
-mourn for the accomplishment of these heavenly promises, in the further development,
-purification, and glory of Zion:--their borders will be enlarged, says the Lord God!
+A mark is said to be set upon those _who sigh and cry,_--who, _waiting,
+mourn_ for the accomplishment of these heavenly promises, in the further development,
+purification, and glory of Zion:--__their borders will be enlarged,__ says the Lord God!
 See Isa. 54:2,3,6, and 11; also Jer. 30:15 to 19. "`For yet a little while,
 and he that shall come, will come, and will not tarry;`" he will, in due season,
 more fully and more unequivocally acknowledge his holy work and people,
@@ -320,12 +320,12 @@ Thus, the tribulated followers of the Lamb,
 however burdened with a sense of the present triumphing of their enemies,
 however bowed down in spirit when given to see the state of things around them,--if
 they can adopt that language of appeal uttered by the servant of God in ancient days,
-Isa. 26:8, "`In the way of your judgments, O Lord! have we waited for you;
-the desire of our soul is to your name, and to the remembrance of you;`"--even all such,
+Isa. 26:8, _"`In the way of your judgments, O Lord! have we waited for you;
+the desire of our soul is to your name, and to the remembrance of you;`"_--even all such,
 may undoubtedly look forward with confidence to the completion
 of what is written,--"`Yet a very little while,
 and the indignation shall cease, and my anger in their destruction.`"
 "`The rebuke of his people,
 shall he take away from off all the earth;`" and "`it shall be said in that day,
-Lo! this is our God; we have waited for him, and he will save us,
-we will be glad and rejoice in his salvation.`" Isa. 25:9.
+__Lo! this is our God; we have waited for him, and he will save us,
+we will be glad and rejoice in his salvation.__`" Isa. 25:9.

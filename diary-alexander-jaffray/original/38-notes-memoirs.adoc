@@ -1,6 +1,7 @@
 [#notes-memoirs, short="Notes to the Memoirs"]
 == Appendix of Notes and Illustrations to the Memoirs.
 
+[.centered]
 === Note A.
 
 A person of some note, who had been an officer under Oliver Cromwell,
@@ -14,7 +15,7 @@ I sent a second, who stayed in like manner; and then I determined to go myself.
 When I came thither, I found it was James Nayler preaching to the people;
 but with such power and reaching energy, as I had not till then been witness of.
 I could not help staying a little, although I was afraid to stay;
-for I was made a Quaker, being forced to tremble at the sight of myself.
+_for I was made a Quaker, being forced to tremble at the sight of myself._
 I was struck with more terror by the preaching of James Nayler,
 than I was at the battle of Dunbar, when we had nothing else to expect,
 but to fall a prey to the swords of our enemies, without being able to help ourselves.
@@ -22,18 +23,19 @@ I clearly saw the cross to be submitted to; so I durst stay no longer, but got o
 and carried condemnation for it in my own breast.
 The people there, in the clear and powerful opening of their states,
 cried out against themselves, imploring mercy, a thorough change,
-and the whole work of salvation to be effected in them.`"--See J. Gough`'s Journal.
+and the whole work of salvation to be effected in them.`"--See [.book-title]#J. Gough`'s Journal.#
 
+[.centered]
 === Note B.
 
-Extract from Memoirs of the Life of Stephen Crisp, 1824, p. 53. "`About the year 1659,
+Extract from [.book-title]#Memoirs of the Life of Stephen Crisp,# 1824, p. 53. "`About the year 1659,
 I often felt the aboundings of the love of God in my heart; and a cry,
 to stand given up to his will;--which I thought I was,
 not knowing or foreseeing what the Lord was intending to do with me;
 but his eye saw further than mine.
 This love, and tenderness, and bowels of compassion wrought so in me,
 that it extended even to all men on the whole face of the earth,
-so that I cried in spirit, Oh, that all men knew Thee and thy goodness!
+so that I cried in spirit, _Oh, that all men knew Thee and thy goodness!_
 And, upon a time, as I was waiting upon the Lord, his word arose in me,
 and commanded me to forsake and part with my dear wife and children, father and mother,
 and to go and bear witness to his name in Scotland,
@@ -55,11 +57,11 @@ and in some meetings the Lord would open my mouth
 in a few words to the refreshing of Friends;
 but I rather chose silence, when I might so.
 The winter drew nigh, and something would have deferred it till next summer;
-but the Lord showed me, it was not to be my time, but his time.
+but the Lord showed me, it was not to be _my time,_ but _his time._
 Then, I would have gone by sea; but the Lord withstood me, and showed me,
-it must not be my way, but his way; and if I would be obedient,
+it must not be _my way,_ but _his way;_ and if I would be obedient,
 he would be with me and prosper my journey, otherwise his hand would strike me.
-So I gave up all; and pretty much with cheerfulness, at last, I obeyed;
+So I gave up _all;_ and pretty much with cheerfulness, at last, I obeyed;
 and about the end of the 7th month +++[+++old style]
 I went forth, and visited the churches of Christ.
 
@@ -68,8 +70,8 @@ that the Lord was with me, more than at other times; and my journey became joyfu
 and the more so, in that though I were but weak, poor, and low,
 yet God gave me acceptance among the elders of his people; and, in every place,
 my testimony was owned, and divers were convinced of the everlasting Truth:
-then I marvelled, and said, Lord! the glory alone belongs to thee,
-for thou hast wrought wonders for thy name`'s sake, and for thy holy seed`'s sake.
+then I marvelled, and said, _Lord! the glory alone belongs to thee,
+for thou hast wrought wonders for thy name`'s sake, and for thy holy seed`'s sake._
 I got into Scotland in the 9th month that year,
 and travelled to and fro that winter on foot with cheerfulness.
 Many straits and difficulties attended me, which I forbear to mention;
@@ -84,6 +86,7 @@ in all my journey having been sweetly accompanied with the presence of the Lord;
 and his power often filled my earthen vessel, and made my cup to overflow;
 praises forever be to his name! saith my soul.`"
 
+[.centered]
 === Note C.
 
 In explanation of the use of the term "`steeple-houses`" in this paragraph,
@@ -93,14 +96,14 @@ Anecdotes,`" etc. illustrative of their sentiments and conduct,
 by the Author of the present volume.
 
 "`It seems scarcely needful to remark,
-that the word '`church`' is in Holy Scripture never
+that the word _'`church`'_ is in Holy Scripture never
 applied to an outward temple or building,
 but to a company of believers, whether generally or particularly.
 A Friend being interrogated by a bishop, Why he did not go to church?
-replied, '`I do go to church;
+replied, '`I _do_ go to church;
 and sometimes the church comes to me.`' See 1 Cor. 16:19, Col. 4:15, and Philem.
 2+++.+++ Thus the use of this term appears to have crept in among Christians,
-and with it a superstitious consecration of those places,
+and with it a superstitious _consecration_ of those places,
 as possessing some latent quality, not affecting other works of art or nature.
 To this, Stephen the martyr evidently alluded, when he said, '`Howbeit,
 the Most High dwelleth not in temples made with hands,`' etc. Acts 7:48.
@@ -118,14 +121,15 @@ that the Almighty is equally present everywhere,
 to bless and to sanctify every place and everything to those that
 walk uprightly on the earth--his footstool.`"
 
+[.centered]
 === Note D.
 
 Elizabeth Goodall has been already thus briefly mentioned
-by Jaffray in his Diary,--"`that gracious woman,
-Elsinet Smith.`"
+by Jaffray in his Diary,--__"`that gracious woman,
+Elsinet Smith.`"__
 Some readers may not be aware,
 that the married woman in Scotland usually retained her maiden name.
-Elsinet and Elspit are concluded to be Scottish variations of Elizabeth.
+_Elsinet_ and _Elspit_ are concluded to be Scottish variations of _Elizabeth._
 In the Records of the Society of Friends at Aberdeen,
 this minute appears on occasion of her death.--"`Upon the 21st day of the 12th month,
 1691-2, it pleased the Lord to remove from the visible +++[+++church,]
@@ -139,6 +143,7 @@ that now they are as peaceable and quiet as any other,
 and attended with many people and the magistrates of the city.`"
 This last passage will be explained in the course of the history.
 
+[.centered]
 === Note E.
 
 John Boccold, a tailor of Leyden, leader of a mob, who,
@@ -148,13 +153,14 @@ about the year 1535. The inhabitants of the Low Countries joined him,
 and Munster became in their imagination Mount Zion,
 and this man fancied he was called to sit on the throne of David.
 His fanaticism was connected with the most unrestrained licentiousness and extravagant
-conduct.--Mann`'s Lectures on Ecclesiastical History and Nonconformity, p. 225.
+conduct.--[.book-title]#Mann`'s Lectures on Ecclesiastical History and Nonconformity,# p. 225.
 
+[.centered]
 === Note F.
 
 Doubtless, it was in allusion to such instances as this of George Gray,
 that Robert Barclay thus speaks: "`If in any age since the apostles`' days,
-God hath purposed to show his power by weak instruments,
+God hath purposed to show his power by _weak instruments,_
 for the battering down of that carnal and heathenish wisdom,
 and restoring again the ancient simplicity of Truth, this is it.
 For, in our day, God hath raised up witnesses for himself, as he did fishermen of old;
@@ -168,7 +174,7 @@ yet not able to resist the virtue that proceeded from them.
 Of +++[+++this]
 I myself am a true witness, and can declare from a certain experience,
 because my heart hath been often greatly broken and tendered by that virtuous life,
-that hath proceeded from the powerful ministry of those illiterate men:
+that hath proceeded _from the powerful ministry of those illiterate men:_
 so that by their very countenance, as well as words,
 I have felt the evil in me often chained down, and the good reached to and raised.
 What shall I then say to you, who are lovers of learning and admirers of knowledge?
@@ -179,8 +185,8 @@ while I was yet but eighteen years of age; and made me seriously to consider,
 (which I wish also may befall others,) that without holiness no man can see God,
 and that the fear of the Lord is the beginning of wisdom,
 and to depart from iniquity a good understanding; and how much knowledge puffeth up,
-and leadeth away from that inward quietness, stillness, and humility of mind,
-where the Lord appears and his heavenly wisdom is revealed.
+and leadeth away from that _inward quietness, stillness, and humility of mind,
+where the Lord appears and his heavenly wisdom is revealed._
 If ye consider these things, then will ye say with me, that all this learning, wisdom,
 and knowledge, gathered in this fallen nature,
 is but as dross and dung in comparison of the cross of Christ;
@@ -188,10 +194,11 @@ especially being destitute of that power, life, and virtue,
 which I perceived these excellent (though despised,
 because illiterate) witnesses of God to be filled with.
 And therefore, seeing that in and among them I, with many others,
-have found the heavenly food that gives contentment,
-let my soul seek after this learning, and wait for it forever!
-Barclay`'s Works, fol. p. 426. or Apology, Prop. 10. sect 23.
+have found _the heavenly food that gives contentment,
+let my soul seek after this learning, and wait for it forever!_
+[.book-title]#Barclay`'s Works,# fol. p. 426. or [.book-title]#Apology,# Prop. 10. sect 23.
 
+[.centered]
 === Note G.
 
 Respecting the persecution of the Scottish Presbyterians,
@@ -216,7 +223,7 @@ Certainly, by adopting another course,
 the Covenanters obscured the brightness of their testimony, and provoked their enemies,
 instead of heaping "`coals of fire`" on their heads.
 
-Cave, in his "`Primitive Christianity,`" has this passage relative
+Cave, in his [.book-title]#Primitive Christianity,# has this passage relative
 to the conduct of the first followers of our blessed Lord:
 it is deemed particularly worthy the attention of the reader,
 before he enters upon the narrative of the persecution of the Friends in Scotland.
@@ -235,15 +242,16 @@ the guiltless quietly submit to pains and tortures; knowing for certain,
 that whatever we now suffer, shall not remain unpunished;
 and that the greater the injury that is done us in these persecutions we endure,
 the more just and heavy will be that vengeance that will follow it.
-Never was any wicked attempt made against Christians,
-but a divine vengeance was seen at the heels of it.`" 3rd edit. p. 175.
+_Never was any wicked attempt made against Christians,
+but a divine vengeance was seen at the heels of it.`"_ 3rd edit. p. 175.
 
+[.centered]
 === Note H.
 
 The following is a brief outline of the career of George Keith,
 whose name does not often appear prominent in these Memoirs:
 it is principally abstracted from the supplement
-to the last edition of Thomas Ellwood`'s Life.
+to the last edition of [.book-title]#Thomas Ellwood`'s Life.#
 
 George Keith was educated in the Presbyterian Church, was a man of talent and learning,
 and had obtained the degree of Master of Arts in the University of Aberdeen,
@@ -262,7 +270,7 @@ which the Society in its church discipline enjoins upon its members.
 Not stopping here, he opposed and ridiculed some of those very doctrines and practices,
 in support of which, he had both written, preached, and suffered: at length,
 having formed a separate congregation,
-they assumed the denomination of Christian Quakers.
+they assumed the denomination of _Christian Quakers._
 His adherents, however, gradually forsook him,
 perceiving that his religious tenets were fast verging
 towards those of the "`Established Church of England.`"
@@ -277,6 +285,10 @@ at variance with those of the Society.
 Elizabeth`'s maiden name was Johnston; of whom honourable mention has been made,
 among others of the earliest supporters of this cause and people.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Our ancient Friends, George and Elizabeth Keith!
 
 What love and respect hath, and doth all along live in our hearts to you both,
@@ -305,7 +317,7 @@ to make the lamp of Truth shine with lustre throughout
 the world,--as in due time we believe it shall.
 
 But with what grieved and bowed down hearts and spirits we first heard,
-and afterward came to see, that to be published by thee,
+and afterward came to see, _that_ to be published by thee,
 and some others joined with thee, which,
 (as is found in the very entry of one of the treatises) will grieve the honest-hearted,
 and make the uncircumcised rejoice, and say, '`Ah! so would we have it:--they, yea,
@@ -350,9 +362,12 @@ wherein we have often been sweetly refreshed together many years ago,
 shall we truly rejoice to hear from you,
 and also to see your faces,--who remain your true Friends and well-wishers.
 
+[.signed-section-context-close]
 Aberdeen, 23rd of 3rd month, 1694.
 
-Gough, in his History of Friends,
+--
+
+Gough, in his [.book-title]#History of Friends,#
 states his reasons for supposing that George Keith was favoured,
 particularly near his latter end, with seasons of serious reflection; wherein,
 he viewed the peaceful state of his mind,
@@ -363,18 +378,18 @@ he was visited by Richard Hayler of Sussex; and, among other things that passed,
 he expressed himself in these words,--"`I wish I had died when I was a Quaker; for then,
 I am sure, it would have been well with my soul.`" vol. iii. p. 452, and vol. iv. p. 147.
 At the latter page, this author closes his narrative with some weighty cautions,
-adapted especially to the gifted members of this,
-or indeed of any religious body,--to beware of an exalted spirit.
+adapted especially _to the gifted members of this,_
+or indeed __of any religious body,__--to beware of _an exalted spirit._
 
 The reflections, likewise, made in their Journals,
 by two highly respectable members of the Society, who were contemporary with George Keith,
 deserves the attention of those who read his history.
-The first occurs in the Memoirs of John Whiting, p. 496.
+The first occurs in the [.book-title]#Memoirs of John Whiting,# p. 496.
 
 "`I would not say, as some are apt, when any fall away, that they were never right,
-for a righteous man may turn from his righteousness; knowing by his writings,
+_for a righteous man may turn from his righteousness;_ knowing by his writings,
 that he had a true convincement and work of God upon him; and was enlightened,
-and had tasted of the heavenly gift, and of the powers of the world to come;
+and had _tasted of the heavenly gift, and of the powers of the world to come;_
 as his '`Help in time of need,`' his '`Immediate Revelation,`' '`The Benefit, Advantage,
 and Glory of Silent Meetings`' with several others of his writings, do show:
 and he was serviceable with Robert Barclay in some controversies in defence of the Truth,
@@ -396,23 +411,23 @@ and also in our love and duties one to another.
 But, as the measure of this Spirit is faithfully kept to and improved,
 we grow more and more fruitful in every good work and word,
 to the glory of God and comfort of our own souls; and as the salt of the earth,
-help to season those who are not seasoned.`"
-J+++.+++ Richardson`'s Life, p. 130.
+help to season those who are not seasoned.`" [.book-title]#J+++.+++ Richardson`'s Life,# p. 130.
 
+[.centered]
 === Note I.
 
 William Dell, whose name has been already introduced in the earlier part of this Work,
 as a writer gifted with no ordinary insight into
 the spiritual character of the kingdom of Christ,
 at the close of his preface to a treatise on "`The Doctrine of Baptisms,`"
-has these following remarkable words.--"`But because I see this present
+has these following remarkable words.--"`But because I see this _present_
 generation so rooted and built up in the doctrines of men,
 I have the less hope that this truth +++[+++respecting the one saving baptism of Christ]
 will prevail with them; and therefore I appeal to the next generation,
 which will be further removed from these evils, and will be brought nearer to the word;
-but especially to that people whom God hath and shall form by his Spirit for himself,--for
+_but especially to that people whom God hath and shall form by his Spirit for himself,--for
 these only will be able to make just and righteous judgment in this matter,
-seeing they have the Anointing to be their teacher, and the Lamb to be their light.`"
+seeing they have the Anointing to be their teacher, and the Lamb to be their light.`"_
 And in the very conclusion of the same piece, after having fully wound up his subject,
 and as it were laid down the pen, he resumes it,
 to introduce this isolated sentence:--"`Isaiah 58:12.
@@ -422,14 +437,15 @@ such by the church that is born of the flesh--`' thou shalt raise up the foundat
 of many generations,`'--by the clear revealing of Christ,
 his kingdom, and all his things,
 according to the ministration of the Spirit--`' and thou shalt be called,
-The repairer of the breach,
-the restorer of paths to dwell in.`' Here Christ writes upon the aforementioned
+__The repairer of the breach,
+the restorer of paths to dwell in.__`' Here Christ writes upon the aforementioned
 church his own new name.`"--To what shall we attribute the peculiar congeniality
 and oneness of religious perception on this precise point,
 thus manifested in the latter expressions of Dell,
 and in those of Jaffray to which this Note is attached?--may it not be said,
 that these men were taught in the same school, were "`baptized by one Spirit?`"
 
+[.centered]
 === Note J.
 
 On the restoration of Episcopacy in Scotland in 1662,
@@ -441,6 +457,7 @@ show that several of the former associates of Jaffray were among this number;
 and it is clear by this last paragraph of the "`Word of Exhortation,`"
 how expressly his solicitude is directed towards that class.
 
+[.centered]
 === Note K.
 
 The following quotation from a writer well approved among the Society, will, it is hoped,
@@ -452,7 +469,7 @@ mostly waiting till their worship was ended,
 and then delivering or attempting to deliver their sentiments in quietness,
 and in as few words as possible,
 for which they were often treated with great violence and outrage.
-And to palliate such treatment, irreconcilable to the professed purity of this period,
+And to palliate such treatment, irreconcilable to the professed _purity_ of this period,
 or to the good order of civil society,
 great pains have been taken to describe their conduct
 in terms of aggravation to a heinous offence,
@@ -465,8 +482,8 @@ in their sentiments concerning the gospel liberty of prophesying;
 but the Independents as well as the Baptists adopted the opinion,
 that the ordained ministers or pastors had not,
 by any ordination of Christ or the order observed amongst the primitive Christians,
-an exclusive right of speaking in the church,
-but that all properly gifted might speak '`one by one.`' It had been,
+an _exclusive_ right of speaking in the church,
+but that _all_ properly gifted might speak '`one by one.`' It had been,
 during the time of the civil war, and still continued to be,
 no unusual practice for laymen, soldiers, and others,
 to speak or preach in the public places of worship and elsewhere, with the connivance,
@@ -478,11 +495,11 @@ sanctuary in the Castle of Edinburgh or had fled,
 of free privilege to return to their respective parishes; the Scotch ministers, in reply,
 objected his opening the pulpit doors to all intruders,
 by which means a flood of errors was broken in upon the nation; to which Oliver answered,
-'`We look upon you as helpers of,
-not lords over the faith of God`'s people:--where do you find in Scripture,
+'`We look upon you as _helpers_ of,
+not _lords over_ the faith of God`'s people:--where do you find in Scripture,
 that preaching is included within your function?
 Though an approbation from men has order in it, and may be well,
-yet he that hath not a better than that hath none at all.
+yet he that hath not a better _than_ that hath none at all.
 I hope, He that ascended up on high, may give his gifts to whom he pleases;
 and if those gifts be the seal of mission,
 are not you envious though Eldad and Medad prophesy?
@@ -501,7 +518,7 @@ to deny a man the liberty he hath by nature,
 upon a supposition he may abuse it.`' And in answer to the Governor`'s complaint,
 that men of secular employments had usurped the office of the ministry,
 to the scandal of the reformed churches, he queries,
-'`Are you troubled that Christ is preached?
+'`Are you troubled that _Christ is preached?_
 Doth it scandalize the reformed churches, and Scotland in particular?
 Is it against the Covenant?
 away with the Covenant, if it be so.
@@ -512,7 +529,7 @@ it is no Covenant of God`'s approving, nor the kirk you mention, the spouse of C
 "`By this it appears evident, that a participation by the laity in ministerial offices,
 was not only allowed, but patronized by some of the leading men of that time.
 If then some members of this infant Society, under persuasion of duty,
-at times made use of the liberty allowed to others, (and to several of themselves,
+at times made use of the liberty allowed to others, (and to several of _themselves,_
 till they joined this Society,) to deliver a short exhortation,
 most generally at the close of their worship, to the people assembled,
 as a full opportunity to discharge their duty;--to give
@@ -521,21 +538,22 @@ was as contradictory to the professed principles of the Independents,
 and those free notions of civil and religious liberty,
 which they had been so active in disseminating, as +++[+++it was]
 to religion and the civilization boasted of;&hellip;`"
-Gough`'s History of Friends, vol. i. p. 86, etc.
+Gough`'s [.book-title]#History of Friends,# vol. i. p. 86, etc.
 
+[.centered]
 === Note L.
 
 It may be requisite to give an illustration of those numerous calumnies,
 represented to have been vented forth by some in that day,
 who stood in the character of spiritual watchmen, as Jaffray says,
-for the purpose of "`detaining the Truth of God in unrighteousness,`" and keeping
+for the purpose of _"`detaining the Truth of God in unrighteousness,`"_ and keeping
 those who embraced it "`in disgust among the people`"--a practice which,
 it is to be feared, has not altogether ceased to exist in less flagrant forms,
 even among some who name the name of Christ;
 however lamented and abhorred such conduct must be, by all his true followers.
 
 In the 9th month, 1666, George Meldrum, accounted one of the chief ministers of Aberdeen,
-preached a whole sermon expressly against the people called Quakers,
+preached _a whole sermon expressly against the people called Quakers,_
 full of virulence and unjust slanders, such as, if believed,
 would scarcely fail to excite the indignation of his hearers against them;
 and to secure his discourse from refutation,
@@ -552,7 +570,7 @@ in the presence of Meldrum and his colleague Menzies.
 Jaffray said, he could not yield to this, unless he were permitted to have witnesses;
 as these men had repeatedly misrepresented in public,
 what had been said to them in private; of which he could bring proof.
-At length, Friends being objected to, Jaffray`'s brother and son, not Friends,
+At length, _Friends being objected to,_ Jaffray`'s brother and son, not Friends,
 were allowed to be present; when,
 "`the Lord remarkably assisted him in declaring the Truth,`"
 and defending himself and it against their unjust allegations;
@@ -566,6 +584,7 @@ which with much difficulty was at length procured from one of his hearers,
 Alexander Jaffray and George Keith readily replied to;
 and "`it had a very good service`" among their neighbours.
 
+[.centered]
 === Note M.
 
 The Queries, which were offered to the public preachers of Aberdeen by Alexander Skene,
@@ -575,77 +594,82 @@ on the subject of joining with other Christian professors in worship,
 by external signs of concurrence.--"`If it were`" says he,
 "`their known and avowed doctrine, not to pray without the motion of the Spirit,
 and that, seriously holding thereunto,
-they did not bind themselves to pray at certain prescribed times precisely,
-(at which times they determine to pray, though without the Spirit,)--then, indeed,
-we might be accused of uncharitableness and pride, if we never joined with them;
+_they did not bind themselves to pray at certain prescribed times precisely,_
+(at which times they determine to pray, though _without_ the Spirit,)--then, indeed,
+we might be accused of uncharitableness and pride, _if we never joined with them;_
 and if they so taught and practised, I doubt not but it should be lawful for us so to do,
 unless there should appear some manifest and evident hypocrisy or delusion.
 But seeing they profess, that they pray without the Spirit,
-and seeing God hath persuaded us, that such prayers are abominable,
+and seeing God hath persuaded us, that _such_ prayers are abominable,
 how can we with a safe conscience join with an abomination?
 That God sometimes condescends to them, we do not deny,--(albeit,
 now when the spiritual worship is openly proclaimed, and all are invited unto it,
-the case is otherwise,
-than in those old times of apostasy and darkness,)--and
+__the case is otherwise,
+than in those old times of apostasy and darkness,__)--and
 therefore albeit any should begin to pray in our presence,
-not expecting the motion of the Spirit, yet, if it manifestly appear,
+not expecting the motion of the Spirit, yet, _if it manifestly appear,
 that God in condescension did concur with such a one, then, according to God`'s will,
-we should not refuse to join also.
-But, this is rare; lest, thence, they should be confirmed in their false principle.
-And albeit this seem hard in our profession,
+we should not refuse to join also._
+But, _this is rare;_ lest, thence, they should be _confirmed_ in their false principle.
+And albeit _this seem hard in our profession,_
 nevertheless it is so confirmed by the authority both of Scripture and right reason,
 that many, convinced thereof,
-have embraced this part before other truths which were easier, and,
-as they seemed to some, clearer.`" Apology, Prop. xi. sect. 24.
+_have embraced this part before other truths_ which were easier, and,
+as they seemed to some, clearer.`" [.book-title]#Apology,# Prop. xi. sect. 24.
 The case of Alexander Skene`'s convincement is then given;
 and his reasons for separation from those,
 with whom he had been associated in religious fellowship,
 appear in the following Queries.
 
-Queries On Worship By Alexander Skene.
+[quote]
+____
 
-"`1st.--Should any act of God`'s worship be gone about, without the motions, leadings,
+[.blurb]
+=== Queries On Worship By Alexander Skene.
+
+1st.--Should _any_ act of God`'s worship be gone about, without the motions, leadings,
 and actings of the Holy Spirit?
-2nd.--If the motions of the Spirit be necessary to every particular duty,
+2nd.--If the motions of the Spirit _be necessary_ to every particular duty,
 whether should He be waited upon,
-that all our acts and words may be according as he gives utterance and assistance?
+that all our acts and words may be _according as he gives utterance and assistance?_
 3rd.--Whether everyone that bears the name of a Christian,
-or professes to be a Protestant, hath such an uninterrupted measure thereof, that he may,
-without waiting, go immediately about the duty?
-4th.--If there be an indisposition and unfitness at some times for such exercises,
+or professes to be a Protestant, hath _such an uninterrupted measure thereof,_ that he _may,
+without waiting,_ go immediately about the duty?
+4th.--If there be _an indisposition and unfitness at some times_ for such exercises,
 at least as to the spiritual and lively performance of them,
-ought they to be performed in that case and at that time?
+ought they to be performed _in that case_ and _at that time?_
 5th.--If any +++[+++such]
 duty be gone about, under pretence that it is in obedience to the external command,
 without the spiritual life and motion necessary, whether such a duty, thus performed,
-can in faith be expected to be accepted of God,
+_can in faith be expected to be accepted of God,_
 and not rather reckoned as a bringing of '`strange fire`' before the Lord?
 seeing it is performed, at best, by the strength of natural and acquired parts,
 and not by the strength and assistance of the Holy Ghost, which was typified by the fire,
 that came down from heaven, which alone behooved to consume the sacrifice, and no other.
 6th.--Whether +++[+++such]
 duties, gone about in the mere strength of natural and acquired parts,
-either in public or in private, be not as really, upon the gross matter,
-an image of man`'s invention, as the Popish worship,
+either in public or in private, be not _as really,_ upon the gross matter,
+_an image of man`'s invention, as the Popish worship,_
 though not so gross in the outward appearance?
 And therefore,
-whether it be not as real superstition to countenance any worship of that nature,
-as it is to countenance Popish worship, though there be a difference in the degree?
+whether it be not as real superstition to _countenance_ any worship of that nature,
+as it is to countenance Popish worship, though there be a difference _in the degree?_
 7th.--Whether it be a ground of offence or just scandal,
 to countenance the worship of those, whose professed principle it is,
-neither to speak for edification nor to pray,
-but as the Holy Ghost shall be pleased to assist them, in some measure, less or more;
-without which, they rather choose to be silent, than to speak without this influence?`"
+_neither to speak for edification nor to pray,
+but as the Holy Ghost shall be pleased to assist them,_ in some measure, less or more;
+_without which,_ they rather choose to be silent, than to speak without this influence?
+____
 
 The tone of utter aversion and prejudice, in regard to true spiritual worship,
 and the necessary preparation of soul for this solemn exercise,
 which was evidently held out, at this period,
 by the professed preachers of the gospel in Aberdeen,
 headed by their Bishop,--and which indeed gave ample occasion for
-the promulgation of the above Queries,--is the more remarkable,
+the promulgation of the above _Queries,_--is the more remarkable,
 when contrasted with that beautifully clear stream
 of evangelical sentiment on this very point,
-given forth only about twenty years afterward, by Henry Scougal,
+given forth only about twenty years afterward, by _Henry Scougal,_
 a "`professor of divinity`" in the same place, and a son of the same Bishop.
 In his valuable treatise, entitled,
 "`The Life of God in the Soul of Man,`" after reference to the promise
@@ -659,49 +683,51 @@ though we utter no sound, yet we conceive the expressions and form the words, as
 in our minds; so there is a third and more sublime kind of prayer,
 wherein the soul takes a higher flight,
 and having collected all its forces by long and serious meditation, it darteth itself,
-(if I may so speak) towards God in sighs and groans, and thoughts too big for expression.
+(if I may so speak) towards God in sighs and groans, _and thoughts too big for expression._
 As when, after a deep contemplation of the Divine perfections,
 appearing in all his works of wonder,
 it addresseth itself unto him in the profoundest
 adoration of his majesty and glory:--or when,
 after sad reflections on its vileness and miscarriages,
 it prostrates itself before him with the greatest confusion and sorrow,
-not daring to lift up its eyes, or utter one word in his presence:--or when,
+not daring to lift up its eyes, _or utter one word in his presence:_--or when,
 having well considered the beauty of holiness,
-and the unspeakable felicity of those that are truly good, it panteth after God,
-and sendeth up such vigorous and ardent desires, as no words can sufficiently express;
+and the unspeakable felicity of those that are truly good, _it panteth after God,_
+and sendeth up such vigorous and ardent desires, _as no words can sufficiently express;_
 continuing and repeating each of these acts,
 as long as it finds itself upheld by the force and impulse of the previous meditation.
 
-"`This mental prayer is, of all other, the most effectual to purify the soul,
+"`This mental prayer is, _of all other,_ the most effectual to purify the soul,
 and dispose it unto a holy and religious temper,
-and may be termed the great secret of devotion,
-and one of the most powerful instruments of the divine life: and, it may be,
+and may be termed _the great secret of devotion,_
+and one of _the most powerful instruments of the divine life:_ and, it may be,
 that the Apostle hath a peculiar respect unto it, when he saith,
-that the Spirit helpeth our infirmities,
-making intercession for us with groanings which cannot be uttered, or,
-as the original may bear, that cannot be worded.`" p. 98, 99.
+that _the Spirit helpeth our infirmities,
+making intercession for us with groanings which cannot be uttered,_ or,
+as the original may bear, __that cannot be worded.__`" p. 98, 99.
 
+[.centered]
 === Note N.
 
 Of Meldrum, the historian of the church of Scotland, Cruickshank says,
-"`This great man was remarkably useful, with his colleague, Mr. Menzies, in Aberdeen,
+"`This great man was _remarkably useful,_ with his colleague, Mr. Menzies, in Aberdeen,
 against the Quakers and Jesuits,`" vol. i. p. 150.
 The same author, nine pages further on,
 has another sentence relating to the Friends,
 which does not seem capable of bearing a very favourable
 construction.--"`On the 2nd of June,
-1663, they made a very good act against the Quakers;
+1663, they made _a very good act against the Quakers;_
 but the bishops gave the council so much to do against the Presbyterian Nonconformists,
-that these people were suffered to rest in quiet;
+that _these people were suffered to rest in quiet;_
 for they mightily increased during this reign.`"
 
-The next paragraph of the Memoirs will show, that, at least the Bishop of Aberdeen,
-was not altogether an idle spectator of the success of this new heresy,
+The next paragraph of the Memoirs will show, that, _at least_ the Bishop of Aberdeen,
+was not altogether an idle spectator of the success of this _new heresy,_
 and that by no means was he wanting in the attempt to give the
 King`'s Council some substantial work in this line of persecution,
 though their hands were already so full.
 
+[.centered]
 === Note O.
 
 Among the early opponents of the principles of religious
@@ -715,7 +741,7 @@ Yet afterward, this man and his adherents persisted in controverting the very sa
 spreading papers abroad, unknown to Robert Barclay, and personally reflecting on him;
 this induced the latter, to write a Vindication of his Treatise on Discipline,
 by way of explanation; which, certainly, exhibits the author in an amiable point of view.
-See Gough`'s History, vol. iii. p. 16; also Barclay`'s Life.
+See [.book-title]#Gough`'s History,# vol. iii. p. 16; also [.book-title]#Barclay`'s Life.#
 
 An original manuscript letter on this subject,
 addressed by George Fox to Robert Barclay near two years after,
@@ -723,6 +749,10 @@ has come into the possession of the Author of these pages,
 which may be worthy the perusal of Friends in the present day.
 It is as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Robert,
 
 With my dear love to thee and thy father, and to George Keith,
@@ -761,17 +791,27 @@ but if thou wast here at Swarthmore, thou might see the book, which might be wel
 and I should be glad to see thee here.
 So, in haste, with my love,
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 29th of 1st month, 1679.
+
+--
 
 The accompanying little epistle must not be withheld, though, in this place, out of date:
 it is as follows.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 George Fox To The Prisoners.
 
+[.signed-section-context-open]
 Swarthmore, 1st month, 1678-9.
 
+[.salutation]
 My dear Friends,
 
 Who are sufferers for the Lord Jesus`' sake, and for the testimony of his truth!
@@ -795,13 +835,19 @@ And do not think the time long, for all time is in the Father`'s hand, his power
 and therefore keep the word of patience, and exercise that gift,
 and the Lord strengthen you in your sufferings, in his holy spirit of faith, amen!
 
+[.signed-section-signature]
 G+++.+++ F.
 
+--
+
+[.centered]
 === Note P.
 
-A Seasonable Warning and serious exhortation to,
-and expostulation with the Inhabitants of Aberdeen,
-concerning this present dispensation and day of God`'s living visitation towards them.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A Seasonable Warning and serious exhortation to, and expostulation with the Inhabitants of Aberdeen, concerning this present dispensation and day of God`'s living visitation towards them.
 
 Great, unutterably great, O ye Inhabitants! is the love of God,
 which flows in my heart towards you;
@@ -919,11 +965,16 @@ and God over all may be glorified! for which I travail
 and cry before the throne of grace,
 as becometh a servant of the Lord Jesus Christ.
 
+[.signed-section-signature]
 Robert Barclay.
 
+[.signed-section-context-close]
 This came before me to signify unto you by writing, at Ury, the 12th of the 1st month,
 1672.
 
+--
+
+[.centered]
 === Note Q.
 
 In this place, it will be proper to mention,
@@ -933,7 +984,7 @@ receive all that confirmation from the history of the place, which could,
 in the nature of the case,
 be expected to be handed down respecting a people at once so insignificant and despised,
 so misrepresented and abused.
-The intelligent author of the "`Annals of Aberdeen,`" has furnished
+The intelligent author of the [.book-title]#Annals of Aberdeen,# has furnished
 the public with such corroborative evidence as he possessed,
 of the unjust and unworthy line of conduct pursued
 in ancient time by the predecessors of some,
@@ -982,7 +1033,7 @@ was called before the Church Session; but,
 having persevered in maintaining his principles,
 was remitted to the three ministers of the town, to use their influence with him;
 which seems to have had very little effect,
-and the matter was dropt.--Records of the Church Session, 25th Nov.
+and the matter was dropped.--Records of the Church Session, 25th Nov.
 1661.`" "`In the year 1674, Thomas Dockery and William Gelly,
 two of these inoffensive people, were imprisoned, under a warrant from the magistrates,
 upon a charge which was brought against them, for deriding the holiness of the kirk,
@@ -997,9 +1048,10 @@ and to bury their dead according to their own custom, without molestation.`"
 This concluding observation,
 is certainly not borne out by the vouchers which that people hold.
 
+[.centered]
 === Note R.
 
-Of John Swintoune, we read nothing more in the Memoirs of the Friends in Scotland;
+Of John Swintoune, we read nothing more in the [.book-title]#Memoirs of the Friends in Scotland;#
 the few additional particulars which have come to the hand of the Author,
 he subjoins in the present Note.
 
@@ -1080,7 +1132,11 @@ one of them written by himself during his last illness; and the other by his wid
 after his decease.
 They are, with some slight verbal amendment, as follow.
 
-A Testimony Left by John Swintoune of Swintoune.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== A Testimony Left by John Swintoune of Swintoune.
 
 I, John Swintoune of Swintoune, being surrounded with weakness of body,
 so that there is more probability than to the contrary, that I may lay it down;
@@ -1108,9 +1164,16 @@ and the great ones of the earth he will reprove for their sakes.
 
 Writ and subscribed with my own hand, at Borthwick, this 15th of the 2nd month, 1679.
 
+[.signed-section-signature]
 (Sic subscribitur) J. S.
 
-His Wife`'s Testimony Concerning Him and the Truth.
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== His Wife`'s Testimony Concerning Him and the Truth.
 
 Let substance +++[+++Christ the living, eternal substance,]
 be the aim of every one: oh, keep to it, every one that knows it;
@@ -1151,10 +1214,15 @@ everlasting renown and eternal thanksgiving be sounded
 forth unto the Author and Finisher of our faith,
 which is, Christ Jesus in us, the hope of glory,--blessed forever, and forevermore!
 
+[.signed-section-signature]
 Frances Swintoune.
 
+[.signed-section-context-close]
 Borthwick, 22nd of 6th month 1679.
 
+--
+
+[.centered]
 === Note S.
 
 The small estate of Kingswells, lying about five miles west of Aberdeen,
@@ -1187,12 +1255,16 @@ by the testimony of the Holy Spirit in our hearts, whereby we can cry, Abba,
 Father!--this, this, my dear kinsman, is far above all in this sublunary world!
 O let this piece of divine and spiritual heraldry, be our main care and concern;
 omitting no opportunity, under those blessed means that are so plentifully afforded us,
-of making our calling and election sure.`"
-Claridge`'s Life and Posthumous Works, p. 315.
+of making our calling and election sure.`" [.book-title]#Claridge`'s Life and Posthumous Works,# p. 315.
 
+[.centered]
 === Note T.
 
-Treatment Received By Friends In Their Worship, and Their Support Under It.
+[quote]
+____
+
+[.blurb]
+=== Treatment Received By Friends In Their Worship, and Their Support Under It.
 
 But when people meet together, and their worship consisteth not in such outward acts,
 and they depend not upon any one`'s speaking, but merely sit down to wait upon God,
@@ -1246,9 +1318,11 @@ that the Israelites might pass; so, God hath thus by his Spirit made a way for u
 in the midst of this raging wickedness, peaceably to enjoy and possess Him,
 and accomplish our worship to him:--so that sometimes, upon such occasions,
 several of our opposers and interrupters have hereby been convinced of the Truth,
-and gathered from being persecutors to be sufferers with us.--Barclay`'s
-Apology, Prop. xi. Sect. 13.
+and gathered from being persecutors to be sufferers with us.--[.book-title]#Barclay`'s
+Apology,# Prop. xi. Sect. 13.
+____
 
+[.centered]
 === Note U.
 
 In the daily intercourse of private life, there is no doubt,
@@ -1280,21 +1354,22 @@ Robert Gordon, too, must have been a disputant of no mean account,
 at least in the estimation of the college students of Aberdeen;
 or they would not have brought him in, when they raised a story,
 about his appointing a dispute with his nephew, which, they said,
-the latter out of fear had deserted. R. B.`'s Works, fol. p. 670.
+the latter out of fear had deserted. [.book-title]#R. B.`'s Works,# fol. p. 670.
 Thus closely pressed upon and beset on all sides, the early Friends generally,
 and this Friend in particular, must have found it hard, and even almost incessant work,
 to have replied to all the objections raised against their sentiments and practice.
 In allusion to this part of Barclay`'s career, the writer of his life,
-in the "`Biographia Britannica,`" observes, "`Though it might be conceived,
+in the [.book-title]#Biographia Britannica,# observes, "`Though it might be conceived,
 that so many undertakings, within so narrow a compass of time,
 must have wholly taken him up, and left him not so much as a moment to spare; yet,
-it is certain, that at this very time, he was meditating his great work, +++[+++the Apology.]`"
+it is certain, that at this very time, he was meditating his great work, +++[+++the [.book-title]#Apology.#]`"
 
 But it cannot be considered, that these undertakings are likely to have, by any means,
 comprehended all that the energies of Robert Barclay`'s mind were employed upon.
 From some memoranda in his own hand-writing, it would seem far from improbable,
 that he had some design and plan of a History of the Church.
 
+[.centered]
 === Note V.
 
 At this page, there is allusion to a letter, addressed by Friends to George Melvill,
@@ -1313,6 +1388,10 @@ occasionally throw a very material interest and light upon past transactions,
 giving often a just insight into the springs of character and conduct.
 It is here subjoined.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Melvill,
 
 Being informed that thou hast undertaken that ungodly and unchristian employment,
@@ -1397,8 +1476,12 @@ even so it is now.`' We suppose,
 thou wouldst not be satisfied that any should do so to thee.
 Now as this we can say in the presence of God and man, so we remain,
 
+[.signed-section-signature]
 Thy Friends.
 
+--
+
+[.centered]
 === Note W.
 
 Elizabeth, Princess Palatine of the Rhine, was the eldest daughter of Frederick the 5th,
@@ -1409,8 +1492,8 @@ but she governed it with great judgment, and attention to the happiness of her s
 on which account, she was greatly beloved and respected by them,
 as well as by many persons of learning and virtue, not resident in her dominions.
 "`Her meekness and humility appeared to me extraordinary;`"--says William Penn,
-who knew her well, and has left an account of her in his No Cross,
-No Crown;--"`she never considered the quality, but the merit,
+who knew her well, and has left an account of her in his [.book-title]#No Cross,
+No Crown;#--"`she never considered the quality, but the merit,
 of the people she entertained Though she kept no sumptuous table in her own court,
 she spread the tables of the poor in their solitary cells.
 Abstemious in herself, and in apparel void of all vain ornaments.
@@ -1435,6 +1518,7 @@ for those who want to see them.`"
 These valuable documents, the Author, by favour of the present proprietor of Ury,
 has searched for--but in vain.
 
+[.centered]
 === Note X.
 
 It is believed,
@@ -1471,8 +1555,13 @@ in every part, strikingly to develop the work and character of that day,--also,
 the spirit of those,
 who had to contend thus earnestly for the faith and liberty of the gospel.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Expostulatory Epistle To Robert Macquare.
 
+[.salutation]
 Friend,
 
 My tender love and sympathy has been great in times past towards many of the Nonconformists,
@@ -1842,11 +1931,15 @@ may come indeed to fare well in the Lord.
 I am one who, in my measure, travail for the redemption of the Seed of God in all souls,
 and in thine.
 
+[.signed-section-signature]
 Lilias Skene.
+
+--
 
 The Author should have stated, that some few passages in the above letter are omitted,
 and that some very slight alterations have been made in the phraseology.
 
+[.centered]
 === Note Y.
 
 Robert Barclay left his companions at Herwerden, and they took that place, again,
@@ -1858,7 +1951,7 @@ This limitation of his good offices to the Barclays only,
 and his refusal to interest himself for the relief of the sufferers generally,
 does indeed favour the opinion that he was a timeserver,
 and not a real friend to liberty of conscience.
-See R. B.`'s Life.--Ragley, was a seat of the Lord Conway,
+See [.book-title]#R. B.`'s Life#.--Ragley, was a seat of the Lord Conway,
 whose Lady may be said to have been one of the excellent of the earth, and was,
 doubtless, a particular acquaintance of the Princess Elizabeth,
 as she certainly was of the writer of this letter.
@@ -1866,6 +1959,7 @@ For some extraordinary account of her,
 see a supplementary note at the end of Penington`'s Letters, 2nd edit.
 1829, published by Holdsworth and Ball, London.
 
+[.centered]
 === Note Z.
 
 Bishop Burnet declares of Archbishop Sharp,
@@ -1882,7 +1976,7 @@ about a year after this, it laid a foundation of such a character of him,
 that nothing could ever bring people to any tolerable thoughts of a man,
 whose dissimulation and treachery were so well known,
 and of which so many proofs were to be seen under his own hand.`"--"`A monster of hypocrisy,
-perjury, and vileness,`" says Cruickshank in his History;
+perjury, and vileness,`" says Cruickshank in his [.book-title]#History;#
 "`he betrayed the Church of Scotland, and persecuted the true members of it.`"
 vol. i. p. 124.--Laing, another historian of Scotland, among other expressions,
 in his review of the character of the Archbishop, has the following:--"`that he was vain,
@@ -1891,10 +1985,11 @@ his friends have never attempted to disown:`" "`-- he became an unrelenting pers
 like most apostates:`"-- vol.
 iv. p. 95.
 
+[.centered]
 === Note AA.
 
 Particulars of this difference,
-may be seen in "`Memoirs of the Life and Actions of Sir Ewen Cameron of Lochiel,`" vol.
+may be seen in [.book-title]#Memoirs of the Life and Actions of Sir Ewen Cameron of Lochiel,# vol.
 ii. p. 49, etc. and especially of the part taken by Barclay in that troublesome affair.
 He evinces much disinterested and unambiguous friendship towards his brother-in-law,
 who had a very powerful opponent in the Duke of Gordon.
@@ -1914,12 +2009,19 @@ Persevering through all obstructions raised by the opposite party,
 Barclay was at length enabled to obtain a final settlement,
 much to the advantage of Cameron of Lochiel.
 
+[.centered]
 === Note BB.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Ann, Countess of Errol, To Christian Barclay.
 
+[.signed-section-context-open]
 Slains, 27th February, 1690-1.
 
+[.salutation]
 Much honoured,
 
 As there was none had a greater esteem of the merit
@@ -1950,8 +2052,12 @@ in him of supplying the place of so deserving a father;
 and it shall be a very acceptable satisfaction to me to see any of your
 family at this place;--for I am affectionately at your service,
 
+[.signed-section-signature]
 Ann Errol.
 
+--
+
+[.centered]
 === Note CC.
 
 "`In the year 1694, Peter Gardner, a Friend who lived in Essex,
@@ -2092,6 +2198,7 @@ was given to know the inward states of those that came to see him.
 And further, the money, which John Richardson had handed to him, actually lasted out,
 so as to defray the expenses of his interment and other charges incurred there.`"
 
+[.centered]
 === Note DD.
 
 The sentiment thus quaintly conveyed in the two last lines of this stanza,
@@ -2109,13 +2216,14 @@ and that in keeping of it there is great reward;
 and that divine love wherewith they are actuated,
 makes them become a law unto themselves.
 
+[verse]
+____
 Quis legem det amantibus?
-
 Major est amor lex ipse sibi.
 
 Who shall prescribe a law to those that love?
-
 Love`'s a more powerful law, which doth them move.
+____
 
 "`In a word, what our blessed Saviour said of himself, John 4:34,
 is in some measure applicable to his followers,
@@ -2123,7 +2231,7 @@ that it is their meat and drink to do their Father`'s will:
 and as the natural appetite is carried out toward food,
 though we should not reflect on the necessity of it for the preservation of our lives;
 so are they carried with a natural and unforced propension towards that
-which is good and commendable.`"--The Life of God in the Soul of Man,
+which is good and commendable.`"--[.book-title]#The Life of God in the Soul of Man,#
 9th edit. p. 7.--This volume contains much that is of sterling, spiritual worth.
 It has been already quoted in the course of these Notes, and as there stated,
 was penned by Henry Scougal, styled, professor of divinity at Aberdeen,
@@ -2133,9 +2241,10 @@ Bishop Burnet, the historian, first published it in 1691; and, in his preface, a
 that "`the author has written out nothing here,
 but what he himself did well feel and know.`"
 No wonder, then, that Pinkerton,
-in his "`Iconographia Scotica,`" should describe it as "`a work of eminent piety,
+in his [.book-title]#Iconographia Scotica,# should describe it as "`a work of eminent piety,
 without enthusiasm.`"
 
+[.centered]
 === Note EE.
 
 At page 225 of these Memoirs,
@@ -2149,6 +2258,7 @@ daughter to Ewen Cameron of Lochell,`" laid before
 them her intention of marriage with "`Robert Barclay,
 grandson of the Apologist.`"
 
+[.centered]
 === Note FF.
 
 When the 6th edition of this work had nearly gone through the press, the Author happened,
@@ -2166,6 +2276,7 @@ it will be recollected, in which Patrick Livingston was confined for seven weeks
 where scarce any light was admitted,
 and under circumstances almost intolerable to human nature.
 
+[.centered]
 === Note GG.
 
 The following admission has recently appeared from the pen of the biographer of Baxter;
@@ -2191,7 +2302,7 @@ And though the folly of fanatics tempted me long to overlook
 the strength of this testimony of the Spirit,
 while they placed it in a certain internal assertion, or enthusiastic inspiration;
 yet now I see that the Holy Ghost, in another manner, is the witness of Christ,
-and his agent in the world.`"--Life and Times, by Orme, vol. ii. p. 459.
+and his agent in the world.`"--[.book-title]#Life and Times,# by Orme, vol. ii. p. 459.
 
 In connection with the subject of the present Note,
 the Author cannot better do justice to his own sentiments
@@ -2218,9 +2329,9 @@ and had much clearer views of the meaning and standing of the Scriptures,
 as well as of the true divinity of our Lord and Saviour,
 and the purposes of his sufferings, than other professors of that day,
 who were making a high profession of their faith in them,
-but many of whom were wanting in spiritual and vital religion.`"
-Letters to a Friend, etc. by John Wilbur, p. 26.
+but many of whom were wanting in spiritual and vital religion.`" [.book-title]#Letters to a Friend,# etc. by John Wilbur, p. 26.
 
+[.centered]
 === Note HH.
 
 However clear such doctrines may appear to many readers,
@@ -2268,7 +2379,8 @@ But if we receive the grace of God in vain, and take no care to perform the cond
 and neglect to implore the grace and assistance of God`'s Holy Spirit to that purpose,
 we have none to blame but ourselves; because it is then our own fault,
 if we fall short of that happiness which Christ hath purchased and promised to us,
-upon such easy and reasonable conditions as the gospel proposeth.`'`"--The
-Life and Posthumous Works of Richard Claridge. 1726. p. 453.
+upon such easy and reasonable conditions as the gospel proposeth.`'`"--[.book-title]#The
+Life and Posthumous Works of Richard Claridge.# 1726. p. 453.
 
+[.the-end]
 THE END.

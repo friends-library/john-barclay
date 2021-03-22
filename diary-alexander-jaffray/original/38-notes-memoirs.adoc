@@ -621,8 +621,8 @@ and his reasons for separation from those,
 with whom he had been associated in religious fellowship,
 appear in the following Queries.
 
-[quote]
-____
+[.embedded-content-document]
+--
 
 [.blurb]
 === Queries On Worship By Alexander Skene.
@@ -659,7 +659,8 @@ to countenance the worship of those, whose professed principle it is,
 _neither to speak for edification nor to pray,
 but as the Holy Ghost shall be pleased to assist them,_ in some measure, less or more;
 _without which,_ they rather choose to be silent, than to speak without this influence?
-____
+
+--
 
 The tone of utter aversion and prejudice, in regard to true spiritual worship,
 and the necessary preparation of soul for this solemn exercise,
@@ -1260,8 +1261,8 @@ of __making our calling and election sure.__`" [.book-title]#Claridge`'s Life an
 [.centered]
 === Note T.
 
-[quote]
-____
+[.embedded-content-document]
+--
 
 [.blurb]
 === Treatment Received By Friends In Their Worship, and Their Support Under It.
@@ -1320,7 +1321,8 @@ and accomplish our worship to him:--so that sometimes, upon such occasions,
 several of our opposers and interrupters have hereby been convinced of the Truth,
 and gathered from being persecutors to be sufferers with us.--[.book-title]#Barclay`'s
 Apology,# Prop. xi. Sect. 13.
-____
+
+--
 
 [.centered]
 === Note U.

@@ -1,4 +1,4 @@
-[#notes-memoirs, short="Notes to the Memoirs"]
+[short="Notes to the Memoirs"]
 == Appendix of Notes and Illustrations to the Memoirs.
 
 [.centered]

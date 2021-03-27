@@ -1,4 +1,4 @@
-[#diary.intermediate-title, short="The Diary of Alexander Jaffray"]
+[.intermediate-title, short="The Diary of Alexander Jaffray"]
 == The Diary of Alexander Jaffray Provost of Aberdeen
 
 [.blurb]

@@ -1,4 +1,4 @@
-[#memoirs.intermediate-title, short="Memoirs of the Quakers in North Scotland"]
+[.intermediate-title, short="Memoirs of the Quakers in North Scotland"]
 == Memoirs of the Rise, Progress, and Persecutions of The People Called Quakers, In The North Of Scotland.
 
 [quote.section-epigraph]

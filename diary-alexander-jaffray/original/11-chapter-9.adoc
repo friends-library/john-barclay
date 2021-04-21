@@ -45,7 +45,7 @@ then they that live should not live unto themselves,`" etc.
 
 +++[+++Some few pages are here omitted to be given,
 being apparently a recital of Goodwin`'s Treatise.
-+++[+++see Appendix, GG.]
++++[+++see <<note-GG-diary,Appendix, GG.>>]
 
 The 7th of July, 1658, I was desiring direction of the Lord,
 in the two particulars following.
@@ -129,7 +129,7 @@ and of a conference on _the same_ which I had with the Lord Swintoune a day befo
 I resolve to examine more narrowly and diligently the thoughts of my heart concerning it;
 and, by the grace of God, to have my corruption more mortified,
 and my heart in a better frame, that I may warrantably proceed in that matter.
-+++[+++see Appendix, HH.]
++++[+++see <<note-HH-diary,Appendix, HH.>>]
 
 The 22nd day.
 Having formerly gotten some good, by reading a little Treatise, _Of Mortification,_
@@ -137,8 +137,7 @@ written by Dr. Owen, and now finding another Treatise, by the same author,
 _On the Duty of Watchfulness;_ I was seeking,
 that the Lord may bless the reading of that Treatise to me,
 that I may be helped in the knowledge and practice of that duty.
-+++[+++see Appendix,
-II.]--I was also recommending to God the condition of my
++++[+++see <<note-II-diary,Appendix, II.>>]--I was also recommending to God the condition of my
 family,--that my wife and children may find mercy.
 And more particularly for my eldest son,
 +++[+++Alexander,]--that God would now give him the graces

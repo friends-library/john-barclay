@@ -36,7 +36,7 @@ The reader will find this narrative in the Notes:--not because it is at all less
 worthy the special consideration of the judicious and awakened Christian,
 than the rest of Peter Gardiner`'s history;
 but because it might lead us too much away from the _Progress of the Friends in Scotland._
-+++[+++see Appendix, CC.]
++++[+++see <<note-CC,Appendix, CC.>>]
 With regard to his movements among Friends in that kingdom,
 we have but a few scattered particulars.
 The first to be adduced, relates to his visit at Aberdeen,

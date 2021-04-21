@@ -81,7 +81,7 @@ whose minds seemed bent on disturbance and despitefulness.
 It was, doubtless, to this state of things as it then existed in Aberdeen,
 that Robert Barclay alludes in his _Apology,_ a
 quotation from which is given in the Notes.
-+++[+++see Appendix, T.]
++++[+++see <<note-T,Appendix, T.>>]
 One envious opposer, David Rait, was especially active: for the space of _two years,_
 was he in the practice of using all endeavours to interrupt
 them in the hours appropriated for divine worship;
@@ -153,7 +153,7 @@ that they joined them in society, and gave forth a written declaration under the
 stating the grounds of their change,
 which was afterward printed at the close of a controversial piece of Robert Barclay`'s,
 in reply to the students`' objections.
-+++[+++see Appendix, U.]
++++[+++see <<note-U,Appendix, U.>>]
 
 In the month called March, 1676, the Council at Edinburgh issued a declaration,
 reinforcing former acts of Parliament against conventicles,

@@ -102,7 +102,7 @@ not only to learn some things of the law and practice of the Tolbooth,
 but some things as to the practice of holiness and charity,
 especially of observing the Sabbath-day,
 for the neglect of which he ofttimes challenged and reproved me.
-+++[+++see Appendix, B.]
++++[+++see <<note-B-diary,Appendix, B.>>]
 
 About the end of July,
 (I having come there in the beginning of June,) my father advertised me,
@@ -118,13 +118,13 @@ and in September or thereabouts returned home.
 
 In the month of January, 1633, the King being then to come to Edinburgh to be crowned,
 I went over and attended that ceremony.
-+++[+++see Appendix, C]
++++[+++see <<note-C-diary,Appendix, C>>]
 
 In July thereafter I came home, my wife being, before my coming,
 brought to bed of her first son, called Alexander.
 Shortly thereafter, I went again to London, in company with Robert Skeine, Andrew Birnie,
 and George Jamieson.
-+++[+++see Appendix, D.]
++++[+++see <<note-D-diary,Appendix, D.>>]
 I stayed some time longer, and... on my return, went off the road,
 and visited the University of Cambridge by the way.
 
@@ -138,7 +138,7 @@ In September thereafter I went again to France, and stayed five or six months,
 most part of the time in +++[+++Neufchatel]
 dispatching some +++________+++, and had them with me,
 and made some +++_______+++ but to very little purpose.
-+++[+++see Appendix, E.]
++++[+++see <<note-E-diary,Appendix, E.>>]
 
 In these my two journeys to France,
 many things of the goodness and kind providence of God towards me,
@@ -271,7 +271,7 @@ After this, I having pursued +++[+++prosecuted]
 him, obtained the laws of the country, the riot being proved; and he not comparing,
 was declared fugitive, and fined in twenty thousand merks,
 whereof fifteen thousand to the State, and five thousand to my brother and me.
-+++[+++see Appendix, F.]
++++[+++see <<note-F-diary,Appendix, F.>>]
 
 The country being then in a loose and broken condition, he joining with his chief,
 the Marquis of Huntly, declared themselves enemies to the State,
@@ -290,7 +290,7 @@ he dismissed us.
 We were, by him and his order, very cruelly used all the time of our imprisonment.
 The quarrel he alleged against us, was, that we were Covenanters,
 and had given bad information against him and his friends.
-+++[+++see Appendix, G.]
++++[+++see <<note-G-diary,Appendix, G.>>]
 
 We being dismissed by him, went first to Murray,
 where we were kindly received by our friends there; thereafter to Keelie +++[+++Kelly,]

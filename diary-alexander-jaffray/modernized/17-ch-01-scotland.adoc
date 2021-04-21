@@ -84,7 +84,7 @@ before any in connection with the Friends found them out and visited them.
 So that if, as it would seem,
 James Nayler had preached in Scotland at least two years earlier than this date,
 it must be concluded that he did not fall in with this little flock.
-+++[+++see Appendix, A.]
++++[+++see <<note-A,Appendix, A.>>]
 They had not then, as yet, been recognised by the Society of Friends in England,
 nor had they received instrumental encouragement, except from those of their own number,
 to persevere in the course so remarkably opened before them.
@@ -113,7 +113,7 @@ contains so fair an illustration of the grounds and
 motives of the early ministers of this Society,
 in their religious embassies,
 that it is thought well to give it a place in the Appendix to these Memoirs.
-+++[+++see Appendix, B.]
++++[+++see <<note-B,Appendix, B.>>]
 
 Nearly a year prior to this, John Burnyeat of Cumberland,
 was engaged in a similar concern; and he being the first who makes mention,
@@ -163,7 +163,7 @@ that therein they might come to know remission of sins,
 and receive an inheritance among the sanctified.
 And, being thus clear of that nation, we returned into England,
 and came over the water to Bowstead-hill, the first day of the eleventh month, 1658.`"
-+++[+++see Appendix, C.]
++++[+++see <<note-C,Appendix, C.>>]
 
 [.small-break]
 '''
@@ -242,7 +242,7 @@ wife of Gilbert Molleson, a magistrate of the city,
 whose spiritual endowments gave her eminence and weight among the strictest classes;
 Elizabeth, wife of Andrew Goodall, merchant; Margaret, wife of John Scott,
 also a magistrate of the same place; with some others.
-+++[+++see Appendix, D.]
++++[+++see <<note-D,Appendix, D.>>]
 
 It will not now be doubted,
 that the motive influencing persons in these stations of life to such a change,
@@ -277,7 +277,7 @@ practising abominations under colour of being led to them by the Spirit;_
 and as to their principles, _blasphemous deniers of the true Christ, of heaven, hell,
 angels, the resurrection of the body, and day of judgment; inconsistent with magistracy,
 nothing better than John of Ley den and his accomplices._
-+++[+++see Appendix, E.]
++++[+++see <<note-E,Appendix, E.>>]
 This was the vulgar and familiar language _of the pulpits,_
 which was for a time received for unquestionable truth; till about the year 1663,
 some sober and serious professors in and about the said town,
@@ -334,7 +334,7 @@ so thoroughly furnished in all respects unto his holy calling._
 Thus, in this instance, was very clearly held up to view,
 what it is that constitutes _the best adorning_ of gospel preachers,
 and what is the _only_ right qualification for speaking "`as the oracles of God.`"
-+++[+++see Appendix, F.]
++++[+++see <<note-F,Appendix, F.>>]
 
 Nancy Sim, who was also in low circumstances, readily opened her house,
 at a place called Ardiharrald, for the purpose of keeping religious meetings.
@@ -416,7 +416,7 @@ in dispelling the various shades of apostasy and spiritual darkness;--__on this 
 must he own and duly appreciate _every stand_ that has been made or is making,
 in integrity, meekness, faith, and patience,
 against the delusions and encroachments of antichrist.
-+++[+++see Appendix, G.]
++++[+++see <<note-G,Appendix, G.>>]
 
 In the next year, 1664, George Keith,
 who had been convinced of the rectitude of the doctrines held by Friends,
@@ -432,7 +432,7 @@ This man afterwards became troubled in his conscience; and,
 under a sense of his wickedness in thus ill-treating the innocent, cried out fearfully,
 that the judgments of God were upon him for his behaviour towards them,
 and repeatedly begged forgiveness of them in the presence of several witnesses.
-+++[+++see Appendix, H.]
++++[+++see <<note-H,Appendix, H.>>]
 
 But the envy of the professed ministers of Aberdeen, George Meldrum and John Menzies,
 appears to have been now principally bent against Alexander Jaffray.

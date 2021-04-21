@@ -19,7 +19,7 @@ that the Piece now alluded to should be consigned to the Notes.
 This measure was adopted with some reluctance;
 and therefore the reader is particularly invited to a perusal of the document,
 before he proceeds further.
-+++[+++see Appendix, X.]
++++[+++see <<note-X,Appendix, X.>>]
 
 The Friends at Aberdeen were last noticed, as being,
 through the summer and autumn of 1677, continually harassed with a prison allotment.
@@ -153,7 +153,7 @@ Robert Barclay.
 
 One or two circumstances occurring in the above letter,
 are briefly adverted to in the Notes, to which the reader is referred.
-+++[+++see Appendix, Y.]
++++[+++see <<note-Y,Appendix, Y.>>]
 It is pleasing to derive fresh evidence from its contents,
 that the influence that Robert Barclay, as well as his father,
 possessed with some who at that time moved in the highest circles,
@@ -434,7 +434,7 @@ who added _this_ to the black catalogue of those things, which, it cannot be dou
 were registered against him by the just Judge of all the earth,--that
 he fought against God and those who meekly feared him,
 against those who loved their very enemies, and purely sought the good of all.
-+++[+++see Appendix, Z.]
++++[+++see <<note-Z,Appendix, Z.>>]
 The Friends of Aberdeen testify of him,
 that he "`was the very chief and principal instrument of all our sufferings,
 by his power in the Council:`" and the same document states,

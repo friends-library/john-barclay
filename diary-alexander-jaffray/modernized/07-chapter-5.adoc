@@ -13,7 +13,7 @@
 
 Thereafter, I was called by the Judges at Edinburgh to be Director of the Chancellry,
 in the month of March, 1652, which I accepted of in the month of June.
-+++[+++see Appendix, W.]
++++[+++see <<note-W-diary,Appendix, W.>>]
 
 In the month of June, 1653, I was called, with other four out of Scotland,
 to sit as Member of the Parliament of England.
@@ -32,7 +32,7 @@ was one of thirty or thirty-one that stayed in the house.
 Yet, the Protector was pleased to give me the aforesaid order, of which I got payment;
 and did offer me to be one of the Judges in Scotland; but this I refused,
 finding myself not capable for discharge of that duty.
-+++[+++see Appendix, X.]
++++[+++see <<note-X-diary,Appendix, X.>>]
 
 In this journey, having sought of the Lord,
 that I might be directed and kept from doing wrong, and kept from snares and temptations,
@@ -97,7 +97,7 @@ though the season of the year was not very convenient for such to travel in; yet
 by the good hand of our God with us,
 we were all safely brought to New-battell +++[+++Newbattle, near Edinburgh,]
 the 15th of November aforesaid.
-+++[+++see Appendix, Y.]
++++[+++see <<note-Y-diary,Appendix, Y.>>]
 
 Upon the remembrance of these, and other the wonderful goodness of God to me,
 in matters of this and of a better kind, I have sometimes been thinking and +++[+++minding]
@@ -230,13 +230,14 @@ by reading the history of the Bible,--even in many,
 who are yet much against such crucifixes, etc.
 But, as God looks principally _at the meaning of the Spirit in prayer,_ Rom.
 viii., so does faith look principally to _the meaning of Christ in his sufferings._
-And as, in all other truths, a believer is said to have _the mind of Christ,_ 1 Cor. 2:16.
-, so especially,
+And as, in all other truths, a believer is said to have _the mind of Christ,_ (1 Cor. 2:16)
+so especially,
 he minds what was _the mind and heart of Christ in all his sufferings;_ for,
 it is _that in them which answers to his aim and purpose,_ namely,
 a desire to be saved from sin and judgment; and, to effectuate this,
 was the very aim and end of God in sending Christ,
 and of Christ in suffering so cheerfully.
++++[+++See <<note-Z-diary,Appendix, Z.>>]
 
 Another lesson, which ordinarily the Lord uses to teach his children,
 by exercising them with the cross,

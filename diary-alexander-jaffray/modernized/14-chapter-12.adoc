@@ -21,7 +21,7 @@ and to have heard theirs.
 But, partly through lack of opportunity, and by reason of much darkness,
 that both they and +++[+++I lay under], nothing worthy the mentioning, to any purpose,
 was among us.
-+++[+++see Appendix, NN.]
++++[+++see <<note-NN-diary,Appendix, NN.>>]
 
 That day, I went to visit Mr. James Guthrie in the Tolbooth; and resolved,
 to be more free and plain with him,
@@ -288,7 +288,7 @@ seeing _he was preparing some papers for the scaffold._
 Whereupon, I was fearing, it may meet with the like success with him,
 as with Mr. James Guthrie, to whom another copy of it was sent for the same end.
 But he, being advertised, that the Parliament was to be about his sentence very shortly,
-had no time to peruse the same; +++[+++see Appendix, OO.]
+had no time to peruse the same; +++[+++see <<note-OO-diary,Appendix, OO.>>]
 I was desiring, that it may be otherwise ordered with this good man;
 and that he may receive what truth there is in it, without prejudice or passion.
 And, if any error or mistake, upon my part, be in it, that the Lord may be pleased,

@@ -73,7 +73,7 @@ in composing a difference between the Duke of Gordon
 and "`Sir Ewen Cameron,`" who had married his sister,
 Jean Barclay; and undertook a journey to London chiefly with this view;
 which object was at length accomplished, as it is said, by the King`'s interposition.
-+++[+++see Appendix, A A.]
++++[+++see <<note-AA,Appendix, AA.>>]
 
 In the Memoirs of the family, it is also stated, that "`In 1682,
 the Earls of Perth and Melfort, with the other proprietors,
@@ -316,7 +316,8 @@ of her time;`" and the other from Robert Barclay`'s very especial Friend,
 George Fox, with whom he maintained a frequent correspondence.
 The former may be allowed a place; in the Notes to this volume,
 as an expressive proof of the estimation in which he was held by one of that rank;
-+++[+++see Appendix, BB]; but the latter is too extraordinary an effusion of the _ancient,
++++[+++see <<note-BB,Appendix, BB>>];
+but the latter is too extraordinary an effusion of the _ancient,
 evangelical_ spirit, to be withheld from a prominent place in these pages.
 It proved the _last_ letter, except one, which that worthy ever wrote.
 

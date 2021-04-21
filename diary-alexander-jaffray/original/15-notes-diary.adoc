@@ -1,6 +1,6 @@
 == Appendix of Notes and Illustrations to the Diary.
 
-[.centered]
+[#note-A-diary.centered]
 === Note A.
 
 It does not very clearly appear,
@@ -14,8 +14,9 @@ to place the earliest insertion as late as 1656.
 
 In a future Note, some further remark will be made,
 on the retrospective form of this part of the Diary.
+<<note-A-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-B-diary.centered]
 === Note B.
 
 This Robert Burnet was the father of Bishop Burnet,
@@ -48,8 +49,9 @@ Burnet, in the Diary, and in some other documents, is uniformly spelt with one _
 which, however, does not appear to be the correct mode.--That the Burnetts,
 who are mentioned in the succeeding _Memoirs,_ as being of the Society of Friends,
 were connected with the above family, is not distinctly ascertained.
+<<note-B-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-C-diary.centered]
 === Note C.
 
 "`In the year 1633,`" says Bishop Burnett, in the [.book-title]#History of his own Times,#
@@ -59,8 +61,9 @@ His entry and coronation were managed with such magnificence,
 that the country suffered much by it: all was entertainment and show.`"
 Spalding, in his [.book-title]#History of the Troubles# etc., edit.
 1830, p. 14, gives a particular account of each day`'s banqueting and ceremony.
+<<note-C-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-D-diary.centered]
 === Note D.
 
 George Jamieson is named in Kennedy`'s [.book-title]#Annals of Aberdeen# as "`an eminent portrait
@@ -70,8 +73,9 @@ He was employed by the magistrates of Edinburgh to make paintings of the Scottis
 and in 1633, King Charles, when there on the occasion of his coronation,
 sat to him for his portrait.
 Vol. i. p. 268.
+<<note-D-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-E-diary.centered]
 === Note E.
 
 The Editor has been wholly at a loss to English the
@@ -103,8 +107,9 @@ there is little doubt,
 but that he was a chief promoter of this undertaking
 for bettering the condition of the poor,
 whether interested on his own account, or not, in any concern of a similar description.
+<<note-E-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-F-diary.centered]
 === Note F.
 
 This affair is related in Spalding`'s [.book-title]#History of the Troubles,
@@ -125,8 +130,9 @@ and of the King`'s advocate for his interest.--Wherefore he is fined in 20,000 m
 whereof 5000 to the complainers, and 15,000 to the public.`"
 // lint-disable invalid-characters "½"
 The merk, Scots money, being 1s 1½d+++.+++, makes the fine £1,125 sterling.
+<<note-F-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-G-diary.centered]
 === Note G.
 
 This aggression of Haddo, with the date of its occurrence,
@@ -158,8 +164,9 @@ that he took the Covenant in 1638,
 when his father and others of the inhabitants of Aberdeen subscribed it;
 being urged to that measure by the Commissioners for the Covenanters, who,
 according to Spalding, came to Aberdeen "`on the 20th of July.`"
+<<note-G-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-H-diary.centered]
 === Note H.
 
 It will be proper,
@@ -168,7 +175,7 @@ and circumstances alluded to in this paragraph and the preceding
 one.--The real name of Alester Macdonald was Alexander,
 but he was indiscriminately called Alexander, Allester, and Alcester.
 Bishop Burnet thus explains this affair of the Macdonalds.
-'``' A great body of the Macdonalds, commanded by one Colonel Killoch,
+"`A great body of the Macdonalds, commanded by one Colonel Killoch,
 came over from Ireland to recover Kintire, the best country of all the Highlands,
 out of which they had been driven by the Argyle family,
 who had possessed their country about fifty years.`"
@@ -213,8 +220,9 @@ and public persons--Whether this crime be punishable be death, treason,
 or arbitrament of the Parliament?
 This being putt to the voices of the house, it was found by plurality of voices,
 that this crime is capital, and punishable be the pain of death.`" Vol, iii. p. 213.
+<<note-H-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-I-diary.centered]
 === Note I.
 
 In the Parliamentary Records of Scotland, under the date of "`the 19th of February,
@@ -229,8 +237,9 @@ by sending to our assistance the Master of Forbes, Lord Fraser, the Lairdis of S
 Monymusk, Echt, Leslie the younger, etc.`"--The name Fraser, in the Public Records,
 is written promiscuously, Fraser, Frazer, Fraiser, Frissil, Frizell.
 "`Lord Fraser`" is occasionally styled "`Lord Frizell.`"
+<<note-I-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-J-diary.centered]
 === Note J.
 
 On an examination of the _Acts and Minutes of the Scottish Parliament,_
@@ -291,8 +300,9 @@ of the various hardships which they had suffered during the civil wars,
 and of the distress occasioned by the pestilence, which had lately infested the town,
 he was pleased to suspend the exaction of the money.`"
 Vol. i. p. 228.
+<<note-J-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-K-diary.centered]
 === Note K.
 
 Alexander Jaffray`'s father may here be briefly spoken of,
@@ -301,8 +311,9 @@ and of the Committee of Estates; a Commissioner, likewise,
 on one occasion to the General Assembly of the Church of Scotland.
 Spalding, who evidently is not partial to him, notices that, in 1645,
 "`he departed this life in New Aberdeen; a rigorous Covenanter.`"
+<<note-K-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-L-diary.centered]
 === Note L.
 
 "`The plague, which had existed in the southern districts of Scotland for two years,
@@ -329,8 +340,9 @@ who would be only twenty years of age in 1634.--In the year 1648,
 he was deputed to repair to Edinburgh,
 to confer with the Committee of Estates about the mode of election of the provost.
 Annals of Aberdeen, vol. i. p. 243.
+<<note-L-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-M-diary.centered]
 === Note M.
 
 Thus modestly, nay scantily, does our humble-minded,
@@ -576,12 +588,12 @@ and render to them the hearty thanks of this kingdom for the same.
 Sic subscribitur,
 
 [.signed-section-signature]
-Arch.
-Johnstoun.
+Arch. Johnstoun.
+<<note-M-diary__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-N-diary.centered]
 === Note N.
 
 In a tract, "`printed in London, September 9th,
@@ -675,8 +687,9 @@ For the Right honourable, etc.
 
 It is evident, on inspection of Alexander Jaffray`'s signature,
 that this should stand _"`Al.`"_ not _"`M. Jaffray.`"_
+<<note-N-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-O-diary.centered]
 === Note O.
 
 John Owen, whose views of religious liberty are thus particularly adverted to by Jaffray,
@@ -717,8 +730,9 @@ waiting with all patience on them that oppose themselves,
 if at any time God will give them repentance to the acknowledgment of the truth.
 Imprisoning, banishing, slaying, is scarcely _a patient waiting._
 God doth not so wait on unbelievers.`" [.book-title]#Memoirs of Owen,# p. 89--104.
+<<note-O-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-P-diary.centered]
 === Note P.
 
 These meetings of ministers and professors at Edinburgh,
@@ -760,8 +774,9 @@ He observes, "`they war not all alike but for a sinful compliance,
 and following of the Sectaries courses, and favouring their errors.`"
 "`The main business that was agitat at this meeting
 was anent a letter to be written to Cromwell.`"
+<<note-P-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-Q-diary.centered]
 === Note Q.
 
 Of these individuals, with whom Jaffray had interviews, both publicly and more privately,
@@ -804,8 +819,9 @@ He became a valued member of the Society of Friends,
 as the ensuing _Memoirs_ of that people will show.^
 footnote:[His house, Parkhill, lies on the north side of the Don,
 and may be seen from the Bridge of Dyce to the east.]
+<<note-Q-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-R-diary.centered]
 === Note R.
 
 "`Mr. James Wood was, some time after the year 1651,
@@ -1104,10 +1120,11 @@ In name of others in this place, _sic subscribitur,_
 
 [.signed-section-signature]
 Alexander Jaffray, Mr. William Moore, Mr. John Row, Mr. John Meinzies, Andrew Birnie.
+<<note-R-diary__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-S-diary.centered]
 === Note S.
 
 The following quotation from Orme`'s [.book-title]#Life of Owen,# p. 127,
@@ -1175,8 +1192,9 @@ every family almost had a Bible; yea, in most of the country,
 all the children could read the Scriptures, and were provided with Bibles,
 either by their parents or their ministers.`' [.book-title]#History of the Church of Scotland,# p. 54,
 etc.`"
+<<note-S-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-T-diary.centered]
 === Note T.
 
 We have seen that Jaffray, in his intercourse with Cromwell,
@@ -1241,8 +1259,9 @@ so nearly congenial with their own views.
 Nor will Christians of other denominations be disappointed
 of instruction and comfort from the perusal,
 in proportion as they look beyond men, to the essential teachings of the grace of Jesus.
+<<note-T-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-U-diary.centered]
 === Note U.
 
 Allusion has several times been made in these Notes to the Independents.
@@ -1298,8 +1317,9 @@ in the month called July, 1652,
 which is very near to the date of these his observations in the Diary.
 It is entitled, _A Declaration in favour of Congregational Discipline,
 Purity of Communion, and Toleration._
+<<note-U-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-V-diary.centered]
 === Note V.
 
 In Row`'s _Supplement to Blair`'s Life,_
@@ -1320,8 +1340,9 @@ whither he had gone _to endeavour to keep or recover some there:_
 No. 63,(is from a number of Protesting ministers in the south or west,
 to some in hazard of Independency; the scope of which, no doubt, is,
 as Jaffray expresses it, _to persuade them from falling on any such dividing way._
+<<note-V-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-W-diary.centered]
 === Note W.
 
 In Nicoll`'s MS. _Diary,_ before cited, under date "`May 8--18, 1652,`"
@@ -1453,8 +1474,9 @@ and extends only from 1652 to 1653-4;
 so that we are deprived of his sentiments connected with that important
 engagement upon which he was united with his friend Jaffray,--the
 Commission to treat with the King at Breda.
+<<note-W-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-X-diary.centered]
 === Note X.
 
 It is far from the design of the Author of these historical illustrations,
@@ -1719,8 +1741,9 @@ those who used the ministry as a common trade to live by,
 and were never likely to convert a soul:--all these they usually rejected,
 and in their stead admitted any that were able, serious preachers,
 and lived a godly life, of what tolerable opinion soever they were.`"
+<<note-X-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-Y-diary.centered]
 === Note Y.
 
 The reader will probably have remarked,
@@ -1733,8 +1756,9 @@ together with his more diffuse meditations "`On being exercised in bearing the
 cross,`" appear to wind up the _retrospective_ part of the narrative to a close.
 After this, at the date, "`10th of April, 1657,`", proceeds the Diary, _as a diary,_
 in its more appropriate form, _each observation bearing the date of insertion._
+<<note-Y-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-Z-diary.centered]
 === Note Z
 
 A passage remarkably similar to this,
@@ -1759,8 +1783,9 @@ In the succeeding Note, the reader will find some observations relative to Leigh
 tending to throw light upon that coincidence,
 which is occasionally to be discerned between the
 sentiments of this author and our worthy Diarist.
+<<note-Z-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-AA-diary.centered]
 === Note AA.
 
 "`__There is a noble guest within us__--Oh! let all our business be,
@@ -1809,8 +1834,9 @@ are symptoms of that harmonizing oneness,
 which it was the blessed will of the Father should subsist among believers,
 which the Son himself interceded for,
 and which his Holy Spirit is fully able to bring about.
+<<note-AA-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-BB-diary.centered]
 === Note BB.
 
 Jaffray seems to have imbibed such a sentiment as this,
@@ -1832,8 +1858,9 @@ While I have met with divers obscure persons,
 not noted for any extraordinary profession or forwardness in religion,
 but only to live a quiet, blameless life, whom I have after found to have long lived,
 as far as I could discern, a truly godly and sanctified life.`"
+<<note-BB-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-CC-diary.centered]
 === Note CC.
 
 It would seem, by this paragraph, as if Alexander Jaffray`'s opinion then was,
@@ -1852,8 +1879,9 @@ _"`But I am carnal,`"_ etc., and yet in chap. 8. verse 2, he avers,
 that the law of the spirit of life in Christ Jesus
 _had made him free from the law of sin and death._
 A similar mode of speech, the Apostle James uses, chap. 3. verses 9, 10.
+<<note-CC-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-DD-diary.centered]
 === Note DD.
 
 At the latter end of this paragraph,
@@ -1902,8 +1930,9 @@ But if _this_ prayer had been such a prescribed form of prayer to the church,
 _that_ had not been true; neither had they been ignorant what to pray,
 nor should they have needed the help of the Spirit to teach them.`"
 Apology, Prop. xi. sect. 10.
+<<note-DD-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-EE-diary.centered]
 === Note EE.
 
 Andrew Cant, the father-in-law of Alexander Jaffray,
@@ -1920,8 +1949,9 @@ but it does not appear that they suffered; on the contrary, the son conformed to
 In Row`'s _Supplement to Blair`'s Life,_
 Andrew Cant is described as "`very forward and zealous,
 being of a fiery temper;`" which agrees with the account here given of him.
+<<note-EE-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-FF-diary.centered]
 === Note FF.
 
 _Caskieben_ is repeatedly mentioned in the "`Retours,`"
@@ -1933,8 +1963,9 @@ who lives at Keith Hall,) "`of the lands and barony of Caskieben,
 lying in the parish of Keith Hall.`"--Kinmuck,
 where the Society of Friends still have a meetinghouse, is in that parish,
 and very near the Earl of Kintore`'s residence.
+<<note-FF-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-GG-diary.centered]
 === Note GG.
 
 "`Dr. Thomas Goodwin, whom Wood,
@@ -1943,8 +1974,9 @@ patriarchs of Independency,`' was President of Magdalen College, Oxford.`"
 He is represented, in the Memoir of the Life of Owen, "`as rather too high a Calvinist,
 but distinguished for his piety, learning, and industry;
 as the five folio volumes of his posthumous works bear ample testimony.`" p. 175.
+<<note-GG-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-HH-diary.centered]
 === Note HH.
 
 The name of Swintoune, has already been introduced in a preceding Note,
@@ -2065,8 +2097,9 @@ found Swinton friends; family connections,
 and some interested considerations of Middleton the Commissioner,
 joined to procure his safety; and he was dismissed,
 but after a long imprisonment and much dilapidation of his estates.`"
+<<note-HH-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-II-diary.centered]
 === Note II.
 
 Owen`'s work [.book-title]#On the Mortification of Sin in Believers# was published in 1656.
@@ -2081,8 +2114,9 @@ must have been that entitled _Of Temptation; the nature and power of it;
 the danger of entering into it; and the means of preventing that danger, etc._ 1658;
 being the substance of some sermons on Matt. 26:41.--"`Watch and pray,
 that ye enter not into temptation.`"--[.book-title]#Memoirs,# p. 501.
+<<note-II-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-JJ-diary.centered]
 === Note JJ.
 
 Remarkable, certainly, is the coincidence between Alexander Jaffray`'s forebodings,
@@ -2112,8 +2146,9 @@ by any method that was more sure and more easy, than by going into the stream,
 and laughing at all religion, telling or making stories,
 to expose both themselves and their party as impious and ridiculous.`"
 vol. i. p. 127. See also Neale`'s [.book-title]#History of the Puritans,# vol. iv. p. 269.
+<<note-JJ-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-KK-diary.centered]
 === Note KK.
 
 This was the Committee of Estates.
@@ -2130,8 +2165,9 @@ before the Committee of Estates, and required to give bail,
 that they should appear at the opening of the Parliament,
 and answer to what should be then objected to them.`"
 vol. i. p. 155, 156.
+<<note-KK-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-LL-diary.centered]
 === Note LL.
 
 James Simpson was minister at Airth in Stirlingshire.
@@ -2142,8 +2178,9 @@ being accused in Parliament by the King`'s advocate of seditious practices,
 he was banished the King`'s dominions,
 without being heard by the Parliament in his own defence.
 He died in Holland.--Woodrow`'s [.book-title]#History of the Sufferings of the Church of Scotland,# vol. i. p. 71.
+<<note-LL-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-MM-diary.centered]
 === Note MM.
 
 In the _Acts and Minutes of the Parliament of Scotland,_
@@ -2207,10 +2244,11 @@ gives hereby warrant and order to the magistrates of Edinburgh,
 to set the person of Alexander Jaffray at liberty forth of their Tolbooth,
 he finding caution to the Lord Register`'s sight to stay within
 the town of Edinburgh until the Parliament`'s further order.
+<<note-MM-diary__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-NN-diary.centered]
 === Note NN.
 
 The following quotation from Skinner`'s [.book-title]#Ecclesiastical History of Scotland,# will,
@@ -2247,8 +2285,9 @@ yet he was declared incapable of exercising any public trust, civil or ecclesias
 and afterward underwent much hardship and persecution.
 Trail was tried before the Parliament; and the next year was banished,
 and went to Holland.
+<<note-NN-diary__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-OO-diary.centered]
 === Note OO.
 
 "`One Macquare, a hot man and considerably learned,
@@ -2264,6 +2303,7 @@ Yet he was only condemned to perpetual banishment.
 Upon which, he and some others who were afterwards banished,
 went and settled at Rotterdam.`"
 Burnet`'s [.book-title]#History of His Own Times,# vol. i. p. 161.
+<<note-OO-diary__xref_src,?LINKABLE-BACK>>
 
 [.asterism]
 '''

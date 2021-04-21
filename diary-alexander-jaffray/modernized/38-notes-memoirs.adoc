@@ -1,7 +1,7 @@
 [short="Notes to the Memoirs"]
 == Appendix of Notes and Illustrations to the Memoirs.
 
-[.centered]
+[#note-A.centered]
 === Note A.
 
 A person of some note, who had been an officer under Oliver Cromwell,
@@ -24,13 +24,14 @@ and carried condemnation for it in my own breast.
 The people there, in the clear and powerful opening of their states,
 cried out against themselves, imploring mercy, a thorough change,
 and the whole work of salvation to be effected in them.`"--See [.book-title]#J. Gough`'s Journal.#
+<<note-A__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-B.centered]
 === Note B.
 
-Extract from [.book-title]#Memoirs of the Life of Stephen Crisp,# 1824, p. 53. "`About the year 1659,
-I often felt the aboundings of the love of God in my heart; and a cry,
-to stand given up to his will;--which I thought I was,
+Extract from [.book-title]#Memoirs of the Life of Stephen Crisp,# 1824, p. 53.
+"`About the year 1659, I often felt the aboundings of the love of God in my heart;
+and a cry, to stand given up to his will;--which I thought I was,
 not knowing or foreseeing what the Lord was intending to do with me;
 but his eye saw further than mine.
 This love, and tenderness, and bowels of compassion wrought so in me,
@@ -85,8 +86,9 @@ brought home to my wife, and children, and relations;
 in all my journey having been sweetly accompanied with the presence of the Lord;
 and his power often filled my earthen vessel, and made my cup to overflow;
 praises forever be to his name! says my soul.`"
+<<note-B__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-C.centered]
 === Note C.
 
 In explanation of the use of the term "`steeple-houses`" in this paragraph,
@@ -120,8 +122,9 @@ more than for their own habitations;--they believing,
 that the Almighty is equally present everywhere,
 to bless and to sanctify every place and everything to those that
 walk uprightly on the earth--his footstool.`"
+<<note-C__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-D.centered]
 === Note D.
 
 Elizabeth Goodall has been already thus briefly mentioned
@@ -142,8 +145,9 @@ that so often and long stopped our burials and raised our dead; +++[+++so]
 that now they are as peaceable and quiet as any other,
 and attended with many people and the magistrates of the city.`"
 This last passage will be explained in the course of the history.
+<<note-D__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-E.centered]
 === Note E.
 
 John Boccold, a tailor of Leyden, leader of a mob, who,
@@ -154,8 +158,9 @@ and Munster became in their imagination Mount Zion,
 and this man fancied he was called to sit on the throne of David.
 His fanaticism was connected with the most unrestrained licentiousness and extravagant
 conduct.--[.book-title]#Mann`'s Lectures on Ecclesiastical History and Nonconformity,# p. 225.
+<<note-E__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-F.centered]
 === Note F.
 
 Doubtless, it was in allusion to such instances as this of George Gray,
@@ -196,8 +201,9 @@ because illiterate) witnesses of God to be filled with.
 And therefore, seeing that in and among them I, with many others,
 have found _the heavenly food that gives contentment,
 let my soul seek after this learning, and wait for it forever!_ [.book-title]#Barclay`'s Works,# fol. p. 426. or [.book-title]#Apology,# Prop. 10. sect 23.
+<<note-F__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-G.centered]
 === Note G.
 
 Respecting the persecution of the Scottish Presbyterians,
@@ -243,8 +249,9 @@ and that the greater the injury that is done us in these persecutions we endure,
 the more just and heavy will be that vengeance that will follow it.
 _Never was any wicked attempt made against Christians,
 but a divine vengeance was seen at the heels of it.`"_ 3rd edit. p. 175.
+<<note-G__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-H.centered]
 === Note H.
 
 The following is a brief outline of the career of George Keith,
@@ -411,8 +418,9 @@ But, as the measure of this Spirit is faithfully kept to and improved,
 we grow more and more fruitful in every good work and word,
 to the glory of God and comfort of our own souls; and as the salt of the earth,
 help to season those who are not seasoned.`" [.book-title]#J+++.+++ Richardson`'s Life,# p. 130.
+<<note-H__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-I.centered]
 === Note I.
 
 William Dell, whose name has been already introduced in the earlier part of this Work,
@@ -443,8 +451,9 @@ and oneness of religious perception on this precise point,
 thus manifested in the latter expressions of Dell,
 and in those of Jaffray to which this Note is attached?--may it not be said,
 that these men were taught in the same school, were "`baptized by one Spirit?`"
+<<note-I__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-J.centered]
 === Note J.
 
 On the restoration of Episcopacy in Scotland in 1662,
@@ -455,8 +464,9 @@ The Notes to the Diary,
 show that several of the former associates of Jaffray were among this number;
 and it is clear by this last paragraph of the "`Word of Exhortation,`"
 how expressly his solicitude is directed towards that class.
+<<note-J__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-K.centered]
 === Note K.
 
 The following quotation from a writer well approved among the Society, will, it is hoped,
@@ -538,8 +548,9 @@ and those free notions of civil and religious liberty,
 which they had been so active in disseminating, as +++[+++it was]
 to religion and the civilization boasted of;&hellip;`"
 Gough`'s [.book-title]#History of Friends,# vol. i. p. 86, etc.
+<<note-K__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-L.centered]
 === Note L.
 
 It may be requisite to give an illustration of those numerous calumnies,
@@ -582,8 +593,9 @@ These papers, together with the sermon,
 which with much difficulty was at length procured from one of his hearers,
 Alexander Jaffray and George Keith readily replied to;
 and "`it had a very good service`" among their neighbours.
+<<note-L__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-M.centered]
 === Note M.
 
 The Queries, which were offered to the public preachers of Aberdeen by Alexander Skene,
@@ -624,7 +636,7 @@ appear in the following Queries.
 --
 
 [.blurb]
-=== Queries On Worship By Alexander Skene.
+==== Queries On Worship By Alexander Skene.
 
 1st.--Should _any_ act of God`'s worship be gone about, without the motions, leadings,
 and actings of the Holy Spirit?
@@ -706,8 +718,9 @@ that the Apostle has a peculiar respect unto it, when he says,
 that _the Spirit helps our infirmities,
 making intercession for us with groanings which cannot be uttered,_ or,
 as the original may bear, __that cannot be worded.__`" p. 98, 99.
+<<note-M__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-N.centered]
 === Note N.
 
 Of Meldrum, the historian of the church of Scotland, Cruickshank says,
@@ -727,8 +740,9 @@ was not altogether an idle spectator of the success of this _new heresy,_
 and that by no means was he lacking in the attempt to give the
 King`'s Council some substantial work in this line of persecution,
 though their hands were already so full.
+<<note-N__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-O.centered]
 === Note O.
 
 Among the early opponents of the principles of religious
@@ -837,17 +851,18 @@ and the Lord strengthen you in your sufferings, in his holy spirit of faith, ame
 
 [.signed-section-signature]
 G+++.+++ F.
+<<note-O__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-P.centered]
 === Note P.
 
 [.embedded-content-document.address]
 --
 
 [.blurb]
-=== A Seasonable Warning and serious exhortation to, and expostulation with the Inhabitants of Aberdeen, concerning this present dispensation and day of God`'s living visitation towards them.
+==== A Seasonable Warning and serious exhortation to, and expostulation with the Inhabitants of Aberdeen, concerning this present dispensation and day of God`'s living visitation towards them.
 
 Great, unutterably great, O you Inhabitants! is the love of God,
 which flows in my heart towards you;
@@ -970,10 +985,11 @@ Robert Barclay.
 [.signed-section-context-close]
 This came before me to signify unto you by writing, at Ury, the 12th of the 1st month,
 1672.
+<<note-P__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-Q.centered]
 === Note Q.
 
 In this place, it will be proper to mention,
@@ -1046,8 +1062,9 @@ and to bury their dead according to their own custom, without molestation.`"
 
 This concluding observation,
 is certainly not borne out by the vouchers which that people hold.
+<<note-Q__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-R.centered]
 === Note R.
 
 Of John Swintoune, we read nothing more in the [.book-title]#Memoirs of the Friends in Scotland;#
@@ -1134,7 +1151,7 @@ They are, with some slight verbal amendment, as follow.
 --
 
 [.blurb]
-=== A Testimony Left by John Swintoune of Swintoune.
+==== A Testimony Left by John Swintoune of Swintoune.
 
 I, John Swintoune of Swintoune, being surrounded with weakness of body,
 so that there is more probability than to the contrary, that I may lay it down;
@@ -1171,7 +1188,7 @@ Writ and subscribed with my own hand, at Borthwick, this 15th of the 2nd month, 
 --
 
 [.blurb]
-=== His Wife`'s Testimony Concerning Him and the Truth.
+==== His Wife`'s Testimony Concerning Him and the Truth.
 
 Let _substance_ +++[+++Christ the living, eternal substance,]
 be the aim of every one: oh, keep to it, every one that knows it;
@@ -1217,10 +1234,11 @@ Frances Swintoune.
 
 [.signed-section-context-close]
 Borthwick, 22nd of 6th month 1679.
+<<note-R__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-S.centered]
 === Note S.
 
 The small estate of Kingswells, lying about five miles west of Aberdeen,
@@ -1254,15 +1272,16 @@ Father!--this, this, my dear kinsman, is far above all in this sublunary world!
 O let this piece of _divine and spiritual heraldry,_ be our main care and concern;
 omitting no opportunity, under those blessed means that are so plentifully afforded us,
 of __making our calling and election sure.__`" [.book-title]#Claridge`'s Life and Posthumous Works,# p. 315.
+<<note-S__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-T.centered]
 === Note T.
 
 [.embedded-content-document]
 --
 
 [.blurb]
-=== Treatment Received By Friends In Their Worship, and Their Support Under It.
+==== Treatment Received By Friends In Their Worship, and Their Support Under It.
 
 But when people meet together, and their worship consists not in such outward acts,
 and _they depend not upon anyone`'s speaking,_ but merely sit down to wait upon God,
@@ -1318,10 +1337,11 @@ and accomplish our worship to him:--so that sometimes, upon such occasions,
 several of our opposers and interrupters have hereby been convinced of the Truth,
 and gathered from being persecutors to be sufferers with us.--[.book-title]#Barclay`'s
 Apology,# Prop. xi. Sect. 13.
+<<note-T__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-U.centered]
 === Note U.
 
 In the daily interactions of private life, there is no doubt,
@@ -1367,8 +1387,9 @@ But it cannot be considered, that these undertakings are likely to have, by any 
 comprehended _all_ that the energies of Robert Barclay`'s mind were employed upon.
 From some memoranda in his own hand-writing, it would seem far from improbable,
 that he had some design and _plan_ of a _History of the Church._
+<<note-U__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-V.centered]
 === Note V.
 
 At this page, there is allusion to a letter, addressed by Friends to George Melvill,
@@ -1477,10 +1498,11 @@ Now as this we can say in the presence of God and man, so we remain,
 
 [.signed-section-signature]
 Your Friends.
+<<note-V__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-W.centered]
 === Note W.
 
 Elizabeth, Princess Palatine of the Rhine, was the eldest daughter of Frederick the 5th,
@@ -1516,8 +1538,9 @@ and copies of my grandfather`'s answers, I shall refer to the originals,
 for those who want to see them.`"
 These valuable documents, the Author, by favour of the present proprietor of Ury,
 has searched for--but in vain.
+<<note-W__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-X.centered]
 === Note X.
 
 It is believed,
@@ -1936,8 +1959,9 @@ Lilias Skene.
 
 The Author should have stated, that some few passages in the above letter are omitted,
 and that some very slight alterations have been made in the phraseology.
+<<note-X__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-Y.centered]
 === Note Y.
 
 Robert Barclay left his companions at Herwerden, and _they_ took that place, again,
@@ -1956,8 +1980,9 @@ as she certainly was of the writer of this letter.
 For some extraordinary account of her,
 see _a supplementary note_ at the end of [.book-title]#Penington`'s Letters,# 2nd edit.
 1829, published by Holdsworth and Ball, London.
+<<note-Y__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-Z.centered]
 === Note Z.
 
 Bishop Burnet declares of Archbishop Sharp,
@@ -1982,8 +2007,9 @@ vindictive, perfidious, at once haughty and servile, rapacious and cruel,
 __his friends have never attempted to disown:__`" "`-- he became an unrelenting persecutor,
 like most apostates:`"-- vol.
 iv. p. 95.
+<<note-Z__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-AA.centered]
 === Note AA.
 
 Particulars of this difference,
@@ -2006,8 +2032,9 @@ who were requested to become referees.
 Persevering through all obstructions raised by the opposite party,
 Barclay was at length enabled to obtain a final settlement,
 much to the advantage of Cameron of Lochiel.
+<<note-AA__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-BB.centered]
 === Note BB.
 
 [.embedded-content-document.letter]
@@ -2052,10 +2079,11 @@ family at this place;--for I am affectionately at your service,
 
 [.signed-section-signature]
 Ann Errol.
+<<note-BB__xref_src,?LINKABLE-BACK>>
 
 --
 
-[.centered]
+[#note-CC.centered]
 === Note CC.
 
 "`In the year 1694, Peter Gardner, a Friend who lived in Essex,
@@ -2194,8 +2222,9 @@ He was _quite sensible_ to the last; and in a remarkable manner,
 was given to know the inward states of those that came to see him.
 And further, the money, which John Richardson had handed to him, actually lasted out,
 so as to defray the expenses of his interment and other charges incurred there.`"
+<<note-CC__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-DD.centered]
 === Note DD.
 
 The sentiment thus quaintly conveyed in the two last lines of this stanza,
@@ -2240,8 +2269,9 @@ but what he himself did __well feel and know.__`"
 No wonder, then, that Pinkerton,
 in his [.book-title]#Iconographia Scotica,# should describe it as "`a work of eminent piety,
 __without enthusiasm.__`"
+<<note-DD__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-EE.centered]
 === Note EE.
 
 At page 225 of these Memoirs,
@@ -2254,8 +2284,9 @@ And it further appears, by a minute of the Aberdeen Monthly Meeting, that "`Una 
 daughter to Ewen Cameron of Lochell,`" laid before
 them her intention of marriage with "`Robert Barclay,
 grandson of the Apologist.`"
+<<note-EE__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-FF.centered]
 === Note FF.
 
 When the 6th edition of this work had nearly gone through the press, the Author happened,
@@ -2272,8 +2303,9 @@ that 130 of these pages should bear the date of the _Iron-house,_--a cell,
 it will be recollected, in which Patrick Livingston was confined for seven weeks,
 where scarce any light was admitted,
 and under circumstances almost intolerable to human nature.
+<<note-FF__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-GG.centered]
 === Note GG.
 
 The following admission has recently appeared from the pen of the biographer of Baxter;
@@ -2327,8 +2359,9 @@ as well as _of the true divinity of our Lord and Saviour,
 and the purposes of his sufferings,_ than other professors of that day,
 who were making a high profession of their faith in them,
 but many of whom were lacking in spiritual and vital religion.`" [.book-title]#Letters to a Friend,# etc. by John Wilbur, p. 26.
+<<note-GG__xref_src,?LINKABLE-BACK>>
 
-[.centered]
+[#note-HH.centered]
 === Note HH.
 
 However clear such doctrines may appear to many readers,
@@ -2378,6 +2411,7 @@ we have none to blame but ourselves; because it is then our own fault,
 if we fall short of that happiness which Christ has purchased and promised to us,
 upon such easy and reasonable conditions as the gospel proposes.`'`"--[.book-title]#The
 Life and Posthumous Works of Richard Claridge.# 1726. p. 453.
+<<note-HH__xref_src,?LINKABLE-BACK>>
 
 [.the-end]
 The End.

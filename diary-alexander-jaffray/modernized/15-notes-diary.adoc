@@ -773,7 +773,7 @@ for preventing _their compliance with the enemy,_ meaning, the Parliament`'s arm
 He observes, "`they war not all alike but for a sinful compliance,
 and following of the Sectaries courses, and favouring their errors.`"
 "`The main business that was agitat at this meeting
-was anent a letter to be written to Cromwell.`"
+was concerning a letter to be written to Cromwell.`"
 <<note-P-diary__xref_src,?LINKABLE-BACK>>
 
 [#note-Q-diary.centered]
@@ -1443,13 +1443,13 @@ After numerous references on toleration, church government, admission to ordinan
 etc., as if he had been discussing these subjects with persons not named:--"`21st June,
 1652.
 Memorandum with Mr. Jaffray--1st. To consider my last letter,
-and correct an expression in it anent church members, their qualification,
+and correct an expression in it concerning church members, their qualification,
 and restrict it to admission to the sacraments.--2nd. To see how far he
 agrees with me in these things I write of.--3rd. To show that,
 since my last, my mind is much alienated with General Dean`'s discourse; therefore,
 to inquire,
 how can we consent or submit to rulers of such principles?--4th.
-To ask anent the General Assembly and others.--5th. What overtures
+To ask concerning the General Assembly and others.--5th. What overtures
 of peace or agreement are fallen upon for those in the west,
 and others,
 with the English and among ourselves?--6th. To consider their paper and propositions,
@@ -1971,8 +1971,8 @@ and very near the Earl of Kintore`'s residence.
 === Note GG.
 
 "`Dr. Thomas Goodwin, whom Wood,
-in the [.book-title]#Athena Oxonienses# denominates,`' one of the _atlases_ and
-patriarchs of Independency,`' was President of Magdalen College, Oxford.`"
+in the [.book-title]#Athena Oxonienses# denominates, one of the _atlases_ and
+patriarchs of Independency, was President of Magdalen College, Oxford.
 He is represented, in the Memoir of the Life of Owen, "`as rather too high a Calvinist,
 but distinguished for his piety, learning, and industry;
 as the five folio volumes of his posthumous works bear ample testimony.`" p. 175.
@@ -2203,7 +2203,7 @@ The humble petition of Alexander Jaffray shows,
 That when your Lordship`'s Petitioner was required by the
 Committee of Estates to subscribe the public bond,
 your Lordship`'s Petitioner desired some time for getting of cautioners +++[+++securities,]
-and satisfying himself anent the bond, which he heard was granted to others.
+and satisfying himself concerning the bond, which he heard was granted to others.
 But this favour being denied to your Lordship`'s Petitioner,
 he was upon the 20th day of September last committed prisoner to the Tolbooth of Edinburgh,
 where he has remained ever since; albeit, within few days after his imprisonment,

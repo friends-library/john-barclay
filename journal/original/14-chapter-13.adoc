@@ -56,7 +56,7 @@ John Barclay to +++_______+++.
 Alton, 29th of Fifth Month, 1829.
 
 &hellip;Our Quarterly and Monthly Meetings were seasons of sadness and depression,
-as thou mayst sup pose: but some of us were given,
+as thou mayst suppose: but some of us were given,
 through and over all dismay and affliction, to trust and to cling to that,
 which yet remains an immoveable rock and refuge;
 and therein to rejoice and be thankful on many accounts, though in tribulation.
@@ -107,7 +107,7 @@ written during this engagement.]
 Alton, 22nd of Eighth Month, 1830.
 
 &hellip;Having now got through this part of our humiliating path,^
-footnote:[He was united with his friend J. F. Marsh in this part of his service.]
+footnote:[He was united with his friend John F. Marsh in this part of his service.]
 and being about to depart on the morrow,
 I thought I might attempt a few lines to tell thee that we got well here;
 and we have been so closely engaged,
@@ -453,7 +453,7 @@ coincident with the blessed experience of the Psalmist,--"`My heart is fixed,
 trusting in the Lord;`" by whom the very hairs of the head are numbered,
 and everything overruled for the good of his chosen, now as ever!
 And they are directed in all their movements, so far as the Master has need of them,
-in steadying the ark, or bearing it aright, with out over much anxiety;
+in steadying the ark, or bearing it aright, without over much anxiety;
 trusting themselves and their cause, which is His, to his own keeping.
 We have signs of the times enough to assure us,
 that there is that at work in our poor Society, which if not averted,
@@ -504,14 +504,14 @@ to uncover and bring out to view the working of the wily enemy, as it is this da
 and to manifest the path of the Just One, and the work of God in and among his people.
 
 Thou wilt be pleased to hear (and oh, that I may continue in the grateful,
-humbling sense of these mercies!) that "`Jaffray`"^
+humbling sense of these mercies!) that [.book-title]#Jaffray#^
 footnote:[See [.book-title]#The Diary of Alexander Jaffray;
 Given in Connection with Memoirs of the Rise, Progress, and Persecutions,
 of the People Called Quakers in the North of Scotland.#]
 has been almost everywhere very favorably received; even enemies to the Truth,
 or those that would prevent it,
 acknowledging their admiration at the record therein borne.
-I advertised "`Jaffray`" pretty largely in periodicals, literary and religious,
+I advertised [.book-title]#Jaffray# pretty largely in periodicals, literary and religious,
 and have especially in view those among other Societies who are seeking the best things,
 and not settled in their forms.
 As surely as I believe the views, which we have ever held, to be according to Truth,
@@ -523,7 +523,7 @@ Some of those who once were in esteem,
 have said Penington`'s writings had better be put into a heap and burned;
 while on the other hand, a preacher at Brighton,
 who preaches in his own chapel without pay, and is flocked to,
-recommended publicly to his hearers Penington`'s Letters,
+recommended publicly to his hearers [.book-title]#Penington`'s Letters,#
 and in consequence Friends there were applied to for the book!
 Oh, surely there is a goodly company without our pale,
 who may even take the places and the crowns too of those, be they who they may,
@@ -532,7 +532,7 @@ but now seek to undermine, lay waste, or make of none effect,
 endeavoring to lower the standard,
 and make it square with their own notions and practice.
 I have been asked by more than one, standing somewhat high among us, to leave out,
-in my 2nd edition of "`Jaffray,`" that quotation from thy "`Letters,`"^
+in my 2nd edition of [.book-title]#Jaffray,# that quotation from thy [.book-title]#Letters,#^
 footnote:[See [.book-title]#Letters of Some of the Primitive Doctrines of Christianity#, by John Wilbur.
 Published by George Crosfield.]
 in my notes to the [.book-title]#Memoirs of Friends in Scotland#;
@@ -613,11 +613,11 @@ Oh, it made my heart sick to attend it, only that my Master whispers,
 In this book of which I speak,
 thou mayst see far more open palpable proof (in an additional
 chapter on worship and ministry) that thy sentiments,
-expressed in thy "`Letters,`" are indeed true, or rather short of the whole truth.
+expressed in thy [.book-title]#Letters,# are indeed true, or rather short of the whole truth.
 It is needful I should say, I protested in my feeble way,
 against the tendency of the whole chapter,
 telling the committee and the author that the contrast
-was strong between that and Barclay`'s Apology.
+was strong between that and [.book-title]#Barclay`'s Apology.#
 It is the distinguishing feature of this heresy, that it runs among the rich, the great,
 the learned, the eloquent, the spiritually gifted, and highly experienced;
 and these in our land are connected by various ties,

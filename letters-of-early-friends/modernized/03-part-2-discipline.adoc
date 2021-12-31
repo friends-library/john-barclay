@@ -1,6 +1,7 @@
 [short="Part II. Early Discipline and Testimonies"]
 == Part II. Documents Illustrative Of The Early Discipline And Testimonies Of The Society.
 
+[.centered]
 === No. CXII.
 
 +++[+++The documents brought forward under this division of the work,
@@ -43,10 +44,13 @@ It is within the verge of probability,
 that it was a paper issued by the General or yearly Meeting,
 held at John Crook`'s house in Bedfordshire in the year 1657, to Friends in the North.]
 
-The Elders And Brethren send unto the brethren in the North these necessary things following;
-to which, if you, in the light wait to be kept in obedience, you will do well.
-Fare you well.
+[.blurb]
+=== The Elders And Brethren send unto the brethren in the North these necessary things following; to which, if you, in the light wait to be kept in obedience, you will do well. Fare you well.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That the particular meetings, by all the children of the light,
 be duly kept and observed, where they be already settled, every first-day of the week;
 except they be moved to other places.
@@ -55,11 +59,13 @@ on some other day of the week than on the first-day,
 unless there be a moving to the contrary: that so in the light and life,
 the meetings be kept, to the praise of God.
 
+[.numbered]
 2+++.+++ That care be taken, that as any are brought into the Truth,
 meetings be in such places among them, as may be for the most convenience of all,
 without respect of persons: and that hands be laid on none suddenly,
 lest the Truth suffer.
 
+[.numbered]
 3+++.+++ That if any person draw back from meetings, and walk disorderly,
 some go to speak to such as draw back; to exhort and admonish such with a tender,
 meek spirit, whom they find negligent or disorderly.
@@ -76,6 +82,7 @@ up in the power of his Spirit to be fathers,
 His children to gather in the light,--that the thing may be known to the body;
 and with the consent of the whole body, the thing may be determined in the light.
 
+[.numbered]
 4+++.+++ That as any are moved of the Lord to speak the word of the Lord at such meetings,
 that it be done in faithfulness, without adding or diminishing.
 And if at such meetings,
@@ -90,6 +97,7 @@ footnote:[It will be seen by a subsequent document,
 how earnest was the advice (afterwards) of the General Meeting in London,
 against judging or reflecting on the ministry publicly.]
 
+[.numbered]
 5+++.+++ That collections be timely made for the poor, (that are so indeed,) as they are moved,
 according to order,--for relief of prisoners, and other necessary uses,
 as need shall require: and all moneys so collected, an account thereof to be taken;
@@ -97,11 +105,13 @@ from which every need may be supplied, as made known by the overseers in every m
 that no private ends may be answered, but all brought to the light,
 that the gospel be not slandered.
 
+[.numbered]
 6+++.+++ That care be taken for the families and goods
 of such as are called forth into the ministry,
 or who are imprisoned for the Truth`'s sake;
 that no creatures be lost for lack of the creatures.
 
+[.numbered]
 7+++.+++ That as any are moved to take a brother or a sister in marriage,
 (marriage being honourable in all,
 and the bed undefiled,) let it be made known to the children of the light,
@@ -122,6 +132,7 @@ under which writing the witnesses present may subscribe their names,
 or so many of them as be convenient; for the stopping of the mouths of gainsayers,
 and for the manifesting the truth to all who are without,
 
+[.numbered]
 8+++.+++ That a record be kept in every meeting of the births
 of the children of such who are members of that meeting,
 and of the burials of the dead (who die in the Lord,) as they depart out of the body;
@@ -129,6 +140,7 @@ which be done after the manner of the holy men of God,
 recorded in the Scriptures of Truth; and not after the customs of the heathen,
 who know not God.
 
+[.numbered]
 9+++.+++ That husbands and wives dwell together according to knowledge,
 as being heirs together of the grace of life.
 That children obey their parents in the Lord;
@@ -137,6 +149,7 @@ but bring them up in the nurture and fear of the Lord,
 walking before them as good examples, in gravity and godliness;
 providing things honest in the sight of God and man.
 
+[.numbered]
 10+++.+++ That servants be obedient to them that are their masters in the flesh,
 in things that are good, in singleness of heart as unto Christ; not with eye-service,
 as men-pleasers, but as the servants of Christ; doing the will of God from the heart:
@@ -147,37 +160,44 @@ And that masters give to their servants that which is just and equal;
 forbearing threatening, knowing that their Master is also in heaven;
 neither is there respect of persons with Him.
 
+[.numbered]
 11+++.+++ That care be taken that none who are servants depart from their masters,
 but as they both do see in the light: nor any master to put away his servant,
 but by the consent of the servant:
 and if any master or servant in their wills do otherwise,
 it is to be judged with Friends in the light.
 
+[.numbered]
 12+++.+++ That the necessities of the poor, widows and fatherless, may be truly supplied,
 and that such as are able to work, and do not, may be admonished: and if,
 after admonition, they refuse to work, then let them not eat.
 And that the children of such as are in necessity, be put to honest employment;
 that none be idle in the Lord`'s vineyard.
 
+[.numbered]
 13+++.+++ That care be taken, that as any are called before the outward powers of the nation,
 that in the light, obedience to the Lord be given.
 
+[.numbered]
 14+++.+++ That if any be called to serve the commonwealth in any public service,
 which is for the public wealth and good, that with cheerfulness it be undertaken,
 and in faithfulness discharged unto God:
 that therein patterns and examples in the thing that is righteous, they may be,
 to those that be without.
 
+[.numbered]
 15+++.+++ That all Friends that have callings and trades, do labour in the thing that is good,
 in faithfulness and uprightness;
 and keep to their yes and no in all their communications:
 and that all who are indebted to the world, endeavour to discharge the same,
 that nothing they may owe to any man but to love one another.
 
+[.numbered]
 16+++.+++ That no one speak evil of another, neither judge one against another;
 but rather judge this,
 that none put a stumbling-block or occasion to fall in his brother`'s way.
 
+[.numbered]
 17+++.+++ That none be busy bodies in other`'s matters,
 but each one to bear another`'s burdens, and so fulfill the law of Christ;
 that they be sincere and without offence, and that all things which are honest,
@@ -185,15 +205,23 @@ be done without murmurings and disputings: that they may be blameless and harmle
 the sons of God without rebuke, in the midst of a crooked and perverse nation,
 among whom they may shine as lights in the world.
 
+[.numbered]
 18+++.+++ That Christian moderation be used towards all men; that they who obey not the word,
 may be won by those that in the word dwell, to guide in a holy life and godly conduct.
 
+[.numbered]
 19+++.+++ That the Elders made by the Holy Spirit, feed the flock of God,
 taking the oversight thereof willingly, not by constraint, but of a willing mind;
 neither as lords over God`'s heritage, but as examples to the flock of Christ.
 
+[.numbered]
 20+++.+++ That the younger submit themselves to the elder,--yes, all be subject one to another,
 and be clothed with humility; for God resists the proud, but gives grace to the humble.
+
+====
+
+[.small-break]
+'''
 
 From the Spirit of Truth to the children of light, to walk in the light;
 that all in the order be kept in obedience to God that He may be glorified,
@@ -208,6 +236,7 @@ the true spirit of our church discipline, not the letter of it,
 is upheld,--reference being made to the only right authority of it,
 instead of to any outward sanction or authority.]
 
+[.centered]
 === No. CXIII.
 
 +++[+++This next early record was discovered in a register book of a monthly meeting in Hampshire,
@@ -218,13 +247,16 @@ and occasionally so in the same words: thus proving that some general advice of 
 had been issued from some influential body or meeting of the Society,
 at or previous to that early period.]
 
-At a meeting of Friends of four counties, Kent, Sussex, Surrey and Hampshire,
-at the Lodge near Horsham, these as follows were judged necessary by Friends there met,
-and by them owned,
-and tendered as their counsel and advice unto all Friends in those places.
+[.blurb]
+=== At a meeting of Friends of four counties, Kent, Sussex, Surrey and Hampshire, at the Lodge near Horsham, these as follows were judged necessary by Friends there met, and by them owned, and tendered as their counsel and advice unto all Friends in those places.
 
+[.signed-section-context-open]
 The Third Month, 1659.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That all Friends at their several meetings in the aforesaid counties,
 do make their collections orderly and timely for the use of the poor,
 or such other necessary uses that shall be seen in the wisdom
@@ -232,6 +264,7 @@ of God to be serviceable for the good of the body:
 and what is remaining over in the particular, to be brought into the general stock,
 at the general meeting in each county, to them entrusted for the whole.
 
+[.numbered]
 2+++.+++ That all Friends intending marriage,
 or witnessing a motion of the Lord unto that thing,
 (before they go outwardly together,) bring it to
@@ -246,6 +279,7 @@ and that a record in writing of the day, place, and year of such things,
 be kept within that meeting, whereof one or both are members;
 under which the witnesses may set their names, or some of them.
 
+[.numbered]
 3+++.+++ That a record be kept (as Friends are moved) of the births
 of children of such as are members or Friends,
 and of the burial of the dead who die in the Lord,
@@ -253,9 +287,11 @@ and of the burial of the dead who die in the Lord,
 the manner of the holy men of God recorded in the Scriptures,
 and not after the custom of the heathen that know not God.
 
+[.numbered]
 4+++.+++ That burying places be provided as soon as conveniently may be,
 in convenient places distinct from the world, as Friends are moved in it.
 
+[.numbered]
 5+++.+++ That if any person or persons draw back from the Truth and walk disorderly,
 some to speak to such as draw back,
 to exhort and admonish such with a tender and meek spirit,
@@ -268,6 +304,7 @@ then let the thing be delivered to others that be in the Truth,
 that it may be known to the body, and with the consent of the whole,
 in the light be determined; and that nothing be done in haste or rashly.
 
+[.numbered]
 6+++.+++ That a tender care be taken of all such children, wives, servants, soldiers,
 or others, who are turned out of their places and families, for the Truth`'s sake.
 And that all single persons, men and women,
@@ -277,6 +314,7 @@ whereby they may glorify God in their conversations,
 and the Truth may be preserved by them without blemish, and them in it;
 that all Friends may be kept in duty.
 
+[.numbered]
 7+++.+++ That all Friends in their several places (as they are moved,) observe
 their general and particular meetings on the first-days and others,
 (except any of them be moved forth by the Lord unto
@@ -284,6 +322,7 @@ some other places for the furtherance of Truth,
 as in the wisdom of God shall be seen and judged serviceable, or just cause showed,
 if desired, to the contrary;) for they who forsake the assembly of saints lose the unity.
 
+[.numbered]
 8+++.+++ That if any be moved of the Lord to speak in the steeple houses, streets, markets,
 meetings, or beyond the seas, they are not to quench the Spirit of the Lord;
 and that no Friends judge one another in meetings; but if any be moved to speak to such,
@@ -293,9 +332,15 @@ but live in the power of the Lord, that you may be kept in the unity:
 that all things that are done, may be, in the moving power of the Lord God,
 and nothing out of it.
 
-An addition of Friends who met together from the counties aforesaid,
-since the said meeting in the third month, 1659.
+====
 
+[.blurb]
+=== An addition of Friends who met together from the counties aforesaid, since the said meeting in the third month, 1659.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That care be taken that all sufferings of Friends,
 who suffer for conscience and Truth`'s sake, of what nature or kind soever,
 be from time to time gathered up and recorded;
@@ -307,12 +352,16 @@ be by him returned at the next general meeting of Friends for that county,
 there to be recorded in general for the whole county,
 by him who is desired to record the same.
 
+[.numbered]
 2+++.+++ That if collections be made in the several counties as aforesaid,
 and if the money collected in every particular county is
 not sufficient to supply the necessity in the same county,
 that then the other of said counties, who have any collections in the general stock,
 do contribute towards the necessity of that county or counties which is in need.
 
+====
+
+[.offset]
 The names of Friends met together the third month 1659, above-mentioned, namely,
 
 +++[+++Then follow the names of many Friends arranged under the four counties of Kent, Sussex,
@@ -321,10 +370,8 @@ While the above was in type, the following documents were met with,
 among our ancient records in London, which, from their very early date and rarity,
 are curious, and their contents interesting.]
 
-At a meeting of Friends out of the Northern counties of York, Lincoln, Lancaster,
-Chester, Nottingham, Derby, Westmoreland, Cumberland, Durham, and Northumberland,
-at Scalehouse +++[+++the district of Richmond Monthly Meeting]
-the 24th of the fourth month, 1658.
+[.blurb]
+=== At a meeting of Friends out of the Northern counties of York, Lincoln, Lancaster, Chester, Nottingham, Derby, Westmoreland, Cumberland, Durham, and Northumberland, at Scalehouse +++[+++the district of Richmond Monthly Meeting] the 24th of the fourth month, 1658.
 
 Having heard of great things done by the mighty power of God,
 in many nations beyond the seas,
@@ -357,13 +404,17 @@ And such Friends as are here present,
 are to be diligent in their several counties and places;
 that the work may be hastened with all convenient speed.
 
+[.signed-section-closing]
 Signed by many Friends; among them are,
 
+[.signed-section-signature]
 Thomas Aldam, John Killam, Thomas Bewley, Thomas Taylor, Marmaduke Storr, John Richmond,
 William Smith.
 
+[.offset]
 +++[+++The next document is addressed simply as follows:--]
 
+[.salutation]
 Brethren and Friends,
 
 It having pleased God, in his marvellous love,
@@ -501,7 +552,7 @@ at the next Monthly Meeting after: and after every account so made and cleared,
 all papers to be concealed, and no further remembrance thereof to be had,
 which may beget many offences in future time, but cannot be of any service to the Truth.
 
-Dear Friends, these things being agreed and +++[+++word indistinct]
+Dear Friends, these things being agreed and +++[+++_word indistinct_]
 in clearness of Truth, which hitherto have taken up much time at the General Meetings,
 to the loss of many precious opportunities,--you will see greater things before you,
 which more chiefly concern the state of the church,
@@ -509,22 +560,34 @@ and will be of greater service to the Truth;
 as our Friends who bring this from us may lay before you,
 as there is freedom and opportunity.
 
-From Friends met together at Durham,
-from several Meetings in and adjoining to the county of Durham,
-the 1st day of the eighth month, 1659;
-to Friends who shall meet together out of the several Northern Counties, at Skipton,
-the 5th of the eighth month, 1659.
+[.signed-section-context-close]
+From Friends met together at Durham, from
+several Meetings in and adjoining to the
+county of Durham, the 1st day of the eighth
+month, 1659; to Friends who shall meet together
+out of the several Northern Counties, at Skipton, the 5th of the eighth month, 1659.
 
+[.offset]
 +++[+++Signed by twenty names; among them, Anthony Pearson, Richard Wilson,
 Christopher Richmond, etc.]
+
+[.small-break]
+'''
+
+[.postscript]
+====
 
 This letter was presented and read at the General Meeting at Skipton,
 the 5th day of the 8th month, 1659; and was by all Friends owned and approved,
 and agreed to be observed; and copies thereof to be sent to all Monthly Meetings:
 
+====
+
+[.signed-section-signature]
 Thomas Killam, Samuel Watson, Henry Ward, William Gandy.
 
-+++[+++This document is endorsed.
+[.offset]
++++[+++_This document is endorsed_
 "`To Thomas Doudney, at the Bell Savage in London, deliver this;
 and for him to give or send it to George Fox, with speed and care to be delivered to him,
 where he is.`"]
@@ -534,6 +597,7 @@ to be raised for the service of Truth abroad,
 dated from the General Meeting, held at Skipton, the 25th day of the second month, 1660;
 it commences thus:]
 
+[.salutation]
 Dear Friends and Brethren,
 
 We having certain information from some Friends of London,
@@ -548,22 +612,21 @@ and through great travails have published His name,
 and declared the everlasting gospel of peace unto them that have been afar off,
 that they might be brought near unto God.`" etc.
 
+[.small-break]
+'''
+
 +++[+++A collection is then recommended in every particular meeting,
 to be sent "`as formerly to London, for the service and use aforesaid.`"]
 
+[.centered]
 ==== CXIV.
 
-A testimony concerning the beginning of the work of the Lord,
-and the first publication of Truth, in this city of London;
-and also concerning the cause, end,
-and service of the first appointment and setting
-up of the Men`'s Meeting at the Bull and Mouth;
-that it may be known to all perfectly,
-how the Lord has begun and carried on His work to this day.
+[.blurb]
+=== A testimony concerning the beginning of the work of the Lord, and the first publication of Truth, in this city of London; and also concerning the cause, end, and service of the first appointment and setting up of the Men`'s Meeting at the Bull and Mouth; that it may be known to all perfectly, how the Lord has begun and carried on His work to this day.
 
 +++[+++This highly interesting document, signed by Edward Burrough, and dated 1662,
 is taken from a collection of copies of letters and papers, in four folio volumes,
-entitled John Penington`'s Collection of his Father`'s Manuscripts,
+entitled [.book-title]#John Penington`'s Collection of his Father`'s Manuscripts,#
 and preserved in London.
 These volumes,
 (which are very closely written) contain a large
@@ -604,10 +667,11 @@ in the infancy of the church: all whisperings and backbitings were shut out,
 and love and good will to all were promoted and cherished.
 And afterwards as Truth grew and prospered, and many came to be added to the faith,
 the meetings came, through the Providence of God,
-to be settled in order and method as at this day.`"--Memoirs of William Crouch, Sect.
+to be settled in order and method as at this day.`"--[.book-title]#Memoirs of William Crouch,# Sect.
 III.]
 
-The Following is A Copy of the Testimony.
+[.blurb]
+=== A Copy of the Testimony
 
 It having pleased the Lord God of heaven and earth,
 by his Spirit and power to move the hearts and spirits of several of us,
@@ -890,7 +954,11 @@ and that this meeting still be continued and preserved in all wisdom and sinceri
 in the fear, and name, and authority, and power of the Lord Jesus Christ,
 as it was ordained and begun at the first; that is to say:
 
-First, that the meeting do consist of just and righteous men, all believing in the Truth,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ that the meeting do consist of just and righteous men, all believing in the Truth,
 and walking in the same,--men of sound principles and judgment
 in the truth of Christ,--of good and blameless conduct among men,--and
 such that have kept their integrity and first principles,
@@ -905,7 +973,8 @@ such are not members thereof,
 but are excluded from having their advice and judgment taken in matters of Truth,
 pertaining to the service of the Lord.
 
-Secondly, that the meeting be kept once a week or fourteen days,
+[.numbered]
+_Secondly,_ that the meeting be kept once a week or fourteen days,
 as service and Truth`'s necessities do require,
 as the Friends see cause when and where to appoint it: and being orderly come together,
 not to spend time with needless, unnecessary and fruitless discourses;
@@ -940,7 +1009,8 @@ to give any judgment or counsel among them,
 in any case pertaining to the service of the church of Christ;
 in which his Spirit of love and unity must rule.
 
-Thirdly,--And if at any time, any matter or occasion be presented to the meeting,
+[.numbered]
+_Thirdly,_--And if at any time, any matter or occasion be presented to the meeting,
 which is doubtful or difficult, or not within the judgment of Friends then assembled,
 they not having full knowledge or experience of the matters depending,--that
 then on such occasions the judgment be suspended,
@@ -962,7 +1032,8 @@ and that a general concord and assent may be among the ancients of them,
 for the government of the whole,
 by hearing and considering of things fitting for the advancement of Truth.
 
-Fourthly,--But if at any time,
+[.numbered]
+_Fourthly,_--But if at any time,
 any strife or division shall happen to fall out among Friends,
 as between any two Friends, or between a Friend and a stranger,
 concerning any outward things, as bargains, debts,
@@ -987,7 +1058,8 @@ that at any time may arise or happen to be; that peace and concord may flourish 
 and the name of the Lord be kept undefiled,
 and the work of the Lord may be carried on in all wisdom and power.
 
-Fifthly,--That cognizance be taken, and records faithfully kept, of all births,
+[.numbered]
+_Fifthly,_--That cognizance be taken, and records faithfully kept, of all births,
 marriages, and burials, that shall happen to be of and among Friends.
 That marriages particularly, be carefully ordered in the wisdom of God,
 according to the honest beginning used among us; and by so much the more,
@@ -1007,7 +1079,8 @@ and testified to by them in prosperity or adversity, as occasion shall require;
 otherwise not to be recorded,
 but rather the parties reproved and rebuked in the power and authority of Christ Jesus.
 
-Sixthly,--That especial care be taken concerning provision
+[.numbered]
+_Sixthly,_--That especial care be taken concerning provision
 for the poor that believe and profess the Truth;
 and that such who are of ability of body to labour, that have not whereon to work,
 nor enough to maintain themselves; as servants,
@@ -1043,13 +1116,16 @@ and been happy and prosperous in the work for which it was appointed;
 and it is in the same manner ordered, in the authority of Christ,
 to be continued in the service aforesaid.
 
-Seventhly,--That care be taken in the meeting of men,
+[.numbered]
+_Seventhly,_--That care be taken in the meeting of men,
 for the collecting and preserving all Friends`' sufferings, past and to come,
 which have been or shall happen to be, in and about this city and country;
 and that the same,
 with what remarkable passages falling out in relation to the Truth as it is judged fit,
 be prudently recorded, plainly, fully and amply, for the service of this age,
 and for the ages to come.
+
+====
 
 These also and what other things in relation to the service of Truth,
 pertaining to the outward affairs thereof, as is found fitting,
@@ -1074,10 +1150,13 @@ read among them in the fear of the Lord.
 
 By one that from the beginning has travelled in the work of the Lord in this city,
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 1662.
 
+[.centered]
 === No. CXV.
 
 +++[+++The document to be next presented to the reader, is taken from an early manuscript,
@@ -1091,7 +1170,7 @@ after diligent search, does not find to have been published or referred to,
 by any of our authors who have written upon the subject.
 
 Since the above was written,
-the editor has found this document entered in a catalogue of George Fox`'s Writings,
+the editor has found this document entered in a catalogue of [.book-title]#George Fox`'s Writings,#
 preserved in London.
 This catalogue,
 (which appears in a handwriting very like that of
@@ -1104,9 +1183,8 @@ from everlasting to everlasting.
 Amen.`"
 A postscript is added: "`It may be serviceable for them that come after.`"]
 
-Concerning our Monthly and Quarterly and Yearly Meetings, wherein the Lord has owned,
-prospered, and blessed them; which has been of good service, to His glory,
-and the comfort of His people.
+[.blurb]
+=== Concerning our Monthly and Quarterly and Yearly Meetings, wherein the Lord has owned, prospered, and blessed them; which has been of good service, to His glory, and the comfort of His people.
 
 In this way occurred the first Monthly Meeting in
 the North:--though we did meet concerning the poor,
@@ -1279,11 +1357,11 @@ that have not known the beginning of it:
 for many of that separate spirit have talked of things in the beginning,
 and yet have opposed the order of Truth.
 
+[.centered]
 === No. CXVI.
 
-A testimony from the brethren, who were met together at London in the third month, 1666,
-to be communicated to faithful Friends and Elders in the counties,
-by them to be read in their several meetings, and kept as a testimony among them.
+[.blurb]
+=== A testimony from the brethren, who were met together at London in the third month, 1666, to be communicated to faithful Friends and Elders in the counties, by them to be read in their several meetings, and kept as a testimony among them.
 
 We, your friends and brethren,
 whom God has called to labour and watch for the eternal good of your souls,
@@ -1308,7 +1386,11 @@ in which our spirits breathe, that we all may be preserved,
 until we have well finished our course and testimony,
 to the honour and glory of the Lord God, who is over all, blessed forever.
 
-First.--We having a true discerning of the working of that spirit,
+[.numbered-group]
+====
+
+[.numbered]
+_First._--We having a true discerning of the working of that spirit,
 which under a profession of Truth, leads into a division from, or exaltation above,
 the body of Friends, who never revolted nor degenerated from their principles;
 and into marks of separation from the constant practice of good ancient Friends,
@@ -1330,8 +1412,7 @@ is here doubtless in view.
 Several addresses were issued by faithful Friends to warn and exhort
 the flock against this deceitful and wasting snare of the enemy;
 among them might be mentioned an epistle of Stephen Crisp,
-as very instructive and affecting, namely, An Epistle to Friends,
-Concerning the Present and Succeeding Times, etc. 1666.
+as very instructive and affecting, namely, [.book-title]#An Epistle to Friends, Concerning the Present and Succeeding Times,# etc. 1666.
 On referring to the historical letters in this volume, page 372,
 the subject will also be found adverted to.]--we do unanimously,
 (being encouraged thereto by the Lord, whose presence is with us,) declare and testify,
@@ -1344,7 +1425,8 @@ till they have an ear open to instruction,
 and come into subjection to the witness of God;--of the increase
 of whose kingdom and government there shall be no end.
 
-Secondly.--We do declare and testify, that the spirit of those that are joined to it,
+[.numbered]
+_Secondly._--We do declare and testify, that the spirit of those that are joined to it,
 who stand not in unity with the ministry and body of Friends,
 who are stedfast and constant to the Lord and his unchangeable Truth,
 (which we have received and are witnesses and ambassadors
@@ -1365,7 +1447,8 @@ for he that is not justified by the witness of God in Friends,
 is condemned by it in himself; though being hardened,
 he may boast over it in a false confidence.
 
-Thirdly.--If any difference arise in the church,
+[.numbered]
+_Thirdly._--If any difference arise in the church,
 or among them that profess to be members thereof, we do declare and testify,
 that the church, with the Spirit of the Lord Jesus Christ, have power,
 without the assent of such as dissent from their doctrines and practices,
@@ -1384,7 +1467,8 @@ then he or she,
 or such as so far partake of their sin as to countenance and encourage them therein,
 ought to be rejected, as having erred from the Truth.
 
-Fourthly.--That the ministry may not be justly blamed,
+[.numbered]
+_Fourthly._--That the ministry may not be justly blamed,
 we declare that if any go abroad hereafter, pretending to that weighty work and service,
 who either in life or doctrine grieve good Friends
 that are stedfast in the Truth and sound in the faith,
@@ -1407,7 +1491,8 @@ and warning given to the flock of Christ in their several meetings to beware of 
 and to have no fellowship with them, that they may be ashamed;
 and the lambs and babes in Christ Jesus preserved.
 
-Fifthly.--And if any man or woman who is out of unity with the body of Friends, print,
+[.numbered]
+_Fifthly._--And if any man or woman who is out of unity with the body of Friends, print,
 or cause to be printed, or published in writing,
 anything which is not of service for the Truth,
 but tends to the reproach or scandal of faithful Friends,
@@ -1427,7 +1512,8 @@ that nothing but what is sound and savoury,
 that will answer the witness of God in all people,
 (even in our adversaries,) may be exposed by us to public view.
 
-Sixthly.--We do advise and counsel,
+[.numbered]
+_Sixthly._--We do advise and counsel,
 that such as are made overseers of the flock of God by the Holy Spirit,
 and do watch for the good of the church, (meeting together in their respective places,
 to set and keep the affairs of it in good order,) to beware of
@@ -1442,6 +1528,8 @@ We also advise that not any be admitted to order public business of the church,
 but such as are felt in a measure of the universal Spirit of Truth,
 which seeks the destruction of none, but the general good of all,
 and especially of those that love it, who are of the household of faith.
+
+====
 
 So dear Friends and brethren,
 believing that your souls will be refreshed in the
@@ -1464,13 +1552,17 @@ as pleases Him:--that you with us, and we with you,
 may be built up in the most holy faith, and be preserved to partake of the inheritance,
 which is heavenly, among all those that are sanctified.
 
+[.signed-section-signature]
 Richard Farnsworth, Alexander Parker, George Whitehead, Thomas Loe, Josiah Cole,
 John Whitehead, Stephen Crisp, Thomas Green, John Moon, Thomas Briggs, James Parke.
 
+[.centered]
 === No. CXVII.
 
-The Written Epistle From the Yearly Meeting, 1668.
+[.blurb]
+=== The Written Epistle From the Yearly Meeting, 1668
 
+[.salutation]
 Dear Friends,
 
 In the seed of life and in the Truth of God, in whom our love is to you all,
@@ -1487,7 +1579,7 @@ to come up and meet with us at London.
 
 The next meeting will be about the time called Easter, in the year 1670, at London;
 when we shall desire to see your faces,--that we
-may see in all meetings that the--+++[+++word doubtful]
+may see in all meetings that the--+++[+++_word doubtful_]
 be supplied, and that nothing be lacking;--then all is well:
 and that all walk as become the order of the gospel,
 which is the comely order in the power of God, which all uncomeliness is out of.
@@ -1497,18 +1589,21 @@ if there be any other that labour in the work of God,
 let them have notice, and copies of this;--and into all the plantations beyond sea,
 from one to another; and also to Holland, Scotland, Ireland and Wales.
 
+[.signed-section-signature]
 George Fox.
 
+[.signed-section-signature]
 Leonard Fell, Stephen Crisp, John Story, George Whitehead, Alexander Parker, John Stubbs,
 Thomas Briggs, John Whitehead.
 
+[.signed-section-context-close]
 London, the 16th of 11th month 1668.
 
+[.centered]
 === No. CXVIII.
 
-At a General Meeting of Friends,
-for managing the public affairs of Truth throughout the nation, held at Devonshire House,
-London, 29th of 3rd Month, 1672.^
+[.blurb]
+=== At a General Meeting of Friends, for managing the public affairs of Truth throughout the nation, held at Devonshire House, London, 29th of 3rd Month, 1672.^
 footnote:[The first part only of this minute is printed,
 as the introductory article in the volume of the epistles of the Yearly Meeting in London,
 8vo. This copy is taken from one of the circulars issued on the occasion.]
@@ -1521,7 +1616,7 @@ there be a General Meeting of Friends held at London, once a year,
 in the week called Whitsun-week, to consist of six Friends for the city of London,
 three for the city of Bristol, two for the town of Colchester,
 and one or two from each and every of the counties of England and Wales respectively.
-+++[+++So far only printed in Book of Epistles.]
++++[+++_So far only printed in_ [.book-title]#Book of Epistles.#]
 That the Quarterly Meetings in London, Bristol, Colchester,
 and all and every the counties of England and Wales respectively,
 at their Quarterly Meetings immediately preceding
@@ -1549,6 +1644,7 @@ That copies hereof be sent to the respective Quarterly
 Meetings throughout England and Wales,
 for the better regulation in the matter.
 
+[.salutation]
 Dear Friends and Brethren,
 
 In that universal love,
@@ -1583,21 +1679,25 @@ as God has blessed and prospered them; we remain your faithful friends and breth
 
 Signed in the name and by the appointment of the said General Meeting,
 
+[.signed-section-signature]
 George Whitehead, Alexander Parker, John Whitehead, Thomas Gouldney, Francis Rogers,
 John Crook, William Welch, Stephen Crisp.
 
+[.signed-section-context-close]
 Devonshire House, London, 29th of 3rd month, 1672.
 
+[.centered]
 === No. CXIX.
 
-Epistle From Friends of the General Meeting Held in London, the 31st of Third Month,
-1672.^
+[.blurb]
+=== Epistle From Friends of the General Meeting Held in London, the 31st of Third Month, 1672.^
 footnote:[This epistle seems to be specially addressed to Ministers,
 and those filling the responsible station of overseers of the flock:
 the duties subsequently assigned to Elders, probably devolved at this time,
 on the faithful, perhaps in both the stations above mentioned,
 but more especially on overseers.]
 
+[.salutation]
 Dear Friends and Brethren,
 
 From that universal love and care,
@@ -1609,7 +1709,11 @@ and unto you who are more resident in the several counties and meetings,
 who have a care and oversight committed to you by the Lord, in your respective places,
 counties and meetings, for the good order and comfort of the Church.
 
-First.--To those that are called forth with a testimony for God,
+[.numbered-group]
+====
+
+[.numbered]
+_First._--To those that are called forth with a testimony for God,
 and those that are endued with a heavenly gift for that end,--our
 tender advice and counsel in the Spirit of life and true love is,
 that you all wait and dwell in the heavenly life and Spirit of the gospel,
@@ -1723,7 +1827,8 @@ in the tender love of God.
 Let there be no harshness or severity exercised, to the hurt or prejudice of any;
 but feel the life and spirit of the Lamb through and over all.
 
-Secondly.--And you, our Friends and brethren,
+[.numbered]
+_Secondly._--And you, our Friends and brethren,
 who have a care and oversight committed to you in your several places and meetings,
 being set as pillars in the house of our God,--if
 any of you shall at any time come to see any weakness,
@@ -1769,24 +1874,33 @@ and the multiplying of all spiritual blessings and refreshments of life unto you
 who are of the same mind and spirit with us in that eternal truth,
 love and life;--wherein we dearly salute you all.
 
+====
+
+[.offset]
 Our desire is,
 that copies of this be communicated to Friends and brethren herein concerned.
 Your faithful brethren in the Lord,
 
+[.signed-section-signature]
 George Whitehead, Alexander Parker, John Story, Thomas Salthouse, John Whitehead,
 John Graves, Robert Hodgson, James Parke, Jasper Batt, Thomas Robertson, John Crook,
 William Gibson, Stephen Crisp, William Smith, James Harrison, Thomas Green,
 Thomas Curtis, William Brend, Samuel Thornton, William Yardley.
 
+[.signed-section-context-close]
 London, the 31st day of the 3rd month, 1672.
 
-+++[+++From an ancient copy, apparently in Thomas Ellwood`'s hand-writing,
-on comparison with his original letters.]
+[.offset]
++++[+++_From an ancient copy, apparently in Thomas Ellwood`'s hand-writing,
+on comparison with his original letters._]
 
+[.centered]
 === No. CXX.
 
-Epistle From Friends Met in London, the 26th of Third Month, 1673.
+[.blurb]
+=== Epistle From Friends Met in London, the 26th of Third Month, 1673.
 
+[.salutation]
 Dear Friends and Brethren,
 
 The Lord our God having by his eternal power,
@@ -1968,8 +2082,10 @@ and powers are subject,--be glory forevermore! unto
 whose power and government we commit you all,
 and in true endeared love, rest
 
+[.signed-section-closing]
 Your dear brethren,
 
+[.signed-section-signature]
 Thomas Green, Alexander Parker, William Brend, William Gibson, Morgan Watkins,
 John Graves, Samuel Thornton, John Whitehead, Jasper Batt, John Anderdon,
 Thomas Salthouse, Samuel Watson, John Langstaff, James Adamson, John Cox, James Merrick,
@@ -1978,18 +2094,24 @@ John Moone, Charles Marshall, Luke Howard, Samuel Cater, Arthur Ismead, James Ha
 George Coale, Robert Barclay, Edward Bourne, Charles Lloyde, James Claypole,
 Richard Almond, William Fallowfield, Robert Gary.
 
+[.postscript]
+====
+
 We desire that true copies hereof may be communicated to, and read in,
 the several Quarterly, Monthly, and other meetings of Friends and brethren,
 throughout England, and elsewhere.
 
-+++[+++This Epistle is (by a careful comparison with Thomas Ellwood`'s
-hand writing) taken from a copy believed to be written by him.]
+====
 
+[.offset]
++++[+++_This Epistle is (by a careful comparison with Thomas Ellwood`'s
+hand writing) taken from a copy believed to be written by him._]
+
+[.centered]
 === No. CXXI.
 
-An Epistle From the Women Friends in London, to the Women Friends in the Country,
-Also Elsewhere, About the Service of a Women`'s Meeting.
-(1674.)
+[.blurb]
+=== An Epistle From the Women Friends in London, to the Women Friends in the Country, Also Elsewhere, About the Service of a Women`'s Meeting. (1674.)
 
 Dear Friends and Sisters in the eternal relation of one God and Father,
 we with one heart greet you;
@@ -2080,13 +2202,17 @@ in all our services, to his glory and dominion,
 whose right it alone is to reign in righteousness forever.
 Farewell.
 
+[.signed-section-signature]
 From our Quarterly Meeting.
 
-+++[+++Signed by very many women Friends, among whom are, Ann Travers, Ruth Crouch,
+[.offset]
++++[+++_Signed by very many women Friends, among whom are,_ Ann Travers, Ruth Crouch,
 Ann Whitehead, Patience Camfield, etc.]
 
+[.signed-section-context-close]
 London, the 4th of 11th month, 1674.
 
+[.centered]
 === No. CXXII.
 
 +++[+++The following document, copied from (probably) a circular in Ellis Hookes`' handwriting,
@@ -2095,257 +2221,207 @@ it gives the names of the London and Country correspondents,
 with the regulations agreed upon for the constitution and regulation of the said meeting.
 This document does not appear recorded in the minutes of the Meeting for Sufferings.]
 
-==== The names of the persons appointed to meet upon the account of Friends`' sufferings, also the names of the persons in the country, to whom they are to send, upon any occasion about sufferings.
+[.blurb]
+=== The names of the persons appointed to meet upon the account of Friends`' sufferings, also the names of the persons in the country, to whom they are to send, upon any occasion about sufferings.
 
-Bedfordshire and Northampton.
+[.offset]
+==== Bedfordshire and Northampton:
 
-In Town: John Staples, Frances Camfield
+* _In Town:_ John Staples, Frances Camfield
 
-In Country: Edward Chester, of Dunstable, for Bedford.
-Daniel Wills, physician in Northampton.
+* _In Country:_ Edward Chester, of Dunstable, for Bedford. Daniel Wills, physician in Northampton.
 
-Berkshire and Bucks.
+==== Berkshire and Bucks:
 
-In Town: John Osgood.
-Thomas Zachary.
+* _In Town:_ John Osgood. Thomas Zachary.
 
-In Country: Benjamin Cole, in Reading.
-Thomas Ellwood.
+* _In Country:_ Benjamin Cole, in Reading. Thomas Ellwood.
 
-Cornwall and Devonshire.
+==== Cornwall and Devonshire:
 
-In Town: Thomas Taunton.
-Gilbert Latie.
-Edward Brookes.
+* _In Town:_ Thomas Taunton. Gilbert Latie. Edward Brookes.
 
-In Country: Lawrence Growden, at St. Austle, so called.
-Arthur Cotton, merchant, in Plymouth.
+* _In Country:_ Lawrence Growden, at St. Austle, so called. Arthur Cotton, merchant, in Plymouth.
 
-Hampshire and Surrey.
+==== Hampshire and Surrey:
 
-In Town: Ellis Hookes.
-William Mackett.
+* _In Town:_ Ellis Hookes. William Mackett.
 
-In Country: George Embree, at Southampton.
-John Cooper, at Guildford.
+* _In Country:_ George Embree, at Southampton. John Cooper, at Guildford.
 
-Sussex and Kent.
+==== Sussex and Kent:
 
-In Town: William Welch.
-James Braines.
-Walter Miers.
+* _In Town:_ William Welch. James Braines. Walter Miers.
 
-In Country: Luke Howard, shoemaker, in Dover.
+* _In Country:_ Luke Howard, shoemaker, in Dover.
 
-Essex and Suffolk.
+==== Essex and Suffolk:
 
-In Town: Richard Whityand.
-Thomas Yoakley.
-Francis Moore.
+* _In Town:_ Richard Whityand. Thomas Yoakley. Francis Moore.
 
-In Country: Soln.
-Formantell, in Colchester.
-Robert Duncan, tanner, near Mendlesham.
+* _In Country:_ Soln. Formantell, in Colchester. Robert Duncan, tanner, near Mendlesham.
 
-Norfolk and Cambridge.
+==== Norfolk and Cambridge:
 
-In Town: Thomas Cox.
-Clem.
-Plumstead.
+* _In Town:_ Thomas Cox. Clem. Plumstead.
 
-In Country: Samuel Duncon, hosier, in Norwich.
-William Brasier, shoemaker, in Cambridge.
+* _In Country:_ Samuel Duncon, hosier, in Norwich. William Brasier, shoemaker, in Cambridge.
 
-Ely and Lincolnshire
+==== Ely and Lincolnshire:
 
-In Town: George Watts.
-William Parker.
-Thomas Hart.
-Ralph Rudyard.
+* _In Town:_ George Watts. William Parker. Thomas Hart. Ralph Rudyard.
 
-In Country: Samuel Cater.
-William Garland, at Gainsborough.
-Yorkshire.
-John Hall, near Mongsgate, in York.
+* _In Country:_ Samuel Cater. William Garland, at Gainsborough. Yorkshire. John Hall, near Mongsgate, in York.
 
-Durham and Northumberland.
+==== Durham and Northumberland:
 
-In Town: Thomas Rudyard.
-William Meade.
+* _In Town:_ Thomas Rudyard. William Meade.
 
-In Country: John Ayrey, soapboiler, in Newcastle, for both these counties.
+* _In Country:_ John Ayrey, soapboiler, in Newcastle, for both these counties.
 
-Cumberland and Westmorland.
+==== Cumberland and Westmorland:
 
-In Town: William Loaithwaite.
-Francis Dow.
+* _In Town:_ William Loaithwaite. Francis Dow.
 
-In Country: James Collinson, at Penwrith, shopkeeper.
-Bryan Lancaster, at Kendal, tanner.
+* _In Country:_ James Collinson, at Penwrith, shopkeeper. Bryan Lancaster, at Kendal, tanner.
 
-Lancashire and Cheshire.
+==== Lancashire and Cheshire:
 
-In Town: John West.
-Thomas Matthews.
+* _In Town:_ John West. Thomas Matthews.
 
-In Country: Thomas Green, shopkeeper in Lancaster.
-Edward Morgan, shoemaker, in Chester.
+* _In Country:_ Thomas Green, shopkeeper in Lancaster. Edward Morgan, shoemaker, in Chester.
 
-Staffordshire and Derbyshire.
+==== Staffordshire and Derbyshire:
 
-In Town: James Claypoole.
-Thomas Rudyard.
+* _In Town:_ James Claypoole. Thomas Rudyard.
 
-In Country: William Fallowfield, at Leek.
-William Storrs, at Chesterfield, shopkeeper.
+* _In Country:_ William Fallowfield, at Leek. William Storrs, at Chesterfield, shopkeeper.
 
-Leicestershire, Nottingham, Rutland.
+==== Leicestershire, Nottingham, Rutland:
 
-In Town: John Elson.
-Arthur Cooke.
-Richard Mew.
-Thomas Robertson.
+* _In Town:_ John Elson. Arthur Cooke. Richard Mew. Thomas Robertson.
 
-In Country: Samuel Wilson, baker, in Leicester.
-John Reekless, shopkeeper, in Nottingham.
+* _In Country:_ Samuel Wilson, baker, in Leicester. John Reekless, shopkeeper, in Nottingham.
 
-Worcester and Gloucestershire.
+==== Worcester and Gloucestershire:
 
-In Town: Gerrard Roberts.
-Ezekiel Wooley.
+* _In Town:_ Gerrard Roberts. Ezekiel Wooley.
 
-In Country: Edward Bourne, physician, in Worcester.
+* _In Country:_ Edward Bourne, physician, in Worcester.
 
-Herefordshire and Shropshire.
+==== Herefordshire and Shropshire:
 
-In Town: Phillip Ford.
-John Dew.
+* _In Town:_ Phillip Ford. John Dew.
 
-In Country: James Merrick, at Ross.
-Constantin Overton, at Shrewsbury.
+* _In Country:_ James Merrick, at Ross. Constantin Overton, at Shrewsbury.
 
-Warwick and Oxfordshire.
+==== Warwick and Oxfordshire:
 
-In Town: Francis Bellers.
-William Crouch.
-Hugh Lamb.
+* _In Town:_ Francis Bellers. William Crouch. Hugh Lamb.
 
-In Country: John Murdock, baker, in Coventry.
-Silas Norton, maulster, in Oxford.
+* _In Country:_ John Murdock, baker, in Coventry. Silas Norton, maulster, in Oxford.
 
-Hunts and Hertfordshire.
+==== Hunts and Hertfordshire:
 
-In Town: Job Bolton.
-William Ingram.
+* _In Town:_ Job Bolton. William Ingram.
 
-In Country: Richard Jobson, fellmonger, in Huntington.
-Henry Stout, maulster, in Hartford.
+* _In Country:_ Richard Jobson, fellmonger, in Huntington. Henry Stout, maulster, in Hartford.
 
-Wiltshire.
+==== Wiltshire:
 
-In Town: Arthur Cooke.
-Ellis Hookes.
+* _In Town:_ Arthur Cooke. Ellis Hookes.
 
-In Country: Thomas Neat, at Chipenham.
+* _In Country:_ Thomas Neat, at Chipenham.
 
-London and Middlesex.
+==== London and Middlesex:
 
-In Town: Thomas Cooper.
-William Meade.
-Joseph Scott.
-John Kimble.
+* _In Town:_ Thomas Cooper. William Meade. Joseph Scott. John Kimble.
 
-In Country:
+* _In Country:_
 
-Bristol.
+==== Bristol:
 
-In Town: James Claypoole.
-Ezekiel Wooley.
+* _In Town:_ James Claypoole. Ezekiel Wooley.
 
-In Country: Thomas Gouldney, grocer in Bristol.
+* _In Country:_ Thomas Gouldney, grocer in Bristol.
 
-North Wales.
+==== North Wales:
 
-In Town: William Goswell.
-Edward Man.
-Potter Evans.
+* _In Town:_ William Goswell. Edward Man. Potter Evans.
 
-In Country: Richard Davis, hatmaker in Welchpoole.
+* _In Country:_ Richard Davis, hatmaker in Welchpoole.
 
-South Wales.
+==== South Wales:
 
-In Town: Benjamin Antrobus.
-William Poacher.
+* _In Town:_ Benjamin Antrobus. William Poacher.
 
-In Country:
+* _In Country:_
 
-Ireland.
+==== Ireland:
 
-In Town: Samuel Newton.
-James Claypoole.
-William Penn.
+* _In Town:_ Samuel Newton. James Claypoole. William Penn.
 
-In Country: Samuel Clarredge, merchant, in Dublin.
+* _In Country:_ Samuel Clarredge, merchant, in Dublin.
 
-Scotland.
+==== Scotland:
 
-In Town: William Welch.
-John Swinton.
-Gawen Lawrey.
+* _In Town:_ William Welch. John Swinton. Gawen Lawrey.
 
-In Country:
+* _In Country:_
 
-Barbados.
+==== Barbados:
 
-In Town: Thomas Hart.
-Gerrard Roberts.
+* _In Town:_ Thomas Hart. Gerrard Roberts.
 
-In Country:
+* _In Country:_
 
-New England, New York.
+==== New England, New York:
 
-In Town: William Meade.
-Joseph Scott.
+* _In Town:_ William Meade. Joseph Scott.
 
-In Country:
+* _In Country:_
 
-Virginia and Maryland.
+==== Virginia and Maryland:
 
-In Town: Samuel Groom.
-Francis Camfield.
-James Braines.
+* _In Town:_ Samuel Groom. Francis Camfield. James Braines.
 
-In Country:
+* _In Country:_
 
-Nevis and the Leeward Islands.
+==== Nevis and the Leeward Islands:
 
-In Town: John Goodwin.
-Hugh Hartshorn.
+* _In Town:_ John Goodwin. Hugh Hartshorn.
 
-In Country:
+* _In Country:_
 
-Jamaica.
+==== Jamaica:
 
-In Town: Edward Brush.
-William Crouch.
+* _In Town:_ Edward Brush. William Crouch.
 
-In Country:
+* _In Country:_
 
-Holland.
+==== Holland:
 
-In Town: William Crouch.
-William Welch.
+* _In Town:_ William Crouch. William Welch.
 
-In Country:
+* _In Country:_
+
+[.small-break]
+'''
 
 At a meeting of aforesaid Friends and others, assembled upon the account of Sufferings,
 held at James Claypole`'s, the 12th day of the 4th month, 1676:
 
+[.offset]
 Agreed as follows:
 
+[.numbered-group]
+====
+
+[.numbered]
 1.--That the whole Friends appointed for the Meeting of Sufferings,
 do all meet the fifth-day next preceding every term.
 
+[.numbered]
 2.--That one-fourth part of the Friends of this meeting,
 be nominated and appointed to meet weekly, every fifth-day,
 at or before the eleventh hour in the forenoon, as a weekly Meeting for Sufferings;
@@ -2359,27 +2435,41 @@ and so for every fifth-day next preceding each term,
 a new choice and appointment of other Friends,
 to attend the service of Sufferings as aforesaid.
 
-==== The names of the Friends appointed for the present immediate service, to continue till the General Meeting for Sufferings, appointed to meet the fifth-day next before next term.
+[.blurb]
+=== The names of the Friends appointed for the present immediate service, to continue till the General Meeting for Sufferings, appointed to meet the fifth-day next before next term.
 
-Westminster: Gilbert Latey, Francis Dow.
+[.offset]
+_Westminster:_
+Gilbert Latey, Francis Dow.
 
-Wheeler Street: Francis Moore.
+[.offset]
+_Wheeler Street:_
+Francis Moore.
 Francis Beller.
 
-Ratcliffe: Arthur Cooke.
+[.offset]
+_Ratcliffe:_ Arthur Cooke.
 James Braines.
 
-Southwark: William Shewen.
+[.offset]
+_Southwark:_ William Shewen.
 Henry Snook.
 
-Peele: William Parker.
+[.offset]
+_Peele:_ William Parker.
 John Elson.
 
-London: John Osgood.
+[.offset]
+_London:_ John Osgood.
 Thomas Rudyard
 
-Foreign Parts: Thomas Hart and Joseph Scott.
+[.offset]
+_Foreign Parts:_ Thomas Hart and Joseph Scott.
 
+[.small-break]
+'''
+
+[.numbered]
 3.--That if any of the said fourteen Friends now nominated,
 (or others to be hereafter nominated and appointed for this
 service,) by reason of any urgency of occasions or business,
@@ -2387,6 +2477,7 @@ cannot attend at any respective meeting as aforesaid, that then such respective 
 send (if they can) a note to that meeting,
 informing the meeting of their not being able to be there that day.
 
+[.numbered]
 4.--That Ellis Hookes, as well forthwith as from time to time hereafter,
 send down into the several counties of England and Wales,
 unto the Friends there appointed to correspond,
@@ -2396,12 +2487,14 @@ from time to time to correspond;
 that the country Friends may henceforward understand Friends`' care and order therein,
 and direct their letters to the persons here appointed accordingly.
 
+[.numbered]
 5.--That only the present sufferings,
 wherein the Friends in the counties expect some relief or redress,
 be sent to the Friends of London before nominated to assist the Friends in the country;
 and that such sufferings as are collected and intended to be recorded,
 be as formerly sent to Ellis Hookes.
 
+[.numbered]
 6.--That a list or copy of all the Friends here of the Meeting of Sufferings,
 and the names and habitations of all the country correspondents now appointed,
 or to be appointed, be now and from time to time, with the agreements of this meeting,
@@ -2410,6 +2503,7 @@ or at least to one of the two Friends respectively appointed,
 or to be appointed here for each county;
 that so each member thereof may know their respective service.
 
+[.numbered]
 7.--That when any Friends appointed here to correspond with the respective counties,
 receive any letters from their respective counties,
 that they take due care to send them expeditious answers to such questions,
@@ -2420,6 +2514,7 @@ can have relief here or elsewhere, or not;
 so that our country Friends may not lie under a tedious and fruitless expectation,
 without our resolution, in cases of difficulty, distress, and suffering.
 
+[.numbered]
 8.--That a convenient room be allowed and taken,
 for the Friends now and hereafter appointed, to meet weekly in, as aforesaid,
 in such convenient place, as Gerrard Roberts, William Welch,
@@ -2427,6 +2522,7 @@ and John Osgood shall allow and approve of;
 and that until such convenient room can be had and taken,
 that the meeting be held and kept weekly, at Job Bolton`'s in Lumber street.
 
+[.numbered]
 9.--That country Friends be reminded of what formerly was signified unto them,
 where the circumstances of time will admit,
 to lay their sufferings and cases before Friends in their Monthly or Quarterly Meetings,
@@ -2434,22 +2530,30 @@ or two or more faithful Friends of that county;
 to the end their cases and sufferings may be sent up, or recommended,
 with the meeting`'s or particular Friend`'s testimonial and approbation.
 
+[.numbered]
 10.--That if any matter or thing happen in the interval of Monthly or Quarterly Meetings,
 that then they lay the said sufferings before two
 or more faithful Friends of the county as aforesaid,
 appointed by the Monthly or Quarterly Meetings for that purpose;
 and the names of such Friends to be sent up to Friends here.
 
+[.numbered]
 11.--And further, that Friends be careful to draw up their sufferings full and short,
 according to former directions; it being the intention of Friends here, once a month,
 to publish in print half a sheet or a sheet,
 of the most remarkable and grievous sufferings;
 to the end cruelty may not be acted in a corner, and not be known.
 
+====
+
+[.centered]
 === No. CXXIII.
 
 +++[+++The following document has been found in the catalogue of George Fox`'s writings;
 it is inserted under the year 1690:--in several respects it is a remarkable document.]
+
+[.small-break]
+'''
 
 All Friends in all the world,
 that used to write to me of all manner of things and passages,
@@ -2466,6 +2570,8 @@ and they to see that all be carefully read,
 and answered in the Truth and in righteousness, to the glory of God,
 and to the comfort and refreshment of His people.
 
+[.signed-section-signature]
 George Fox.
 
-+++[+++From a copy.]
+[.offset]
++++[+++_From a copy._]

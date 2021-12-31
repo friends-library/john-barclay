@@ -1,9 +1,12 @@
 == Part III. Epistles Of Counsel And Exhortation
 
+[.centered]
 === No. CXXIV.
 
-Richard Farnsworth to Friends.
+[.letter-heading]
+Richard Farnsworth to Friends
 
+[.signed-section-context-open]
 From Balby, December (or 10th month) 2nd, +++[+++12th month]
 1652.
 
@@ -45,12 +48,16 @@ and in the power of his Truth, in faithfulness to Him alone,--that He maybe glor
 to whom all honour and glory and dominion, praise and thanks belong, forever and ever!
 Amen.
 
+[.signed-section-closing]
 Yours in the unity of the Spirit,
 
+[.signed-section-signature]
 Richard Farnsworth.
 
-+++[+++From the original apparently.]
+[.offset]
++++[+++_From the original apparently._]
 
+[.centered]
 === No. CXXV.
 
 +++[+++The following valuable letter is the more interesting,
@@ -59,12 +66,15 @@ as a nursing mother in the church,) within about
 six months after George Fox`'s first visit at Swarthmore;
 when she, her children, and a great part of her servants became convinced.]
 
-Richard Farnsworth to Margaret Fell.
+[.letter-heading]
+Richard Farnsworth to Margaret Fell
 
+[.signed-section-context-open]
 Balby, +++[+++Yorkshire]
 December 12th, +++[+++12th month]
 1652.
 
+[.salutation]
 Dear Sister,
 
 Mind to stand in the counsel of the Lord,
@@ -128,17 +138,23 @@ of God will rule and reign in righteousness in you,
 who is the King of saints: to Him alone be all praise and thanks forevermore!
 Amen.
 
+[.signed-section-signature]
 Richard Farnsworth
 
-+++[+++From, the original apparently.]
+[.offset]
++++[+++_From the original apparently._]
 
+[.centered]
 === No. CXXVI.
 
-Richard Farnsworth to Friends.
+[.letter-heading]
+Richard Farnsworth to Friends
 
+[.signed-section-context-open]
 Warmsworth, 18th of 7th month, +++[+++9th month]
 1657.
 
+[.salutation]
 Dearly beloved in the Lord!
 
 All be watchful and faithful against the enemy and adversary of your souls;
@@ -183,12 +199,16 @@ and to mind the increase of love and preservation of the true unity,
 their peace and joy in the Lord will increase, and they are, and shall forever be,
 blessed.
 
+[.signed-section-signature]
 Richard Farnsworth
 
+[.centered]
 === No. CXXVII.
 
-Alexander Parker to Friends.
+[.letter-heading]
+Alexander Parker to Friends
 
+[.signed-section-context-open]
 Given forth the 14th of 11th month, 1659, +++[+++1st month 1660.]
 
 To all who are lovers of, and believers in, the true light,--grace, mercy,
@@ -394,14 +414,19 @@ Amen.
 
 I rest your dear brother in the Truth, watching for all your good,
 
+[.signed-section-signature]
 Alexander Parker.
 
-+++[+++From the original.]
+[.offset]
++++[+++_From the original._]
 
+[.centered]
 === No. CXXVIII.
 
-Alexander Parker to Friends.
+[.letter-heading]
+Alexander Parker to Friends
 
+[.signed-section-context-open]
 Given forth in the prison at Chester, the 13th of the 8th month +++[+++10th month]
 1660.
 
@@ -522,16 +547,22 @@ who has called and loved you;--who is God over all, blessed forever.
 This is written in the depths of love unto you all, by your dear brother,
 a prisoner for the testimony of Jesus, in the common jail at West Chester.
 
+[.signed-section-signature]
 Alexander Parker.
 
-+++[+++From the original.]
+[.offset]
++++[+++_From the original._]
 
+[.centered]
 === No. CXXIX.
 
-Richard Farnsworth to Friends.
+[.letter-heading]
+Richard Farnsworth to Friends
 
+[.signed-section-context-open]
 Stanley, 11th of October (8th month)
 
+[.salutation]
 Dear Friends,
 
 My endeared love to you all in the Lord Jesus Christ:--my love runs forth toward you,
@@ -591,19 +622,21 @@ and in the everlasting power of his Truth; that you may reign as kings upon the 
 
 I shall see you again, when my Father pleases.
 
+[.signed-section-signature]
 Richard Farnsworth.
 
+[.centered]
 === No. CXXX.
 
-Thomas Salthouse to Friends.
+[.letter-heading]
+Thomas Salthouse to Friends
 
-An affectionate salutation of fervent love,
-and a tender visitation to all the people of God called Quakers,
-at this day oppressed and persecuted for their obedience to the commands of Christ Jesus,
-the King of Righteousness, and Prince of Peace.^
+[.blurb]
+=== An affectionate salutation of fervent love, and a tender visitation to all the people of God called Quakers, at this day oppressed and persecuted for their obedience to the commands of Christ Jesus, the King of Righteousness, and Prince of Peace.^
 footnote:[This and the next epistle from John Whitehead were addressed to Friends,
 at about the commencement of their very severe persecutions in Charles II`'s reign.]
 
+[.signed-section-context-open]
 12th month, 1660, +++[+++2nd month 1661.]
 
 Beloved Brethren and Sisters,
@@ -756,16 +789,22 @@ to whom you are all committed, as unto a faithful Creator,
 by him that is your dear brother and fellow servant in persecutions and tribulations,
 at liberty or in bonds.
 
+[.signed-section-signature]
 Thomas Salthouse.
 
+[.signed-section-context-close]
 Ilchester, 23rd of 12th month, 1660, +++[+++2nd month 1661.]
 
-+++[+++From the original.]
+[.offset]
++++[+++_From the original._]
 
+[.centered]
 === No. CXXXI.
 
-John Whitehead to Friends.
+[.letter-heading]
+John Whitehead to Friends
 
+[.signed-section-context-open]
 Aylesbury Prison, 12th month, 1660.
 +++[+++2nd month 1661.]
 
@@ -895,21 +934,32 @@ that therewith they may love their enemies;--that your witness may arise in them
 and clear the innocency of your own people:--for we have fled unto you for refuge,
 and can use no other weapon to plead our cause but the words of your mouth.
 
+[.signed-section-signature]
 John Whitehead.
 
+[.signed-section-context-close]
 Written in the prison house in Aylesbury, the 2nd of 12th month, 1660.
+
+[.postscript]
+====
 
 This to go among Friends, to be read when they are met together in the fear of God,
 with understanding; and likewise to be sent to the prisons,
 to be read among Friends which suffer for Truth`'s sake.
 Fail not to communicate it one to another.
 
-+++[+++From the original.]
+====
 
+[.offset]
++++[+++_From the original._]
+
+[.centered]
 === No. CXXXII.
 
-William Bennit to Friends.
+[.centered]
+William Bennit to Friends
 
+[.signed-section-context-open]
 Bury Jail, 6th month +++[+++8th month]
 1668.
 
@@ -1122,18 +1172,24 @@ who has you often in his remembrance; and though close shut up in prison,
 yet his love reaches to you all, and remains with you.
 Farewell! dear Friends, farewell!
 
+[.signed-section-signature]
 William Bennit.
 
+[.signed-section-context-close]
 Bury common jail, the 2nd of 6th month, +++[+++8th month]
 1668.
 
+[.centered]
 === No. CXXXIII.
 
-Stephen Crisp to Benjamin Bangs.
+[.letter-heading]
+Stephen Crisp to Benjamin Bangs
 
+[.signed-section-context-open]
 Colchester, 10th of 4th month +++[+++6th month]
 1682.
 
+[.salutation]
 Dear Benjamin Bangs,
 
 My dear love in the Truth salutes you.
@@ -1162,15 +1218,21 @@ and shall be glad to hear from you.
 
 I rest, and remain, your true and real friend and well-wisher,
 
+[.signed-section-signature]
 Stephen Crisp
 
-+++[+++From a copy.]
+[.offset]
++++[+++_From a copy._]
 
+[.centered]
 === No. CXXXIV.
 
 +++[+++The following short essay by William Penn,
 written out and signed by himself on a plain half-sheet of paper, was probably composed,
 like his maxims, as a detached reflection:--the editor has not found it in print.]
+
+[.small-break]
+'''
 
 He is a wise and a good man too, that knows his origin and end;
 and answers it by a life that is adequate and corresponds therewith.
@@ -1179,15 +1241,20 @@ and that will augment his trouble in the day of account,--for he is an accountab
 I pray God his Maker, to awaken him to a just consideration thereof;
 that he may find forgiveness of God his Maker and Judge.
 
+[.signed-section-signature]
 William Penn
 
+[.centered]
 === No. CXXXV.
 
-Isaac Penington to his Children.
+[.letter-heading]
+Isaac Penington to his Children
 
+[.signed-section-context-open]
 For my dear children J. J. and M. P. 10th of 3rd month +++[+++5th month]
 1667.
 
+[.salutation]
 My dear Children,
 
 Two things I especially desire in reference to your learning;--one is,
@@ -1256,9 +1323,14 @@ than my imprisonment, or anything else I suffer, or can suffer from man.
 Your father, who desires your good, and that it may go well with you,
 both here and hereafter.
 
+[.signed-section-signature]
 Isaac Penington
 
+[.signed-section-context-close]
 10th of 3rd month, 1667.
+
+[.postscript]
+====
 
 And remember this one thing, which as a father I admonish you of,
 and charge you to take notice of and observe,
@@ -1348,22 +1420,29 @@ So the Lord bless your watchfulness, care, and endeavours therein;
 that I may hear good of them,
 and be comforted in the mercy and kindness of the Lord towards them.
 
+====
+
+[.centered]
 === No. CXXXVI.
 
-Christian Discipline, or Certain Good and Wholesome Orders,
-for the Well Governing of my Family in a Right Christian Conduct,
-as Becomes the Children of the Light and Truth of the Most High God.
-Divided into Two Parts.
+[.blurb]
+=== Christian Discipline, or Certain Good and Wholesome Orders, for the Well Governing of my Family in a Right Christian Conduct, as Becomes the Children of the Light and Truth of the Most High God. Divided into Two Parts.
 
-By William Penn.
+[.section-author]
+By _William Penn_
 
-"`Now, therefore, fear the Lord, and serve him in sincerity and in truth;
+[.centered]
+__"`Now, therefore, fear the Lord, and serve him in sincerity and in truth;
 and put away the gods which your fathers served beyond the flood and in Egypt,
 and serve the Lord: and if it seem evil unto you to serve the Lord,
-choose you this day whom you will serve; whether the gods which your fathers served,
+choose for yourselves this day whom you will serve; whether the gods which your fathers served,
 (that were beyond the flood) or the gods of the Amorites, in whose land you dwell;
-but as for me and my house, we will serve the Lord.`"--Joshua 24:14-15.
+but as for me and my house, we will serve the Lord.`"--Joshua 24:14-15.__
 
+[.numbered-group]
+====
+
+[.numbered]
 1.--As it becomes us, to whom is made known the only wise, invisible and omnipotent God,
 and that heavenly, spiritual worship,
 which only pleases Him,--always to retain Him in our knowledge with all due fear,
@@ -1376,17 +1455,20 @@ and to receive and enjoy his living mercies and refreshing presence: that,
 being sanctified by Him, we may hallow His name,
 and return the praise which is due to him from men and angels forever.
 
+[.numbered]
 2.--That every day about the eleventh hour, (unless diverted by extraordinary occasions,
 which is also intended and excepted of every time
 herein appointed,) all come together again;
 and everyone in his turn, read either the Scriptures of Truth or some martyrology.
 
+[.numbered]
 3.--That the same practice be observed about the sixth hour in the evening; to the end,
 that we may be stirred up to abhor the actions of evil doers,
 and to embrace and follow the example of patience, zeal,
 holiness and constancy in the righteous,
 who only were and are of the flock and family of God.
 
+[.numbered]
 4.--That those days which are appointed to meet publicly to worship God upon,
 none on any pretence (being in health,
 and not unavoidably engaged to the contrary) neglect going to such meetings;
@@ -1394,6 +1476,7 @@ but that they constantly and timely attend and frequent
 the same as becomes a family fearing the Lord,
 and that is zealous for his living Truth.
 
+[.numbered]
 5.--That there be a watch kept over every mind,
 so as that it may not err from the counsel of God,
 and the weighty government of his holy truth, in whatsoever it is exercised about;
@@ -1401,19 +1484,23 @@ lest darkness and deadness come over it, and the evil one enter,
 to sow all manner of evil seeds, as strife, envy, evil watchings, levity, pride,
 and such like: the latter end of such is worse than their beginning.
 
+[.numbered]
 6.--That everyone keep out of unsavoury words, and that provoke to lightness,
 and which load the righteous witness in themselves and others.
 
+[.numbered]
 7.--That none call each other bad names, nor give themselves to wrath or railing;
 but if anything of distance should happen, let none sleep upon it,
 nor the sun go down upon his or her wrath; but confess to each other,
 and seek peace and pursue it, for it is well pleasing to God.
 
+[.numbered]
 8.--That though everyone may have appointed a particular service,
 yet that all so live in the life of Christ Jesus, who washed his disciples feet,
 as to be ready and willing to assist each other,--for
 that becomes brethren and fellow servants.
 
+[.numbered]
 9.--That all drunkenness, lasciviousness, lying, defrauding, emulations, variance,
 back-biting, tale-bearing, swearing, cursing, taking the name of God or Christ in vain,
 pride, stubbornness, flattery, slothfulness, falseness, eye-service,
@@ -1422,12 +1509,15 @@ for you well know that those who do such things cannot inherit the kingdom of Go
 and I would have you know and be assured that, after due reproof,
 such shall not continue in my family.
 
+[.numbered]
 10.--And as it becomes a Christian master and mistress to require nothing
 from servants that is not according to the righteous Truth of God,
 so they are keeping in their place,
 when they require that you all make it solemn matter of conscience before the Lord,
 to be upright, faithful and diligent towards them;--not slighting them,
 because they are your brethren.
+
+====
 
 As I have so far acquitted my conscience, in expressing what was enjoined me of the Lord,
 to require from my family about those things which
@@ -1437,6 +1527,10 @@ though of lesser nature,
 yet necessary for the civil discipline of my family:--and that now follows,
 as proper to the second division or table of order.
 
+[.numbered-group]
+====
+
+[.numbered]
 1.--That the family rise every morning, from the first of the First month,
 till the first of the Third month, about the sixth hour in the morning;
 and from the first of the Third month, to the first of the Seventh,
@@ -1445,49 +1539,61 @@ and from the first of the Seventh to the first of the Ninth month, about the six
 and from the Ninth to the first of the First month,
 about the seventh hour in the morning.
 
+[.numbered]
 2.--That all come to breakfast about the ninth hour;
 that all come to dinner about the twelfth hour;
 that all come to supper about the seventh hour.
 
+[.numbered]
 3.--That everyone take it in their proper turns to knock or ring up all the rest,
 according to the several appointed times, in their respective seasons,
 whether to religious exercises, or meals, as they shall be ordered.
 
+[.numbered]
 4.--That every servant, after supper,
 come and render to their master and mistress an account
 of what has been done the same day,
 and receive respective instructions for the ensuing day.
 
+[.numbered]
 5.--That everyone in their turn, take care that all gates and doors,
 be locked and bolted, and all fires and candles extinguished before they go to bed;
 and that the men`'s care be in what belongs to the men,
 and the maids`' in what belongs to them.
 
+[.numbered]
 6.--That all retire to bed about the tenth hour at night.
 
+[.numbered]
 7.--And for preventing of all disorderly and troublesome noise in the family,
 it is enjoined upon all, to forbear loud discourses,
 and to go to the persons they have business with,--and
 not to bawl and loudly call after them,
 it being both offensive and unseemly.
 
+[.numbered]
 8.--That none go to any inn or other public house in the town,
 but on business first known, and leave given.
 
+[.numbered]
 9.--That none take the liberty of absenting themselves on any pretence,
 without leave first granted them, provided either master or mistress be at home,
 or such one as by them shall be appointed to oversee the family;
 and that the concerns thereof, or of one another, be not divulged abroad,
 or made matter of public discourse.
 
+[.numbered]
 10.--That when anyone is sent of errands, they make no delay,
 neither enter into unprofitable talk; but dispatch the business they are employed about,
 whether errands or otherwise, according to their respective orders and instructions:
 that all may be done, not with eye-service, but as fearing the Lord,
 and making conscience of discharging their several trusts.
 
+====
+
 And,--"`whatsoever things are true, whatsoever things are honest,
 whatsoever things are pure, whatsoever things are of good report; if there be any virtue,
 and if there be any praise, think on these things;`" and the God of peace be with us.
 
+[.signed-section-signature]
 William Penn.

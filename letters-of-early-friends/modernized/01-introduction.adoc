@@ -197,9 +197,9 @@ Words in the text, printed in __Italics,__--excepting in the case of titles of w
 and of remarkable expressions, etc.,--denote, that they are taken to be phrases,
 probably, then in common use, or peculiar to the times.
 
-Large brackets, thus +++[+++ ],
-are used to denote introductory remarks or quotations by the editor: smaller brackets,
-thus +++[+++ ], occurring in a letter or document, show the addition by him of words,
+Brackets, thus +++[+++ ],
+are used to denote introductory remarks or quotations by the editor. Brackets
+occurring in a letter or document, show the addition by him of words
 in explanation of the text;--if followed by a (?),
 it implies uncertainty as to the correct deciphering of the original manuscript, or,
 as to the word or name added by the editor, or,

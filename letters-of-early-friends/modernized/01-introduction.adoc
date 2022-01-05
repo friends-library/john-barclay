@@ -16,7 +16,7 @@ that they are mostly taken from originals or ancient copies,
 contained in various collections, as well private,
 as those in the possession of the Society in London and in the country.
 The principal collection of manuscripts from which they have been selected,
-is that which is denominated by the editor, the Swarthmore Collection:
+is that which is denominated by the editor, the [.book-title]#Swarthmore Collection:#
 it formerly contained a very large number of original letters of the early Friends,
 mostly addressed to Margaret Fell, before her marriage with George Fox in 1669,
 but some few subsequently, and others to George Fox himself.
@@ -40,18 +40,26 @@ with my other books:
 for it is a fine thing to know the beginning of the spreading of the Gospel,
 after so long a night of apostasy since the Apostles`' days;--that now Christ reigns,
 as he did, in the hearts of his people; glory to the Lord forever!
-Amen.`"--(Will, dated eighth month, 1688.)
+Amen.`"--([.book-title]#Will,# dated eighth month, 1688.)
 
 In the arrangement of this volume, the editor has adopted the following divisions,
 under which it was found that the letters and documents might be suitably classed:--
 
-Part I.--Historical,--or letters which illustrate the history of the Society of Friends,
+[.numbered-group]
+====
+
+[.numbered]
+_Part I._--Historical,--or letters which illustrate the history of the Society of Friends,
 as regards events, services, or sufferings, in London,
 and in the country,--with some few relating to Ireland.
 
-Part II.--Documents illustrative of the early discipline and testimonies of the society.
+[.numbered]
+_Part II._--Documents illustrative of the early discipline and testimonies of the society.
 
-Part III.--Epistles of counsel and exhortation to the churches, etc.
+[.numbered]
+_Part III._--Epistles of counsel and exhortation to the churches, etc.
+
+====
 
 The letters under the first division of the work,
 and more especially those relating to London, the seat of government,
@@ -129,7 +137,7 @@ commence in 1671:--those of the Meeting for Sufferings in 1675,
 1673:--those of the Yearly Meeting commence in 1672:
 and of the Yearly Meeting of Friends in Ireland, in 1671.]
 
-The epistles of counsel, etc. in Part III are not so numerous, perhaps,
+The epistles of counsel, etc. in [.book-title]#Part III# are not so numerous, perhaps,
 as might be desired; for such was the diligence and the zeal of our forefathers,
 that they were not disposed to allow what appeared to them
 to have a service in it for the cause of Truth,
@@ -176,19 +184,22 @@ refuge and glory, as He was theirs;--and there would be no lack to us of any goo
 neither would anything be able to pluck us out of His preserving hand of power,
 or to separate us from His love in Christ Jesus our Lord.
 
+[.signed-section-signature]
 Abram Rawlinson Barclay.
 
+[.signed-section-context-close]
 Leytonstone, near London, Eleventh month, 1840.
 
+[.centered]
 === Explanation of the Text
 
-Words in the text, printed in Italics,--excepting in the case of titles of works,
+Words in the text, printed in __Italics,__--excepting in the case of titles of works,
 and of remarkable expressions, etc.,--denote, that they are taken to be phrases,
 probably, then in common use, or peculiar to the times.
 
-Large brackets, thus +++[+++ ],
-are used to denote introductory remarks or quotations by the editor: smaller brackets,
-thus +++[+++ ], occurring in a letter or document, show the addition by him of words,
+Brackets, thus +++[+++ ],
+are used to denote introductory remarks or quotations by the editor. Brackets
+occurring in a letter or document, show the addition by him of words
 in explanation of the text;--if followed by a (?),
 it implies uncertainty as to the correct deciphering of the original manuscript, or,
 as to the word or name added by the editor, or,

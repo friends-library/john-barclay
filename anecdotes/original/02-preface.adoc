@@ -28,4 +28,5 @@ have been occasionally taken with the text of the authors.
 The compiler may also add, that for some observations he has ventured to intersperse,
 he of course considers himself alone responsible.
 
+[.signed-section-context-close]
 London, 9th of Fifth month.

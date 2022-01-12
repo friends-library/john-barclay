@@ -1,16 +1,20 @@
 == Chapter IV
 
+[.centered]
 === Extracts From James Gough`'s Life, on the State of our Society
 
-"`God has said, I will dwell in them, and walk in them; and I will be their God,
+[.embedded-content-document]
+--
+
+[.centered]
+_"`God has said, I will dwell in them, and walk in them; and I will be their God,
 and they shall be my people.
-Therefore come out from among them, and be separate, says the Lord,
+_Therefore come out from among them, and be separate, says the Lord,_
 and touch not the unclean thing; and I will receive you and will be a Father unto you,
-and you shall be my sons and daughters, says the Lord Almighty.`"
-2 Cor. 6:16, etc.
+and you shall be my sons and daughters, says the Lord Almighty.`" 2 Cor. 6:16, etc._
 
 By this call were our honorable predecessors in the beginning
-separated from the spirit and ways of the world,
+_separated_ from the spirit and ways of the world,
 and incited to refuse touching the unclean thing,
 or whatever sprang from an impure source,
 what persecution soever that refusal might cost them;
@@ -33,7 +37,7 @@ labors with the divine blessing upon them) well fenced and clean,
 (having gathered out the stones thereof,) and abounding
 with the excellent fruits of the holy Spirit of Christ.
 
-At my first going +++[+++to Ireland about the year 1737,]
+At my first going to Ireland about the year 1737,
 there were yet living in most parts of the nation, where meetings were settled,
 some of the good old stock, both ministers and elders, who loved God and mankind,
 and were esteemed and beloved, being kind and open-hearted,
@@ -53,7 +57,7 @@ succeeded them in the right line, to fill up their vacant places with propriety.
 
 Of their survivors, on the one hand,
 a considerable number retained the ancient plainness of language and habit,
-and rigidly censorious of any deviation therefrom, valued themselves upon this,
+and rigidly censorious of any deviation therefrom, valued themselves upon _this,_
 as if it were the only test and badge of discipleship;
 while their hearts were gone after their covetousness,
 in eagerly pursuing and sordidly hoarding temporal wealth.
@@ -106,7 +110,13 @@ except they timely apply to the great and good Physician,
 who is both able and willing to restore life, health, soundness and vigour,
 to raise up "`judges as at the first and counsellors as at the beginning.`"
 
+--
+
+[.centered]
 === Narrative of Thomas Chalkley, When a Child
+
+[.embedded-content-document]
+--
 
 I may not forget the dealings of God with me in my very tender years.
 
@@ -152,6 +162,8 @@ and wondered that I, being so young, should speak in such a manner:
 in which I remember I had great peace and good satisfaction;
 and from thenceforth these men let me alone.
 
+--
+
 [.asterism]
 '''
 
@@ -168,9 +180,14 @@ and in thanksgiving that he was then provided for in the wilderness.
 This circumstance made an impression upon the lad`'s mind,
 which was not effaced in old age.
 
+[.centered]
 === The Unchangeable Teacher
 
-From Benjamin Bangs`' Memoirs
+[.section-author]
+From [.book-title]#Benjamin Bangs`' Memoirs#
+
+[.embedded-content-document]
+--
 
 After the conclusion of the Dublin half-year`'s meeting, in the third month, 1683,
 I intended to have returned to England,
@@ -204,17 +221,17 @@ I proceeded to discourse with the men, and said,
 "`The hireling flees because he is a hireling,
 and cares not for the sheep;`" referring them to the text, John 10:11-13;
 and further showing them,
-that it is happy for those who are come to the knowledge of that Teacher,
+that it is happy for those who are come to the knowledge of _that_ Teacher,
 which cannot be removed into a corner.
 God said he would teach his children Himself;
 and the children of the Lord are taught of the Lord.^
 footnote:[See John 6:45, and Isa. 54:13.]
 And they might read in the 1st epistle of John 2:27,
 "`The anointing which you have received of him abides in you,
-and you need not that any man teach you,
-but as the same anointing teaches you of all things,`" etc.
+and you need not that any man _teach_ you,
+_but as_ the same anointing _teaches_ you of all things,`" etc.
 And in Titus 2:11. 12; "`The grace of God,
-that brings salvation has appeared unto all men, teaching us.`"
+that brings salvation has appeared unto all men, _teaching us._`"
 Thus I labored to bring them from their hireling teachers,
 to the teaching of God and Christ in themselves,
 by which they might come to the knowledge of God, and walk in the ways of his salvation;
@@ -223,13 +240,20 @@ footnote:[1 Cor. 12:7.]
 advising them to turn their minds inward, and mind the secret operation of it,
 whereby they would find, through a lively experience,
 that it checks and reproves for bad words and actions; and as they turned to that,
-they would find it would lead them into all truth; with many words to this effect.
+they would find it would _lead them into all truth;_ with many words to this effect.
 They were well pleased with this discourse, declaring at parting,
 that they had never heard things so opened to them in their lives.
 
+--
+
+[.centered]
 === The Seaman`'s Best Anchor
 
-From Thomas Chalkley`'s Journal
+[.section-author]
+From [.book-title]#Thomas Chalkley`'s Journal#
+
+[.embedded-content-document]
+--
 
 After some few months I acquainted my wife and my father, with her father and mother,
 that I thought it my duty to go over and live in America.
@@ -282,11 +306,18 @@ and the sea ran prodigiously high, and broke upon them mightily,
 so that we were forced to leave our cables and anchors,
 and make the best of our way to Deal.
 
+--
+
+[.centered]
 === Reliance on Providence
 
+[.section-author]
 From the Same
 
-After I had finished my concerns in England I embarked in the sloop Dove,
+[.embedded-content-document]
+--
+
+After I had finished my concerns in England I embarked in the sloop _Dove,_
 for Philadelphia, she being consigned to me in this and the former voyage.
 It being often calm and small winds our provisions grew very scanty.
 We were about twelve persons in the vessel, and but one piece of beef left in the barrel;
@@ -320,6 +351,8 @@ Thus I saw it was good to depend upon the Almighty, and rely upon his eternal ar
 which in a particular manner did preserve us safe to our desired port;
 blessed be His great and glorious name through Christ forever!
 
+--
+
 [.asterism]
 '''
 
@@ -328,6 +361,9 @@ with his companion Thomas Ellis, appointed a meeting at Newcastle in Carmarthens
 some Friends accompanying them there.
 Several magistrates of the place came to the meeting, and were very civil.
 Richard Davies says:
+
+[.embedded-content-document]
+--
 
 The weight and service of the meeting lay chiefly upon me:
 for though our friend Thomas Ellis had been reckoned a deacon,
@@ -348,12 +384,18 @@ and said in Welch, when the man threatened as before, "`I will die myself first.
 And there was one in the meeting went to this man, and took the gun away from him,
 and that wicked man came into the meeting and was pretty quiet there;
 the Lord`'s good presence was with us, a good meeting we had,
-and I may say "`They that trust in the Lord, are as Mount Zion, that cannot be moved.`"
+and I may say "`They that trust in the Lord, are as Mount Zion, _that cannot be moved._`"
 And as it was said of old, As the hills were round about Jerusalem,
 so is the Lord round about his people,
 to be a present help to them in every needful time.
 
+--
+
+[.centered]
 === The Colonel of Dragoons
+
+[.embedded-content-document]
+--
 
 During the revolutionary war in America,
 a part of the American army lay near the Gunpowder Falls meetinghouse,
@@ -373,9 +415,16 @@ and continuing to yield to his convictions,
 he afterwards joined in communion with Friends,
 and continued faithful to the principle of Truth professed by them.
 
-Sutcliff`'s Travels.
+[.signed-section-signature]
+_Sutcliff`'s Travels._
 
+--
+
+[.centered]
 === Extract of a Letter From Anthony Benezet to John Pemberton
+
+[.embedded-content-document.letter]
+--
 
 It is amazing what an influence the love of the world, its esteem and friendship,
 and the desire of amassing wealth, living themselves and children in delicacy and show,
@@ -424,7 +473,7 @@ I queried with myself: Are both these children of the same Father,
 equally under his notice?
 Are they enjoined and do they profess, to love each other as they love themselves?
 Why is not at least three quarters of this wealth,
-and three quarters of the wealth of a number of other rich Quakers,
+and three quarters of the wealth of a number of other _rich Quakers,_
 laid out in procuring a place of refuge and comfort, and moderate provision,
 for such weak and aged people?
 that they may, in the decline of life,
@@ -437,6 +486,8 @@ Is it loving our neighbours as ourselves?
 If mankind are indeed brethren, can it be agreeable to the good Father of the family,
 that one should engross so much, and employ it to feed the corruptions of his offspring;
 while others are under such manifest disadvantages for lack of help.
+
+--
 
 The preceding letter cannot properly be accounted an anecdote,
 though the circumstance brought forward in it seems
@@ -457,9 +508,14 @@ restraint,
 and direction of the best of principles,--the will
 of God as made known by the Spirit of His Son.
 
+[.centered]
 === A Peaceful Profitable Old Age
 
-From Thomas Chalkley`'s Journal
+[.section-author]
+From [.book-title]#Thomas Chalkley`'s Journal#
+
+[.embedded-content-document]
+--
 
 In Virginia, near James River, I met with an aged Friend, whose name was William Porter.
 He was ninety-two years of age; and had then a daughter two years old.
@@ -476,8 +532,13 @@ I thank God I feel His divine life every day and every night.`"
 He lived to see his above mentioned daughter married;
 and died aged one hundred and seven years.
 
+--
+
 [.asterism]
 '''
+
+[.embedded-content-document]
+--
 
 William Penn, while in Pennsylvania,
 undertook a journey through the province and territories as a minister of the gospel.
@@ -501,9 +562,16 @@ were so far from lowering him in the estimation of those he was appointed to gov
 that perhaps there never was a governor,
 who stood higher in the opinion of those governed by him, than William Penn.
 
-Sutcliff`'s Travels
+[.signed-section-signature]
+_Sutcliff`'s Travels_
 
+--
+
+[.centered]
 === John Woolman and the Robin
+
+[.embedded-content-document]
+--
 
 A thing remarkable in my childhood was, that once going to a neighbour`'s house,
 I saw on the way a robin sitting on her nest, and as I came near she went off,
@@ -516,7 +584,7 @@ I beheld her lying dead, and thought those young ones for which she was so caref
 must now perish without their mother to nourish them;
 and after some painful considerations on the subject, I climbed up the tree,
 took all the young birds and killed them;
-supposing that better than to leave them to pine away and die miserably;
+supposing _that_ better than to leave them to pine away and die miserably;
 and believed in this case that scripture proverb was fulfilled,
 "`The tender mercies of the wicked are cruel.`"
 I then went on my errand, but, for some hours,
@@ -527,6 +595,8 @@ which incites to exercise goodness towards every living creature;
 and this being singly attended to, people become tenderhearted and sympathizing;
 but being frequently and totally rejected,
 the mind becomes shut up in a contrary disposition.
+
+--
 
 This little circumstance, recorded in the life of John Woolman,
 may be also recorded in the experience of many a youthful reader, who,
@@ -544,12 +614,16 @@ as well as of gentleness in the treatment of the brute creation.
 Often in the pure love of God would he plead with
 those that oppressed either man or beast,
 and by the persuasive eloquence of conduct testified that his spirit
-was united with the Father of spirits and Preserver of all flesh.
+was _united_ with the _Father of spirits_ and _Preserver of all flesh._
 
 [.asterism]
 '''
 
+[.offset]
 Thomas Chalkley, speaking of his childhood, says:
+
+[.embedded-content-document]
+--
 
 I loved music, dancing and playing at cards,
 and was followed with the judgments of God for it in the secret of my soul.
@@ -564,8 +638,8 @@ and particularly of cards;
 and that the time which people pretended to keep holy for Christ`'s sake,
 many of them spend mostly in wickedness, sports and games;
 even some pretending to be religious: and, generally speaking,
-more sin and evil is committed in this time,
-than in the like space of time in all the year besides;
+_more sin and evil is committed in this time,
+than in the like space of time in all the year besides;_
 so that the devil is served instead of honouring Christ.
 From this meeting I went to the house of my relations,
 where the parson of the next parish lodged that night,
@@ -580,7 +654,7 @@ I took it, and sat down and read to myself,
 greatly rejoicing that I was preserved out of the snare.
 Then my uncle called again, and said, "`Come, doctor,
 for I see my cousin is better disposed.`"
-Then he looked upon me, and said he was better disposed also.
+Then he looked upon me, and said _he_ was better disposed also.
 So their sport for that time was spoiled, and mine in that practice forever;
 for I never (as I remember) played with them more, but as soon as I came home,
 offered my new and untouched pack of cards to the fire; and of this I am certain,
@@ -590,8 +664,13 @@ for which reason all Christians ought to shun them as engines of Satan:
 and music and dancing having generally the same tendency,
 ought therefore to be refrained from.
 
+--
+
 [.asterism]
 '''
+
+[.embedded-content-document]
+--
 
 James Wilson was at a meeting in London with Thomas Wilson,
 where was a great concourse of people,
@@ -609,8 +688,12 @@ After Thomas had sat down, he stood up,
 and desired he might be forgiven of Thomas and the Almighty,
 for despising the greatest of His instruments under heaven, or in his creation.
 
-Samuel Neale`'s Journal.
+[.signed-section-signature]
+_Samuel Neale`'s Journal._
 
+--
+
+[.centered]
 === Encouragement Early to Seek the Lord
 
 The early experience of those,
@@ -625,7 +708,7 @@ A few particulars relative to the convincement of Thomas Thompson of Skipsea in 
 have appeared worthy a place in these sheets.
 
 The reader may notice, that in such biographical insertions as the following,
-incident and fact are preferred to mental exercise, conflicts, or spiritual experiences,
+_incident_ and _fact_ are preferred to mental exercise, conflicts, or spiritual experiences,
 agreeable to the design and title of this work.
 Much deep instruction, however, may be gathered from most of them,
 and reflections may often arise on the recurrence of these passages to the mind,
@@ -646,6 +729,9 @@ that he lived to his 73rd year, and as he lived so he died,
 in the full and entire possession of that peace, assurance,
 and joy in the Lord God of his life, which is the portion of His faithful children,
 the followers of Jesus Christ.
+
+[.embedded-content-document]
+--
 
 When I was very young, it pleased the Lord to incline my heart to seek after him;
 and when I was about eight years of age, his word sounded in me,
@@ -703,7 +789,7 @@ seeking rest, but found none to my wearied soul, which still lacked satisfaction
 and hungered for the Bread of life.^
 footnote:[John 6:33.]
 Then I went to some meetings of the people called independents;
-but neither there could I find what my soul lacked, namely, the life of Jesus,
+but neither there could I find what my soul lacked, namely, _the life of Jesus,_
 which I could not then be satisfied without the enjoyment of;
 so being tired out with going from one to another, in a little time I left them,
 and grew retired in my mind, delighting much to be alone,
@@ -725,7 +811,7 @@ he directed people to the light of Christ in their consciences, to guide them to
 At hearing of these things, though at second hand,
 the Lord was pleased mightily to work upon my spirit,
 and brought me to a wonderful retiredness,
-and my mind was truly turned inward to wait on Him and desire his teachings.
+and my mind was truly turned inward to wait on Him and desire _his teachings._
 
 Thus, by degrees, the Lord manifesting one thing after another,
 I became weaned from my former lovers, and by the working and power of God,
@@ -743,7 +829,7 @@ shall in no way lose their reward.
 Now it happened, that, about the 6th or 7th month of the year 1652,
 we heard of a people raised up at or about Malton, that were called Quakers,
 which was the first time that I heard of that name being given to any people.
-They were by most persons spoken against; but when I strictly enquired,
+They were by most persons _spoken against;_ but when I strictly enquired,
 what any had to lay to their charge,
 that might give cause for such aspersions as were thrown upon them,
 I met with none who could justly accuse them of any crime; only they said,
@@ -788,7 +874,10 @@ And though I suffered and went through many great exercises,
 yet the Lord bare up my spirit, and carried me on, while I abode faithful to Him,
 to the praise of his own name.
 
-Thomas Thompson`'s Life.
+[.signed-section-signature]
+_Thomas Thompson`'s Life._
+
+--
 
 [.asterism]
 '''
@@ -848,26 +937,30 @@ Thus, in His way, strength and time,
 they were enabled effectually to put off the body of sin,
 and to become truly renewed in the spirit of their minds, so that from among them,
 the Lord was pleased to bring forth a stock of true witnesses,--able
-ministers of that which dwelt in them richly,
+ministers of that which _dwelt in them richly,_
 and was as "`rivers of living water.`"^
 footnote:[John 7:38.]
 
+[.centered]
 === Awful Realities
 
 Although scarcely anything has been herein inserted that might be said
-to be calculated to stagger the belief of the most rational Christian,
+to be calculated to stagger the belief of the most _rational_ Christian,
 yet the two following very awful and extraordinary anecdotes,
 given by that man of the world, and servant of Christ, Thomas Chalkley,
 with every appearance of the greatest claim to authenticity and credibility,
 shall be subjoined:--and they are admitted with an especial
 view to those in early life among the members of our Society.
-These passages may possibly meet the eye of someone in that class,
+These passages may _possibly_ meet the eye of _someone_ in that class,
 whose habits and views may not be so closely interwoven with those of his fellow-members
-as to make the lesson wholly useless to him in the course of his life.
+as to make the lesson wholly useless to _him_ in the course of his life.
 
 Thomas Chalkley, being on his return from America,
 where he had been engaged as a minister in various parts,
 gives the following passage in the journal of his life.
+
+[.embedded-content-document]
+--
 
 About this time our doctor dreamed a dream, which was to this effect,
 himself relating it to me: He said,
@@ -963,9 +1056,15 @@ it was opened to me, that God and his servants were clear,
 and his blood was on his own head: for he had been faith fully warned of his evil ways.
 This happened about the year 1699.
 
+--
+
+[.offset]
 The other circumstance occurring in Thomas Chalkley`'s journal is thus given.
 
-In this year, +++[+++1722,]
+[.embedded-content-document]
+--
+
+In this year, 1722,
 I was at the burial of our Friend, Jonathan Dickenson,
 at which we had a very large meeting;
 he was a man generally well beloved by his Friends and neighbours.
@@ -995,3 +1094,5 @@ This was the amazing end of these young men: a dreadful example to all atheists,
 and dissolute and wicked livers.
 Oh! that young people might be warned, that the hand of God might be upon them for good,
 and that they would tenderly be concerned for their salvation.
+
+--

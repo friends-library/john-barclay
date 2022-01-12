@@ -1,5 +1,6 @@
 == Chapter II
 
+[.centered]
 === The Friend and the Robber
 
 The courage and presence of mind exhibited by the true soldier of Jesus Christ,
@@ -18,7 +19,7 @@ footnote:[2 Cor. 11.]
 he can say, "`Whether we live or die, we are the Lord`'s.`"^
 footnote:[Rom. 14:8.]
 
-The conduct of some of our Society who have fallen among thieves,
+The conduct of some of our Society who have _fallen among thieves,_
 and who by their religious scruples were of course precluded
 from retaliating violence even in their own defence,
 is an exemplification of this feature in the Christian character.
@@ -33,13 +34,13 @@ on which the robber let the pistol drop, and offered him no further violence.
 It is also told of Leonard Fell, one of Judge Fell`'s sons, that, "`travelling alone,
 he was attacked by a highwayman, who demanded his money, which he gave him;
 then he desired to have his horse, Leonard dismounted and let him take it.
-Then feeling the power of Truth rise in his mind, he turned to the robber,
-and under its authority solemnly warned him of the evil of his ways: but he,
+Then feeling the _power of Truth_ rise in his mind, he turned to the robber,
+and under _its_ authority solemnly warned him of the evil of his ways: but he,
 flying into a passion, asked the Friend why he preached to him,
 and threatened to blow out his brains.
 But Leonard replying to this effect,
 '`Though I would not give my life for my money or my horse,
-I would give it to save your soul,`' so struck the astonished robber, that he declared,
+I would give it to _save your soul,_`' so struck the astonished robber, that he declared,
 if he was such a man as that, he would take neither his money nor his horse from him;
 and returning both to the faithful Friend, went his way,
 leaving Leonard to the enjoyment of that peace attending
@@ -58,6 +59,9 @@ on taking a view of primitive genuine Christianity, and to examine,
 how far they as individuals are contributing by their
 lives and conduct to the growth of that vanity,
 pride, and earthly-mindedness, which are but too prevalent.
+
+[.embedded-content-document.]
+--
 
 At our yearly meeting at Philadelphia, the 25th day of the 9th month, 1764, John Smith,
 of Marlborough, aged upwards of eighty years, a faithful minister, though not eloquent,
@@ -89,6 +93,8 @@ would bring back his people from these things,
 into which they were thus degenerated,
 but that his faithful servants must first go through great and heavy exercises therein.
 
+--
+
 [.asterism]
 '''
 
@@ -96,6 +102,9 @@ Thomas Story, in his travels, coming to the town of Mildorp in Germany,
 tarried there to refresh himself.
 He, with Pieter Leendaars, went into a place of worship that was open,
 belonging to the Lutherans, of which he writes in his journal:
+
+[.embedded-content-document]
+--
 
 We observed several pictures and images (as they say) of Christ in several conditions,
 as on the cross, risen again, etc. and one was of a golden colour all over.
@@ -118,6 +127,9 @@ and obey it, being the saving grace and light of Christ unto all people.`"
 This seemed strange to him, as appeared by his countenance,
 yet I believe it answered his conscience, for he made no reply.
 
+--
+
+[.centered]
 === Account of Some Indians
 
 Among the many instances,
@@ -129,7 +141,7 @@ which they apprehended to be the effect of an inward work,
 whereby the heart became changed from bad to good.
 When they were solicited to join other Indians in the war against the English,
 they absolutely refused, whatever might be the consequence to themselves,
-even if the fighting Indians should make slaves, or as they expressed it, negros,
+even if the fighting Indians should make _slaves,_ or as they expressed it, _negros,_
 of them, rendering this reason for it, that when God made men,
 he did not intend they should hurt or kill one another.^
 footnote:[In this disposition they have continued about thirty years,
@@ -141,11 +153,14 @@ Those Indians who carried them away, giving as a reason for this violence,
 said that they were in their way,
 and a great obstruction to them when going to war.
 {footnote-paragraph-split}
-See the Pennsylvania Packet, for the 12th Mo. 22,1781]
+See the [.book-title]#Pennsylvania Packet,# for the 12th Mo. 22,1781]
 
 Upon being further conversed with, respecting their religious prospects,
 he who had been a principle instrument in raising them to a sense of good,
 gave in substance the following account:
+
+[.embedded-content-document]
+--
 
 That being by a particular providence brought under difficulty and sorrow,
 he was led into a deep consideration of the state of things in the world;
@@ -175,7 +190,7 @@ proceeded from the same evil seed, under which he himself had so long groaned.
 This sense of the corruption of human nature,
 accompanied with a constant application to his Maker,
 to take away the badness and hardness of the heart, and make it soft and good,
-was what he called religion; and what, upon feeling the power of God to his comfort,
+was what he called _religion;_ and what, upon feeling the power of God to his comfort,
 he was concerned to exhort his brethren to seek the experience of in themselves.
 And further said, that under this dispensation,
 he was made sensible the spirit of religion was a spirit of love,
@@ -214,8 +229,12 @@ This has ever been found to be the effect of its operation on all those,
 who by devoting themselves to God,
 are become the truer followers and disciples of Jesus Christ.
 
-Extract from A. Benezet`'s Preface to The Plain Path to Christian Perfection.
+[.signed-section-signature]
+Extract from A. Benezet`'s [.book-title]#Preface to the Plain Path to Christian Perfection.#
 
+--
+
+[.centered]
 === George Whitehead`'s Travels and Hardships
 
 Those of our Society, who in the present day enjoy a tranquil and easy life,
@@ -235,12 +254,12 @@ conduct and conflicts in a general point of view,
 as some others that might have been chosen; yet, to a certain extent,
 and in a particular direction, they have their weight and import;
 and the little abstract first given is especially introduced with an earnest hope,
-that the youthful reader may regard that all-sufficient Power,
+that the _youthful_ reader may regard that all-sufficient Power,
 through which so much was accomplished,--through which also
-they may live acceptably to Him who died for them,
+_they_ may live acceptably to Him who died for them,
 fulfilling the end of their existence in the obedience of faith.
 
-Abstract.--In the year 1654, George Whitehead, then not eighteen years of age,
+_Abstract._--In the year 1654, George Whitehead, then not eighteen years of age,
 travelled on foot in the work of the ministry out
 of Westmorland with Edward Edwards to York,
 about sixty miles, in harvest time.
@@ -256,7 +275,10 @@ He was at Cambridge two or three days, and from there passed on to Wymondham,
 which could not have been under fifty miles by any reckoning,
 and to Norwich the next day.
 
-Extract.--Our being shut out of our meeting houses for several years,
+[.embedded-content-document]
+--
+
+_Extract._--Our being shut out of our meeting houses for several years,
 in and about the cities of London and Westminster,
 and our meetings kept in the streets in all sorts of weather, winter and summer,
 was a trial and hardship upon us, even upon old and young, men and women:
@@ -296,7 +318,13 @@ It was often then before me,
 that the Lamb and his faithful followers should have the victory,
 which was matter of secret comfort to me many times; glory to His name forever.
 
+--
+
+[.centered]
 === Edward Burrough`'s Preaching
+
+[.embedded-content-document.testimony]
+--
 
 He was a man of undaunted courage, though but young,
 the Lord set him above the fear of his enemies,
@@ -305,7 +333,7 @@ For instance, at the Bull and Mouth, when the room, which was very large,
 has been filled with people, many of whom have been in uproars,
 contending one with another, some exclaiming against the Quakers,
 accusing and charging them with heresy, blasphemy, sedition, and what not;
-that they were deceivers and deluded the people; that they denied the holy scriptures,
+that they were _deceivers and deluded the people;_ that they denied the holy scriptures,
 and the resurrection; others endeavouring to vindicate them,
 and speaking of them more favourably:--In the midst of all which noise and contention,
 this servant of the Lord has stood upon a bench with his bible in his hand,
@@ -317,8 +345,12 @@ he deceives the people,`"--and so suitably to the present debate among them,
 that the whole multitude were thereby overcome, and became exceeding calm and attentive,
 and departed peaceably and with seeming satisfaction,
 
-William Grouch`'s Memoirs.
+[.signed-section-signature]
+_William Grouch`'s Memoirs._
 
+--
+
+[.centered]
 === Christian Zeal
 
 James Gough, in the narrative of his own life, relates of John Ashton of Kilconimore,
@@ -333,14 +365,18 @@ In those days Truth was precious to its professors who also possessed it,
 and no difficulties or dangers could prevent them from getting to their religious meetings,
 to enjoy the renewings of divine love and life with their brethren.`"
 
+[.centered]
 === Gospel Simplicity
 
 The last mentioned writer gives a lively illustration
-of the practical effects of that divine anointing,
+of the _practical_ effects of that divine anointing,
 holy energy, or internal principle of action,
 by which our Society has been always more or less characterized.
 It may not be unsuitable to preface its insertion, with a passage from the same journal,
 as follows:
+
+[.embedded-content-document]
+--
 
 Truth has ever led to integrity, punctuality, and upright dealing in our outward affairs,
 and to limit ourselves to few exigencies, and a humble condition in life,
@@ -363,12 +399,18 @@ The first time he began to entertain travelling Friends,
 (most of that meeting being gone to Pennsylvania,) he had but one bed,
 which he left to them, he and his wife taking up their lodging in the stable.
 
+--
+
 Our predecessors in religious profession were remarkably
 noted for their hospitality and disinterestedness,
 and in them it seemed evidently to arise from a rooted sense of religious duty,
 and the powerful constrainings of Christian love.
 
+[.centered]
 === Thomas Chalkley on the Use of the Sword
+
+[.embedded-content-document]
+--
 
 When I was in Barbados, P. M., who accompanied me from Bridgetown to Counsellor Week`'s,
 told me, that when I was in the island before,
@@ -396,7 +438,13 @@ he could not but often remember it.
 And when we parted at Bridgetown, we embraced each other, in open arms of Christian love,
 far from that which would hurt or destroy.
 
+--
+
+[.centered]
 === John Churchman on the Names of the Days of the Week
+
+[.embedded-content-document]
+--
 
 Before my going to Holland,
 I was at the shop of a barber in this city (Norwich,) several times to be shaved:
@@ -449,7 +497,7 @@ in purity of spirit,
 and not to name the days of the week or months after the heathenish idolatrous customs,
 saying for excuse, that they to whom they speak do best understand them,
 and it saves them any further explanation;
-which excuse is far from proceeding from a disposition apt to teach,
+which excuse is far from proceeding from a disposition _apt to teach,_
 and letting the light of Truth shine as it ought.
 "`Neither do men,`" said our blessed Instructor, "`light a candle,
 and put it under a bushel, but on a candlestick,
@@ -476,6 +524,8 @@ talent of Truth given to them to profit withal,
 may one day have their portion appointed with the wicked and slothful servant.^
 footnote:[See Matt. 25:24-25, etc.]
 
+--
+
 [.asterism]
 '''
 
@@ -483,6 +533,9 @@ Thomas Chalkley, travelling in New-England, relates that about the year 1704,
 the Indians were very barbarous in the destruction of the English inhabitants,
 scalping some, and knocking out the brains of others (men,
 women and children,) by which the country was greatly alarmed, both night and day.
+
+[.embedded-content-document]
+--
 
 But +++[+++continues he,]
 the great Lord of all was pleased wonderfully to preserve our Friends,
@@ -615,6 +668,7 @@ O blessing and honour, and everlasting high praise be given to the Lord and his 
 our Saviour and Mediator, Christ Jesus.
 Amen.`"
 
+[.signed-section-signature]
 Mary Doe.
 
 A neighbour of the aforesaid people +++[+++continues Thomas Chalkley,]
@@ -630,6 +684,8 @@ and we had great inward joy in the Holy Spirit in our outward jeopardy and trave
 The people generally rode, and went to their worship armed,
 but Friends went to their meetings without either sword or gun,
 having their trust and confidence in God.
+
+--
 
 [.asterism]
 '''
@@ -666,6 +722,9 @@ who thereby became more favorably disposed towards Friends,
 and willing to attend their meetings,
 he having been before that time much prejudiced against them.
 
+[.embedded-content-document]
+--
+
 After the battle of Dunbar, as I was riding in Scotland at the head of my troop,
 I observed at some distance from the road a crowd of people,
 and one higher than the rest; upon which I sent one of my men to see,
@@ -687,8 +746,12 @@ and the whole work of salvation to be effected in them.
 Ever since I have thought myself obliged to acknowledge on their behalf,
 as I have now done.
 
-James Gough`'s Journal.
+[.signed-section-signature]
+_James Gough`'s Journal._
 
+--
+
+[.centered]
 === A Glimpse at a Quarterly Meeting
 
 At Masham in Yorkshire John Churchman lodged at the house of John Kelden,
@@ -696,38 +759,47 @@ who related to him something that passed between
 a knight of the shire and one of his tenants,
 a member of our religious Society, in manner following:
 
-Landlord.
+[.discourse-part]
+_Landlord._
 So, John, you are busy.
 
-Tenant.
+[.discourse-part]
+_Tenant._
 Yes; my landlord loves to see his tenants busy.
 
-Landlord.
+[.discourse-part]
+_Landlord._
 But, John, where were you,
 that you were not at your quarterly meeting at York the other day?^
 footnote:[The court sessions were held at York always at the time of the quarterly meeting.]
 I saw most of your staunch Friends there, but you I missed.
 
-Tenant.
+[.discourse-part]
+_Tenant._
 Why, you know I have a curious landlord, who loves to see his tenants thrive,
 and pay their rent duly, and I had a good deal in hand that kept me at home.
 
-Landlord.
+[.discourse-part]
+_Landlord._
 Kept you at home?
 you will neither thrive nor pay the better for neglecting your duty, John.
 
-Tenant.
+[.discourse-part]
+_Tenant._
 Then I perceive my landlord was at quarterly meeting.
 How did you like it?
 
-Landlord.
+[.discourse-part]
+_Landlord._
 Like it!
 I was at one meeting, and saw what made my heart ache.
 
-Tenant.
+[.discourse-part]
+_Tenant._
 What was that?
 
-Landlord.
+[.discourse-part]
+_Landlord._
 Why, the dress of your young folks; the men with their wigs,
 and young woman with their finery, in imitation of fashions.
 And I thought I would try another meeting: so next day I went again,
@@ -739,13 +811,21 @@ for you are imitating us in the love and fashions of the world as fast as you ca
 So that I said in my heart, these people do need a Fox, a Penn, and a Barclay among them:
 so he turned from his tenant.
 
+[.small-break]
+'''
+
 "`I thought it would be a pity,`" adds John Churchman,
 "`that the true and solid remark of this great man should be lost,
 understanding that it was rather expressed in pity than derision.`"
 
+[.centered]
 === Some Account of the Pestilential Fever at Philadelphia in 1699
 
-Taken from Thomas Story`'s Life
+[.section-author]
+Taken from [.book-title]#Thomas Story`'s Life#
+
+[.embedded-content-document]
+--
 
 We went after this to Jericho, Jerusalem, and other places, having meetings;
 at Newtown we had a meeting,
@@ -908,3 +988,5 @@ since I have no interest in the world,
 nor anything for the enjoyment whereof I could desire to live;
 but that it may please the Lord and giver of life to spare mine,
 till I may be more fit to appear with my accounts before him.
+
+--

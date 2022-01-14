@@ -1,5 +1,6 @@
 == Chapter VI
 
+[.centered]
 === Admiral Tyrrell
 
 Samuel Fothergill, being at Scarborough,
@@ -57,15 +58,15 @@ or even to any hour of a man`'s life,
 nor can we in any way confine the influence and operations of it, either as to the kind,
 mode, extent or purpose of them.
 Divine grace, mercy, light, truth or power, visiting and redeeming the soul of lost man,
-constitutes, undoubtedly, the main-spring of religion;
-and he who does not resist this in its palpable suggestions,
+constitutes, undoubtedly, the main-spring of _religion;_
+and he who does not resist _this_ in its palpable suggestions,
 but on the contrary thankfully and simply avails of the
 ability it never fails to bring with it--this man,
 according to his capacity or gift of grace,
 begins to know something of the rudiments of religion; and in our apprehension,
-if he follows on to know the Lord, and thus to believe on and abide in Him,
+if he follows on to know the Lord, and _thus to_ believe on and abide in Him,
 will in the end be accepted of Him.
-Without this heavenly breath of life in him, poor man is as dead,
+Without this heavenly breath of life in him, poor man is _as dead,_
 he cannot move one step forward in the way of salvation.
 
 How great then is the free and universal gift of God in his Son,
@@ -74,27 +75,27 @@ footnote:[1 Cor. 15:45.]
 "`The Light of the world,`" the only way to the Father.
 It was through this "`obedience of faith`" to the one great object of faith,
 that all the faithful, from righteous Abel to this day, inherited the promises.
-It was through the revelation of the eternal Spirit inwardly,
+It was through the revelation of the eternal Spirit _inwardly,_
 in their hearts and consciences, that the ancient patriarchs, prophets, and apostles,
 according to their several dispensations of light,
 became acquainted with the path of peace;
 and by the help of the same were they enabled to please God and to worship him.
 Visions and the ministry of angels appear to have each formed
-a channel of divine communication in that day,
+a channel of divine communication in _that_ day,
 as those and many other means have since; but whatever method, direct or indirect,
 the Lord in the riches of his mercy is pleased to
 provide for the service of his creature man,
 it still remains most strictly a truth, that "`no man knows the Son, but the Father;
 neither knows any man the Father save the Son,
-and he to whomsoever the Son will reveal Him.`"^
+and he _to whomsoever the Son will reveal Him._`"^
 footnote:[Matt. 11:27.]
 So that where instrumental aid is vouchsafed,
 the recipient as well as the poor agent are alike beholden to the Author of all good,
-for the immediate extension of his blessing--even for the capacity to understand, apply,
+for the _immediate_ extension of his blessing--even for the capacity to understand, apply,
 and put in practice His essential saving Truth, the same yesterday, today, and forever.
 
 The summary remarks just given,
-on some of the bearings only of this deeply important and very extensive subject,
+on _some_ of the bearings only of this deeply important and very extensive subject,
 it is hoped, may not stumble any sincere enquirer in the way to Zion.
 It did not seem properly the place here to go into
 the connecting links and numerous branchings,
@@ -103,7 +104,7 @@ and perhaps on this account it might be well for the reader,
 not thoroughly acquainted with our tenets,
 to be cautious in making deductions from this brief notice,
 lest he should causelessly attribute error to his fellow-professors of Christianity.^
-footnote:[William Penn`'s Christian Quaker is calculated to convey
+footnote:[William Penn`'s [.book-title]#Christian Quaker# is calculated to convey
 much information and instruction connected with this subject.]
 
 One other observation may be added to the foregoing.
@@ -111,7 +112,7 @@ Many who unite with us in regard to these things, do not so fully see with the a
 that the position of mind best calculated to perceive and receive
 the secret but intuitively evident pointings of divine Wisdom,
 is that of a frequent and positive abstractedness, as much as may be,
-from the things that are seen which are temporal,--a listening stillness
+from "`the things`" that "`are seen`" which "`are temporal,`"--a listening stillness
 of soul,--a turning from the mere wanderings of the unsubjected imagination,
 accompanied by an express surrender of our whole hearts to our Maker,
 with desire that he may make and keep them fit temples
@@ -124,13 +125,17 @@ help being laid upon One that is mighty.
 In the course of their duties among their fellow-mortals,
 these are engaged to weigh well their words, and their actions,
 and even their very thoughts come under regulation;
-their general demeanour is accordingly such as on every hand becomes the gospel of Christ,
+their general demeanour is accordingly such as on _every_ hand becomes the gospel of Christ,
 for they profess to walk with God, and to believe and feel him present,
 a God nigh at hand indeed in the hearts of his dependent children.
 
+[.centered]
 === George Fox and the Papist
 
-While I was in London +++[+++in the year 1668],
+[.embedded-content-document]
+--
+
+While I was in London in the year 1668,
 I went one day to visit him that was called esquire Marsh,
 who had showed much kindness both to me and to Friends.
 I happened to go when he was at dinner.
@@ -142,9 +147,9 @@ The Papist asked me, Whether I owned the christening of children?
 I told him, There was no scripture for any such practice.
 "`What,`" said he, "`not for christening`' children?`"
 I said, "`No;`" and told him,
-The one baptism by the one Spirit into the one body we owned; but,
+the _one baptism_ by the _one Spirit_ into the _one body_ we owned; but,
 to throw a little water in a child`'s face, and say,
-that was baptizing and christening it, there was no scripture for that.
+_that_ was baptizing and christening it, there was no scripture for that.
 
 Then he asked me, Whether I owned the Catholic faith?
 I said, Yes; but added, that neither the Pope nor the Papists were in the Catholic faith;
@@ -167,7 +172,7 @@ but it was the practice of the faithless Jews and heathens so to do.
 
 "`But,`" said I, "`seeing you are a great leading man among the Papists,
 and have been taught and bred up under the Pope; and seeing you say,
-There is no salvation but in your church; I desire to know of you,
+_there is no salvation_ but in your church; I desire to know of you,
 what it is that does bring salvation in your church?`"
 He answered, "`A good life.`"
 "`And nothing else?`"
@@ -189,7 +194,7 @@ So it is not the good works, nor the good life, that brings salvation, but the g
 "`What,`" said a the Papist, "`does this grace, that brings salvation,
 appear to all men?`"
 "`Yes,`" said I. "`Then,`" said he, "`I deny that.`"
-I replied, "`All that deny that are sect-makers, and are not in the universal faith,
+I replied, "`All that deny _that_ are sect-makers, and are not in the universal faith,
 grace and Truth, which the apostles were in.`"
 Then he spoke to me about the mother-church.
 I told him, The several sects in Christendom had accused us, and said,
@@ -201,7 +206,7 @@ alleging theirs was the reformed mother-church.
 The Presbyterians and Independents blamed us for leaving them, each of them pretending,
 theirs was the right reformed church.
 But, I said, if we could own any outward place to be the mother-church,
-we should own Jerusalem,
+we should own _Jerusalem,_
 where the gospel was first preached by Christ himself and the apostles,
 where Christ suffered, where the great conversion to Christianity by Peter was,
 where were the types, figures, and shadows which Christ ended,
@@ -229,19 +234,26 @@ but Jerusalem which is above.
 "`Oh!`" said squire Marsh to the Papist, "`you do not know this man.
 If he would but come to church now and then, he would be a brave man.`"
 
-George Fox`'s Journal.
+[.signed-section-signature]
+_George Fox`'s Journal._
 
-=== Thomas Ellwood`'s Account of his Marriage
+--
+
+[.centered]
+=== Thomas Ellwood`'s Account of His Marriage
+
+[.embedded-content-document]
+--
 
 I had always entertained so high a regard for marriage, as it was a divine institution,
 that I held it not lawful to make it a sort of political trade to rise in the world by.
 And therefore as I could not but in my judgment blame those,
 who made it their business to hunt after,
-and endeavour to gain such as were accounted great fortunes;
-not regarding so much what she is, as what she has, thus making wealth the chief,
+and endeavour to gain such as were accounted _great fortunes;_
+not regarding so much what _she is,_ as what _she has,_ thus making wealth the chief,
 if not the only thing they aimed at:
 so I resolved to avoid in my own practice that course;
-and how much soever my condition might have prompted me, as well as others,
+and however much my condition might have prompted me, as well as others,
 to seek advantage that way, never to engage on the account of riches,
 nor at all to marry, till judicious affection drew me to it;
 which I now began to feel at work in my breast.
@@ -273,14 +285,14 @@ yet was I not hasty in proposing,
 but waited to feel a satisfactory settlement of mind in it before any step was taken.
 
 After some time, I took an opportunity to open my mind to my much honoured friends,
-Isaac and Mary Penington, who then stood paretum loco,
+Isaac and Mary Penington, who then stood _paretum loco,_
 in the place or stead of parents to me.
 They having solemnly weighed the matter, expressed their unity therewith:
 and indeed their approbation was no small confirmation to me.
-Yet took I further deliberation, often retiring in spirit to the Lord,
+Yet I took further deliberation, often retiring in spirit to the Lord,
 and crying to Him for direction, before I addressed myself to her.
 At length as I was sitting all alone,
-waiting upon the Lord for counsel and guidance in this, in itself and to me,
+waiting upon the Lord for counsel and guidance in this, in _itself_ and to _me,_
 so important affair, I felt a word sweetly arise in me, as if I had heard a voice,
 which said, "`Go, and prevail.`"
 And faith springing in my heart with the word,
@@ -310,7 +322,7 @@ to acquaint her with my journey and excuse my absence;
 not yet pressing her for an answer,
 but assuring her that I felt in myself an increase of affection to her,
 and hoped to receive a suitable return from her in the Lord`'s time;
-to whom in the mean while, I committed both her and myself, and the concern between us.
+to whom in the meanwhile, I committed both her and myself, and the concern between us.
 And indeed, I found at my return, that I could not have left it in a better hand;
 for the Lord had been my advocate in my absence,
 and had so far answered all her objections, that when I came to her again,
@@ -329,14 +341,20 @@ We took each other in a select meeting, of the ancient and grave Friends of that
 held in a Friend`'s house; where, in those times,
 not only the monthly meeting for church discipline, but the public meeting for worship,
 was sometimes kept.
-A very solemn meeting it was, and in a weighty frame of spirit we were;
-in which we sensibly felt the Lord with us, and joining us;
+A very solemn meeting it was, and in a weighty frame of spirit _we_ were;
+in which we sensibly felt _the Lord with us, and joining us;_
 the sense whereof remained with us all our lifetime,
 and was of good service and very comfortable to us on all occasions.
 
+--
+
+[.centered]
 === Extract From George Fox`'s Journal
 
-+++[+++About the year 1660]
+[.embedded-content-document]
+--
+
+About the year 1660
 we received account from New England,
 "`That the government there had made a law to banish the Quakers out of their colonies,
 upon pain of death in case they returned; that several of our Friends,
@@ -360,7 +378,7 @@ The secretary being called, a mandamus was forthwith granted.
 A day or two after,
 Edward Burrough going again to the king to desire the matter might be expedited,
 the king said, He had no occasion at present to send a ship there,
-but if we would send one, we might do it as soon as we would.
+but if _we_ would send one, we might do it as soon as we would.
 Edward then asked the king,
 if it would please him to grant his deputation to one called a Quaker,
 to carry the mandamus to New England?
@@ -410,10 +428,17 @@ who is worthy forever to have the praise, the glory, and the honour;
 For He only is able to deliver, to save,
 and support all that sincerely put their trust in Him.
 
+--
+
+[.centered]
 === The Illiterate Preacher
 
+[.offset]
 John Churchman, visiting New England in 1742, had a meeting near Newberry.
 Of this meeting, he says:
+
+[.embedded-content-document]
+--
 
 I was concerned to speak in a brief manner of the beginning
 of the reformation from the errors of the church of Rome,
@@ -450,6 +475,9 @@ though I have been a parish officer,
 I never did take anything from your friends the Quakers, for I am against persecution;
 so God bless you with a good journey.`"
 
+--
+
+[.centered]
 === Visit at Weiwart
 
 The succeeding relation is given by William Penn,
@@ -462,6 +490,9 @@ and assistance of his holy Leader,) to the expansion and spread of the kingdom
 of Christ,--that blessed kingdom which is declared to be "`righteousness,
 peace, and joy in the holy spirit.`"^
 footnote:[Rom. 14:17.]
+
+[.embedded-content-document]
+--
 
 Having refreshed ourselves with food, we took waggon for Wiewart,
 the mansion-house of the family of the Somerdykes, where J. de Labadie`'s^
@@ -489,7 +520,7 @@ and that at last they would come to fall out one with another and moulder away.
 This is in some measure come to pass, as I feared; for I clearly perceived,
 that though they had received some divine touches,
 there was a danger they would run out with them, and spend them like prodigals,
-not knowing then where to stay their minds for daily bread.
+not knowing then where to stay their minds for _daily bread._
 Indeed, though they were something angelical, and like to the celestial bodies,
 yet if they kept not their station, they would prove fallen stars.
 They moved not in the motion of Him that had visited them,
@@ -648,7 +679,7 @@ the bitter usage I underwent when I returned to my father; whipping, beating,
 and turning out of doors in 1662.
 Of the Lord`'s dealings with me in France, and in the time of the great plague in London.
 In fine, the deep sense He gave me of the vanity of this world;
-of the irreligiousness of the religions of it.
+of the _irreligiousness_ of the religions of it.
 Then of my mournful and bitter cries to Him,
 that he would show me his own way of life and salvation,
 and my resolutions to follow him, whatever reproaches or sufferings should attend me,
@@ -672,7 +703,7 @@ Here I had a fine opportunity to speak of the mystery
 of iniquity and ungodliness in the root and ground,
 and to give them an account of the power and presence of God,
 which attended us in our public testimonies and sufferings;
-after an indirect manner censuring their weaknesses,^
+after an indirect manner censuring _their_ weaknesses,^
 footnote:[The work of the Lord among man; serious persons in that day and country,
 appears from William Penn`'s account to have been obstructed by a fear of man,
 a shame of the cross, and a shrinking from persecution;
@@ -691,14 +722,14 @@ Then I began my exhortation unto them, which was as follows.
 That since God had given me and them a divine sense of Himself, our eye should be to Him,
 not to man; that we might come more into a silence of ourselves,
 and a growth into that heavenly sense.
-That this was the work of the true ministry, not to keep people to themselves,
+That this was the work of the true ministry, not to keep people to _themselves,_
 ever teaching them, but to turn them to God, the new covenant Teacher, and to Christ,
 the great gospel Minister.
-Thus John did, and thought it no dishonour that they left him, to go to Christ.
+Thus John did, and thought it no dishonour that they left _him,_ to go to _Christ._
 "`Behold the Lamb of God,`" said he, "`that takes away the sin of the world!`"
 And even John`'s disciples left him to follow Christ.
 Indeed, John testifies of himself,
-that he was to "`decrease`" and Christ was to "`increase.`"
+that he was to _"`decrease`"_ and Christ was to _"`increase.`"_
 Therefore I pressed them to have their eye to Christ that takes away the sin,
 who is from heaven, heavenly; to see that He increase in them.
 Yes, that henceforth they should "`know no man after the flesh;`" no,
@@ -713,13 +744,13 @@ they would count it their glory to give way to Christ, and that they decrease,
 and Christ increase; that the instrument give way to Him that uses it,
 the servant to the Lord.
 This, though it might seem to detract from the ministers,
-yet it is the glory of a true minister, that God and Christ should be all in all,
+yet it is the glory of a true minister, that God and Christ should be _all in all,_
 and that his will should be fulfilled.
 For, I told them, the day of the Lord God was come,
 and all people must look to Him for salvation;
-that all people must now come to keep God`'s great sabbath, to rest from mere man,
+that all people must now come to keep God`'s great sabbath, to rest from _mere man,_
 and the spirit of man, and from all men`'s thoughts, words and works;
-and that if they were true believers, they were at least entering into their rest.^
+and that if they were true believers, they were at least _entering_ into their rest.^
 footnote:[Heb. 4:1. 3.]
 
 I closely recommended to them, that they might not be of those that begin in the Spirit,
@@ -728,7 +759,7 @@ footnote:[Gal. 3:3.]
 "`Therefore,`" said I, "`let Christ have his honour; let Him preach and speak among you,
 and in you, and you in him; and by him only sigh, groan, pray, preach, sing,
 and not otherwise, lest death come over you: for thereby the apostasy came in,
-by their going before Christ, instead of Christ going before them.`"
+by _their_ going before Christ, instead of Christ going before _them._`"
 
 I further directed them to wait in the Light and
 Spirit of judgment which had visited them,
@@ -741,7 +772,7 @@ that offers up a living sacrifice with God`'s heavenly fire,
 that He might have his honour in them all, and through all, by Jesus Christ.^
 footnote:[1 Peter 2:5.]
 And turning myself towards the Somerdykes, with a serious and tender spirit,
-I thus expressed myself: "`That you should be pilgrims in the inheritance of your Father,
+I thus expressed myself: "`That _you_ should be pilgrims in the inheritance of your Father,
 I have a deep and reverent sense of: O that you might dwell with Him forever,
 and exalt him that has so visited you,
 with whom are the rewards of eternal blessedness.`"
@@ -758,8 +789,8 @@ to keep to Christ, that had given them a sense of the spirit of this world,
 and had raised desires in them to be delivered from
 it:--and to know no man after the flesh,
 but to have their fellowship in Christ, union and communion with God,
-and one with another; that all their worship and performances might stand in Him,
-that He might be all in all:
+and one with another; that all their worship and performances might stand in _Him,_
+that _He_ might be _all in all:_
 desiring that the Lord might keep them in his fear all the days of their appointed time,
 that so they might serve Him in their generation, in his own universal Spirit,
 to his glory, who is blessed forever!
@@ -771,9 +802,11 @@ O let my soul trust in the Lord, and confide in him forever!
 O let me dwell and abide with him that is faithful and true, and blessed forevermore!
 
 The two pastors and the doctor came with us a field`'s length, where we took waggon;
-and the chief of them took occasion to ask me, if the Truth rose not first among a poor,
-illiterate, and simple sort of people?
-I told him, yes, that was our comfort,
+and the chief of them took occasion to ask me, if the Truth rose not first among
+a _poor, illiterate,_ and _simple_
+sort
+of people?
+I told him, yes, _that_ was our comfort,
 and that we owed it not to the learning of this world: "`Then,`" said he,
 "`let not the learning of this world be used to defend
 that which the Spirit of God has brought forth;
@@ -786,11 +819,17 @@ it was our care to write and speak according to the divine sense,
 and not human invention.
 So, in a very sober and serious manner, we parted.
 
+--
+
 [.asterism]
 '''
 
-The Select Anecdotes shall be closed with a short extract from a controversial pamphlet,
+[.offset]
+The [.book-title]#Select Anecdotes# shall be closed with a short extract from a controversial pamphlet,
 written by Samuel Fothergill, and bearing the date of 1763.
+
+[.embedded-content-document]
+--
 
 A number of people in the seventeenth century,
 made sensible of the inutility of empty profession,
@@ -811,14 +850,14 @@ having proved their inefficacy by long trial; they therefore turned towards God,
 and earnestly sought Him whom the Father had appointed to give rest to the weary soul.
 The anxious concern of their minds was evident, and sometimes might occasion,
 upon some of them, the literal accomplishment of that most necessary injunction,
-"`Work out your own salvation with fear and trembling.`"^
+"`Work out your own salvation with fear and _trembling._`"^
 footnote:[Phil. 2:12.]
 Hence the name of Quakers was given to them, at first in scorn,
 and by many continued from the same motive.
-The apprehension of imminent danger to the body, has often produced this effect,
+The apprehension of imminent danger to the _body,_ has often produced this effect,
 without reproach to the parties affected;
 and why should it be thought to merit any epithet of contempt,
-to tremble at the sense of danger to that immortal part,
+to tremble at the sense of danger to that _immortal part,_
 which must inevitably abide the decisive sentence
 of "`Come you blessed,`" or "`Go you cursed?`"
 I freely and thus publicly acknowledge,
@@ -838,13 +877,15 @@ Yet as a collective body, no occasion was ever found against them,
 except concerning the law of their God.^
 footnote:[Dan. 6:5.
 {footnote-paragraph-split}
-See the two volumes of Friends`' Sufferings,
-by Besse; G. Fox`'s Journal, Sewel`'s and Gough`'s Histories, etc. etc.]
+See the two volumes of [.book-title]#Friends`' Sufferings,#
+by Besse; [.book-title]#G. Fox`'s Journal,# Sewel`'s and Gough`'s [.book-title]#Histories,# etc. etc.]
 This fervent cry of soul after substance, was graciously regarded by a God hearing prayer.
 He led them in the way to peace, and spoke comfortably to them,
 raised in many thousands the same religious hunger,
 and by the baptism of the holy Spirit united them together, as men of one heart.
-To this we owe our being as a people separate from others.
+_To this we owe our being as a people separate from others._
+
+--
 
 [.the-end]
 The End

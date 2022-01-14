@@ -1,6 +1,10 @@
 == Chapter V
 
+[.centered]
 === Law and Gospel
+
+[.embedded-content-document]
+--
 
 Once a company of Irishmen came to Pall Mall, when George Fox was there,
 but the meeting was already broken up; and he, being gone up into a chamber,
@@ -16,8 +20,12 @@ The colonel then carried himself lovingly; though a certain ambassador who stood
 and then came in, said, that this Irish colonel was such a desperate man,
 that he durst not come in with him, for fear he should have done great mischief.
 
-Sewel`'s History of Friends.
+[.signed-section-signature]
+_Sewel`'s History of Friends._
 
+--
+
+[.centered]
 === The Trumpeter
 
 The grievous sufferings and bitter persecution, which it was the lot of those to undergo,
@@ -58,6 +66,9 @@ or the dispensation they are under.
 The succeeding account is of similar import with the preceding,
 and comes in aid of the above observations.
 
+[.embedded-content-document]
+--
+
 A certain trumpeter, coming into a meeting of Friends,
 began in an insolent manner to sound his trumpet,
 thereby to drown the voice of him that was preaching; but this had a contrary effect,
@@ -72,7 +83,10 @@ whereby, in spite of his evil will, he came to hear what the preacher spoke,
 which was so piercing, that the trumpeter came to be deeply affected with it,
 and bursting into tears, confessed his crime, and came to be a true penitent.
 
+[.signed-section-signature]
 Sewel
+
+--
 
 [.asterism]
 '''
@@ -177,7 +191,7 @@ whether generally or particularly.
 A
 Friend being interrogated by a bishop,
 Why he did not go to church?
-replied, "`I do go to church; and sometimes the church comes to me.`"
+replied, "`I do go to _church;_ and sometimes _the church comes to me._`"
 (See 1 Cor. 16:19. Col. 4:15. and Phil. 2.) Thus the
 use of this term appears to have crept in among Christians,
 and with it a superstitious consecration of those places,
@@ -209,7 +223,7 @@ footnote:[Col. 4:17.]
 
 It is not thought altogether ill suited with the scope of these sheets,
 to close the account of William Caton, with some remarks made by him in his journal,
-on this important subject of the ministry.
+on this _important subject of the ministry._
 Connected as it is with his own experience,
 it may illustrate in a lively way to the understandings of some,
 that state of entire dependance and emptiness,
@@ -217,6 +231,9 @@ into which gospel ministers must be brought,
 before the Lord can be known to give them "`a mouth and
 wisdom,`" and open for them "`a door of utterance.`"^
 footnote:[Luke 21:15. and Col. 4:3.]
+
+[.embedded-content-document]
+--
 
 Many precious and large meetings I had in the county +++[+++says William Caton,
 speaking of Kent,]
@@ -259,12 +276,12 @@ yet even at such a time hath the Lord been pleased to give me his word so plenti
 that through Him I was enabled to speak two, or three,
 yea sometimes four hours to the congregation, with little or no intermission.
 And often it hath been with me,
-that as I knew not before the occasion what I should speak in the meeting,
-neither could I remember after the meeting what I had spoken in it;
+that as I knew not _before_ the occasion what I should speak in the meeting,
+neither could I remember _after_ the meeting what I had spoken in it;
 and yet had plenty and fulness, though I was often daily at meetings, and not only so,
 but in the evenings also:
-and the Lord gave fresh supply always out of that good treasury,
-which affords things both new and old.
+and the Lord gave fresh supply always out of that _good treasury,_
+which affords _things both new and old._
 
 Now these things I rehearse +++[+++continues William Caton--and
 the reader will no doubt believe his assertion,
@@ -279,6 +296,8 @@ all which through Him were made easy to me, neither were they much to me,
 with all the perils and dangers I went through both by sea and land,
 in comparison of the power and presence of the Almighty,
 which did so sweetly and eminently accompany me in those days.
+
+--
 
 [.asterism]
 '''
@@ -352,7 +371,7 @@ so affected the judge, that, tears trickling down his face he sorrowfully said, 
 such a case as this I never met with before: perhaps you, who are but young,
 and speak so piously, as being struck to the heart with repentance,
 might yet do much good in the world; but now you force me,
-that ex officio I must pronounce sentence of death against you,
+that _ex officio_ I must pronounce sentence of death against you,
 since you will admit of no excuse.`"
 Standing to what she had said, the judge pronounced sentence of death.
 And when afterwards she came to the place of execution,
@@ -405,8 +424,8 @@ seeing they were not such as Christ ever ordained, but such as the Prophets, Chr
 and the Apostles expressly declared against, covetous and greedy,
 preaching for filthy lucre, etc.
 He further said, That all Christians had the scriptures,
-but they wanted the power and Spirit, which they had who gave them forth;
-and that was the reason they were not in fellowship with the Son, nor with the Father,
+but they wanted the power and Spirit, which _they_ had who gave them forth;
+and _that_ was the reason they were not in fellowship with the Son, nor with the Father,
 nor with the scriptures, nor one with another.
 Whilst he was thus speaking, Cromwell several times said, it was very good, it was truth.
 
@@ -436,7 +455,11 @@ but all other sects and people I can.`"
 But it was told him in reply, that the Quakers had forsook their own,
 and were not likely to look for such things from him.
 
+[.centered]
 === The Wrestling Champion
+
+[.embedded-content-document]
+--
 
 At London there is a custom in summer time, when the evening approaches,
 and tradesmen leave off working, that many lusty fellows meet in the fields,
@@ -474,7 +497,10 @@ not unjustly called "`a son of thunder;`" though he omitted not in due
 season to speak a word of consolation to those that were of a broken heart,
 and of a contrite spirit.
 
+[.signed-section-signature]
 Sewel
+
+--
 
 [.asterism]
 '''
@@ -518,7 +544,7 @@ might himself be a servant to some of the trade, and work at day labour for his 
 This his trial was very great, for he was now despised of his own mother`'s children,
 and, as it were, banished from his father`'s house;
 yet waiting the Lord`'s season in patience, he was sustained under it,
-and strengthened to prefer leaving all, to losing his peace with his Maker.
+and strengthened to prefer _leaving all,_ to losing his peace with his Maker.
 
 Thus He, who never forsakes those that trust in Him, and are faithful,
 bore up his spirit in cheerful resignation under all his exercises,
@@ -531,6 +557,7 @@ as before mentioned,
 the Lord ordained him a minister of those precious truths and consolations,
 for which he had shewn so great a preference and value.
 
+[.centered]
 === The Lord D`'Aubigny
 
 The same pious and useful character began early to use his interest
@@ -556,14 +583,14 @@ and the grace of God, and the works and operation thereof,
 and the love of God of which you are made witnesses through Jesus Christ,
 which I believe may in a measure be true; but,
 do you not think it is well to have something to represent that which you so much love?`"
-To which Gilbert answered, that the substance of all things is come, "`Christ in us,
+To which Gilbert answered, that the substance of all things is come, "`Christ _in us,_
 the hope of glory;`" and that all the outward types, representations, and shadows,
 must come to an end, and be swallowed up in our blessed Lord, who told his disciples,
 It was expedient for them he should go away; "`for,`" said he, "`If I go not away,
 the Comforter will not come, but if I depart,
 I will send him unto you,`" "`even the Spirit of Truth,
 which shall guide you into all truth;`" and also said, that He who was +++[+++then]
-with them, should be in them.
+_with them,_ should be _in them._
 So that this being witnessed,
 there needed nothing outwardly to represent or put them in mind, He,
 being so near man and woman, was the saints`' daily remembrancer.
@@ -622,7 +649,7 @@ But the malice and threats that were used, even to this class of sufferers,
 did not succeed in subduing their constancy.
 Scarce a stone was left unturned, in their attempts to afflict the Friends,
 and deter them from assembling to worship their Maker.
-These disturbances continued till nearly all the men were taken to prison; there,
+These disturbances continued till nearly all the men were taken to prison; _there,_
 however, their persecutions did not cease,
 but were greatly increased by privations and ill-treatment--they were so closely thronged,
 that there was barely room for them to rest themselves at night on the floors;
@@ -716,6 +743,10 @@ even among the more prominent characters of that day,
 of Christian principle imbuing their conduct and conversation with candour,
 condescension, and charity.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mr. Latey,
 
 I had acknowledged the receipt of your civil letter before now,
@@ -735,13 +766,22 @@ I am now somewhat indisposed: writing is irksome to me.
 God Almighty bless you.
 I am your truly loving friend,
 
+[.signed-section-signature]
 Thomas Exon.
 
-Exeter, March the 24th, 1683-4.
+[.signed-section-context-close]
+Exeter, March the 24th, 1684.
 
+--
+
+[.centered]
 === Popularity
 
+[.offset]
 George Fox, speaking of his travels in America, says:
+
+[.embedded-content-document]
+--
 
 We went to Narraganset, about twenty miles from Rhode Island,
 and the governor +++[+++of Rhode Island]
@@ -759,14 +799,20 @@ If they had money enough, they would hire me to be their minister:
 this was where they did not well understand us, or our principles.
 But when I heard of it, I said, It was time for me to be gone;
 for if their eye was so much to me, or any of us,
-they would not come to their own Teacher.
-For this thing, namely, hiring ministers, had spoiled many,
+they would not come to _their own Teacher._
+For this thing, namely, _hiring_ ministers, had spoiled many,
 by hindering them from improving their own talents;
 whereas our labour is to bring every one to their own Teacher in themselves?^
 footnote:[1 John 2:27.]
 
+--
+
+[.offset]
 To the above may be subjoined an extract or two from an epistle of the same writer,
 as follows:
+
+[.embedded-content-document.epistle]
+--
 
 In the days of the apostles, when some were crying up Paul and Apollos, and so forth,
 Paul judged them as carnal;
@@ -805,7 +851,13 @@ victory, and access to God`'s throne of grace; in which faith they please God.
 By this faith they are saved, obtain the good report,
 and subdue all the mountains betwixt them and God.
 
+--
+
+[.centered]
 === Two Visits at Isaac Penington`'s
+
+[.embedded-content-document]
+--
 
 During my father`'s abode in London +++[+++says Thomas Ellwood,]
 in the time of the civil wars, he contracted a friendship with the Lady Springett,
@@ -927,3 +979,5 @@ I found it was not so with my father and sister; for as I rode after the coach,
 I could hear them talk pleasantly one to the other,
 but they could not discern how it was with me, because I riding on horse-back,
 kept much out of sight.
+
+--

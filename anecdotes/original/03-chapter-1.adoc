@@ -1,5 +1,6 @@
 == Chapter I
 
+[.centered]
 === George Fox and the Jailer
 
 In the year 1650, George Fox was imprisoned at Derby,
@@ -10,6 +11,9 @@ and often endeavouring to draw some unguarded language from him, wherewith to ac
 But George was kept in such innocence and circumspection of conduct,
 that though his words and actions were watched, no fault could be laid to his charge.
 The following is expressed in his own words:
+
+[.embedded-content-document]
+--
 
 It pleased the Lord one day to strike the jailer, so that he was in great trouble,
 and under much terror of mind.
@@ -36,7 +40,10 @@ that the plagues were upon them too for keeping me.
 This was Justice Bennet of Derby, who was the first that called us Quakers,
 because I bade them tremble at the word of the Lord.
 
-George Fox`'s Journal
+[.signed-section-signature]
+_George Fox`'s Journal_
+
+--
 
 It is worthy the notice of the reader,
 that this penitent jailer afterwards joined in society with Friends,
@@ -51,11 +58,14 @@ Thus we see that the judgments and terrors of the Lord plague the hearts of the 
 and that He is not wanting to plead the cause of the upright,
 even in the very consciences of those that persecute and hate them.
 Herein was the ancient proverb fulfilled which declares,
-"`Judgments are prepared for scorners.`"^
+"`_Judgments_ are prepared for _scorners._`"^
 footnote:[Prov. 19:29.]
 
 [.asterism]
 '''
+
+[.embedded-content-document]
+--
 
 William Callow, of the Isle of Man, was detained eight weeks in prison there,
 in the year 1657, for reproving a priest,
@@ -114,7 +124,10 @@ for the next night after their release they caught
 as many fish as they were able to bring to shore,
 so that they had reason gratefully to acknowledge a peculiar providence attending them.
 
-Gough`'s History of Friends
+[.signed-section-signature]
+_Gough`'s History of Friends_
+
+--
 
 [.asterism]
 '''
@@ -124,7 +137,7 @@ with their retinue attended a meeting for worship at Treddhaven in Maryland,
 in the year 1700, to which, being the yearly meeting, William Penn accompanied them;
 but it being late when they came,
 and the strength and glory of the heavenly power of the Lord going off from the meeting,
-the lady was much disappointed, and told William Penn, she did not want to hear him,
+the lady was much disappointed, and told William Penn, she did not want to hear _him,_
 and such as he, for he was a scholar and a wise man,
 and she did not question but he could preach;
 but she wanted to hear some of our mechanics preach, as husbandmen, shoemakers,
@@ -134,16 +147,19 @@ William told her, some of them were rather the best preachers we had amongst us.
 [.asterism]
 '''
 
-The following narrative occurring in John Richardson`'s Journal,
+The following narrative occurring in [.book-title]#John Richardson`'s Journal,#
 whilst it plainly bespeaks such earnest engagement
 of soul as is worthy a true minister of the gospel,
 conveys also towards the conclusion some idea of that precious peace,
 which the prophet Isaiah speaks of as follows: "`Thus saith the Lord, thy Redeemer,
 the Holy One of Israel; I am the Lord thy God which teacheth thee to profit,
-which leadeth thee by the way that thou shouldst go.
-O that thou hadst hearkened to my commandments! then had thy peace been as a river,
+_which leadeth thee by the way that thou shouldst go._
+O that thou hadst hearkened to my commandments! then had thy _peace been as a river,_
 and thy righteousness as the waves of the sea.`"^
 footnote:[Isaiah 48:17. 18.]
+
+[.embedded-content-document]
+--
 
 Having it on my mind to visit a meeting up the river called Perquimus,
 on the west side of the river Choptank, and being +++[+++myself]
@@ -214,9 +230,12 @@ but the Lord hath given us faith and patience to bear and overcome all,
 as we have singly stood in his heavenly counsel,
 and been truly devoted to his will in all things.
 
+--
+
 [.asterism]
 '''
 
+[.centered]
 === Faithfulness Under Persecution
 
 The same gospel labourer, when a youth,
@@ -256,7 +275,11 @@ he could not help it if it must be so, as all he could do would not give him con
 without hurting his conscience and the peace of his mind, which, he said,
 he valued above all mutable things of this world.
 
+[.offset]
 John Richardson proceeds thus in his narrative:
+
+[.embedded-content-document]
+--
 
 Notwithstanding I pleaded with my father to let me stay until I could hear of a place,
 he would not, though I was scarce fit for service, being +++[+++so reduced]
@@ -305,6 +328,8 @@ I believed; and it was a great means to stay my mind, and settle it in the Truth
 with full purpose of heart to follow the Lord,
 and obey his requirings according to the knowledge and ability given me.
 
+--
+
 [.asterism]
 '''
 
@@ -324,6 +349,9 @@ The testimonies of his brethren, prefixed to his journal, are expressive of his 
 an extract from one of which may suffice to shew in what
 esteem such hardy labourers were held by their survivors:
 
+[.embedded-content-document.testimony]
+--
+
 O the wonderful wisdom and love of God, who called him and many others in those days,
 and prepared and qualified them for the great work he had to do,
 and strengthened them to tread the way before us, that were weak and feeble!
@@ -334,11 +362,17 @@ Indeed their memorial is worthy to be recorded,
 that ages yet to come might see what the Lord hath done for his faithful ones,
 who gave up their lives, and all they had, on Truth`'s account.
 
+--
+
+[.offset]
 The epitome which follows is of greater length than could in a general way be desired;
 but being calculated to elucidate many points of our Christian testimony and practice,
 and given forth by one who became a father to many,
 even an apostle and bishop over the flock in that principality,
 it did not seem well to abridge it.
+
+[.embedded-content-document]
+--
 
 About the year 1656, our ministers told us, that there was a sort of people,
 come up in the north, called Quakers,
@@ -386,9 +420,9 @@ that what was reported of them was not true;
 and he saw that he had reached to the witness of God in me.
 Then he exhorted me to take heed to that light which shined in my heart,
 and shewed me my vain thoughts, and reproved me in secret for every idle word and action;
-saying, that was the true light, which lighteth every man that cometh into the world,
+saying, _that_ was the true light, which lighteth every man that cometh into the world,
 John 1:9; and in that light, I should see more light,
-and that would open the scriptures to me,
+and _that_ would open the scriptures to me,
 and I should receive a measure of the same spirit which gave them forth;
 and further he told me, it was the more sure word of prophecy,
 unto which I did well to take heed, as unto a light that shineth in a dark place,
@@ -426,7 +460,7 @@ footnote:[Ch. xxxi.
 31, 32, 33, 34.]
 
 The like precious promises I was made willing to take hold on,
-and waited for the fulfilling of them in myself and
+and _waited for the fulfilling of them in myself_ and
 of that which Christ said to the Jews,
 "`It is written in the prophets, And they shall be all taught of God.
 Every man therefore that hath heard, and hath learned of the Father, cometh unto me.`"^
@@ -466,14 +500,14 @@ I, with many more, was under that mistake the Jews were,
 who thought they might have eternal life in the scriptures; whereas Christ saith,
 "`Search,`" or, "`ye search the scriptures; for in them ye think ye have eternal life:
 and they are they which testify of me.
-And ye will not come to Me, that ye might have life.`"^
+And _ye will not come to Me,_ that ye might have life.`"^
 footnote:[John 39, 40.]
 As He is the life, so He is the way to the Father; "`I am the way, the truth,
 and the life: no man cometh unto the Father but by me.`"^
 footnote:[John 14:6.]
 As for the scriptures, I was a great lover and a great reader of them,
 and took great pleasure in searching them,
-thinking that would make me wise unto salvation; as Paul said to Timothy,
+thinking _that_ would make me wise unto salvation; as Paul said to Timothy,
 "`And that from a child thou hast known the holy scriptures,
 which are able to make thee wise unto salvation,
 through faith which is in Christ Jesus.`"^
@@ -482,7 +516,7 @@ This main thing was wanting in me, the true and saving faith, which is the gift 
 "`For by grace ye are saved, through faith, and that not of yourselves:
 it is the gift of God.`"^
 footnote:[Eph. 2:8.]
-So it is the grace of God that brings salvation,
+So it is the _grace of God_ that brings salvation,
 and not the bare historical knowledge of the scriptures.
 
 Men may have a great literal knowledge of the scriptures, and yet remain in error,
@@ -490,10 +524,10 @@ because they know them not as they ought to do,
 nor the power that was in the holy men that gave forth; as Christ said to the Jews,
 "`Ye do err, not knowing the scriptures, nor the power of God.`"^
 footnote:[Matt. 22:29.]
-That which gives the true knowledge of God,
+_That which gives the true knowledge of God,_
 and a right understanding of the scriptures is therefore the power of God:
 "`For,`" says the apostle, "`God, who commanded the light to shine out of darkness,
-hath shined in our hearts, to give the light of the knowledge of the glory of God,
+hath shined in our hearts, to give the light of the _knowledge_ of the glory of God,
 in the face of Jesus Christ.`"^
 footnote:[2 Cor. 4:6.]
 And as men and women come to mind this light, that is, the Spirit of God, and to obey it,
@@ -530,7 +564,7 @@ customs of the nation, and +++[+++that]
 our language +++[+++was]
 not according to the language of God`'s people, recorded in the scriptures of Truth.
 And withal I knew a little grammar,
-and how it was improper to say vos (you) to one single person, instead of tu (thou).
+and how it was improper to say _vos_ (you) to one single person, instead of _tu_ (thou).
 I also believed that the Lord would return to his people a pure language in these days,
 as was promised in the days of old concerning Israel; then,
 when they returned to the Lord, he would bring them out of their captivity:
@@ -636,7 +670,7 @@ and after I went away, the Lord visited her with a sharp fit of sickness,
 in which time she spoke to her husband and those that were with her,
 that she thought she should not die till she had asked me forgiveness,
 and desired them to send for me if it were at London; and so they did:
-I could freely forgive her, for that I had done long since,
+I could freely forgive her, for _that_ I had done long since,
 and I prayed to my heavenly Father that he might forgive her also.
 I sent to her; and it pleased God to touch her with a sense of his love,
 and lengthened her days,
@@ -692,7 +726,7 @@ it was as a hammer and a fire, it was sharper than any two-edged sword,
 it pierced through our inward parts, it melted and brought us into tears,
 that there was scarcely a dry eye among us:
 the Lord`'s blessed power over-shadowed our meeting, and I could have said,
-that God alone was master of that assembly.
+_that God alone was master of that assembly._
 The next day as I was preparing homewards,
 having had a considerable time with Friends there,
 and being much comforted with the goodness of God, and unfeigned love of the brethren,
@@ -761,7 +795,7 @@ and when he had broke up the meeting, he asked me, by way of discourse,
 "`How I did think we should stand in the face of the whole country?`"
 I answered him with great zeal, "`The serpent, the serpent,
 the same that beguiled the woman in paradise, hath beguiled thee,
-thou wilt not be able to stand;`" And while we were yet discoursing,
+_thou_ wilt not be able to stand;`" And while we were yet discoursing,
 I saw my master coming, two women following him, the one was his wife my cruel mistress,
 the other was his sister; they both had staves in their hands, and when they came to us,
 my mistress began beating William Davies.
@@ -797,12 +831,12 @@ till at last I was forced to bow to the will of the great God, who was too stron
 and reasoning with Him one night upon the bed of my sorrows, he shewed me clearly,
 that I was to go to my own country; and I was made willing to give up to go,
 if He would be pleased to let me know his will and pleasure by this sign and token,
-that he would remove my pain.
+_that he would remove my pain._
 I also reasoned with him thus; that I was alone, like a pelican in the wilderness,
 or a sparrow on a house-top.
-The Lord still commanded me to go, shewing that He would provide an help-meet for me.
-And when I had made a covenant with the Lord to go, immediately my pain was removed,
-and I had peace and quietness of mind and spirit.
+The Lord still _commanded me to go,_ shewing _that He would provide an help-meet for me._
+And when I had made a covenant with the Lord to go, _immediately my pain was removed,_
+and I had _peace and quietness of mind and spirit._
 I arose next morning, and went to my work; and when those tender Friends,
 that had a regard for me in my sickness, came to see me that morning, I was gone to work;
 which was to their admiration.
@@ -863,4 +897,7 @@ footnote:[See Gen. 28:20.]
 And the Lord was with us in all our journey,
 and gave unto us His sweet and comfortable presence.
 
-Richard Davies Journal
+[.signed-section-signature]
+_Richard Davies`' Journal_
+
+--

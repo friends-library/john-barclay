@@ -45,7 +45,7 @@ that it was a paper issued by the General or yearly Meeting,
 held at John Crook`'s house in Bedfordshire in the year 1657, to Friends in the North.]
 
 [.blurb]
-=== The Elders And Brethren send unto the brethren in the North these necessary things following; to which, if you, in the light wait to be kept in obedience, you will do well. Fare you well.
+=== The Elders and Brethren send unto the brethren in the North these necessary things following; to which, if you, in the light wait to be kept in obedience, you will do well. Fare you well.
 
 [.numbered-group]
 ====
@@ -130,7 +130,7 @@ That there may be a record in writing, witnessing of the day, place, and year,
 of such things, kept within that meeting, of which the one or both of them are members;
 under which writing the witnesses present may subscribe their names,
 or so many of them as be convenient; for the stopping of the mouths of gainsayers,
-and for the manifesting the truth to all who are without,
+and for the manifesting the truth to all who are without.
 
 [.numbered]
 8+++.+++ That a record be kept in every meeting of the births
@@ -153,7 +153,7 @@ providing things honest in the sight of God and man.
 10+++.+++ That servants be obedient to them that are their masters in the flesh,
 in things that are good, in singleness of heart as unto Christ; not with eye-service,
 as men-pleasers, but as the servants of Christ; doing the will of God from the heart:
-with good-will doing service, as to the Lord, and not to men;
+with good-will doing service as to the Lord, and not to men;
 knowing whatsoever good thing any man doth, the same shall he receive of the Lord,
 whether he be bond or free.
 And that masters give to their servants that which is just and equal;
@@ -1325,7 +1325,7 @@ For, in the first conversion to Christianity, after Christ was ascended,
 there were seven men of honest report and full of the Holy Ghost, and of wisdom,
 chosen out to be deacons, etc., and to look after the poor, and widows,
 and to see that nothing was wanting; then all was well: and Nicolas,
-a proselyte of Antioch was one; and you may see how he run out into bad things,
+a proselyte of Antioch was one; and you may see how he ran out into bad things,
 and drew a company after him, that were called Nicolaitanes, whom God hated,
 as in Rev. 2:15. And when the Gospel was spread abroad in the world by the apostles,
 and any difference was in the churches,

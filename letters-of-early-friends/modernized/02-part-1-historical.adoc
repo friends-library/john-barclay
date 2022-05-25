@@ -1,7 +1,5 @@
-== Part I.
-
-[.centered]
-=== HISTORICAL, CONCERNING EVENTS, SERVICES, ETC. IN LONDON
+[short="Part I. Historical Letters"]
+== Part I. Historical Letters, Conerning Events, Services, etc. in London
 
 [.centered]
 === No. I.
@@ -124,7 +122,7 @@ proceeds to inform us; "`about this time, two women came out of the North to the
 namely, Isabel Buttery and her companion;
 who became acquainted with Amos Stoddard,--sometime a captain in the Parliament army,
 but who, when convinced of Truth, left his command,--and Simon Dring of Moorfields.
-These woman having an epistle or testimony given forth by George Fox, that is,
+These women having an epistle or testimony given forth by George Fox, that is,
 the first inserted in the volume of his [.book-title]#Doctrinal Books,#
 directed "`To all that would know the Way to the Kingdom,`"
 etc. and this epistle or testimony being printed,
@@ -214,7 +212,7 @@ it was not I that spoke, but the Spirit of God, who was my teacher and my rememb
 And I declared many things to his face, how that he was no minister of God,
 one who was conforming to the world in his fashions +++[+++(?) _word not clear_]
 and customs: another was, that he was a hireling,
-and much more which I have not time to declare now.+++[+++_torn._]
+and much more which I have not time to declare now. +++[+++_torn._]
 came in another manner;--the 19th day, my master came alluring me,
 and crying with tears running from a broken cistern.
 On the 23rd day, he sent me to one, to whom he had spoken to confer with me,
@@ -273,10 +271,10 @@ that Simon Dring was one of those who first offered up their houses "`to have me
 therein for the service of the Lord`" and that he "`then lived in Watling-street;
 but some time after, he removed into Moorfields,
 where he continued to have a meeting in his house.`"]
-But as she came back by Paul`'s, the Mayor caused the marshal so called,
+But as she came back by Paul`'s, the Mayor caused the marshal, so called,
 to bring her before him; and her spirit was carried out valiantly:
 they went together into the vestry, there she--as we were informed--was +++[+++_word not clear_]
-in discourse with him, the Aldermen and Recorder so called.
+in discourse with him, the Aldermen and Recorder, so called.
 So they sent her to the House of Correction called Bridewell,
 and another maid that went with her, which was Robert Dring`'s maid of Moorfields.
 I went to see them, with more of our Friends, the last night;
@@ -440,13 +438,13 @@ footnote:[In a letter from Edward Burrough to Margaret Fell,
 (date of 1654) he thus writes:--
 {footnote-paragraph-split}
 "`We
-were at a meeting of the people called Waiters +++[+++in London]
+were at a meeting of the people called Waiters +++[+++in London+++]+++
 where Richard Hubberthorne spoke about half an hour in much power and wisdom.--Francis
 Howgill was moved to go to an assembly of people called Seekers;
 and they were, as all in this generation practices,
 jangling and contending about the meaning of the Scriptures;
 and he stood silent among them a little,
-and then spoke of the word of the Lord in power with boldness, an hour or more,
+and then spoke the word of the Lord in power with boldness, an hour or more,
 and confounded their wisdom, and crushed their meaning of the Scripture: he said,
 there were some pretty good people among them.`"--([.book-title]#William Caton`'s MSS.
 Collection.#)]
@@ -710,7 +708,7 @@ and some he asked when they would return back.
 As for George his countryman,--let any two go along with him,
 and satisfy the Colonel for the rest.
 Then the marshal did entreat George to take his horse
-and go along with them Then said George,
+and go along with them. Then said George,
 "`if you do command me to go, I shall not resist:`" So they went,
 and I had not freedom to leave George.
 They were then introduced to Colonel Hacker--and the colonel spoke to him of many things.
@@ -1031,7 +1029,7 @@ footnote:[Among whom were William Dewsbury and John Whitehead: See [.book-title]
 7 and 8.]
 they all continue in prison; as far as I know,
 Yorkshire Friends have been lately with them, and have supplied their necessities:
-those in Bedford likewise continue +++[+++in prison?]
+those in Bedford likewise continue +++[+++in prison?].
 And for Friends at Norwich they are all released but Christopher Atkinson,
 John Stubbs and William Caton were with us the last week;
 they are sweetly carried on in the work of the Lord, and are much strengthened;
@@ -1194,7 +1192,7 @@ and acts secretly underneath.
 Our army is most scattered and broken, and cast into prison;
 I know none almost at liberty but George and Alexander Parker, Edward Burrough,
 and I and Gervase Benson; and except John Stubbs and William Caton,
-John Wilkinson and John Story, and it is like they cannot be long out:
+John Wilkinson and John Story, and it is likely they cannot be long out:
 yet truly the power of the Lord is over all.
 The work of the Lord is great, and goes on fast,
 notwithstanding all the rage of the heathen.
@@ -1205,7 +1203,7 @@ besides two great places for a threshing floor;
 and we have set up a meeting a little beyond Whitehall near Westminster:
 many are coming in, and many inquiring,
 and many are convinced daily:--glory and honour forever to the
-Lord!Richard Cleaton and Richard Hubberthorne remain in bonds;
+Lord! Richard Cleaton and Richard Hubberthorne remain in bonds;
 but George Whitehead and Dorothy Waugh are at liberty +++[+++_from Norwich jail
 (?)_]. Miles Halhead and Thomas Salthouse are in prison at Exeter.
 James Lancaster and Thomas Stubbs, and another Friend are imprisoned at Bedford.
@@ -1454,7 +1452,7 @@ has wrote to you and Samuel Watson; your letters he has received,
 but how they can be delivered I know not.^
 footnote:[Perhaps some addresses to Cromwell or others in power are here meant.]
 We have three or four more, but we find no moving to deliver them:
-here is such stirring about his power +++[+++Cromwell`'s:]
+here is such stirring about his power +++[+++Cromwell`'s]:
 he carries all with a high hand; 200 of the parliament are gone home.^
 footnote:[This appears to be a period in Cromwell`'s Protectorate when
 the republican characters of the day were found too stiff for him.
@@ -1465,7 +1463,7 @@ to his authority.
 From Mackintosh`'s [.book-title]#History of England,# vol.
 vi. p. 217, we learn,
 that "`the meeting of Parliament stood for the 17th of September`"
-+++[+++two days before the date of this letter:]
++++[+++two days before the date of this letter:+++]+++
 Cromwell on this occasion "`resorted to an exercise of power so arbitrary and sweeping,
 as to render the summoning of Parliament a mockery.`"
 The members after hearing the Protector`'s speech "`in the Painted Chamber,
@@ -1548,7 +1546,7 @@ where the service of the Lord is great, and the labourers are few.
 And as the travail is great, so is the reward; which is,
 his power and presence to accompany his work.
 At present I am come up again to London;
-but it is like I shall not stay long in the city,
+but it is likely I shall not stay long in the city,
 but pass into the west to Bristol and South Wales, if the Lord will.
 
 James Nayler is here at London; he and the women are kept as prisoners at an inn,
@@ -1559,7 +1557,7 @@ and examined whether he would own that James Nayler was Christ;
 but he kept them out of all occasions against him,
 saying he denied James Nayler to be Christ, but Christ was in him.
 There has been several times some of the Parliament-men
-come to the place where they are kept prisoners,
+have come to the place where they are kept prisoners,
 questioning him about such things as were acted by him and the women,
 in their witnessing him to be so;
 but he sometimes put them off without giving them a full answer,
@@ -2388,7 +2386,7 @@ of the House of Commons.
 {footnote-paragraph-split}
 "`Lord`'s day,
 8th of May, 1659.
-The House met this morning +++[+++eight o`'clock;]
+The House met this morning +++[+++eight o`'clock;+++]+++
 and spent it in praying and hearing the word,
 Dr. Owen praying and preaching before them.`"]
 There is something expected to be done from them.
@@ -2472,7 +2470,7 @@ I leave it to his own declaration by his letters to Kendal.^
 footnote:[See [.book-title]#Sewel# under date 1659; Edward Burrough was accompanied by Samuel Fisher.]
 George Fox is well, as I. R. +++[+++Isabel Rouse (?)]
 can inform you, who went out of this city the last week;
-it is like she may be with you before the receipt of this.
+it is likely she may be with you before the receipt of this.
 My love is to her and to Bridget, Sarah^
 footnote:[Isabel, Bridgett and Sarah, daughters of Margaret Fell.]
 and the rest.
@@ -2647,7 +2645,7 @@ we have been very much abused in our meetings; as in the Palace Yard,
 we were pulled out by the hair of the head, kicked, and knocked down, both men and women,
 in such a manner not here to be expressed.
 Many were the knocks, and blows, and kicks, myself and wife received;
-and this was done by General Monk`'s foot,
+and this was done by General Monk`'s foot soldiers,
 who came into the meeting with sword and pistol, being, as they said,
 bound by an oath to leave never a sectarian in England; saying,
 that they had order from their lord Monk, to pull us out of our meeting;
@@ -2703,7 +2701,7 @@ his speech with these words,
 will be but as a cup of cold water.`"
 
 General Monk has broke down the gates of London,
-which--it is like--was beyond his judgment, to which--it is said--he was, as it were,
+which--it is likely--was beyond his judgment, to which--it is said--he was, as it were,
 betrayed;
 for saying merrily at the council one night,--it is said,--that
 the city would not be conformable till the gates were pulled down,
@@ -3665,6 +3663,7 @@ Keep your meetings in all wisdom and in the fear of the Lord,
 to the edifying of your souls.
 And God Almighty preserve you all.
 
+[.signed-section-closing]
 Your friend known to you in the invisible life of righteousness.
 
 [.signed-section-signature]
@@ -3987,7 +3986,7 @@ to reduce them to a better conformity.
 And therefore we do willingly lay hold of this time and occasion
 of public joy for the first coming in of our dear consort the Queen,
 to our Royal Palace at Westminster, to declare this our Royal pleasure unto you,
-that you cause all such of the said persons int our jails for London and Middlesex,
+that you cause all such of the said persons in our jails for London and Middlesex,
 who have not been indicted for refusing the oath of allegiance,
 nor shall appear to you to have been ringleaders or preachers at their assemblies,
 to be enlarged.
@@ -5113,7 +5112,7 @@ footnote:[Colonel Kirby of Kirby Hall, five miles from Swarthmore;
 he was the magistrate who caused George Fox to be so severely treated in Lancaster Castle.
 In his [.book-title]#Journal# under this date George Fox writes--"`After
 the court sessions at Lancaster were over,
-+++[+++at which George Fox defended his case so skillfully,]
++++[+++at which George Fox defended his case so skillfully,+++]+++
 Colonel Kirby and some other justices were very uneasy with my being at Lancaster,
 (for I had galled them sore at my trials there;) and they laboured
 much to get me removed from there to some remote place.
@@ -5873,7 +5872,7 @@ Great fears have taken hold of the hearts of thousands here,
 and great talk there has been of a bloody massacre intended by the papists,
 which has raised great contests in the Houses of Parliament;
 and this day is a proclamation come forth against them:
-it is like it will not be long before you see the contents of it.
+it is likely it will not be long before you see the contents of it.
 
 Friends here are generally well, and meetings thronging full and very peaceable.
 George Fox is not yet come into the city; last sixth-day at night he lay at Aylesbury,
@@ -5912,7 +5911,7 @@ Dearly Beloved,
 
 All Friends here are well in general, and our meetings very full and peaceable at present.
 As concerning Friends`' proceedings at the Court,
-at present I need not say anything of it, for E. Stubbs, it is like, will inform you.
+at present I need not say anything of it, for E. Stubbs, it is likely, will inform you.
 What may be done, I know not: but the Lord`'s will be done,
 into whose will and living power, I, with many more, am wholly and freely given up,
 and to what He sees good for us; knowing by good experience to our great comfort,
@@ -6526,7 +6525,7 @@ It seems the Council there have been very busy, in endeavouring to make an act,
 in imitation of the act here, against conventicles;
 but they find some opposition against it, so that, it may be, it may come to little.
 There is great pressing of seamen, and beating up for volunteers to send to France;
-so that it is like to be a dismal summer.
+so that it is likely to be a dismal summer.
 Here are two ambassadors from Holland, and very fair offers, as I hear,
 for an accommodation, and from Spain likewise;
 which makes a rumour as if our King would stand neuter,
@@ -7199,7 +7198,7 @@ footnote:[He "`had liberty only to go at large till next Quarter Sessions.`"--[.
 so I need not write much: he is coming for London I hear.
 My dear love is to all your children.
 I hope we shall see you here at the General Meeting.^
-footnote:[Which was held in London, the 16th of 4th month +++[+++6th month]
+footnote:[Which was held in London, the 16th of 4th month +++[+++6th month+++]+++
 1674.]
 
 [.signed-section-closing]
@@ -7257,13 +7256,14 @@ and _in stay,_ in town, to do my utmost.
 The Lord God knows I would come in your place to release you;
 but the Lord`'s will be done.^
 footnote:[From an original letter of William Penn to George Fox,
-(which came to hand while this sheet was in type,) "`dated 20th of 9th month +++[+++11th month]
-1674,`" the following extract is made:--"`--A Lord, a man of noble mind,
+(which came to hand while this sheet was in type,) "`dated 20th of
+9th month +++[+++11th month+++]+++
+1674,`" the following extract is made:--"`A Lord, a man of noble mind,
 did as good as put himself in a loving way to get your liberty.
 He prevailed with the King for a pardon; but that we rejected:
 then he pressed for a more noble release, that better answered Truth; he prevailed,
 and got the King`'s hand to a release: it sticks with the Keeper +++[+++Lord Keeper;
-Sir Heneage Finch, who was sometimes rather stiff with his Royal Master]
+Sir Heneage Finch, who was sometimes rather stiff with his Royal Master+++]+++
 and we have and do use what interest we can.
 The King is angry with him; and promised very largely and lovingly:
 so that if we have been deceived, you see the grounds of it.
@@ -7280,7 +7280,7 @@ for His goodness and mercies, forever, says my soul:--He is our blessed rock,--t
 joy, and length of our days,--the blessed portion of them that believe and obey.
 
 My unchangeable love flows to you, dear George, and in it I salute you, your dear wife,
-and T. L., and M. L., with Friends.
+and Thomas and Mary Lower, with Friends.
 I am,
 
 [.signed-section-closing]
@@ -7388,7 +7388,7 @@ late of Colchester, in the county of Essex,
 since a lodger at William Crouch`'s in Gracechurch-street, London, aged about 64 years,
 died the 28th day of the 6th month called August, 1692, at Wansworth,
 in the county of Surrey, and was buried in Chequer Alley,
-the 31st of 6th month +++[+++8th month] 1692.`"]
+the 31st of 6th month +++[+++8th month+++]+++ 1692.`"]
 
 [.signed-section-context-open]
 London, 3rd of 5th month +++[+++7th month]
@@ -7462,6 +7462,7 @@ since the passing thereof, or since the beginning of this last Session of Parlia
 and send up an exact and plain account thereof,
 in order to present it to the next Parliament.
 
+[.signed-section-closing]
 (Signed) on the behalf of our Meeting for Sufferings,
 
 [.signed-section-signature]
@@ -8203,7 +8204,7 @@ none can pluck us out of the Father`'s hand, who delivers his out of six trouble
 and out of seven.
 Our bread is sure, and our waters never fail; glory to the Lord forever!
 
-I am at Plymouth at present, and the next week it is like I shall go into the country;
+I am at Plymouth at present, and the next week it is likely I shall go into the country;
 John Braythwaite +++[+++?]
 and Alexander^
 footnote:[Alexander Parker; from whom a letter is preserved, addressed to Margaret Fell,
@@ -8855,7 +8856,7 @@ My dear and tender love is to you,
 even that love which the God of my life shed abroad
 in my heart in the dawning of the gospel day,
 which is living and fresh in me at this time; in which I very dearly salute you,
-with dear Margaret Fell and her daughters,
+with dear Margaret Fox and her daughters,
 and all the rest of your family who love and live in the Truth.
 My love in Christ reaches to every individual and
 to all the Friends of Truth there and thereaway.
@@ -9479,7 +9480,7 @@ one Cornet Cook and his wife, the most eminent house in the town,
 they are of the true seed: she was a Baptist, and they cast her out for heresy,
 as they say; a noble woman she is.^
 footnote:[Rutty in his [.book-title]#History of Friends in Ireland# (p. 84-5.) informs us,
-that Edward Cook of this place +++[+++Bandon]
+that Edward Cook of this place +++[+++Bandon+++]+++
 was "`a man of great parts,
 a cornet of horse in Oliver Cromwell`'s own troop,`"--"`he
 embraced the Truth with his whole heart;
@@ -9505,7 +9506,7 @@ and the governor of Cork sent a letter privately
 for me to come there.--I am at this city at present:
 but none I think will meddle, unto whom the commission was sent.
 Major Stoding is turned out of the commission of the peace upon this account;
-and it is like they will do so with Colonel Phayre: but he is noble, and says,
+and it is likely they will do so with Colonel Phayre: but he is noble, and says,
 more is done by the Quakers,
 than all the priests in the country have done a hundred years.
 And now many are moved daily to bear witness against the priests:
